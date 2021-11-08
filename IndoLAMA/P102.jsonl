@@ -1,0 +1,727 @@
+{"uuid": "f3dd98f4-202f-4e92-bd1d-b9fba44970e9", "sub_uri": "Q236554", "obj_uri": "Q207776", "sub_label": "Madame Roland", "obj_label": "Girondin", "predicate_id": "P102"}
+{"uuid": "8419edfd-0b49-485a-ac9b-69b17b736581", "sub_uri": "Q295212", "obj_uri": "Q133968", "sub_label": "Rosen Plevneliev", "obj_label": "GERB", "predicate_id": "P102"}
+{"uuid": "4a959a6c-3db7-4166-8568-a529777ec1f8", "sub_uri": "Q710100", "obj_uri": "Q31113", "sub_label": "Wang Chung-hui", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "8155b1eb-bb47-49be-921c-bf27749b7eaa", "sub_uri": "Q2917373", "obj_uri": "Q39655", "sub_label": "Akram Hasson", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "1bcc5d58-1198-4bb0-a2c7-a8a92c0ed059", "sub_uri": "Q790699", "obj_uri": "Q39655", "sub_label": "Avi Dichter", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "4f068d49-f657-4a78-ac50-a790a7840777", "sub_uri": "Q267335", "obj_uri": "Q239951", "sub_label": "Shulamit Aloni", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "8985180d-2f6a-4869-b8e4-6cc3d5509edb", "sub_uri": "Q123665", "obj_uri": "Q3240730", "sub_label": "Gloria Macapagal-Arroyo", "obj_label": "Lakas\u2013CMD", "predicate_id": "P102"}
+{"uuid": "31555ec4-c62a-4a08-a1c9-9a8a22acb376", "sub_uri": "Q96369448", "obj_uri": "Q904635", "sub_label": "Uriel Buso", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "21320d06-0af9-4ac2-abcc-be02f52b3080", "sub_uri": "Q11097671", "obj_uri": "Q1374268", "sub_label": "Li Ki-tong", "obj_label": "Xingzhonghui", "predicate_id": "P102"}
+{"uuid": "825d6a8f-8eee-413c-a404-e4ed29bc2ec7", "sub_uri": "Q22774355", "obj_uri": "Q31113", "sub_label": "Yang Cheng-wu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d4ede96d-db09-494d-be3e-52bf78e968d5", "sub_uri": "Q2721648", "obj_uri": "Q339706", "sub_label": "Mohammad Bakri", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "db6832a6-1671-4a77-9691-1283eee199be", "sub_uri": "Q1159092", "obj_uri": "Q212101", "sub_label": "Dan J\u00f8rgensen", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "147842c1-fe02-43d7-a016-a7f33dea0048", "sub_uri": "Q6720748", "obj_uri": "Q31113", "sub_label": "Ma Jiyuan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "ed26ff11-d412-4882-8ebd-988914d6105e", "sub_uri": "Q2889981", "obj_uri": "Q187009", "sub_label": "Geulah Cohen", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "cd4e2e22-b36b-4715-bb4d-9efd8167813c", "sub_uri": "Q93181", "obj_uri": "Q39655", "sub_label": "Ehud Olmert", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "f74310ad-58b3-412b-8326-13b15876f6a0", "sub_uri": "Q2776910", "obj_uri": "Q1428864", "sub_label": "Haika Grossman", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "de0c1ee6-a716-4077-acf9-418f8fc8704f", "sub_uri": "Q265006", "obj_uri": "Q187009", "sub_label": "Moshe Kahlon", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "94ee9d4e-da6e-4e4c-94a4-595a3a563d0a", "sub_uri": "Q504135", "obj_uri": "Q179885", "sub_label": "Jacques-Nicolas Billaud-Varenne", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "2e30f4e5-e5ca-4fa9-bed3-a6339c361d42", "sub_uri": "Q57652", "obj_uri": "Q212101", "sub_label": "Helle Thorning-Schmidt", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "246e7745-8922-4335-b231-944beef3455b", "sub_uri": "Q945253", "obj_uri": "Q195956", "sub_label": "Majalli Wahabi", "obj_label": "Hatnua", "predicate_id": "P102"}
+{"uuid": "217c71f8-378d-480f-8134-5e50bde787bd", "sub_uri": "Q57641", "obj_uri": "Q387006", "sub_label": "Viktor Orb\u00e1n", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "46591ba4-730c-4983-ab7f-ca93df94a8be", "sub_uri": "Q483405", "obj_uri": "Q1474268", "sub_label": "Anacharsis Cloots", "obj_label": "H\u00e9bertis", "predicate_id": "P102"}
+{"uuid": "1f392427-58b8-4275-8c8e-c215316613cb", "sub_uri": "Q19796", "obj_uri": "Q950326", "sub_label": "Cai Yuanpei", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "b301a11d-d8ba-48bc-a045-8dbfe0435392", "sub_uri": "Q25245707", "obj_uri": "Q7140531", "sub_label": "Ronald dela Rosa", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "23aa2206-8040-4400-bfdc-117634b2031c", "sub_uri": "Q467172", "obj_uri": "Q904635", "sub_label": "Ovadia Yosef", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "a5f70078-19b1-4f15-b920-34e597ae7b5e", "sub_uri": "Q555669", "obj_uri": "Q387006", "sub_label": "G\u00e1bor Vona", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "12488d72-4360-43f6-8f8a-4dac748aa171", "sub_uri": "Q12814795", "obj_uri": "Q3054830", "sub_label": "P\u00e9ter Juh\u00e1sz (politikus)", "obj_label": "Egy\u00fctt", "predicate_id": "P102"}
+{"uuid": "d213c878-f5c9-4b6d-a828-4b12baa07b55", "sub_uri": "Q104051298", "obj_uri": "Q187009", "sub_label": "Nissim Vaturi", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "650e1100-1704-48e3-8c39-d5dfd312032b", "sub_uri": "Q361323", "obj_uri": "Q187009", "sub_label": "Ron Nachman", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "2367b0b7-f3be-4e3e-8d39-eb80d0177ef1", "sub_uri": "Q5448556", "obj_uri": "Q504564", "sub_label": "Filipe Nyusi", "obj_label": "FRELIMO", "predicate_id": "P102"}
+{"uuid": "ee76218e-a0e9-4e1d-ac8f-c73075725d16", "sub_uri": "Q1711779", "obj_uri": "Q187009", "sub_label": "Yuli Edelstein", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "7198bd86-581c-4681-a7a5-4a830a9a6c11", "sub_uri": "Q532587", "obj_uri": "Q950326", "sub_label": "Song Jiaoren", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "51fe12f5-d836-4758-ae8f-30797eb6e6ec", "sub_uri": "Q709146", "obj_uri": "Q31113", "sub_label": "Lu Rongting", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d8788a61-4741-49a3-a180-ba4f286dfdc0", "sub_uri": "Q19634009", "obj_uri": "Q339706", "sub_label": "Abdullah Abu Ma'aruf", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "11d6d873-c5c6-48c6-9668-fd9b96eb17b7", "sub_uri": "Q8279684", "obj_uri": "Q31113", "sub_label": "Wang Huei-mei", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d74aa39b-8a11-4cab-9ca1-5d52d3bf7ba6", "sub_uri": "Q716051", "obj_uri": "Q31113", "sub_label": "T.V. Soong", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "c1c5fdba-d155-4397-b724-ac0c466fb6ac", "sub_uri": "Q10310162", "obj_uri": "Q950326", "sub_label": "Hu Jingyi", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "e41956a6-79f6-44b8-9f6c-7ca36f6ef29e", "sub_uri": "Q5071676", "obj_uri": "Q31113", "sub_label": "Chang Tong-rong", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "7b465584-fb50-442a-b98f-250a499ec8c3", "sub_uri": "Q4695783", "obj_uri": "Q39655", "sub_label": "Ahmed Dabbah", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "5b4115d3-0aa0-40f9-9fa2-cda4aca9eaf9", "sub_uri": "Q2903189", "obj_uri": "Q1453052", "sub_label": "Neta Harpaz", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "af93130b-5a4b-4bf2-b9a3-f7511a43a2a3", "sub_uri": "Q61761", "obj_uri": "Q150793", "sub_label": "Pascual Jordan", "obj_label": "Sturmabteilung", "predicate_id": "P102"}
+{"uuid": "f75123ca-4ed5-4537-a09d-4b7f3c7f1eeb", "sub_uri": "Q709979", "obj_uri": "Q950326", "sub_label": "Hu Hanmin", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "9c38f85a-d3d0-40e3-be82-0f827a207278", "sub_uri": "Q313400", "obj_uri": "Q2401103", "sub_label": "Lon Nol", "obj_label": "Sangkum", "predicate_id": "P102"}
+{"uuid": "2720e1ef-684c-4e16-aed7-d3c9e056767b", "sub_uri": "Q1660317", "obj_uri": "Q339706", "sub_label": "Hana Sweid", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "cda3fcd7-f9a4-4b7b-a9e8-26c8fd26ee32", "sub_uri": "Q2535188", "obj_uri": "Q31113", "sub_label": "Fu Bingchang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d6b32227-8454-44f0-b83c-e6fe170b6cfb", "sub_uri": "Q215351", "obj_uri": "Q3240730", "sub_label": "Fidel Ramos", "obj_label": "Lakas\u2013CMD", "predicate_id": "P102"}
+{"uuid": "1f4232af-c961-48af-85ca-e651adde8770", "sub_uri": "Q5155267", "obj_uri": "Q1475103", "sub_label": "Ghulam Azam", "obj_label": "Jamaat-e-Islami", "predicate_id": "P102"}
+{"uuid": "4a5291bd-9b39-4c09-8856-6b3806aa6093", "sub_uri": "Q556828", "obj_uri": "Q31113", "sub_label": "Liu Chao-shiuan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d112441a-13ac-4f8a-abfe-7a9482c71bf6", "sub_uri": "Q2915390", "obj_uri": "Q904635", "sub_label": "Yitzhak Cohen", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "3fe8aaa6-cc25-4e60-8d5e-e1729b397056", "sub_uri": "Q50092375", "obj_uri": "Q1442482", "sub_label": "Li Mei-jhen", "obj_label": "Qinmindang", "predicate_id": "P102"}
+{"uuid": "12a8c21c-da84-4163-999b-0b894894856e", "sub_uri": "Q176578", "obj_uri": "Q31113", "sub_label": "Mikhail Borodin", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "87424a9e-a5ab-4f11-9f85-4e32f3cb30d2", "sub_uri": "Q63092488", "obj_uri": "Q187009", "sub_label": "Michal Shir", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "9b8fafe2-97ef-4083-abc3-29119bc8d229", "sub_uri": "Q18616910", "obj_uri": "Q178888", "sub_label": "Ziad Abu Ein", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "dec9a485-5e7c-4ccb-aa7d-daa7c124828c", "sub_uri": "Q184810", "obj_uri": "Q387006", "sub_label": "P\u00e1l Schmitt", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "78100eb4-683b-406f-b1d2-415c1af71e5a", "sub_uri": "Q19634024", "obj_uri": "Q187009", "sub_label": "Eli Cohen (politikus kelahiran 1972)", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "90780369-eb2d-4ebf-b024-f9ef1ad72ed1", "sub_uri": "Q7794132", "obj_uri": "Q3054830", "sub_label": "Zsuzsanna Szel\u00e9nyi", "obj_label": "Egy\u00fctt", "predicate_id": "P102"}
+{"uuid": "e63164ff-4391-48b3-868b-01792b6f3c5c", "sub_uri": "Q317462", "obj_uri": "Q31113", "sub_label": "Wellington Koo", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d04f6d99-fbbc-4d7b-ae24-05364459eefd", "sub_uri": "Q1396192", "obj_uri": "Q3240730", "sub_label": "Gilbert Teodoro", "obj_label": "Lakas\u2013CMD", "predicate_id": "P102"}
+{"uuid": "d3bee5ce-8c2c-4489-8193-63a3e8aa4c75", "sub_uri": "Q361311", "obj_uri": "Q740271", "sub_label": "Mammed Amin Rasulzade", "obj_label": "Musavat", "predicate_id": "P102"}
+{"uuid": "8c9a5ce6-f299-4d91-9294-16b14e4711ee", "sub_uri": "Q2670985", "obj_uri": "Q904635", "sub_label": "Aryeh Deri", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "b691884b-b2c6-4df9-985b-98ae51f39cfd", "sub_uri": "Q551400", "obj_uri": "Q1428864", "sub_label": "Moshe Erem", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "8703b0fc-94d5-4a3a-b309-7df58eecc49a", "sub_uri": "Q709979", "obj_uri": "Q31113", "sub_label": "Hu Hanmin", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e821e8bd-009f-4ae5-9a4c-11923f99c77f", "sub_uri": "Q712634", "obj_uri": "Q31113", "sub_label": "Hsing Yun", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "87be9dda-27f2-4cc9-b259-a2e8deb5abe3", "sub_uri": "Q12301637", "obj_uri": "Q212101", "sub_label": "Ane Halsboe-J\u00f8rgensen", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "567e4566-11f5-4626-88b0-d41c0540f76c", "sub_uri": "Q697768", "obj_uri": "Q31113", "sub_label": "Chen Guofu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "bca8d37b-7636-466f-a5c6-d533ed596371", "sub_uri": "Q2141400", "obj_uri": "Q39655", "sub_label": "Yaakov Edri", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "9c1d763e-502f-4cec-b696-25a14c4cd09f", "sub_uri": "Q8295189", "obj_uri": "Q31113", "sub_label": "Tan Pingshan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "08f9215e-b731-4f7a-97c9-608181e9ca6b", "sub_uri": "Q2909098", "obj_uri": "Q1428864", "sub_label": "Menachem Bader", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "611c7d8b-b63f-4f17-a6bd-a5a69660754d", "sub_uri": "Q699442", "obj_uri": "Q31113", "sub_label": "Du Yuesheng", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "5d91b990-a458-469e-ab11-a3bd6b0f5125", "sub_uri": "Q558718", "obj_uri": "Q31113", "sub_label": "Lien Chan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "ba385ad0-9cde-41ce-a511-359f7214d26b", "sub_uri": "Q5105427", "obj_uri": "Q1442482", "sub_label": "Chou Hsi-wei", "obj_label": "Qinmindang", "predicate_id": "P102"}
+{"uuid": "85f7817f-8de1-4660-9974-d92a59411f1b", "sub_uri": "Q710100", "obj_uri": "Q950326", "sub_label": "Wang Chung-hui", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "63aca6bb-5bda-45eb-9959-d7b4a70f04d5", "sub_uri": "Q706842", "obj_uri": "Q31113", "sub_label": "Huang Xing", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "ac9642a2-c50e-4ad6-9469-8d47541f7f6f", "sub_uri": "Q55707847", "obj_uri": "Q31113", "sub_label": "Yang Wen-ke", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "b3d552ce-efe3-4342-b114-fef893397709", "sub_uri": "Q728898", "obj_uri": "Q239951", "sub_label": "Uzi Even", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "85580902-a99b-49d3-aab0-25721e6595d7", "sub_uri": "Q2035881", "obj_uri": "Q1967163", "sub_label": "Vadim Krasnoselsky", "obj_label": "Obnovleniye", "predicate_id": "P102"}
+{"uuid": "cff0a07e-699b-416c-88b4-44acde8c24ec", "sub_uri": "Q5386280", "obj_uri": "Q31113", "sub_label": "Eric Chu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2b50238b-e752-46d6-843a-f0d84b00f427", "sub_uri": "Q7701087", "obj_uri": "Q7140531", "sub_label": "Teodoro Locsin Jr.", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "38d827a4-c012-418d-b720-bbf8f7c83a5e", "sub_uri": "Q360961", "obj_uri": "Q187009", "sub_label": "Natan Sharansky", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "61023221-2966-469b-8da2-75503842af60", "sub_uri": "Q551481", "obj_uri": "Q179885", "sub_label": "Antoine Barnave", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "72fb68c6-82ca-49fd-abea-b6a95ef020c3", "sub_uri": "Q15902640", "obj_uri": "Q31113", "sub_label": "Hsu Tsai-li", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "c5e6c179-696d-4d6f-9866-9e2da5ab0b4c", "sub_uri": "Q2734197", "obj_uri": "Q339706", "sub_label": "Samih al-Qasim", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "51968990-b86b-41c0-8f81-ff3da3c83a7d", "sub_uri": "Q197162", "obj_uri": "Q3091156", "sub_label": "Zhang Binglin", "obj_label": "Guangfuhui", "predicate_id": "P102"}
+{"uuid": "c35d1224-c175-4aac-baa2-b1d20b321862", "sub_uri": "Q237782", "obj_uri": "Q945717", "sub_label": "Boris Trajkovski", "obj_label": "VMRO-DPMNE", "predicate_id": "P102"}
+{"uuid": "035a2d07-5e65-4d04-820d-4396962371b7", "sub_uri": "Q152378", "obj_uri": "Q38799", "sub_label": "Ismail Haniyah", "obj_label": "Hamas", "predicate_id": "P102"}
+{"uuid": "722730ba-cc9d-49d9-9fd9-c4facfcb1d45", "sub_uri": "Q307142", "obj_uri": "Q38799", "sub_label": "Aziz Duwaik", "obj_label": "Hamas", "predicate_id": "P102"}
+{"uuid": "84d55117-ca9d-42df-b80c-7d76941fdc0c", "sub_uri": "Q715405", "obj_uri": "Q31113", "sub_label": "Xue Yue", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "02a2dd4f-ef45-4a68-95f7-008f1e45fd72", "sub_uri": "Q529109", "obj_uri": "Q207776", "sub_label": "Jean-Marie Roland de la Plati\u00e8re", "obj_label": "Girondin", "predicate_id": "P102"}
+{"uuid": "2b90a925-9933-47f3-8862-cbd2343d42da", "sub_uri": "Q939899", "obj_uri": "Q195956", "sub_label": "Meir Sheetrit", "obj_label": "Hatnua", "predicate_id": "P102"}
+{"uuid": "98689915-167f-471b-ad45-130eeaaa8fe2", "sub_uri": "Q438598", "obj_uri": "Q212101", "sub_label": "Mette Gjerskov", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "6fd363ea-ae4c-41cd-a484-4ef25530d3fe", "sub_uri": "Q4807300", "obj_uri": "Q740271", "sub_label": "Aslan bey Gardashov", "obj_label": "Musavat", "predicate_id": "P102"}
+{"uuid": "ceaf1a42-cfec-42c0-8536-2a005db5022d", "sub_uri": "Q962747", "obj_uri": "Q178888", "sub_label": "Rawhi Fattouh", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "308ab207-4547-46ba-867d-4be4e6ad4df9", "sub_uri": "Q16192933", "obj_uri": "Q178888", "sub_label": "Mohammad Shtayyeh", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "d2555a58-6b43-4765-b052-d743654b8112", "sub_uri": "Q15906407", "obj_uri": "Q935996", "sub_label": "Francisco Jer\u00f3nimo", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "b0707a00-ad4d-4cca-8c79-b6f4d3776a01", "sub_uri": "Q379836", "obj_uri": "Q31113", "sub_label": "Liang Qichao", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "1abb7a9c-3449-4618-a80d-56ffe0fcbaf7", "sub_uri": "Q8979011", "obj_uri": "Q31113", "sub_label": "Yau Lit", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "79ef3cb3-9455-4f61-91ca-5b22d8d37313", "sub_uri": "Q939899", "obj_uri": "Q187009", "sub_label": "Meir Sheetrit", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "ede18306-2c0f-448a-90ff-a41bbfcd93fc", "sub_uri": "Q1376050", "obj_uri": "Q339706", "sub_label": "Meir Vilner", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "b28f5fcc-52d7-4848-a071-f156d30b11eb", "sub_uri": "Q330656", "obj_uri": "Q7140531", "sub_label": "Abraham Tolentino", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "10c39e0a-85cb-498e-8af2-d0108fc8f496", "sub_uri": "Q698368", "obj_uri": "Q31113", "sub_label": "Chen Lifu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d34e7f20-2ba1-4b1c-a80f-290c24bb40be", "sub_uri": "Q2906778", "obj_uri": "Q187009", "sub_label": "Miriam Feirberg", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "ccf35339-4f84-49e1-b9b0-ad9f994de3eb", "sub_uri": "Q4118817", "obj_uri": "Q31113", "sub_label": "Jiang Yi-huah", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e19474d0-dbc1-429c-afee-50cff9d2726e", "sub_uri": "Q511775", "obj_uri": "Q950326", "sub_label": "Li Shizeng", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "7cbd9ece-0b81-4527-8bc6-38f4c033d371", "sub_uri": "Q57392", "obj_uri": "Q504564", "sub_label": "Armando Guebuza", "obj_label": "FRELIMO", "predicate_id": "P102"}
+{"uuid": "6fefefa7-37da-4d77-8426-62d005137f03", "sub_uri": "Q2908359", "obj_uri": "Q339706", "sub_label": "Hashem Mahameed", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "232eaa86-a71e-48cc-a368-34b4a3bdd170", "sub_uri": "Q486359", "obj_uri": "Q7140531", "sub_label": "Manny Pacquiao", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "818ac82b-cd69-4b5e-97b0-17ec05ad3984", "sub_uri": "Q4695783", "obj_uri": "Q187009", "sub_label": "Ahmed Dabbah", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "78d39421-1f60-4604-8b5d-a3942823ed01", "sub_uri": "Q658258", "obj_uri": "Q239539", "sub_label": "Arie Slob", "obj_label": "UniKristen", "predicate_id": "P102"}
+{"uuid": "6670e019-772c-4f2b-81f4-a1a15c5acb77", "sub_uri": "Q28418899", "obj_uri": "Q31113", "sub_label": "Hsu Chen-wei", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "9940ef41-1829-4d21-a4be-af7c613bde0c", "sub_uri": "Q2331049", "obj_uri": "Q2915102", "sub_label": "Orit Noked", "obj_label": "Ha'Atzma'ut", "predicate_id": "P102"}
+{"uuid": "5ded8e28-9786-44a7-91f1-cc3856a2424b", "sub_uri": "Q318433", "obj_uri": "Q1951132", "sub_label": "Abel Goumba", "obj_label": "MESAN", "predicate_id": "P102"}
+{"uuid": "e6d2f6e5-ac5e-4ab7-8389-f63067764c6b", "sub_uri": "Q5071677", "obj_uri": "Q31113", "sub_label": "Chang Tao-fan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "55724e88-0b53-46bd-8801-3739bf0598e0", "sub_uri": "Q8274333", "obj_uri": "Q31113", "sub_label": "Lin Ming-chen", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "7b9e7087-2cf0-47e7-a21d-15c3abb0c1ad", "sub_uri": "Q1371549", "obj_uri": "Q39655", "sub_label": "Yona Yahav", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "79e2ff1a-f363-4dfe-a78c-011d4e4da3f1", "sub_uri": "Q40688", "obj_uri": "Q222897", "sub_label": "Yanis Varoufakis", "obj_label": "Syriza", "predicate_id": "P102"}
+{"uuid": "1e3416fc-5d54-4fb0-9bd3-566ebeec2ada", "sub_uri": "Q2226775", "obj_uri": "Q1428864", "sub_label": "Yitzhak Ben-Aharon", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "f582f5df-d236-4ad0-b4d3-8dfcd3ec704e", "sub_uri": "Q712780", "obj_uri": "Q950326", "sub_label": "Huang Fu", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "e0e169f9-260e-4194-b160-1e18c1fcbb2c", "sub_uri": "Q8053065", "obj_uri": "Q31113", "sub_label": "Yeung Hok-ling", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "6e45882a-d1cd-438b-901a-b9d38a815f0c", "sub_uri": "Q12181439", "obj_uri": "Q339706", "sub_label": "Ayman Odeh", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "a76c546e-ef7b-4e62-8ef0-0a76d5691562", "sub_uri": "Q1948944", "obj_uri": "Q187009", "sub_label": "Moshe Shamir", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "412ad91d-29ce-434c-b5fd-aea4f11e3be0", "sub_uri": "Q11664", "obj_uri": "Q935996", "sub_label": "Mar\u00ed Alkatiri", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "410727b7-7146-445a-aeaa-61986af57dd7", "sub_uri": "Q2582008", "obj_uri": "Q339706", "sub_label": "Mohammad Barakeh", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "9d629613-f0eb-4f42-9755-9e54bab72c18", "sub_uri": "Q6810271", "obj_uri": "Q39655", "sub_label": "Meir Yitzhak Halevi", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "4d0f616f-941c-4e98-b9f3-5fc3c7625223", "sub_uri": "Q20148", "obj_uri": "Q31113", "sub_label": "Zhang Xueliang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2a84806d-9011-4a5b-99c2-5e15340436d4", "sub_uri": "Q2919288", "obj_uri": "Q187009", "sub_label": "Ofir Akunis", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "d8a5a1fb-0171-4876-a4f9-68de4f324400", "sub_uri": "Q708903", "obj_uri": "Q31113", "sub_label": "Hu Zongnan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "ded4f888-dcea-41e9-b790-1728e65a6b8b", "sub_uri": "Q715050", "obj_uri": "Q31113", "sub_label": "Ma Lin (panglima perang)", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e08496e3-2dae-48ae-af23-390d9bb6ff31", "sub_uri": "Q122290", "obj_uri": "Q179885", "sub_label": "Jean-Paul Marat", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "7d32115c-f31b-43d6-86b5-a32a30f19e9f", "sub_uri": "Q2519686", "obj_uri": "Q239539", "sub_label": "Gert Schutte", "obj_label": "UniKristen", "predicate_id": "P102"}
+{"uuid": "4b1a154e-3a40-4c3d-9166-e5ad143cb553", "sub_uri": "Q8270075", "obj_uri": "Q31113", "sub_label": "Lien Chen-Tung", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "eebfcfa3-cf32-494b-87f6-84bdf5e15830", "sub_uri": "Q5236438", "obj_uri": "Q31113", "sub_label": "David Lee (politikus)", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "1bea897d-3654-496d-a085-d47e9fc0ad39", "sub_uri": "Q22303", "obj_uri": "Q31113", "sub_label": "Wang Jingwei", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "af7775b4-c147-429b-91c7-ebbe81fcf0d4", "sub_uri": "Q380154", "obj_uri": "Q7140531", "sub_label": "Jejomar Binay", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "96484017-b1f0-4f82-9144-acfb1266e4e6", "sub_uri": "Q2901637", "obj_uri": "Q1428864", "sub_label": "David Livschitz", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "b7e09402-0518-4216-9a48-4f44eb9821a0", "sub_uri": "Q10707", "obj_uri": "Q1910161", "sub_label": "Robert Mugabe", "obj_label": "ZANU\u2013PF", "predicate_id": "P102"}
+{"uuid": "5ca4b206-d2e5-4b7c-b706-d2d3d3350130", "sub_uri": "Q346690", "obj_uri": "Q1951132", "sub_label": "Barth\u00e9lemy Boganda", "obj_label": "MESAN", "predicate_id": "P102"}
+{"uuid": "70b507dd-137e-4d4e-8ab9-6ff481610806", "sub_uri": "Q726310", "obj_uri": "Q179885", "sub_label": "Fran\u00e7ois Chabot", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "1478d5d9-4689-4f33-aacb-271963961f8e", "sub_uri": "Q939899", "obj_uri": "Q39655", "sub_label": "Meir Sheetrit", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "b52accf9-7e65-4cfa-b3d8-877108141759", "sub_uri": "Q8272845", "obj_uri": "Q31113", "sub_label": "Zhang Ji", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "195a7720-b911-4e2f-84c0-0d23d8c9e782", "sub_uri": "Q700659", "obj_uri": "Q31113", "sub_label": "Vincent Siew", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "52e41128-88f7-4042-9372-dbd21f6611e1", "sub_uri": "Q2902944", "obj_uri": "Q1453052", "sub_label": "Avraham Taviv", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "dea30ea9-702b-4260-b8fc-84ba02cfe104", "sub_uri": "Q9187249", "obj_uri": "Q31113", "sub_label": "Hou You-yi", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "6e0a00f9-5a6e-4b34-967b-91e6dca3d34d", "sub_uri": "Q512386", "obj_uri": "Q212101", "sub_label": "Karen H\u00e6kkerup", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "141debbc-9c0d-49ff-86a4-4c497366762a", "sub_uri": "Q702808", "obj_uri": "Q950326", "sub_label": "Cai E", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "6aa72488-5cf4-45a9-89a7-4438250822fc", "sub_uri": "Q19627890", "obj_uri": "Q187009", "sub_label": "Oren Hazan", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "c32d8860-7b59-459e-9d43-6b1599ff7c11", "sub_uri": "Q8274841", "obj_uri": "Q31113", "sub_label": "Liu Cheng-hung", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "19c24c5b-9f21-46cf-b60a-bd40a9cdd2a4", "sub_uri": "Q18626047", "obj_uri": "Q13564543", "sub_label": "Irmgard Griss", "obj_label": "NEOS", "predicate_id": "P102"}
+{"uuid": "3f012281-99b3-440c-9ede-fc187214bda4", "sub_uri": "Q5972479", "obj_uri": "Q31113", "sub_label": "Yang Aiyuan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "531a9d35-e6eb-479f-a938-03100061c283", "sub_uri": "Q445611", "obj_uri": "Q187009", "sub_label": "Gila Gamliel", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "649a6bce-31c0-4ebd-9c95-202b065de7e8", "sub_uri": "Q188653", "obj_uri": "Q38799", "sub_label": "Ahmed Yassin", "obj_label": "Hamas", "predicate_id": "P102"}
+{"uuid": "f4a2067c-678d-4fbf-85db-274dba2d109e", "sub_uri": "Q2906119", "obj_uri": "Q1428864", "sub_label": "Fayge Ilanit", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "30abc73e-adda-4f8f-ab55-2daf77abbcbd", "sub_uri": "Q105076402", "obj_uri": "Q239951", "sub_label": "Ghaida Rinawie Zoabi", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "55438aae-4867-4622-bc28-99faaddaf29f", "sub_uri": "Q366790", "obj_uri": "Q83372", "sub_label": "Moisei Uritsky", "obj_label": "Bolshevik", "predicate_id": "P102"}
+{"uuid": "5f69549d-8d44-4c1e-8ed4-568d9949e528", "sub_uri": "Q311583", "obj_uri": "Q1453052", "sub_label": "Yitzhak Navon", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "852363b9-b144-4b7a-b2c0-3d104dcb055c", "sub_uri": "Q483054", "obj_uri": "Q935996", "sub_label": "Ana Pessoa", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "85fc9021-975a-483b-9bd2-238c6eb780e1", "sub_uri": "Q1167488", "obj_uri": "Q31113", "sub_label": "Liang Shuming", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "5d2b242c-571b-48fb-89b4-74ac730ed936", "sub_uri": "Q8274029", "obj_uri": "Q31113", "sub_label": "Hung Hsiu-chu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "0c55357c-b728-49b6-860f-7bd0fc1d335f", "sub_uri": "Q3488976", "obj_uri": "Q117815", "sub_label": "Norodom Arunrasmy", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "13663e6d-c40f-4842-b13f-26be4d273657", "sub_uri": "Q736237", "obj_uri": "Q339706", "sub_label": "Avraham Burg", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "1505105c-ca02-40ed-97c1-405c7e3127a8", "sub_uri": "Q360135", "obj_uri": "Q31113", "sub_label": "Kang Youwei", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "900dd907-55dd-4f24-95e2-b4761cfef3cd", "sub_uri": "Q310653", "obj_uri": "Q571175", "sub_label": "Hans Enoksen", "obj_label": "Siumut", "predicate_id": "P102"}
+{"uuid": "91659faf-9ff2-405f-b8d9-0645efb19f2a", "sub_uri": "Q616635", "obj_uri": "Q28147283", "sub_label": "Tunahan Kuzu", "obj_label": "DENK", "predicate_id": "P102"}
+{"uuid": "8230b0ae-2a5d-412f-8f9e-699e9c957437", "sub_uri": "Q2301106", "obj_uri": "Q39655", "sub_label": "Tzachi Hanegbi", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "eba3b05c-223d-4b04-91d3-b35bf7a1e4fd", "sub_uri": "Q162708", "obj_uri": "Q1951132", "sub_label": "Jean B\u00e9del Bokassa", "obj_label": "MESAN", "predicate_id": "P102"}
+{"uuid": "fab9551b-2997-43b7-bb04-cb1299471692", "sub_uri": "Q664052", "obj_uri": "Q212101", "sub_label": "Vilhelm Buhl", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "852fa6df-f4cc-440f-9095-d9485c845756", "sub_uri": "Q1338975", "obj_uri": "Q1428864", "sub_label": "Moshe Sneh", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "1ff3bf54-ed9c-42f0-9663-408fc93a826f", "sub_uri": "Q1361809", "obj_uri": "Q187009", "sub_label": "Roni Bar-On", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "d955e436-06d1-48ca-840d-ecce4493fcc0", "sub_uri": "Q1530440", "obj_uri": "Q31113", "sub_label": "K. C. Wu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "f114e3e6-9a8a-4c9b-82c2-9ab5369793ed", "sub_uri": "Q3735925", "obj_uri": "Q239951", "sub_label": "Yael German", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "88eb0191-ed86-47fa-8e85-b30ca0e8c7e5", "sub_uri": "Q696704", "obj_uri": "Q31113", "sub_label": "Wu Tingfang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "cad767f1-52cc-418d-885a-bf37d7e87b9b", "sub_uri": "Q2778006", "obj_uri": "Q187009", "sub_label": "Sarah Doron", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "a9a08e1a-8d74-4aba-bf33-fdabcfb8e86a", "sub_uri": "Q2330458", "obj_uri": "Q187009", "sub_label": "Yariv Levin", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "456add9f-18ef-4ed8-85cb-bce63a18fda6", "sub_uri": "Q4391780", "obj_uri": "Q31113", "sub_label": "Masud Sabri", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "fe536864-a62d-4a26-b441-2272a25ad7eb", "sub_uri": "Q715844", "obj_uri": "Q31113", "sub_label": "Ye Ting", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "52190afe-f03d-49d8-a71c-9ffe48c4fcbf", "sub_uri": "Q19628142", "obj_uri": "Q2099890", "sub_label": "Osama Saadi", "obj_label": "Ta'al", "predicate_id": "P102"}
+{"uuid": "e26c4c6a-e717-4bcb-9c83-9e0986cf92e2", "sub_uri": "Q276510", "obj_uri": "Q27389", "sub_label": "Ernesto Cardenal", "obj_label": "Sandinista", "predicate_id": "P102"}
+{"uuid": "c1da8041-a895-43e2-a436-6e8024baf7c0", "sub_uri": "Q388041", "obj_uri": "Q2401103", "sub_label": "Sisowath Monireth", "obj_label": "Sangkum", "predicate_id": "P102"}
+{"uuid": "2368ec49-5ece-4d74-a3a6-dcf9b0100677", "sub_uri": "Q702773", "obj_uri": "Q31113", "sub_label": "Fan Hanjie", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "b44c8228-f71d-4b3c-85de-45067ac39023", "sub_uri": "Q318481", "obj_uri": "Q673018", "sub_label": "Apolinario Mabini", "obj_label": "Katipunan", "predicate_id": "P102"}
+{"uuid": "2bb3eb79-bbee-4ca9-8874-a03f7b3b002b", "sub_uri": "Q699698", "obj_uri": "Q31113", "sub_label": "Yan Xishan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "47b7dbbf-8423-4658-b812-f1c73e65d3df", "sub_uri": "Q12965820", "obj_uri": "Q7140531", "sub_label": "Karlo Nograles", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "bb422c1d-72c6-4543-8ffc-f6ae08e051f1", "sub_uri": "Q2583898", "obj_uri": "Q187009", "sub_label": "Ze'ev Elkin", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "1c0528ee-83c1-42e3-8ae2-ca1776df8a76", "sub_uri": "Q790699", "obj_uri": "Q187009", "sub_label": "Avi Dichter", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "57e5ae6d-5e97-4933-bc59-a6f1426e04a5", "sub_uri": "Q2357539", "obj_uri": "Q1453052", "sub_label": "Baruch Osnia", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "eb0a771e-b733-418c-bd23-597bb036cb86", "sub_uri": "Q2424274", "obj_uri": "Q1393123", "sub_label": "Albert Rivera", "obj_label": "Ciudadanos", "predicate_id": "P102"}
+{"uuid": "c27df5bd-bf4f-4529-8536-3f299506e57f", "sub_uri": "Q631416", "obj_uri": "Q31113", "sub_label": "H.H. Kung", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "dd1a8a53-00e2-455f-80b4-75c4c0241294", "sub_uri": "Q5925773", "obj_uri": "Q950326", "sub_label": "Huang Yanpei", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "5a09593d-4247-48b1-9094-a18d196771de", "sub_uri": "Q365894", "obj_uri": "Q31113", "sub_label": "Feng Yuxiang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "6240ac0f-3731-4436-9f01-f8cc400b96e3", "sub_uri": "Q465324", "obj_uri": "Q950326", "sub_label": "Qiu Jin", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "d5c7cbfa-c760-4c73-a5ff-a3fd25250947", "sub_uri": "Q42992", "obj_uri": "Q1453052", "sub_label": "Golda Meir", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "baacf778-aa2f-4a15-b0e3-46dc3a5a7438", "sub_uri": "Q8276570", "obj_uri": "Q31113", "sub_label": "Hsu Yao-chang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "5286a032-4f07-47d9-8345-2283232f2887", "sub_uri": "Q8984370", "obj_uri": "Q1442482", "sub_label": "Chen Fu-hai", "obj_label": "Qinmindang", "predicate_id": "P102"}
+{"uuid": "ae087ae8-c54d-404e-a5ef-6d522337af45", "sub_uri": "Q2496129", "obj_uri": "Q740271", "sub_label": "Mammed Hasan Hajinski", "obj_label": "Musavat", "predicate_id": "P102"}
+{"uuid": "08b3309f-bd3d-4fd9-8c39-fde74a26b08e", "sub_uri": "Q512627", "obj_uri": "Q39655", "sub_label": "Michael Sela", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "5cfed0ba-c791-4e8f-b70b-52e987470efc", "sub_uri": "Q201477", "obj_uri": "Q207776", "sub_label": "Marquis de Condorcet", "obj_label": "Girondin", "predicate_id": "P102"}
+{"uuid": "a93fb71f-48da-42f4-853e-25530dae029d", "sub_uri": "Q7383181", "obj_uri": "Q239951", "sub_label": "Ruth Rasnic", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "d99756ec-e579-4de1-a50a-994a7abcf8bb", "sub_uri": "Q2910619", "obj_uri": "Q1453052", "sub_label": "Avraham Herzfeld", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "b46fed55-ad7c-4898-bab9-457d460c9bb9", "sub_uri": "Q19796", "obj_uri": "Q3091156", "sub_label": "Cai Yuanpei", "obj_label": "Guangfuhui", "predicate_id": "P102"}
+{"uuid": "cc80931d-5b26-4831-89b3-1e5f62b69ba2", "sub_uri": "Q57436", "obj_uri": "Q945717", "sub_label": "Gjorge Ivanov", "obj_label": "VMRO-DPMNE", "predicate_id": "P102"}
+{"uuid": "ca23bbc0-e32b-4be4-9c49-46338ef06b47", "sub_uri": "Q313797", "obj_uri": "Q240425", "sub_label": "Mohamed Abdelaziz", "obj_label": "Polisario", "predicate_id": "P102"}
+{"uuid": "2075383a-aa67-4cd1-ae0c-f1aaeabfefe9", "sub_uri": "Q5310099", "obj_uri": "Q31113", "sub_label": "Du Yuming", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "a7600d65-7d77-4ea6-9967-7fa0e49e4c14", "sub_uri": "Q696751", "obj_uri": "Q31113", "sub_label": "Blackie Ko", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "73e7b226-db1d-4f39-9fe2-cd32c7356c94", "sub_uri": "Q6753581", "obj_uri": "Q31113", "sub_label": "Mao Chi-kuo", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "bfb250fe-3fd0-40ab-8551-4e3458c77a87", "sub_uri": "Q847670", "obj_uri": "Q950326", "sub_label": "Tang Jiyao", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "8786e429-6b85-44fd-b325-cf27af2e5f24", "sub_uri": "Q2776502", "obj_uri": "Q1453052", "sub_label": "Amal Nasereldeen", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "868fa06c-e001-411a-b261-5a8d017061fd", "sub_uri": "Q2901989", "obj_uri": "Q339706", "sub_label": "Muhammed Wattad", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "0c4f7ae5-9a68-4a34-bc2e-2d336944dd7f", "sub_uri": "Q468394", "obj_uri": "Q187009", "sub_label": "Nir Barkat", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "cd343e61-2c54-4dde-904f-a4a2973b6ee6", "sub_uri": "Q128911", "obj_uri": "Q187009", "sub_label": "Ezer Weizman", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "643d8058-7253-4ab3-a8d5-588ae639c47e", "sub_uri": "Q93181", "obj_uri": "Q187009", "sub_label": "Ehud Olmert", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "0904616c-4d3e-4277-989c-44fa303c4ea7", "sub_uri": "Q2404639", "obj_uri": "Q877884", "sub_label": "Louis Veuillot", "obj_label": "L\u00e9gitimistes", "predicate_id": "P102"}
+{"uuid": "6f08a57d-99f0-43ce-8a3a-f3db7edaf267", "sub_uri": "Q143172", "obj_uri": "Q239951", "sub_label": "Yossi Sarid", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "a22c20cd-4329-4d69-a815-1719b4f2ea80", "sub_uri": "Q197347", "obj_uri": "Q31113", "sub_label": "Zhang Zhizhong", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "937cb859-dc2a-4681-9491-b4545e9d303b", "sub_uri": "Q6136801", "obj_uri": "Q31113", "sub_label": "Liao Chengzhi", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2be27795-2d6d-4283-a69c-084e40ac35ca", "sub_uri": "Q44197", "obj_uri": "Q179885", "sub_label": "Maximilien de Robespierre", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "d27159dd-4a0b-4807-b275-779a40d9c8ed", "sub_uri": "Q57467", "obj_uri": "Q387006", "sub_label": "J\u00e1nos \u00c1der", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "eb83c7c0-22fa-4eab-b723-c78f0cdd57d1", "sub_uri": "Q2588843", "obj_uri": "Q1428864", "sub_label": "Aharon Zisling", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "60838524-9095-452d-9618-60f7c8d40ad8", "sub_uri": "Q281514", "obj_uri": "Q31113", "sub_label": "Long Yun", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2f665005-59cb-468b-b16a-8d548d0ece75", "sub_uri": "Q19216", "obj_uri": "Q31113", "sub_label": "Ma Ying-jeou", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "b5c45c11-f340-4ce5-85b3-3fec07d372d9", "sub_uri": "Q532975", "obj_uri": "Q151179", "sub_label": "Slavko Kvaternik", "obj_label": "Usta\u0161e", "predicate_id": "P102"}
+{"uuid": "6fa5f4dc-95c1-4baf-a3a4-0ed26c7969a7", "sub_uri": "Q921462", "obj_uri": "Q1474268", "sub_label": "Charles-Philippe Ronsin", "obj_label": "H\u00e9bertis", "predicate_id": "P102"}
+{"uuid": "052f02b6-612c-46d0-905e-a3f13b8861d0", "sub_uri": "Q319090", "obj_uri": "Q39655", "sub_label": "Dan Halutz", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "f3d3fbc6-827b-4d18-b541-fa5946c09cfd", "sub_uri": "Q1218911", "obj_uri": "Q633442", "sub_label": "El\u0151d Nov\u00e1k", "obj_label": "Jobbik", "predicate_id": "P102"}
+{"uuid": "f400177b-5d6a-4b25-a9d4-600d205f95c1", "sub_uri": "Q8984370", "obj_uri": "Q31113", "sub_label": "Chen Fu-hai", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2f1db0c9-7f73-4e5e-aba7-f46a5d998e50", "sub_uri": "Q954412", "obj_uri": "Q673018", "sub_label": "Miguel Malvar", "obj_label": "Katipunan", "predicate_id": "P102"}
+{"uuid": "8326d34f-6a4b-4fab-9177-ec01374661ee", "sub_uri": "Q182509", "obj_uri": "Q6216", "sub_label": "Johan Rudolf Thorbecke", "obj_label": "Liberalisme", "predicate_id": "P102"}
+{"uuid": "39f7a32e-be9b-412f-bdde-479c850721ab", "sub_uri": "Q2905464", "obj_uri": "Q1453052", "sub_label": "Hannah Lamdan", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "cb6c493c-f0eb-4250-8f50-cb63256c5c5c", "sub_uri": "Q2309694", "obj_uri": "Q7270", "sub_label": "Jacques Charles Dupont de l'Eure", "obj_label": "Republik", "predicate_id": "P102"}
+{"uuid": "ab19ed33-965b-453c-aec6-cbaae671ec3f", "sub_uri": "Q11665", "obj_uri": "Q935996", "sub_label": "Jos\u00e9 Ramos Horta", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "9bf5a589-ef9b-419c-ac4f-e384431cebd5", "sub_uri": "Q945253", "obj_uri": "Q39655", "sub_label": "Majalli Wahabi", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "49acb159-1474-41fc-8491-436ad96fadca", "sub_uri": "Q8573", "obj_uri": "Q950326", "sub_label": "Sun Yat-sen", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "a0f3c53d-96c9-465a-8a88-076b93586e73", "sub_uri": "Q35086816", "obj_uri": "Q187009", "sub_label": "Yair Netanyahu", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "e9b662c4-beca-4597-8e41-7f3dbdaef660", "sub_uri": "Q3575376", "obj_uri": "Q950326", "sub_label": "Zhang Renjie", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "1610bf08-4c11-4e71-93e5-e7ed2ad802a6", "sub_uri": "Q2791686", "obj_uri": "Q187009", "sub_label": "Ayelet Shaked", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "0e6437b1-6998-47be-813c-21db4c741c6e", "sub_uri": "Q709142", "obj_uri": "Q31113", "sub_label": "Hau Pei-tsun", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "29d2432a-3ee1-403a-8416-5aef93161202", "sub_uri": "Q8279842", "obj_uri": "Q31113", "sub_label": "Chen Shyh-kwei", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "a2a623f1-0b1f-4e77-a09a-aeed4bec62bf", "sub_uri": "Q701020", "obj_uri": "Q31113", "sub_label": "Chiang Wei-kuo", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "131af0e2-9fea-4043-aa1b-d49d69c57861", "sub_uri": "Q516228", "obj_uri": "Q607487", "sub_label": "Eliezer Waldman", "obj_label": "Tehiya", "predicate_id": "P102"}
+{"uuid": "e9db302b-79e7-449d-93df-dd0f29abb3e0", "sub_uri": "Q5116474", "obj_uri": "Q2401103", "sub_label": "Chuop Hell", "obj_label": "Sangkum", "predicate_id": "P102"}
+{"uuid": "c7404bab-8faa-4a84-a95a-41b5c595e9ec", "sub_uri": "Q511775", "obj_uri": "Q31113", "sub_label": "Li Shizeng", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "a95fb977-7fd1-4bf3-9da6-eab783fa7079", "sub_uri": "Q216046", "obj_uri": "Q195956", "sub_label": "Stef Wertheimer", "obj_label": "Hatnua", "predicate_id": "P102"}
+{"uuid": "fd568856-1bcc-4743-83fd-c16e0f45316e", "sub_uri": "Q715092", "obj_uri": "Q31113", "sub_label": "Ma Qi", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "35fed34e-8ecd-4d2b-b4bb-33306b8fbcb8", "sub_uri": "Q191375", "obj_uri": "Q3346366", "sub_label": "Mujibur Rahman", "obj_label": "BAKSAL", "predicate_id": "P102"}
+{"uuid": "7dfd127b-b931-49e6-bbc4-f0c2ae5e8da5", "sub_uri": "Q299100", "obj_uri": "Q1453052", "sub_label": "Zalman Shazar", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "d5b7f124-9e3d-422a-8467-faf70e8e3b81", "sub_uri": "Q1176303", "obj_uri": "Q1453052", "sub_label": "David Remez", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "0e447daf-5464-447e-a1fb-21b64afe9d8d", "sub_uri": "Q155242", "obj_uri": "Q1428864", "sub_label": "Yitzhak Tabenkin", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "ae5fedeb-3cf8-4d94-8327-45a90aee31d9", "sub_uri": "Q197108", "obj_uri": "Q187009", "sub_label": "Ze'ev Boim", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "7b8e514e-0f36-446a-aab8-c41fffaa4143", "sub_uri": "Q685293", "obj_uri": "Q387006", "sub_label": "P\u00e9ter Szijj\u00e1rt\u00f3", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "0c771320-ea6c-4479-9b4e-a365e9832d6c", "sub_uri": "Q60206", "obj_uri": "Q39655", "sub_label": "Ariel Sharon", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "3e6f71ed-b369-405f-a5aa-9326bccde7b1", "sub_uri": "Q128949", "obj_uri": "Q187009", "sub_label": "Miri Regev", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "dae01d25-c79b-4e1d-aeff-c66fb3699f3a", "sub_uri": "Q697380", "obj_uri": "Q31113", "sub_label": "Li Jishen", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "a44430d6-7e91-4a32-9a45-000b0d041760", "sub_uri": "Q445606", "obj_uri": "Q187009", "sub_label": "Tzipi Hotovely", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "094c4139-7c4d-47fa-9ed9-0ab86e839f0c", "sub_uri": "Q2907520", "obj_uri": "Q239951", "sub_label": "Hussniya Jabara", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "40eb7d3d-ac5b-4cdf-bbfa-5e05471d400c", "sub_uri": "Q17180859", "obj_uri": "Q117815", "sub_label": "Norodom Marie", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "ecaf1f91-f4a6-4212-94c9-29061f9a59f5", "sub_uri": "Q216958", "obj_uri": "Q207776", "sub_label": "Joseph Fouch\u00e9", "obj_label": "Girondin", "predicate_id": "P102"}
+{"uuid": "62255af0-3faf-4f43-9f7d-f79839ee7207", "sub_uri": "Q12325727", "obj_uri": "Q212101", "sub_label": "Magnus Heunicke", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "b73627ba-8a5e-4368-acd8-9495041f1553", "sub_uri": "Q817304", "obj_uri": "Q3545706", "sub_label": "Benigno Aquino Sr.", "obj_label": "KALIBAPI", "predicate_id": "P102"}
+{"uuid": "4cd7678e-775f-405a-a973-4095b7f65e53", "sub_uri": "Q42317837", "obj_uri": "Q339706", "sub_label": "Youssef Atauna", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "ffd18656-d563-4df4-ab8a-ac559be1aa1e", "sub_uri": "Q8274104", "obj_uri": "Q31113", "sub_label": "Justin Huang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "7c763c72-0de7-460a-8193-c0c660f772f2", "sub_uri": "Q335219", "obj_uri": "Q31113", "sub_label": "Yen Chia-kan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "4b142623-f389-492c-a216-56a5424083ee", "sub_uri": "Q12410181", "obj_uri": "Q339706", "sub_label": "Aida Touma-Suleiman", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "01ccfee0-a061-4d2c-90de-cf259cddf923", "sub_uri": "Q463680", "obj_uri": "Q212101", "sub_label": "Astrid Krag", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "ed48abfd-83eb-471b-9a9e-905946b3365b", "sub_uri": "Q717501", "obj_uri": "Q31113", "sub_label": "Fu Zuoyi", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "3d0a770e-cc00-4ecb-b5f1-0bac658876ff", "sub_uri": "Q1647887", "obj_uri": "Q935996", "sub_label": "Rui Maria de Ara\u00fajo", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "665fd4ff-b5c4-42da-aa1f-54f763d314e8", "sub_uri": "Q3339377", "obj_uri": "Q2401103", "sub_label": "Nhiek Tioulong", "obj_label": "Sangkum", "predicate_id": "P102"}
+{"uuid": "fb96c004-7689-4f45-a94f-4028531ae325", "sub_uri": "Q34211", "obj_uri": "Q178888", "sub_label": "Yasser Arafat", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "77377182-b752-483c-9e12-5971fb04d378", "sub_uri": "Q186652", "obj_uri": "Q509825", "sub_label": "Gilbert du Motier de La Fayette", "obj_label": "Feuillant", "predicate_id": "P102"}
+{"uuid": "cd909869-e9ea-4249-965c-593f4bcd15d3", "sub_uri": "Q697747", "obj_uri": "Q31113", "sub_label": "Tsiang Tingfu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2bc663ba-8f6d-41f0-8a2d-6a634480c012", "sub_uri": "Q160318", "obj_uri": "Q117815", "sub_label": "Norodom Sihanouk", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "4f9b4ad1-dbb3-4f7d-b082-c8404c46aa34", "sub_uri": "Q1361809", "obj_uri": "Q39655", "sub_label": "Roni Bar-On", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "6ba419fe-f245-41dd-8255-e5c1f37ded19", "sub_uri": "Q1649628", "obj_uri": "Q3091156", "sub_label": "Liu Yazi", "obj_label": "Guangfuhui", "predicate_id": "P102"}
+{"uuid": "9e1271d5-e339-4b74-9eeb-d600040e7d89", "sub_uri": "Q522242", "obj_uri": "Q187009", "sub_label": "Limor Livnat", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "0a4833ce-6766-4ed7-b0db-9b0ddd5431b9", "sub_uri": "Q709030", "obj_uri": "Q31113", "sub_label": "Li Yuan-tsu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "a32f45fc-ef8c-400e-82d6-fb38c2a2c8dd", "sub_uri": "Q2901728", "obj_uri": "Q1453052", "sub_label": "Yona Kesse", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "5f32d737-b398-4b28-aa2c-7d9752cb8163", "sub_uri": "Q897790", "obj_uri": "Q935996", "sub_label": "Francisco Guterres", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "3d66c664-520e-4e46-90f3-d7224b9f1fe9", "sub_uri": "Q151796", "obj_uri": "Q195956", "sub_label": "Tzipi Livni", "obj_label": "Hatnua", "predicate_id": "P102"}
+{"uuid": "c3896783-3b1f-46f6-af69-8096bf3cbf1d", "sub_uri": "Q1385119", "obj_uri": "Q39655", "sub_label": "Yisrael Hasson", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "3590a8b1-7d79-4e30-9cd7-8510e1df68f6", "sub_uri": "Q5949052", "obj_uri": "Q950326", "sub_label": "Wu Zhihui", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "823a32b6-52d5-48c7-ae1c-5bc4491da1fd", "sub_uri": "Q984014", "obj_uri": "Q3433953", "sub_label": "William John Bankes", "obj_label": "Tory", "predicate_id": "P102"}
+{"uuid": "344e49d5-f0e7-4701-96fb-a7d70f618595", "sub_uri": "Q44443794", "obj_uri": "Q935996", "sub_label": "Cid\u00e1lia Lopes Nobre Mouzinho Guterres", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "4388eb6a-855c-49d3-b721-0e8e343a599c", "sub_uri": "Q24239770", "obj_uri": "Q7140531", "sub_label": "Pantaleon Alvarez", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "afaedc0e-2dc6-434f-86e2-ef7cafa7470b", "sub_uri": "Q2625041", "obj_uri": "Q239539", "sub_label": "Carola Schouten", "obj_label": "UniKristen", "predicate_id": "P102"}
+{"uuid": "63ca1ae3-183f-4304-8dc2-4eceae4b237b", "sub_uri": "Q708854", "obj_uri": "Q38799", "sub_label": "Mahmoud al-Zahar", "obj_label": "Hamas", "predicate_id": "P102"}
+{"uuid": "d6758bbd-fadb-46a1-8438-20f4884c35be", "sub_uri": "Q381817", "obj_uri": "Q117815", "sub_label": "Norodom Ranariddh", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "9a264625-a0ff-4781-9207-73ba07641db0", "sub_uri": "Q160318", "obj_uri": "Q2401103", "sub_label": "Norodom Sihanouk", "obj_label": "Sangkum", "predicate_id": "P102"}
+{"uuid": "fbc7ff14-845b-4336-9ea1-5c4a659ef5c8", "sub_uri": "Q966349", "obj_uri": "Q187009", "sub_label": "Gideon Sa'ar", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "4aad6907-112d-4094-a0b4-a9ba370c7296", "sub_uri": "Q3194965", "obj_uri": "Q117815", "sub_label": "Kem Sokha", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "24d39b31-c359-4fac-8011-2933b2e9d737", "sub_uri": "Q2612721", "obj_uri": "Q39655", "sub_label": "Nachman Shai", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "25486989-e283-44a3-b575-6e1c0573df76", "sub_uri": "Q701313", "obj_uri": "Q31113", "sub_label": "Chen Cheng", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "b2f05313-fb91-4c19-b918-7e9ba59ddd31", "sub_uri": "Q2334832", "obj_uri": "Q187009", "sub_label": "Eliezer Shostak", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "2c572e25-d910-477a-8a3e-f8fcd0cf8961", "sub_uri": "Q3656586", "obj_uri": "Q133968", "sub_label": "Tsetska Tsacheva", "obj_label": "GERB", "predicate_id": "P102"}
+{"uuid": "ca13aca7-8cab-44a4-a4b5-e7362e44bfd8", "sub_uri": "Q1539074", "obj_uri": "Q117815", "sub_label": "Mu Sochua", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "913b95d2-ccec-488f-813a-8aabc7189def", "sub_uri": "Q2612867", "obj_uri": "Q904635", "sub_label": "Nissim Ze'ev", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "c0ae922c-d7a6-46cb-9f8b-4918ce51d981", "sub_uri": "Q510981", "obj_uri": "Q178888", "sub_label": "Khalil al-Wazir", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "f5643c4a-de90-4c2c-858e-fda364ac52fe", "sub_uri": "Q2902115", "obj_uri": "Q1453052", "sub_label": "Menachem Cohen (politikus)", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "42e8f9d7-6ad5-4e34-b741-51d0fe6ff0b0", "sub_uri": "Q37610", "obj_uri": "Q1453052", "sub_label": "David Ben-Gurion", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "e19150d0-ec5a-4408-8786-d1378b44ebbd", "sub_uri": "Q313598", "obj_uri": "Q31113", "sub_label": "Chiang Ching-kuo", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "a908c135-63ae-46df-9c92-9f23ec8bf682", "sub_uri": "Q702731", "obj_uri": "Q31113", "sub_label": "Ding Mocun", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "7eb0fa7b-d8fa-48fa-8701-10e86651bfe1", "sub_uri": "Q348268", "obj_uri": "Q935996", "sub_label": "Adalj\u00edza Magno", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "93ec9cbe-5a19-4f6f-b15d-1be9084ec5d7", "sub_uri": "Q532973", "obj_uri": "Q31113", "sub_label": "Zhang Guotao", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e5b1bbfd-4304-4102-8b59-530dddc3928e", "sub_uri": "Q16197131", "obj_uri": "Q387006", "sub_label": "Istv\u00e1n Nagy (politikus, 1967)", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "e22b8a2d-da80-4248-9cc2-eb17a262fa1e", "sub_uri": "Q13415154", "obj_uri": "Q178888", "sub_label": "Rami Hamdallah", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "2661a5fc-45c1-4c67-8d6b-869b3c72869c", "sub_uri": "Q3240816", "obj_uri": "Q133968", "sub_label": "Lilyana Pavlova", "obj_label": "GERB", "predicate_id": "P102"}
+{"uuid": "6710a45b-0681-45a2-a302-ab227b959202", "sub_uri": "Q191123", "obj_uri": "Q1453052", "sub_label": "Levi Eshkol", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "c2783b7f-761c-4297-a523-a75ccae1ded6", "sub_uri": "Q2904753", "obj_uri": "Q187009", "sub_label": "Yehoshua Matza", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "3c8276fd-7940-41e4-bf14-2ccc4b418c55", "sub_uri": "Q19057400", "obj_uri": "Q504564", "sub_label": "Carlos Agostinho do Ros\u00e1rio", "obj_label": "FRELIMO", "predicate_id": "P102"}
+{"uuid": "172ef3a4-d95f-4209-8677-8ce1ca4c7855", "sub_uri": "Q17135", "obj_uri": "Q31113", "sub_label": "Soong May-ling", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "5af25e3b-6519-4e81-bcb3-014231514cfb", "sub_uri": "Q57410", "obj_uri": "Q1453052", "sub_label": "Shimon Peres", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "b97f0582-666b-4575-a876-0787bfe417b0", "sub_uri": "Q453364", "obj_uri": "Q1910161", "sub_label": "Grace Mugabe", "obj_label": "ZANU\u2013PF", "predicate_id": "P102"}
+{"uuid": "3f804298-ef8c-4920-b0ad-6ea961ffe3dc", "sub_uri": "Q313711", "obj_uri": "Q1910161", "sub_label": "Canaan Banana", "obj_label": "ZANU\u2013PF", "predicate_id": "P102"}
+{"uuid": "eab4c4b0-42a5-48ed-8607-c2a61c66008e", "sub_uri": "Q215721", "obj_uri": "Q239951", "sub_label": "Theodore Bikel", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "b27c7ed6-3e69-4b9c-8b22-01e8198a9c4b", "sub_uri": "Q312015", "obj_uri": "Q222897", "sub_label": "Aleksis Tsipras", "obj_label": "Syriza", "predicate_id": "P102"}
+{"uuid": "de6bf23f-5f0b-44fb-b1cd-fc02ed1f5a42", "sub_uri": "Q698079", "obj_uri": "Q31113", "sub_label": "Gu Zhutong", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "1a42268e-b673-4de6-b361-1c55091250af", "sub_uri": "Q188939", "obj_uri": "Q673018", "sub_label": "Emilio Aguinaldo", "obj_label": "Katipunan", "predicate_id": "P102"}
+{"uuid": "691bbad0-d0c2-4ef5-92c0-034818e3347c", "sub_uri": "Q8295189", "obj_uri": "Q950326", "sub_label": "Tan Pingshan", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "ce740ebd-4ec9-4c3e-98e1-3ba61bc34b83", "sub_uri": "Q57410", "obj_uri": "Q39655", "sub_label": "Shimon Peres", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "8e2b9b34-e893-48ee-9549-130071cb12f0", "sub_uri": "Q130873", "obj_uri": "Q187009", "sub_label": "Menachem Begin", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "cd86989a-3c39-4cbe-91e3-114159f5c368", "sub_uri": "Q151796", "obj_uri": "Q39655", "sub_label": "Tzipi Livni", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "06596852-7a4b-4dea-b6e7-f950bdcb7453", "sub_uri": "Q5095206", "obj_uri": "Q31113", "sub_label": "Chiang Pin-kung", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d92f4007-2a63-4c49-a12e-3b5d10f80aa9", "sub_uri": "Q2900513", "obj_uri": "Q339706", "sub_label": "Hanna Mwais", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "db170ef6-761b-48a0-a7ae-4a094a7650b1", "sub_uri": "Q5070365", "obj_uri": "Q31113", "sub_label": "Chan Siu-bak", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "73250f92-da2d-46d8-89f2-09ba8d910dfd", "sub_uri": "Q2907721", "obj_uri": "Q904635", "sub_label": "Nissim Dahan", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "222df763-3446-4fec-b2dd-59a2da884f49", "sub_uri": "Q5068118", "obj_uri": "Q4260843", "sub_label": "Chaerul Saleh", "obj_label": "Murba", "predicate_id": "P102"}
+{"uuid": "e94a58ea-b80f-48c9-ac4b-ffe35bea3632", "sub_uri": "Q247632", "obj_uri": "Q673018", "sub_label": "Mariano Tr\u00edas", "obj_label": "Katipunan", "predicate_id": "P102"}
+{"uuid": "1bd89cdc-0ce7-49cd-94ba-1a60fe7d97e6", "sub_uri": "Q706851", "obj_uri": "Q950326", "sub_label": "Zhang Zizhong", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "b6d78ee9-78e3-4524-af8d-ded243c9c35b", "sub_uri": "Q2901411", "obj_uri": "Q1428864", "sub_label": "Hanan Rubin", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "c86ff141-da22-4897-98dc-a7e683c1a414", "sub_uri": "Q5675539", "obj_uri": "Q31113", "sub_label": "Haru Asada", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "879e3da7-c929-4f09-8846-c534574942dc", "sub_uri": "Q7250910", "obj_uri": "Q3240730", "sub_label": "Prospero Pichay Jr.", "obj_label": "Lakas\u2013CMD", "predicate_id": "P102"}
+{"uuid": "6b03c835-eb8c-43d9-ac8c-81ccf8f5da5f", "sub_uri": "Q57775", "obj_uri": "Q133968", "sub_label": "Boyko Borisov", "obj_label": "GERB", "predicate_id": "P102"}
+{"uuid": "cdd5c133-fec6-4345-9590-752e953cd4d6", "sub_uri": "Q706433", "obj_uri": "Q31113", "sub_label": "Tang Enbo", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "81485d5d-0a00-4fbf-ab47-4c2a26d08b5e", "sub_uri": "Q2904698", "obj_uri": "Q1453052", "sub_label": "Senetta Yoseftal", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "e08ce244-7dfb-4fdd-8a27-4b2cbe1f14c1", "sub_uri": "Q2889981", "obj_uri": "Q607487", "sub_label": "Geulah Cohen", "obj_label": "Tehiya", "predicate_id": "P102"}
+{"uuid": "d88fa4d3-8160-4c16-b312-5592971c4452", "sub_uri": "Q786377", "obj_uri": "Q935996", "sub_label": "Rog\u00e9rio Lobato", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "86ad09d9-bd6f-4695-9591-cfe727e66c45", "sub_uri": "Q208355", "obj_uri": "Q504564", "sub_label": "Joaquim Chissano", "obj_label": "FRELIMO", "predicate_id": "P102"}
+{"uuid": "977a5506-e638-46d9-927b-8b5a759bc23f", "sub_uri": "Q21794010", "obj_uri": "Q187009", "sub_label": "Amir Ohana", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "1264dfe2-3ade-46a1-ad50-384a3be55aad", "sub_uri": "Q19615664", "obj_uri": "Q187009", "sub_label": "Anat Berko", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "c08ff4de-2555-4a24-8e21-148c4b8e7127", "sub_uri": "Q18612457", "obj_uri": "Q31113", "sub_label": "Liu Cheng-ying", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "c9807d83-4912-4aa3-881c-252a00309033", "sub_uri": "Q2903314", "obj_uri": "Q339706", "sub_label": "Mohamed Nafa", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "a40e3394-8ada-45ec-ae03-d7a195e74593", "sub_uri": "Q72124", "obj_uri": "Q1453052", "sub_label": "Peretz Naftali", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "9c667c95-53cf-478b-a8fa-f0f4300986a1", "sub_uri": "Q351040", "obj_uri": "Q178049", "sub_label": "Volen Siderov", "obj_label": "Ataka", "predicate_id": "P102"}
+{"uuid": "35861d00-b797-4dff-b6bf-71bf9db00237", "sub_uri": "Q941785", "obj_uri": "Q187009", "sub_label": "Moshe Nissim", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "09fda5fd-90ff-435f-b8e7-d95bad02e406", "sub_uri": "Q585293", "obj_uri": "Q1474268", "sub_label": "Antoine-Fran\u00e7ois Momoro", "obj_label": "H\u00e9bertis", "predicate_id": "P102"}
+{"uuid": "f3cff9b2-4b7e-4910-ad81-21b14497a6ec", "sub_uri": "Q8045725", "obj_uri": "Q31113", "sub_label": "Yu Hsiu Ku", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "f0cf4976-aed3-4d2c-82da-bd38d243a336", "sub_uri": "Q11509", "obj_uri": "Q935996", "sub_label": "Xanana Gusm\u00e3o", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "005f1ad1-4d1d-4c67-8b16-540b7fd9916d", "sub_uri": "Q521431", "obj_uri": "Q83372", "sub_label": "Grigori Sokolnikov", "obj_label": "Bolshevik", "predicate_id": "P102"}
+{"uuid": "8a5ed5bf-9942-4a4b-915e-afd56bdec3bd", "sub_uri": "Q2910166", "obj_uri": "Q1428864", "sub_label": "Ya'akov Hazan", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "d0f713f6-1ca3-4b68-a584-537fef0ba32f", "sub_uri": "Q216958", "obj_uri": "Q179885", "sub_label": "Joseph Fouch\u00e9", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "c22d3257-5f73-4add-a1da-7be9016149cd", "sub_uri": "Q57838", "obj_uri": "Q31113", "sub_label": "Wu Den-yih", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "7c919a58-93a1-48f7-aaa6-966173e349a4", "sub_uri": "Q15920021", "obj_uri": "Q31113", "sub_label": "Chiang Wan-an", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "77dd1f3d-a4cb-4960-87b6-fa0f82eb9627", "sub_uri": "Q4056551", "obj_uri": "Q740271", "sub_label": "Hasan bey Agayev", "obj_label": "Musavat", "predicate_id": "P102"}
+{"uuid": "92ce2035-7b95-4b09-8928-f5d75ae0fff5", "sub_uri": "Q467833", "obj_uri": "Q239539", "sub_label": "Tineke Huizinga", "obj_label": "UniKristen", "predicate_id": "P102"}
+{"uuid": "662c2939-44e1-4c43-b73b-37417c075617", "sub_uri": "Q455854", "obj_uri": "Q187009", "sub_label": "Reuven Rivlin", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "1778044a-df0f-4120-b0e3-b24e9c8792f4", "sub_uri": "Q11105918", "obj_uri": "Q31113", "sub_label": "Lin Zi-miao", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2231137c-da47-4f0f-ad98-b77c1d7d558b", "sub_uri": "Q974766", "obj_uri": "Q1453052", "sub_label": "Yosef Sprinzak", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "72981420-ae18-479c-b02c-d208c9ead0cb", "sub_uri": "Q270668", "obj_uri": "Q179885", "sub_label": "Georges Couthon", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "688c7ab0-31ea-4b8c-afeb-bd44cb3afe24", "sub_uri": "Q2778132", "obj_uri": "Q187009", "sub_label": "Esther Salmovitz", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "a2071b83-a215-4d9b-8a16-4dc3eb6c5e52", "sub_uri": "Q708753", "obj_uri": "Q31113", "sub_label": "Liao Zhongkai", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "0cb96143-ab62-4f5d-9534-4a7b71315571", "sub_uri": "Q295141", "obj_uri": "Q1453052", "sub_label": "Chaim Herzog", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "52e20aaf-fa71-4366-91f8-672d6caaf5b9", "sub_uri": "Q66258804", "obj_uri": "Q7140531", "sub_label": "Alexander Pimentel", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "220f5325-7782-4097-946e-38046d28ebbd", "sub_uri": "Q457786", "obj_uri": "Q7140531", "sub_label": "Rodrigo Duterte", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "bbe99282-40f4-4217-bb1f-3ded547bbd34", "sub_uri": "Q953209", "obj_uri": "Q2401103", "sub_label": "Cheng Heng", "obj_label": "Sangkum", "predicate_id": "P102"}
+{"uuid": "3c71451d-cd9c-475b-9dcf-afe8531390f6", "sub_uri": "Q48283", "obj_uri": "Q45376", "sub_label": "Yulia Tymoshenko", "obj_label": "Batkivshchyna", "predicate_id": "P102"}
+{"uuid": "32e12b5a-6033-4eb0-a298-99f15cdba5da", "sub_uri": "Q317869", "obj_uri": "Q31113", "sub_label": "Wong Fei-hung", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "6105b9fd-99b5-4100-aa90-50e64465b999", "sub_uri": "Q2331109", "obj_uri": "Q904635", "sub_label": "Yitzhak Vaknin", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "5cecfa8e-2297-43f7-9143-3a5689c2b971", "sub_uri": "Q215025", "obj_uri": "Q509825", "sub_label": "Alexandre-Th\u00e9odore-Victor", "obj_label": "Feuillant", "predicate_id": "P102"}
+{"uuid": "5b84af7e-3a24-45b2-b20c-88c80d1d385e", "sub_uri": "Q697768", "obj_uri": "Q950326", "sub_label": "Chen Guofu", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "a90250a4-c595-4c74-b863-aaf45a104814", "sub_uri": "Q211039", "obj_uri": "Q212101", "sub_label": "Jeppe Aakj\u00e6r", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "6e823cfe-8af6-45ba-a938-fd2328e7a49c", "sub_uri": "Q709890", "obj_uri": "Q950326", "sub_label": "Tang Shaoyi", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "033b877d-b383-47e3-ad1b-77eef01f2111", "sub_uri": "Q4923558", "obj_uri": "Q117815", "sub_label": "Norodom Chakrapong", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "24d89b05-7812-4952-a829-93309fcbe0cf", "sub_uri": "Q706723", "obj_uri": "Q1442482", "sub_label": "James Soong", "obj_label": "Qinmindang", "predicate_id": "P102"}
+{"uuid": "07efd034-b494-4070-8f78-4f62c581401d", "sub_uri": "Q8278682", "obj_uri": "Q31113", "sub_label": "George Yeh", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "ef5a9ca6-41a9-40ba-a740-06589feee4ee", "sub_uri": "Q22303", "obj_uri": "Q950326", "sub_label": "Wang Jingwei", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "565fcef3-eb5b-470b-bb0b-e81b0d95a4ac", "sub_uri": "Q6130040", "obj_uri": "Q950326", "sub_label": "Sun Yue (panglima perang)", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "ed8b5070-de74-4577-bbc4-906b892f4f8d", "sub_uri": "Q702416", "obj_uri": "Q31113", "sub_label": "Dai Li", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "f1f8fdf7-bc29-459d-92d3-4bb859a7a25d", "sub_uri": "Q16574", "obj_uri": "Q31113", "sub_label": "Chiang Kai-shek", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e0b53771-6e0e-4698-a657-4505ad37435d", "sub_uri": "Q1649628", "obj_uri": "Q31113", "sub_label": "Liu Yazi", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "aac62396-5dce-4eff-9615-145e1fd53fbc", "sub_uri": "Q377006", "obj_uri": "Q509825", "sub_label": "Adrien Duport", "obj_label": "Feuillant", "predicate_id": "P102"}
+{"uuid": "2ec3fc3e-f0ce-4bcc-a884-397b5914d65f", "sub_uri": "Q462874", "obj_uri": "Q339706", "sub_label": "Ilan Papp\u00e9", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "531b4f4b-9160-40ec-a2ba-d8f64d3d0de4", "sub_uri": "Q5949052", "obj_uri": "Q31113", "sub_label": "Wu Zhihui", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "98457d19-1815-4d81-bd10-92d3d0ffac0f", "sub_uri": "Q188783", "obj_uri": "Q1453052", "sub_label": "Moshe Dayan", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "35ecd9e0-5d10-4168-b631-68c6cf4a12a8", "sub_uri": "Q8279603", "obj_uri": "Q31113", "sub_label": "Johnny Chiang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "47189143-8e33-4c9d-9483-9fd253c0e030", "sub_uri": "Q3594005", "obj_uri": "Q239951", "sub_label": "Michal Rozin", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "ba3af8d9-4ba5-4e12-a0e3-45140a7f51ed", "sub_uri": "Q981725", "obj_uri": "Q1428864", "sub_label": "Haim Oron", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "57eeb8b9-817f-4769-b780-a2cbcf7db5c4", "sub_uri": "Q278020", "obj_uri": "Q179885", "sub_label": "Jean-Marie Collot d'Herbois", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "769efdb3-6c52-484a-9174-e4a2cca6de3a", "sub_uri": "Q8274095", "obj_uri": "Q31113", "sub_label": "Han Kuo-yu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "c6a11447-ecb1-4aad-84e0-efd7498eeabe", "sub_uri": "Q234190", "obj_uri": "Q39655", "sub_label": "Dalia Itzik", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "6474179b-ba80-4f8f-bbbc-8787d64e29a7", "sub_uri": "Q6720727", "obj_uri": "Q31113", "sub_label": "Ma Dunjing (1910\u20132003)", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "3af91bf6-6c82-44a1-a1b4-183cf9eeeab9", "sub_uri": "Q206972", "obj_uri": "Q207776", "sub_label": "Olympe de Gouges", "obj_label": "Girondin", "predicate_id": "P102"}
+{"uuid": "96360708-84a1-4235-a584-bc1a07c221a4", "sub_uri": "Q66309319", "obj_uri": "Q7140531", "sub_label": "John Castriciones", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "9652b79c-5cfe-4f3b-8542-51afded48f3b", "sub_uri": "Q1395874", "obj_uri": "Q3091156", "sub_label": "Xu Xilin", "obj_label": "Guangfuhui", "predicate_id": "P102"}
+{"uuid": "b308007d-efd1-4474-8e72-cd5ff96c4d9a", "sub_uri": "Q15850", "obj_uri": "Q45376", "sub_label": "Oleksandr Turchynov", "obj_label": "Batkivshchyna", "predicate_id": "P102"}
+{"uuid": "e7c4e338-82f0-4e7e-bb3d-7bbf5a07e1ce", "sub_uri": "Q5576402", "obj_uri": "Q1910161", "sub_label": "Godfrey Chidyausiku", "obj_label": "ZANU\u2013PF", "predicate_id": "P102"}
+{"uuid": "60b8881d-fb71-4817-90ad-bbffcd3107f0", "sub_uri": "Q981881", "obj_uri": "Q187009", "sub_label": "Moshe Ya'alon", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "4d2f7c3a-3acf-450e-b82e-d8344d95876a", "sub_uri": "Q5966196", "obj_uri": "Q31113", "sub_label": "Ma Buqing", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "22b42215-9af9-4693-8f83-de6518d95ca8", "sub_uri": "Q2905433", "obj_uri": "Q187009", "sub_label": "Assad Assad", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "cf045e88-3596-488b-8efb-458cfc7722d3", "sub_uri": "Q2905464", "obj_uri": "Q1428864", "sub_label": "Hannah Lamdan", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "2850a630-9fd8-471d-9f6e-3b549568a94e", "sub_uri": "Q83155", "obj_uri": "Q179885", "sub_label": "Jacques-Louis David", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "f8de8a98-5e82-4bb5-8fe1-6be3ec6fd2d9", "sub_uri": "Q1386714", "obj_uri": "Q1428864", "sub_label": "Yisrael Galili", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "690a6f02-d87f-4377-837a-ab2a6eb43080", "sub_uri": "Q2612708", "obj_uri": "Q39655", "sub_label": "Ruhama Avraham", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "bc7b9c73-bf6e-4206-baf8-ffe4afa596a2", "sub_uri": "Q1380540", "obj_uri": "Q2915102", "sub_label": "Matan Vilnai", "obj_label": "Ha'Atzma'ut", "predicate_id": "P102"}
+{"uuid": "9c50ad7a-9f85-406e-a328-78650efc6fd4", "sub_uri": "Q903319", "obj_uri": "Q673018", "sub_label": "Francisco Carre\u00f3n", "obj_label": "Katipunan", "predicate_id": "P102"}
+{"uuid": "c2babe94-41e5-4c39-bd6b-51d71c425d68", "sub_uri": "Q532587", "obj_uri": "Q31113", "sub_label": "Song Jiaoren", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "80f58c4a-1121-43eb-a891-cd09e6c84892", "sub_uri": "Q701196", "obj_uri": "Q950326", "sub_label": "Zhu Shaoliang", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "218b95ad-059c-49a0-a32e-71b92ffed34c", "sub_uri": "Q6720723", "obj_uri": "Q31113", "sub_label": "Ma Dunjing (1906\u20131972)", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "24b654f6-67f5-48de-9518-26cde22fbd77", "sub_uri": "Q716656", "obj_uri": "Q7140531", "sub_label": "Alfredo Lim", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "491078a6-756b-4f9c-933a-32a150caca6c", "sub_uri": "Q715405", "obj_uri": "Q950326", "sub_label": "Xue Yue", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "41e95834-eba5-4541-9600-7cc72ca69bcf", "sub_uri": "Q645613", "obj_uri": "Q212101", "sub_label": "Nick H\u00e6kkerup", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "232d2d25-8f6b-45b6-9730-9f17c3008707", "sub_uri": "Q28418899", "obj_uri": "Q1442482", "sub_label": "Hsu Chen-wei", "obj_label": "Qinmindang", "predicate_id": "P102"}
+{"uuid": "d5f01909-8a4d-4c14-87a3-39fa42ebc831", "sub_uri": "Q5943151", "obj_uri": "Q950326", "sub_label": "Chen Tianhua", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "3890aad5-4417-4f4f-85c1-41242c5d4cbb", "sub_uri": "Q216050", "obj_uri": "Q1453052", "sub_label": "Giora Yoseftal", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "6039b05d-22fd-4b92-b1d1-84e645351cc0", "sub_uri": "Q471965", "obj_uri": "Q607487", "sub_label": "Yuval Ne'eman", "obj_label": "Tehiya", "predicate_id": "P102"}
+{"uuid": "3a5d8943-0d7a-4d82-ae6c-0ddd698b994a", "sub_uri": "Q57766", "obj_uri": "Q945717", "sub_label": "Nikola Gruevski", "obj_label": "VMRO-DPMNE", "predicate_id": "P102"}
+{"uuid": "3e670afa-f955-4708-88fd-065b93aa19c2", "sub_uri": "Q13220950", "obj_uri": "Q191515", "sub_label": "Ibrahim Abilov", "obj_label": "Menshevik", "predicate_id": "P102"}
+{"uuid": "50e25fe3-5fc2-4d48-8567-bd33484171f4", "sub_uri": "Q2777279", "obj_uri": "Q1453052", "sub_label": "Avraham Katznelson", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "c0db9b02-1e24-46d5-b8fc-0b78b28bb2ef", "sub_uri": "Q2920143", "obj_uri": "Q1453052", "sub_label": "Eliyahu Hacarmeli", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "aeae0693-65b7-420d-9330-0809176c85d8", "sub_uri": "Q2043893", "obj_uri": "Q27389", "sub_label": "Arlen Siu", "obj_label": "Sandinista", "predicate_id": "P102"}
+{"uuid": "eb5377cf-e930-493b-b527-1e2512e8097b", "sub_uri": "Q2890097", "obj_uri": "Q187009", "sub_label": "Pnina Rosenblum", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "477dbf6a-5ad6-456f-aef3-c1500ae5b64c", "sub_uri": "Q18755548", "obj_uri": "Q187009", "sub_label": "David Bitan", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "650073ec-1519-4276-b150-b0b59292d1cf", "sub_uri": "Q18368428", "obj_uri": "Q187009", "sub_label": "Yehuda Glick", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "27259b62-3df5-4250-a4f0-b142c8e38e67", "sub_uri": "Q60206", "obj_uri": "Q187009", "sub_label": "Ariel Sharon", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "c3d50743-cbcc-42c9-a88e-8338ca7e377a", "sub_uri": "Q701897", "obj_uri": "Q31113", "sub_label": "Sun Fo", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "53d786b2-635f-4028-9f27-22c4246ea6c2", "sub_uri": "Q569975", "obj_uri": "Q239951", "sub_label": "Yair Golan", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "ff1b1ae2-6194-4d4c-843b-d0ccd9623267", "sub_uri": "Q2917557", "obj_uri": "Q1453052", "sub_label": "Abba Hushi", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "77e181c0-8d14-4807-9c59-b6f9a14c672c", "sub_uri": "Q151796", "obj_uri": "Q187009", "sub_label": "Tzipi Livni", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "60f89acd-c999-4c18-b5de-471050c2ae56", "sub_uri": "Q7499594", "obj_uri": "Q39655", "sub_label": "Shlomo Lahiani", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "cb7709e3-a9e2-4a60-a641-1cffdc00a692", "sub_uri": "Q335142", "obj_uri": "Q83372", "sub_label": "Alexander Bogdanov", "obj_label": "Bolshevik", "predicate_id": "P102"}
+{"uuid": "eed46870-7fc9-4a19-8711-2d26eb7fc718", "sub_uri": "Q716429", "obj_uri": "Q31113", "sub_label": "Wei Lihuang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "ed831a5e-f553-49be-8b95-de29413174f2", "sub_uri": "Q709504", "obj_uri": "Q950326", "sub_label": "Li Liejun", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "19f88f3a-2763-4b38-aa06-3800efff5b94", "sub_uri": "Q2687114", "obj_uri": "Q1453052", "sub_label": "Aryeh Sheftel", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "e48404a2-aad6-4d1e-abc5-5497c29a404a", "sub_uri": "Q5105427", "obj_uri": "Q31113", "sub_label": "Chou Hsi-wei", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "eeca383a-e0d9-4693-b3ef-6d8f6d1e8ec5", "sub_uri": "Q553567", "obj_uri": "Q187009", "sub_label": "Silvan Shalom", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "8c97f2d3-6486-4566-ad1e-beda3ea0c1cf", "sub_uri": "Q29427", "obj_uri": "Q187009", "sub_label": "Yitzhak Mordechai", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "932ff072-cff2-49f4-9a22-c5ae7805bdd3", "sub_uri": "Q48212840", "obj_uri": "Q2099890", "sub_label": "Wael Younis", "obj_label": "Ta'al", "predicate_id": "P102"}
+{"uuid": "4fc52544-67ad-433c-83d4-5c704e897e12", "sub_uri": "Q210069", "obj_uri": "Q2480", "sub_label": "Milton Obote", "obj_label": "1976", "predicate_id": "P102"}
+{"uuid": "64edf8e1-872e-45de-af2a-5ec00adb0ab1", "sub_uri": "Q1367272", "obj_uri": "Q187009", "sub_label": "Moshe Feiglin", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "50ee8b2c-e2fa-4f27-8d3a-94a92dc47c50", "sub_uri": "Q2901199", "obj_uri": "Q1453052", "sub_label": "Yosef-Michael Lamm", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "75860b02-0db8-49e9-982e-211a56618e3e", "sub_uri": "Q1401791", "obj_uri": "Q387006", "sub_label": "Mih\u00e1ly Varga", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "118d7147-b045-4b2d-8b15-9de83135344c", "sub_uri": "Q236020", "obj_uri": "Q504564", "sub_label": "Luisa Diogo", "obj_label": "FRELIMO", "predicate_id": "P102"}
+{"uuid": "601045bf-23e2-4bcd-ad97-bcaffbcc567e", "sub_uri": "Q662218", "obj_uri": "Q1453052", "sub_label": "Pinhas Lavon", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "fdce7416-653f-4806-86b5-0681b4781fc6", "sub_uri": "Q706723", "obj_uri": "Q31113", "sub_label": "James Soong", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e40d8535-9ed2-4d28-ab77-aa037bf554cb", "sub_uri": "Q945253", "obj_uri": "Q187009", "sub_label": "Majalli Wahabi", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "d7457bf6-2db0-40c1-84c4-9c8f167432b7", "sub_uri": "Q716830", "obj_uri": "Q31113", "sub_label": "Terry Gou", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2fd0c89d-c9e9-429c-9606-329536b7ae8c", "sub_uri": "Q1367272", "obj_uri": "Q23304767", "sub_label": "Moshe Feiglin", "obj_label": "Zehut", "predicate_id": "P102"}
+{"uuid": "57f8ba8d-9e4f-46f4-9bd8-933bf6be95c6", "sub_uri": "Q3178273", "obj_uri": "Q314493", "sub_label": "Norbert Wallez", "obj_label": "Rexisme", "predicate_id": "P102"}
+{"uuid": "da14716e-621b-4a13-92bb-12c04dfd14b5", "sub_uri": "Q8275525", "obj_uri": "Q31113", "sub_label": "Mao Renfeng", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "3ec109c2-35b1-463d-9b03-e56fa2c050c6", "sub_uri": "Q700523", "obj_uri": "Q950326", "sub_label": "Lin Boqu", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "70a96b0a-019f-472d-9fa2-8ea6dd4334c3", "sub_uri": "Q701707", "obj_uri": "Q31113", "sub_label": "Raymond Wong Yuk-man", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "11fb1335-e4dd-491c-854a-006acee192ad", "sub_uri": "Q1343740", "obj_uri": "Q178888", "sub_label": "Salah Khalaf", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "47d68b5e-8709-45a7-8da7-ff455b36a7b5", "sub_uri": "Q10707", "obj_uri": "Q3696", "sub_label": "Robert Mugabe", "obj_label": "1961", "predicate_id": "P102"}
+{"uuid": "b2cb996b-dc96-4686-81fd-8eb73a521bb5", "sub_uri": "Q2900203", "obj_uri": "Q1428864", "sub_label": "Eliezer Peri", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "fa2474e7-4da0-41d9-9a28-6db5dd76a58d", "sub_uri": "Q315528", "obj_uri": "Q31113", "sub_label": "Lee Teng-hui", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "3d800f71-27d6-48af-9b20-4bbf409c6bb2", "sub_uri": "Q5216227", "obj_uri": "Q607487", "sub_label": "Dani Dayan", "obj_label": "Tehiya", "predicate_id": "P102"}
+{"uuid": "29ee6007-65f3-403c-b55f-56ef384f99ac", "sub_uri": "Q84088", "obj_uri": "Q38799", "sub_label": "Nizar Rayan", "obj_label": "Hamas", "predicate_id": "P102"}
+{"uuid": "214c5c07-e4cf-4cff-a6b9-1a299f90aef1", "sub_uri": "Q4121057", "obj_uri": "Q31113", "sub_label": "Christine Chow Ma", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "db9cef72-b578-45b8-b0e5-96677bb2a691", "sub_uri": "Q652581", "obj_uri": "Q39655", "sub_label": "Haim Ramon", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "67d1fd04-b39d-4ad0-a92b-34bfe68e23eb", "sub_uri": "Q4924007", "obj_uri": "Q117815", "sub_label": "Keo Puth Rasmey", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "fa468dce-0b9b-4a92-b7d4-b55d64f09187", "sub_uri": "Q981725", "obj_uri": "Q239951", "sub_label": "Haim Oron", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "ca9ad410-e766-4414-92a1-18364048620a", "sub_uri": "Q1799046", "obj_uri": "Q212101", "sub_label": "Jeppe Kofod", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "d27af8a7-1f7c-4e4d-9f15-b71fab2a8a68", "sub_uri": "Q18060946", "obj_uri": "Q935996", "sub_label": "Filomeno Paix\u00e3o", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "ebd69b7d-24ad-419e-aa4a-e269e084bb17", "sub_uri": "Q256411", "obj_uri": "Q31113", "sub_label": "Soong Ai-ling", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "8afbb1d0-e547-4c99-b460-783b13b6f1fa", "sub_uri": "Q709887", "obj_uri": "Q31113", "sub_label": "Chen Yi (Kuomintang)", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "a688ba95-7685-4ea9-8954-548e4e1561d4", "sub_uri": "Q311063", "obj_uri": "Q212101", "sub_label": "Poul Nyrup Rasmussen", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "1e879c79-79ac-4425-950d-c52498c87420", "sub_uri": "Q701897", "obj_uri": "Q950326", "sub_label": "Sun Fo", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "76d2137d-15f4-405e-b0e7-c9d5a79f3fa2", "sub_uri": "Q2909120", "obj_uri": "Q1453052", "sub_label": "David Hacohen", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "e97105dc-ee07-4505-88fc-50a3a21998da", "sub_uri": "Q832910", "obj_uri": "Q633442", "sub_label": "L\u00e1szl\u00f3 Toroczkai", "obj_label": "Jobbik", "predicate_id": "P102"}
+{"uuid": "e4aff102-40c9-416a-9c64-5822024dca0b", "sub_uri": "Q707601", "obj_uri": "Q31113", "sub_label": "Wang Jin-pyng", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "fe309207-6d06-4095-8767-e39533e9129a", "sub_uri": "Q22259724", "obj_uri": "Q904635", "sub_label": "Yigal Guetta", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "57244cf9-8d06-43ec-aafd-8fb3a776a627", "sub_uri": "Q39756636", "obj_uri": "Q935996", "sub_label": "Jos\u00e9 Reis (politikus)", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "636ec594-d239-4733-b056-ff187079fd56", "sub_uri": "Q55239261", "obj_uri": "Q935996", "sub_label": "Manuel C\u00e1rceres da Costa", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "48418ba7-72db-49b8-a381-224a7bdae365", "sub_uri": "Q2919162", "obj_uri": "Q39655", "sub_label": "Shlomo Molla", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "57fdf8e1-738c-495f-b97c-4080e6450dd9", "sub_uri": "Q4159986", "obj_uri": "Q740271", "sub_label": "Mammed Yusif Jafarov", "obj_label": "Musavat", "predicate_id": "P102"}
+{"uuid": "fd0095d1-e700-48d0-9723-2229695bd62a", "sub_uri": "Q708113", "obj_uri": "Q31113", "sub_label": "Sun Dianying", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "be139a0f-9449-4f58-ad65-ee422dd298b3", "sub_uri": "Q197162", "obj_uri": "Q950326", "sub_label": "Zhang Binglin", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "799bae2a-a68e-4fe1-b034-06aff8c7f4b6", "sub_uri": "Q945024", "obj_uri": "Q187009", "sub_label": "Roni Milo", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "cbdb3fab-02d5-444f-bf52-d617d74e9674", "sub_uri": "Q711969", "obj_uri": "Q31113", "sub_label": "Song Zheyuan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "7700df43-e4e9-4349-b8fc-88ed460bf4d9", "sub_uri": "Q8248830", "obj_uri": "Q950326", "sub_label": "He Xiangning", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "986591cc-a444-48ca-87f7-82269e47b3f2", "sub_uri": "Q3818052", "obj_uri": "Q239951", "sub_label": "Tamar Zandberg", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "42521b58-5d2d-4cc1-a20a-bcc2d54f932e", "sub_uri": "Q47667", "obj_uri": "Q31113", "sub_label": "Hu Shih", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "01102be0-c790-43ce-b58c-cb2932f1c920", "sub_uri": "Q694809", "obj_uri": "Q31113", "sub_label": "Ho Feng-Shan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e589e36f-8d14-4f3f-82c0-6c21bbbabe4d", "sub_uri": "Q159582", "obj_uri": "Q166073", "sub_label": "Alexander Pokryshkin", "obj_label": "Komsomol", "predicate_id": "P102"}
+{"uuid": "4cd197c6-3685-4835-90a5-02661270a6b5", "sub_uri": "Q151872", "obj_uri": "Q239951", "sub_label": "Amos Oz", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "586041af-0c64-4cfd-bc9e-25bf8c6d8fcc", "sub_uri": "Q10566620", "obj_uri": "Q571175", "sub_label": "Kim Kielsen", "obj_label": "Siumut", "predicate_id": "P102"}
+{"uuid": "c9926fe0-60f0-46ba-a2f6-2e55ad333852", "sub_uri": "Q920472", "obj_uri": "Q509825", "sub_label": "Charles Malo Fran\u00e7ois Lameth", "obj_label": "Feuillant", "predicate_id": "P102"}
+{"uuid": "e3d73d3b-85e0-439f-b426-c6e2df7f44e3", "sub_uri": "Q9141091", "obj_uri": "Q31113", "sub_label": "Hsu Hsin-ying", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "582f7114-357b-4856-9956-9ea0deff2793", "sub_uri": "Q188409", "obj_uri": "Q1967163", "sub_label": "Yevgeny Shevchuk", "obj_label": "Obnovleniye", "predicate_id": "P102"}
+{"uuid": "5e07ec17-3f1c-45e0-8638-eeff18fcc945", "sub_uri": "Q6381788", "obj_uri": "Q1061354", "sub_label": "Kazuyoshi Akaba", "obj_label": "Komeito", "predicate_id": "P102"}
+{"uuid": "f628dffa-3eee-46f7-9712-40ff0bcca944", "sub_uri": "Q24237654", "obj_uri": "Q42418", "sub_label": "Hibatullah Akhundzada", "obj_label": "Taliban", "predicate_id": "P102"}
+{"uuid": "2ee65ff2-9a93-4754-b323-26d7878a3c31", "sub_uri": "Q271402", "obj_uri": "Q39655", "sub_label": "Marina Solodkin", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "ae75dae4-0b52-415e-9093-42d0c6a0ac12", "sub_uri": "Q22513", "obj_uri": "Q950326", "sub_label": "Zhu De", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "5034aff4-8d8e-456f-a7da-9c026bb5114c", "sub_uri": "Q2890532", "obj_uri": "Q339706", "sub_label": "Issam Makhoul", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "9e1885cd-4c5e-470b-95fc-ef85c49d567e", "sub_uri": "Q701196", "obj_uri": "Q31113", "sub_label": "Zhu Shaoliang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "b2250193-f182-4189-9fc2-0082f058b453", "sub_uri": "Q219918", "obj_uri": "Q504564", "sub_label": "Samora Machel", "obj_label": "FRELIMO", "predicate_id": "P102"}
+{"uuid": "72af1d34-7a2b-44e3-b531-9b0d168d042c", "sub_uri": "Q1649628", "obj_uri": "Q950326", "sub_label": "Liu Yazi", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "9198c725-3873-4999-b8f7-033fda664d1b", "sub_uri": "Q970706", "obj_uri": "Q178888", "sub_label": "Saeb Erekat", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "9bf9aae7-ca04-496f-be22-2c09cb75a49f", "sub_uri": "Q2917373", "obj_uri": "Q187009", "sub_label": "Akram Hasson", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "43ef89c7-669b-47d0-b498-f09895e9f45e", "sub_uri": "Q108444479", "obj_uri": "Q42418", "sub_label": "Mohammad Hassan Akhund", "obj_label": "Taliban", "predicate_id": "P102"}
+{"uuid": "41b676bd-b08d-4a42-90ea-56f5a4be8ecf", "sub_uri": "Q711110", "obj_uri": "Q31113", "sub_label": "Sun Li-jen", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "891e65ea-7b62-4799-bd77-3c54b3d27fd2", "sub_uri": "Q920526", "obj_uri": "Q187009", "sub_label": "Gideon Ezra", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "5805aa50-5daa-4eb8-925d-9aad3ff6a134", "sub_uri": "Q20297", "obj_uri": "Q31113", "sub_label": "Li Zongren", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "a0e8e684-e037-42ab-bbfe-17ce6c0c27b9", "sub_uri": "Q699254", "obj_uri": "Q31113", "sub_label": "Sun Lianzhong", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "28d885be-987e-4731-b88d-f1dd7d8563a6", "sub_uri": "Q307182", "obj_uri": "Q38799", "sub_label": "Abdel Aziz al-Rantissi", "obj_label": "Hamas", "predicate_id": "P102"}
+{"uuid": "93be6bfb-0699-4ea0-9e10-bfa19a967ad9", "sub_uri": "Q2420712", "obj_uri": "Q2099890", "sub_label": "Ahmad Tibi", "obj_label": "Ta'al", "predicate_id": "P102"}
+{"uuid": "da43b81c-2c09-47ae-8e3f-fea662bb281c", "sub_uri": "Q700523", "obj_uri": "Q31113", "sub_label": "Lin Boqu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "5cfcd1e0-bb5a-43df-a059-bc8a222d0f40", "sub_uri": "Q1737905", "obj_uri": "Q1061354", "sub_label": "Keiichi Ishii", "obj_label": "Komeito", "predicate_id": "P102"}
+{"uuid": "f94ebdf8-f81c-4609-97d5-46209b62eaaf", "sub_uri": "Q2910130", "obj_uri": "Q239951", "sub_label": "Hussein Faris", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "eca20a58-f888-4176-b9c4-850792ae31fe", "sub_uri": "Q10707", "obj_uri": "Q2429", "sub_label": "Robert Mugabe", "obj_label": "1987", "predicate_id": "P102"}
+{"uuid": "9f6498fd-86b5-47a5-abad-a95034c0ecd8", "sub_uri": "Q1362317", "obj_uri": "Q187009", "sub_label": "Yuval Steinitz", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "d0ae0e51-3e8c-45c7-9c78-4b4656c16aaf", "sub_uri": "Q465908", "obj_uri": "Q1910161", "sub_label": "Sally Hayfron", "obj_label": "ZANU\u2013PF", "predicate_id": "P102"}
+{"uuid": "2db49976-9280-499d-bf0d-066a66e8c0b3", "sub_uri": "Q284597", "obj_uri": "Q31113", "sub_label": "Jason Hu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "a1f50a1e-75b0-487a-ac2b-b9c517ada39d", "sub_uri": "Q706491", "obj_uri": "Q31113", "sub_label": "Bai Chongxi", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d354c19e-e1c4-46d3-9003-bc7b167f7691", "sub_uri": "Q705872", "obj_uri": "Q950326", "sub_label": "Lin Sen", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "581ab855-8e87-49d4-8488-7a5ed95953fa", "sub_uri": "Q8956378", "obj_uri": "Q31113", "sub_label": "Fu Kun-chi", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2a227c1f-0dce-4aed-ba90-a537264868b5", "sub_uri": "Q3575376", "obj_uri": "Q31113", "sub_label": "Zhang Renjie", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "f0f9cdd7-cb2a-4cac-80cc-8a7c5ecb8631", "sub_uri": "Q3594030", "obj_uri": "Q239951", "sub_label": "Issawi Frej", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "82bcebc7-1dba-4bf0-a634-da0112e7c1d1", "sub_uri": "Q25490011", "obj_uri": "Q187009", "sub_label": "May Golan", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "aacb05e9-aa9b-44b9-a2f7-f573ca3f631e", "sub_uri": "Q2910130", "obj_uri": "Q1428864", "sub_label": "Hussein Faris", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "32c6a848-822b-4d61-b734-d00d321fa9e0", "sub_uri": "Q2663804", "obj_uri": "Q187009", "sub_label": "Gilad Erdan", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "70572f2b-23a6-4bad-982d-fb5708e699f2", "sub_uri": "Q983112", "obj_uri": "Q187009", "sub_label": "Yitzhak Berman", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "4b1ad796-811d-4f39-b985-ca08023c3177", "sub_uri": "Q1820307", "obj_uri": "Q187009", "sub_label": "Michael Eitan", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "dd8d8ff8-5566-4c4e-b19c-9224c8ba41c1", "sub_uri": "Q2901716", "obj_uri": "Q239951", "sub_label": "Walid Haj Yahia", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "80265e62-2d0a-4250-ab9f-dd30b7e9dc16", "sub_uri": "Q11178455", "obj_uri": "Q31113", "sub_label": "Oei Hui-lan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "8d01fb63-605b-4fd8-98d3-7c832a82b0fa", "sub_uri": "Q5925638", "obj_uri": "Q31113", "sub_label": "Huang Min-hui", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "93602eea-d8a8-479c-ae17-d7b5fa19595c", "sub_uri": "Q158844", "obj_uri": "Q314493", "sub_label": "L\u00e9on Degrelle", "obj_label": "Rexisme", "predicate_id": "P102"}
+{"uuid": "eb609b71-9b24-4eab-826b-057de2842061", "sub_uri": "Q2091327", "obj_uri": "Q1428864", "sub_label": "Mordechai Bentov", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "172c2118-0277-49ce-bb37-2c12ddbfe646", "sub_uri": "Q434951", "obj_uri": "Q1453052", "sub_label": "Haim Yosef Zadok", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "745f960d-4929-4428-a977-59421f9fcad4", "sub_uri": "Q1249804", "obj_uri": "Q387006", "sub_label": "Antal Rog\u00e1n", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "b1918217-52f8-483e-8691-d865b2aa604a", "sub_uri": "Q472310", "obj_uri": "Q31113", "sub_label": "Frank Hsieh", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "c8cd78f4-c762-4c31-bc75-82f86fa825e4", "sub_uri": "Q2900939", "obj_uri": "Q1428864", "sub_label": "Rostam Bastuni", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "13c5232f-ab2d-421e-a348-e7442389c9e3", "sub_uri": "Q522624", "obj_uri": "Q239539", "sub_label": "Andr\u00e9 Rouvoet", "obj_label": "UniKristen", "predicate_id": "P102"}
+{"uuid": "bb47de7b-7b06-42a9-8260-d5d526a2ea9b", "sub_uri": "Q12327462", "obj_uri": "Q212101", "sub_label": "Mogens Jensen (politikus)", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "a34bf449-b044-4bc2-9d41-ce1658b181a0", "sub_uri": "Q2790086", "obj_uri": "Q1453052", "sub_label": "Rachel Katznelson-Shazar", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "14f49541-bdf6-4bd3-8249-ec9a8d6e3693", "sub_uri": "Q444147", "obj_uri": "Q39655", "sub_label": "Anastassia Michaeli", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "753a593a-fc0d-413b-a0ae-a56d7f7c4846", "sub_uri": "Q715070", "obj_uri": "Q31113", "sub_label": "Ma Hongkui", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "1775b822-b883-4ada-b944-96941e743b10", "sub_uri": "Q557665", "obj_uri": "Q1453052", "sub_label": "Rezs\u0151 Kasztner", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "58aa6683-8c4b-4ab8-979a-70995700e505", "sub_uri": "Q555669", "obj_uri": "Q633442", "sub_label": "G\u00e1bor Vona", "obj_label": "Jobbik", "predicate_id": "P102"}
+{"uuid": "b3941c19-fa6e-4c22-afcb-663ddb28d168", "sub_uri": "Q57595", "obj_uri": "Q3054830", "sub_label": "Gordon Bajnai", "obj_label": "Egy\u00fctt", "predicate_id": "P102"}
+{"uuid": "fbe06f8e-d5b2-4645-a25b-82c9ff929f0b", "sub_uri": "Q715079", "obj_uri": "Q31113", "sub_label": "Ma Hongbin", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e395d677-7a8a-43ab-a831-fa8ecf5571d1", "sub_uri": "Q750646", "obj_uri": "Q387006", "sub_label": "J\u00e1nos L\u00e1z\u00e1r", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "261e51dd-f495-499d-9560-388ab755965e", "sub_uri": "Q548185", "obj_uri": "Q187009", "sub_label": "Moshe Arens", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "aabd9a80-e27d-4d50-959e-1cbdbea66440", "sub_uri": "Q203980", "obj_uri": "Q1130553", "sub_label": "Richard Cromwell", "obj_label": "Roundhead", "predicate_id": "P102"}
+{"uuid": "57ab5b08-7016-4073-845a-45565008ebde", "sub_uri": "Q17371261", "obj_uri": "Q3240730", "sub_label": "Martin Romualdez", "obj_label": "Lakas\u2013CMD", "predicate_id": "P102"}
+{"uuid": "3807a910-e769-4f9e-9ac5-c2023cb9619f", "sub_uri": "Q5015", "obj_uri": "Q212101", "sub_label": "Mette Frederiksen", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "58d85ace-663a-4cc1-a135-6ba309704788", "sub_uri": "Q705872", "obj_uri": "Q31113", "sub_label": "Lin Sen", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "22970084-6e7d-4244-9ee4-513ebc9884aa", "sub_uri": "Q2584267", "obj_uri": "Q187009", "sub_label": "Ayoob Kara", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "56391ed4-6043-408b-a283-47f05f2815e3", "sub_uri": "Q8274307", "obj_uri": "Q31113", "sub_label": "Lee Chao-ching", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "b2ecf171-cb10-478a-abe2-09f2e7d1205a", "sub_uri": "Q6019937", "obj_uri": "Q7140531", "sub_label": "Mocha Uson", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "5b7d366a-17f1-41b0-8b46-53a379da9b91", "sub_uri": "Q5371883", "obj_uri": "Q31113", "sub_label": "Chiang Hsiao-yen", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "b1098e0f-3605-43a8-a376-eef92ded83c5", "sub_uri": "Q699344", "obj_uri": "Q31113", "sub_label": "Liu Chih", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d9e3cefd-f24e-4128-90aa-8c3dc3e545f6", "sub_uri": "Q617241", "obj_uri": "Q1474268", "sub_label": "Fran\u00e7ois-Nicolas Vincent", "obj_label": "H\u00e9bertis", "predicate_id": "P102"}
+{"uuid": "6f949c36-4cae-4dc0-8115-97a669158e3a", "sub_uri": "Q197358", "obj_uri": "Q31113", "sub_label": "Zhang Zuolin", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "69f8d108-df46-4648-88b9-9d7d0913a7c7", "sub_uri": "Q267335", "obj_uri": "Q1453052", "sub_label": "Shulamit Aloni", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "49be74da-9757-4bf2-9430-2e8b41dbbeb4", "sub_uri": "Q165854", "obj_uri": "Q83372", "sub_label": "Lev Kamenev", "obj_label": "Bolshevik", "predicate_id": "P102"}
+{"uuid": "74adca5c-b485-4282-af87-83c06f9c6ebc", "sub_uri": "Q378833", "obj_uri": "Q178888", "sub_label": "Ahmed Qurei", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "a8b19af8-618f-4d6a-a417-f63b2ad1b483", "sub_uri": "Q10707", "obj_uri": "Q3754", "sub_label": "Robert Mugabe", "obj_label": "1960", "predicate_id": "P102"}
+{"uuid": "c2523e9c-4629-479b-9406-dff93c2c00d6", "sub_uri": "Q2907004", "obj_uri": "Q904635", "sub_label": "Rahamim Malul", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "7c9838b1-adca-4abf-8ee6-b8cd32052821", "sub_uri": "Q43723", "obj_uri": "Q187009", "sub_label": "Benjamin Netanyahu", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "ea14fd37-7eec-4c6f-a80a-21cc537a1699", "sub_uri": "Q364194", "obj_uri": "Q178888", "sub_label": "Marwan al-Barghutsi", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "e0e7dd52-f9d4-43a2-ba4b-3bb659840d9e", "sub_uri": "Q471730", "obj_uri": "Q45376", "sub_label": "Arseniy Yatsenyuk", "obj_label": "Batkivshchyna", "predicate_id": "P102"}
+{"uuid": "81464ba8-f1f2-4797-b13f-42617b6ce0c5", "sub_uri": "Q2919162", "obj_uri": "Q195956", "sub_label": "Shlomo Molla", "obj_label": "Hatnua", "predicate_id": "P102"}
+{"uuid": "ff2ac49c-bbf9-4199-a4f0-d55ee9a8b862", "sub_uri": "Q105103347", "obj_uri": "Q65553954", "sub_label": "Avi Maoz", "obj_label": "Noam", "predicate_id": "P102"}
+{"uuid": "3070fcda-4652-4abe-805f-6e5db2ddb788", "sub_uri": "Q708753", "obj_uri": "Q950326", "sub_label": "Liao Zhongkai", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "d633f84a-f754-4113-82e5-52786eedf8d2", "sub_uri": "Q18809", "obj_uri": "Q83372", "sub_label": "Anatoly Lunacharsky", "obj_label": "Bolshevik", "predicate_id": "P102"}
+{"uuid": "28f0551f-7ed3-4adf-b726-07efa7c8ea49", "sub_uri": "Q307176", "obj_uri": "Q1428864", "sub_label": "Abd el-Aziz el-Zoubi", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "536ccced-8ee9-4b95-a9ee-90f0217e2505", "sub_uri": "Q706842", "obj_uri": "Q950326", "sub_label": "Huang Xing", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "55fe1fd3-fefc-4e98-95e5-6676da7b194b", "sub_uri": "Q2776502", "obj_uri": "Q187009", "sub_label": "Amal Nasereldeen", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "af9a9497-3ee5-4c30-8c06-8a7ffb848132", "sub_uri": "Q975592", "obj_uri": "Q3240730", "sub_label": "Prospero Nograles", "obj_label": "Lakas\u2013CMD", "predicate_id": "P102"}
+{"uuid": "5c0cac47-d9c7-4632-8803-3d3e0210326e", "sub_uri": "Q19796", "obj_uri": "Q31113", "sub_label": "Cai Yuanpei", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "5f89a8ea-01db-4173-ba89-a80f1cbef723", "sub_uri": "Q186709", "obj_uri": "Q83372", "sub_label": "Nikolai Bukharin", "obj_label": "Bolshevik", "predicate_id": "P102"}
+{"uuid": "6f2bb808-0aaf-4a8c-a28a-a23bb3320942", "sub_uri": "Q2331314", "obj_uri": "Q904635", "sub_label": "David Azulai", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "e9411473-8064-45da-9100-c53e5f526dde", "sub_uri": "Q3339377", "obj_uri": "Q117815", "sub_label": "Nhiek Tioulong", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "d689bc04-fb6b-4b07-bb3b-47546edd947f", "sub_uri": "Q464513", "obj_uri": "Q179885", "sub_label": "Jean Lambert Tallien", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "856a9457-bf00-4641-b278-fae81441eeb7", "sub_uri": "Q2902983", "obj_uri": "Q1453052", "sub_label": "David Bar-Rav-Hai", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "0e76e01e-9d55-428d-a1d3-f0d3a78ea653", "sub_uri": "Q2660781", "obj_uri": "Q740271", "sub_label": "Nasib bey Yusifbeyli", "obj_label": "Musavat", "predicate_id": "P102"}
+{"uuid": "478c754f-b0c7-4994-a567-7e7420b43253", "sub_uri": "Q2919440", "obj_uri": "Q187009", "sub_label": "Danny Danon", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "d856c4ca-89f6-45fc-9951-b2ccfa6cefd8", "sub_uri": "Q2647610", "obj_uri": "Q39655", "sub_label": "Yuval Zellner", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "8f579508-d6e2-47a9-8192-85fe5c2b52a4", "sub_uri": "Q4164245", "obj_uri": "Q31113", "sub_label": "Kaoru Otsuki", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "ea2644a3-dd22-4063-9b9a-8626a5eafe08", "sub_uri": "Q215025", "obj_uri": "Q179885", "sub_label": "Alexandre-Th\u00e9odore-Victor", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "3fa1cea4-4e79-4f6e-a570-7709b202cbec", "sub_uri": "Q333843", "obj_uri": "Q179885", "sub_label": "Paul Barras", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "9aecb815-e999-4a3a-84d4-b12ffe6e1d7b", "sub_uri": "Q2506992", "obj_uri": "Q2401103", "sub_label": "Chau Sen Cocsal Chhum", "obj_label": "Sangkum", "predicate_id": "P102"}
+{"uuid": "7a6469f7-8761-45ff-8849-2c717452b9e0", "sub_uri": "Q706735", "obj_uri": "Q31113", "sub_label": "Hsu Hsin-liang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "0993fab1-6edd-4820-b858-3cc06a35e754", "sub_uri": "Q2900947", "obj_uri": "Q1428864", "sub_label": "Yussuf Hamis", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "bffa65ce-ff1f-4332-b1e8-8777d3afcbfe", "sub_uri": "Q46930", "obj_uri": "Q38799", "sub_label": "Khaled Mashal", "obj_label": "Hamas", "predicate_id": "P102"}
+{"uuid": "15bdb86b-12da-492c-aa40-602e4042d57c", "sub_uri": "Q711712", "obj_uri": "Q950326", "sub_label": "T\u014dten Miyazaki", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "93c97289-f0bb-4f4a-a27d-6564e24701a4", "sub_uri": "Q8272845", "obj_uri": "Q950326", "sub_label": "Zhang Ji", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "d9bb8374-0c16-428b-ae1c-4b113259e867", "sub_uri": "Q1719051", "obj_uri": "Q1453052", "sub_label": "Shlomo Hillel", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "4f7588af-a0de-42c3-a6dd-8fa2978f70b9", "sub_uri": "Q472117", "obj_uri": "Q195956", "sub_label": "Amir Peretz", "obj_label": "Hatnua", "predicate_id": "P102"}
+{"uuid": "14433565-f9ce-41e8-8f39-50b29b969126", "sub_uri": "Q50424294", "obj_uri": "Q904635", "sub_label": "Yinon Azulai", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "9a9984de-364c-4a8b-a367-b0bb15a24be1", "sub_uri": "Q548964", "obj_uri": "Q239951", "sub_label": "Yossi Beilin", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "3b679220-5ac6-45c4-ada4-b311c6ca937a", "sub_uri": "Q8279791", "obj_uri": "Q31113", "sub_label": "Lai Feng-wei", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "7ea22013-a845-4b03-9b9c-a16c0394a4d7", "sub_uri": "Q50092375", "obj_uri": "Q31113", "sub_label": "Li Mei-jhen", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "cd38ffb5-4acd-4895-88bb-5701e67c4370", "sub_uri": "Q2301106", "obj_uri": "Q187009", "sub_label": "Tzachi Hanegbi", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "f02fd4ee-d035-4d8c-9e96-d7e38c1be7f5", "sub_uri": "Q7054034", "obj_uri": "Q904635", "sub_label": "Moshe Abutbul (politikus)", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "ce11c03b-4f51-4761-b043-1defd803220b", "sub_uri": "Q8273132", "obj_uri": "Q31113", "sub_label": "Chang Li-shan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2ca60d9b-9be2-46d6-8201-7f5c1c461457", "sub_uri": "Q2777549", "obj_uri": "Q239951", "sub_label": "Yossi Avni-Levy", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "c4e41e2c-1e3f-4626-9065-c16695a05e9b", "sub_uri": "Q8273181", "obj_uri": "Q31113", "sub_label": "Chiu Ching-chun", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "bcc89117-557c-4417-8095-88d17a861d23", "sub_uri": "Q24896679", "obj_uri": "Q7140531", "sub_label": "Bong Go", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "1e5ad0c2-4c71-4106-8ba5-638d8d60310b", "sub_uri": "Q8573", "obj_uri": "Q31113", "sub_label": "Sun Yat-sen", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e1766a48-b682-49e7-863d-f5912e411ff4", "sub_uri": "Q2660886", "obj_uri": "Q187009", "sub_label": "Uzi Landau", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "4c84ed9d-96b4-43f3-ba9a-729e760de3ad", "sub_uri": "Q2777161", "obj_uri": "Q1453052", "sub_label": "Shlomo Lavi", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "c45646f9-2c65-42f0-8252-fdafd0dc8f06", "sub_uri": "Q40318665", "obj_uri": "Q904635", "sub_label": "Danny Saida", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "42f8ac35-6a59-4afb-959d-870dc5d9af12", "sub_uri": "Q7884430", "obj_uri": "Q117815", "sub_label": "Ung Huot", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "95774f04-97c8-4831-8543-31ec5f777240", "sub_uri": "Q367557", "obj_uri": "Q212101", "sub_label": "Thorvald Stauning", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "ea8b08f0-c968-4287-ade1-c60b9d47d128", "sub_uri": "Q369907", "obj_uri": "Q1475103", "sub_label": "Abul A'la Maududi", "obj_label": "Jamaat-e-Islami", "predicate_id": "P102"}
+{"uuid": "a8f1161f-4b98-4876-9c55-bfc705e49e77", "sub_uri": "Q2900436", "obj_uri": "Q339706", "sub_label": "Saleh Saleem", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "a5c6048e-259c-4410-a4a4-928004f6a26b", "sub_uri": "Q55910", "obj_uri": "Q1003", "sub_label": "Jerzy Karol Buzek", "obj_label": "Solidarno\u015b\u0107", "predicate_id": "P102"}
+{"uuid": "271f6745-474e-468d-8b40-48b79ff715a6", "sub_uri": "Q127998", "obj_uri": "Q178888", "sub_label": "Mahmoud Abbas", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "797bc815-8145-4044-81c9-4e3366dcf9fa", "sub_uri": "Q702680", "obj_uri": "Q31113", "sub_label": "Sun Yun-suan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e2e61994-05af-4dee-8d50-f27d90d74d0e", "sub_uri": "Q8274185", "obj_uri": "Q31113", "sub_label": "Chien Tung-ming", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "a4c1525d-5038-4f61-b8db-85542ab5edc0", "sub_uri": "Q727119", "obj_uri": "Q935996", "sub_label": "Estanislau Aleixo da Silva", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "0f2b1e1d-18d3-4f69-9851-ba15ea61e658", "sub_uri": "Q2909716", "obj_uri": "Q1453052", "sub_label": "Beba Idelson", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "f14068e6-65e3-4b79-83ea-1bcfc82e5c82", "sub_uri": "Q715393", "obj_uri": "Q950326", "sub_label": "Chen Qimei", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "403e5b89-b0a8-4c3f-94e7-d08d1cbee988", "sub_uri": "Q20824112", "obj_uri": "Q187009", "sub_label": "Sharren Haskel", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "05e51a65-44a3-44e0-becd-148009ce07e1", "sub_uri": "Q197108", "obj_uri": "Q39655", "sub_label": "Ze'ev Boim", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "cfd3481f-b68a-42a1-a280-f5140a7fd7fb", "sub_uri": "Q816401", "obj_uri": "Q1453052", "sub_label": "Ben-Zion Dinur", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "0c9907ed-ab4e-4bcf-afe7-825ffb209e88", "sub_uri": "Q4020310", "obj_uri": "Q31113", "sub_label": "Eugene Chen", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "4eea1d7c-e642-4bd2-a227-2f25cd7bdbc4", "sub_uri": "Q2777415", "obj_uri": "Q187009", "sub_label": "Naomi Blumenthal", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "37282e14-d4bb-47b2-8414-3d734d9d34d2", "sub_uri": "Q2594871", "obj_uri": "Q950326", "sub_label": "Guo Songling", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "bfcb89a1-7633-4af0-a05c-da5408fe045a", "sub_uri": "Q8274929", "obj_uri": "Q31113", "sub_label": "Lu Kuo-hua", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "876c25b0-a75d-4f21-964f-0e777f72fbff", "sub_uri": "Q15907034", "obj_uri": "Q935996", "sub_label": "Joaquim Amaral", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "f4bedcd5-f6cb-4afa-b431-ad875a9fb711", "sub_uri": "Q698131", "obj_uri": "Q31113", "sub_label": "Tang Shengzhi", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "3bb88774-7d48-41ce-af74-ec7bbcad8a2d", "sub_uri": "Q714677", "obj_uri": "Q950326", "sub_label": "Chen Jiongming", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "aae6f959-7e92-4c25-bd49-7ccc3073e1e6", "sub_uri": "Q5924736", "obj_uri": "Q31113", "sub_label": "Hu Lien", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "b0f7dd16-e675-412f-8fb5-02fd78dd4779", "sub_uri": "Q2906605", "obj_uri": "Q904635", "sub_label": "Rafael Pinhasi", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "2fae5686-beb6-41c6-82f5-0278689f6954", "sub_uri": "Q8279077", "obj_uri": "Q31113", "sub_label": "Zheng Yanfen", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e07986ff-81a3-4933-a46f-b9d9994af17a", "sub_uri": "Q6123094", "obj_uri": "Q31113", "sub_label": "Serengdongrub", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "ccd9452e-340a-40ba-a367-c158814f67fa", "sub_uri": "Q868632", "obj_uri": "Q28147283", "sub_label": "Sel\u00e7uk \u00d6zt\u00fcrk", "obj_label": "DENK", "predicate_id": "P102"}
+{"uuid": "aa64f8f3-fc02-42e9-9ac8-97138f52f20f", "sub_uri": "Q8274707", "obj_uri": "Q31113", "sub_label": "Lu Shiow-yen", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "054f754e-ebb0-4668-b30f-86d2445d1ae4", "sub_uri": "Q2630062", "obj_uri": "Q239951", "sub_label": "Zehava Gal-On", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "e41d8f47-e55c-41b4-9a6a-a9c4ff7d457a", "sub_uri": "Q711802", "obj_uri": "Q31113", "sub_label": "Li Jinglin", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "76118b62-b013-4138-a289-37022761f5dd", "sub_uri": "Q6995379", "obj_uri": "Q7140531", "sub_label": "Neptali Gonzales II", "obj_label": "PDP-Laban", "predicate_id": "P102"}
+{"uuid": "8b55bbdb-ea4c-4e56-b6b3-6133ff1d792d", "sub_uri": "Q444718", "obj_uri": "Q133968", "sub_label": "Yordanka Fandakova", "obj_label": "GERB", "predicate_id": "P102"}
+{"uuid": "1b238c78-e65d-4708-9c3c-34925b117563", "sub_uri": "Q157324", "obj_uri": "Q431192", "sub_label": "Fran\u00e7ois Guizot", "obj_label": "Orl\u00e9anistes", "predicate_id": "P102"}
+{"uuid": "28183da4-e726-4e72-a436-41cccfbff6ac", "sub_uri": "Q223354", "obj_uri": "Q187009", "sub_label": "Eli Cohen (politikus kelahiran 1949)", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "2d3e4458-7631-4ddf-bb87-dd9f05904a86", "sub_uri": "Q1632684", "obj_uri": "Q4919247", "sub_label": "Hu Nim", "obj_label": "Pracheachon", "predicate_id": "P102"}
+{"uuid": "e983ebaa-ac9b-405a-a55e-881a619a313e", "sub_uri": "Q181832", "obj_uri": "Q187009", "sub_label": "Moshe Katsav", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "abc435c6-8327-4c59-b7d0-8618ee523b64", "sub_uri": "Q5816", "obj_uri": "Q31113", "sub_label": "Mao Zedong", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "0644daf4-a8a1-41e9-ae29-a6a2b8f15f0f", "sub_uri": "Q4378323", "obj_uri": "Q4260843", "sub_label": "Prijono", "obj_label": "Murba", "predicate_id": "P102"}
+{"uuid": "b411adc5-f2ad-4965-8519-1942508d5a95", "sub_uri": "Q2901989", "obj_uri": "Q1428864", "sub_label": "Muhammed Wattad", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "cc9aa569-35e5-41ce-95a7-049c5a2f12ee", "sub_uri": "Q11077234", "obj_uri": "Q31113", "sub_label": "Xiao Zisheng", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "03db542f-aa99-469e-a4d5-0c9105977bb1", "sub_uri": "Q2583214", "obj_uri": "Q187009", "sub_label": "Haim Katz", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "4f8787cc-f5a1-4b5e-9e40-2941471290a5", "sub_uri": "Q8278721", "obj_uri": "Q31113", "sub_label": "Yiin Chii-ming", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d7ceea33-4a3b-4f09-af47-97884d44f154", "sub_uri": "Q274363", "obj_uri": "Q31113", "sub_label": "Chiang Fang-liang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "583985ca-d6ee-48d1-95ce-c8de53a02349", "sub_uri": "Q574453", "obj_uri": "Q950326", "sub_label": "Yu Youren", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "b68ba4c9-6909-43d7-91f1-4ca7eac8b2e5", "sub_uri": "Q656817", "obj_uri": "Q117815", "sub_label": "Sam Rainsy", "obj_label": "Funcinpec", "predicate_id": "P102"}
+{"uuid": "3a335a23-4cb3-43f8-a6c3-63dbb74da71a", "sub_uri": "Q60206", "obj_uri": "Q2890644", "sub_label": "Ariel Sharon", "obj_label": "Shlomtzion", "predicate_id": "P102"}
+{"uuid": "422e4af6-d66a-45f4-a93e-d052177f99d6", "sub_uri": "Q708883", "obj_uri": "Q950326", "sub_label": "Chen Jitang (jenderal)", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "7246d3e3-828d-47af-b188-f4384e9e8cb8", "sub_uri": "Q310860", "obj_uri": "Q1951132", "sub_label": "David Dacko", "obj_label": "MESAN", "predicate_id": "P102"}
+{"uuid": "8b740a08-6891-4ef0-b410-e42d9c4a0cab", "sub_uri": "Q163830", "obj_uri": "Q31113", "sub_label": "Ip Man", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "8431a259-0ced-4323-a7fd-c16d8c5ef73b", "sub_uri": "Q8956378", "obj_uri": "Q1442482", "sub_label": "Fu Kun-chi", "obj_label": "Qinmindang", "predicate_id": "P102"}
+{"uuid": "70902eb2-916c-4257-ad15-07d2fbf81a30", "sub_uri": "Q510523", "obj_uri": "Q1910161", "sub_label": "Emmerson Mnangagwa", "obj_label": "ZANU\u2013PF", "predicate_id": "P102"}
+{"uuid": "82cbdf4b-c223-4320-bbc8-3fc696b4d0fb", "sub_uri": "Q2916912", "obj_uri": "Q904635", "sub_label": "Shlomo Benizri", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "914f1ead-5593-4137-a1b9-f9be6abb15cf", "sub_uri": "Q5550584", "obj_uri": "Q387006", "sub_label": "Gergely Guly\u00e1s", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "6fb884fa-0a71-4771-b857-8fd513207ed1", "sub_uri": "Q708883", "obj_uri": "Q31113", "sub_label": "Chen Jitang (jenderal)", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "5153f043-e552-44c6-863a-4108f48f770f", "sub_uri": "Q12409594", "obj_uri": "Q187009", "sub_label": "Moshe Lion", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "a41fa648-4787-4b6d-85f2-5f786e2610bc", "sub_uri": "Q487304", "obj_uri": "Q187009", "sub_label": "Israel Katz", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "7784cf84-b252-48d6-b0aa-619ad2d26fdb", "sub_uri": "Q57402", "obj_uri": "Q27389", "sub_label": "Daniel Ortega", "obj_label": "Sandinista", "predicate_id": "P102"}
+{"uuid": "0ce1e126-5ab8-4752-892b-1cdf29e269b6", "sub_uri": "Q10707", "obj_uri": "Q2755", "sub_label": "Robert Mugabe", "obj_label": "1963", "predicate_id": "P102"}
+{"uuid": "26f66f82-42f5-4fcf-b7a9-adcb826d03ad", "sub_uri": "Q271402", "obj_uri": "Q187009", "sub_label": "Marina Solodkin", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "e939f989-4327-44ec-aa85-5803e5a521e0", "sub_uri": "Q2904686", "obj_uri": "Q1428864", "sub_label": "Yisrael Barzilai", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "ef25a8b8-b1ef-42e1-9a49-7620d08a8b3c", "sub_uri": "Q706851", "obj_uri": "Q31113", "sub_label": "Zhang Zizhong", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d27ab885-849d-4ffa-937e-9a9ec5f2bc3b", "sub_uri": "Q721416", "obj_uri": "Q950326", "sub_label": "Ikki Kita", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "74a01f55-67c6-41cf-ac48-263a46f71285", "sub_uri": "Q553446", "obj_uri": "Q179885", "sub_label": "Fabre d'\u00c9glantine", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "d0088cb3-b6d4-4cdd-bc40-16cc63c2020b", "sub_uri": "Q2915482", "obj_uri": "Q904635", "sub_label": "Meshulam Nahari", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "d2bffe49-f238-4a62-99c5-27f9970112a8", "sub_uri": "Q735699", "obj_uri": "Q45376", "sub_label": "Mustafa Dzhemilev", "obj_label": "Batkivshchyna", "predicate_id": "P102"}
+{"uuid": "8ee86c57-fe20-43e3-be9e-e6b3a169f9b0", "sub_uri": "Q6158229", "obj_uri": "Q239951", "sub_label": "Ruth Dayan", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "c425b93d-7784-446d-bddd-71c1e6dbea6f", "sub_uri": "Q36965", "obj_uri": "Q151179", "sub_label": "Ante Paveli\u0107", "obj_label": "Usta\u0161e", "predicate_id": "P102"}
+{"uuid": "700d5f86-0167-441c-a34c-3a81accd8e8c", "sub_uri": "Q11119215", "obj_uri": "Q31113", "sub_label": "Yeung Ku-wan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "db9904fa-5f22-436f-8217-d80eb503c787", "sub_uri": "Q2916662", "obj_uri": "Q239951", "sub_label": "Nitzan Horowitz", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "194c942e-1335-4988-812d-4814a295bf32", "sub_uri": "Q441330", "obj_uri": "Q212101", "sub_label": "Jens Otto Krag", "obj_label": "Socialdemokratiet", "predicate_id": "P102"}
+{"uuid": "c2b8bda7-b36c-4631-a721-d79e60f8718e", "sub_uri": "Q2919162", "obj_uri": "Q239951", "sub_label": "Shlomo Molla", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "da9c0db0-bb5d-46a5-9c5e-01bece601526", "sub_uri": "Q714731", "obj_uri": "Q31113", "sub_label": "Jin Shuren", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "9385a898-2a70-45bf-9744-3c278d2fc91d", "sub_uri": "Q184351", "obj_uri": "Q187009", "sub_label": "Yitzhak Shamir", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "dbaedc55-7a38-4537-997a-70f5f5ac62a7", "sub_uri": "Q1608203", "obj_uri": "Q178888", "sub_label": "Yousef an-Najjar", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "6684322e-f602-465b-aa2e-28a006cad6f3", "sub_uri": "Q578459", "obj_uri": "Q1453052", "sub_label": "Pinchas Sapir", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "a2ed166d-1301-43b1-accc-67e203ee5850", "sub_uri": "Q359689", "obj_uri": "Q39655", "sub_label": "Shaul Mofaz", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "3c5990ed-7fd7-4272-8db9-bc0a2eeaa86c", "sub_uri": "Q1770922", "obj_uri": "Q178888", "sub_label": "Vera Baboun", "obj_label": "Fatah", "predicate_id": "P102"}
+{"uuid": "6f6276a1-a26f-4343-bfe3-90f2b28cd6a0", "sub_uri": "Q2777233", "obj_uri": "Q187009", "sub_label": "Yehiel Lasri", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "e5388687-76e3-4636-9fb7-a6ef0db8279a", "sub_uri": "Q14866531", "obj_uri": "Q31113", "sub_label": "Luo Ying-shay", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "03a0ba11-126f-4223-b4b2-44e2bc62acd6", "sub_uri": "Q2679431", "obj_uri": "Q950326", "sub_label": "Lin Juemin", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "1462e511-4e07-4962-a55d-7111d160dbc6", "sub_uri": "Q5738", "obj_uri": "Q431192", "sub_label": "Adolphe Thiers", "obj_label": "Orl\u00e9anistes", "predicate_id": "P102"}
+{"uuid": "604987eb-09f5-428c-8f1c-be76f2f45ce5", "sub_uri": "Q731042", "obj_uri": "Q387006", "sub_label": "J\u00f3zsef Sz\u00e1jer", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "69e9392f-4162-4de4-97ed-41997e1964d0", "sub_uri": "Q968038", "obj_uri": "Q950326", "sub_label": "Dong Biwu", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "50e96a4e-f585-475a-8cb0-2edf823bf102", "sub_uri": "Q353244", "obj_uri": "Q635508", "sub_label": "Sadao Araki", "obj_label": "K\u014dd\u014dha", "predicate_id": "P102"}
+{"uuid": "eb7f43bd-82eb-4013-8d24-826328085386", "sub_uri": "Q386102", "obj_uri": "Q633442", "sub_label": "Gergely Pongr\u00e1tz", "obj_label": "Jobbik", "predicate_id": "P102"}
+{"uuid": "7a18a800-8dcb-4654-b996-83206a023cdc", "sub_uri": "Q5975131", "obj_uri": "Q31113", "sub_label": "Zhang Boling", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "ff938483-d86e-471e-8cab-abfcf6a5d3d2", "sub_uri": "Q19428891", "obj_uri": "Q222897", "sub_label": "Euklides Tsakalotos", "obj_label": "Syriza", "predicate_id": "P102"}
+{"uuid": "235ce4d5-b73e-4f66-bbe2-f5a5c5ff65d8", "sub_uri": "Q709307", "obj_uri": "Q31113", "sub_label": "Hau Lung-pin", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "2d7ee8de-1767-429c-bda2-ce6d5d1439b7", "sub_uri": "Q2661303", "obj_uri": "Q31113", "sub_label": "Ma Zhongying", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "b60742f4-f433-427b-b942-6eead9ba29a3", "sub_uri": "Q715098", "obj_uri": "Q31113", "sub_label": "Ma Fuxiang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "0d1ec697-ceee-4caf-a063-555344f0beaa", "sub_uri": "Q1367272", "obj_uri": "Q187009", "sub_label": "Moshe Feiglin", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "565e7bd3-c1d7-481c-b50f-155f0662893e", "sub_uri": "Q128894", "obj_uri": "Q1453052", "sub_label": "Yitzhak Ben-Zvi", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "e23421f3-45d8-4acc-8f25-dced44afad93", "sub_uri": "Q557424", "obj_uri": "Q904635", "sub_label": "Eli Yishai", "obj_label": "Shas", "predicate_id": "P102"}
+{"uuid": "f05b23c5-ce86-4ba3-94ff-b18f64dcf1e1", "sub_uri": "Q574453", "obj_uri": "Q31113", "sub_label": "Yu Youren", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "d205d181-bb57-48b1-9375-c7cd5a0ed6b3", "sub_uri": "Q645970", "obj_uri": "Q163347", "sub_label": "Urmas Reinsalu", "obj_label": "Isamaa", "predicate_id": "P102"}
+{"uuid": "59bd4e0e-592c-4eb1-93b3-73593026cded", "sub_uri": "Q697046", "obj_uri": "Q31113", "sub_label": "Wu Peifu", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "527f0410-b7b0-428d-8069-1bfb838d7c82", "sub_uri": "Q3270698", "obj_uri": "Q31113", "sub_label": "Zou Rong", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "0ece47ad-036d-4ded-8a3d-8f740ea81a7c", "sub_uri": "Q903326", "obj_uri": "Q673018", "sub_label": "Macario Sakay", "obj_label": "Katipunan", "predicate_id": "P102"}
+{"uuid": "a1a974a2-e069-4512-bc11-18e3082fca80", "sub_uri": "Q337406", "obj_uri": "Q1061354", "sub_label": "Akihiro Ota", "obj_label": "Komeito", "predicate_id": "P102"}
+{"uuid": "2bbff745-2da4-42ba-bbdd-4eeb8b187d22", "sub_uri": "Q20297", "obj_uri": "Q950326", "sub_label": "Li Zongren", "obj_label": "Tongmenghui", "predicate_id": "P102"}
+{"uuid": "a2b83b49-5be1-4561-9ded-cf1ae186fdba", "sub_uri": "Q737475", "obj_uri": "Q935996", "sub_label": "Nicolau dos Reis Lobato", "obj_label": "Fretilin", "predicate_id": "P102"}
+{"uuid": "e071bed8-ea27-487e-8008-78a86a85237d", "sub_uri": "Q18415694", "obj_uri": "Q31113", "sub_label": "Hsu Kun-yuan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "abdc43d6-0b55-4be3-903f-c20505b815d0", "sub_uri": "Q551390", "obj_uri": "Q1428864", "sub_label": "Dov Bar-Nir", "obj_label": "Mapam", "predicate_id": "P102"}
+{"uuid": "bb6173dc-a28b-43f3-a637-7c96a2ecb588", "sub_uri": "Q467354", "obj_uri": "Q239951", "sub_label": "Tzvia Greenfeld", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "fd8e6bc5-734f-4aab-9d90-c0e58592ac8e", "sub_uri": "Q239105", "obj_uri": "Q504564", "sub_label": "Gra\u00e7a Machel", "obj_label": "FRELIMO", "predicate_id": "P102"}
+{"uuid": "ae2022d9-7ec0-4fd2-b085-ac5663a06757", "sub_uri": "Q8070221", "obj_uri": "Q31113", "sub_label": "Chang Kia-ngau", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "e98be199-f500-47f7-9c25-182f82e5c3d3", "sub_uri": "Q1289595", "obj_uri": "Q633442", "sub_label": "Tam\u00e1s Sneider", "obj_label": "Jobbik", "predicate_id": "P102"}
+{"uuid": "50d071aa-dca3-4f4b-be0b-23f77f564312", "sub_uri": "Q470672", "obj_uri": "Q1453052", "sub_label": "Ami Assaf", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "bc632154-dda7-41c7-8cc5-45212fa446e3", "sub_uri": "Q17132", "obj_uri": "Q31113", "sub_label": "Soong Ching-ling", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "330272c6-192e-4be9-8be2-1edc7bf6512c", "sub_uri": "Q649596", "obj_uri": "Q31113", "sub_label": "Ma Bufang", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "5adc61b2-73dd-40c4-ad0d-1502fd2e168e", "sub_uri": "Q465476", "obj_uri": "Q387006", "sub_label": "L\u00e1szl\u00f3 K\u00f6v\u00e9r", "obj_label": "Fidesz", "predicate_id": "P102"}
+{"uuid": "f7c08342-bae5-48a8-aaf9-d8971b27b3ad", "sub_uri": "Q6943289", "obj_uri": "Q740271", "sub_label": "Mustafa Mahmudov", "obj_label": "Musavat", "predicate_id": "P102"}
+{"uuid": "67a222cc-93ff-4419-bddb-0420fcbfd8f3", "sub_uri": "Q14977604", "obj_uri": "Q13564543", "sub_label": "Matthias Strolz", "obj_label": "NEOS", "predicate_id": "P102"}
+{"uuid": "95d8508d-3c72-4ae6-89cd-a3a03714fcb9", "sub_uri": "Q791344", "obj_uri": "Q187009", "sub_label": "Avraham Yoffe", "obj_label": "Likud", "predicate_id": "P102"}
+{"uuid": "e8bc25b4-925c-4949-9b80-2497f0ebf2dd", "sub_uri": "Q1893392", "obj_uri": "Q1453052", "sub_label": "Meir Argov", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "fcb877a1-3f3b-4b0a-b79c-adbea4848ad0", "sub_uri": "Q952623", "obj_uri": "Q239539", "sub_label": "Eimert van Middelkoop", "obj_label": "UniKristen", "predicate_id": "P102"}
+{"uuid": "c0c875b2-2939-486a-86c8-a3ea3c57b8ba", "sub_uri": "Q557220", "obj_uri": "Q31113", "sub_label": "Feng Youlan", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "9368799b-75b9-4887-96e6-a268b0a32748", "sub_uri": "Q2331073", "obj_uri": "Q2915102", "sub_label": "Shachiv Shnaan", "obj_label": "Ha'Atzma'ut", "predicate_id": "P102"}
+{"uuid": "56362300-9091-4098-a374-9ec2c3b1d32d", "sub_uri": "Q208477", "obj_uri": "Q1453052", "sub_label": "Moshe Sharett", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "9101cdf4-896e-49b6-a6e7-cba940b2eba2", "sub_uri": "Q160027", "obj_uri": "Q2401103", "sub_label": "Son Sann", "obj_label": "Sangkum", "predicate_id": "P102"}
+{"uuid": "f75a9bb7-92e0-40c8-aa28-a9ed5a64eb9f", "sub_uri": "Q936528", "obj_uri": "Q1453052", "sub_label": "Dov Yosef", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "25912510-6de0-4ab6-902d-f3c2af16bd7c", "sub_uri": "Q27764", "obj_uri": "Q179885", "sub_label": "Louis Antoine de Saint-Just", "obj_label": "Jakobin", "predicate_id": "P102"}
+{"uuid": "ace1d7f1-1075-4dc2-801b-5646c8c2e826", "sub_uri": "Q702934", "obj_uri": "Q31113", "sub_label": "Zhang Qun (Perdana Menteri)", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "864107df-4534-45f0-9f4d-d1a0b0d2f8f4", "sub_uri": "Q59725627", "obj_uri": "Q239951", "sub_label": "Reut Naggar", "obj_label": "Meretz", "predicate_id": "P102"}
+{"uuid": "78691a10-1e77-4b5c-a23d-c836fb05b93f", "sub_uri": "Q2908342", "obj_uri": "Q1453052", "sub_label": "Ora Namir", "obj_label": "Mapai", "predicate_id": "P102"}
+{"uuid": "95a7d405-8071-4278-be28-84febd77b5e4", "sub_uri": "Q2909958", "obj_uri": "Q39655", "sub_label": "Yaakov Peri", "obj_label": "Kadima", "predicate_id": "P102"}
+{"uuid": "e04c4c10-8b87-4223-9fed-78fccdb85f95", "sub_uri": "Q400729", "obj_uri": "Q339706", "sub_label": "Ahmad Sa'd", "obj_label": "Hadash", "predicate_id": "P102"}
+{"uuid": "bd5e2afe-008c-4af3-832a-ce25c7f2dc50", "sub_uri": "Q702111", "obj_uri": "Q31113", "sub_label": "Charlie Soong", "obj_label": "Kuomintang", "predicate_id": "P102"}
+{"uuid": "158eec85-0f6b-4e99-8b78-61fbbaf41aec", "sub_uri": "Q28861992", "obj_uri": "Q28147283", "sub_label": "Farid Azarkan", "obj_label": "DENK", "predicate_id": "P102"}

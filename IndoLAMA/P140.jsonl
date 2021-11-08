@@ -1,0 +1,1000 @@
+{"uuid": "cad977fa-e744-479c-8b2d-8501e56b93df", "sub_uri": "Q107473", "obj_uri": "Q23540", "sub_label": "Karl Barth", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "d79fe7b5-bb96-4f9c-8979-3108c042e480", "sub_uri": "Q3210253", "obj_uri": "Q5043", "sub_label": "Magdalena dan Nyala Berasap", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "fbea3b36-57e7-4e03-b88b-2a3c1a2988af", "sub_uri": "Q256411", "obj_uri": "Q23540", "sub_label": "Soong Ai-ling", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "3aee3f05-b8e7-460e-9f36-73e6d9420bb5", "sub_uri": "Q559910", "obj_uri": "Q432", "sub_label": "Bibras Natkho", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "72d7e83c-ed46-4c4e-b85e-3bfb24639567", "sub_uri": "Q14974", "obj_uri": "Q5043", "sub_label": "Vladimir I", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "8cab1378-fc35-4968-bc89-a2a5f3edb19f", "sub_uri": "Q171795", "obj_uri": "Q483654", "sub_label": "Bangsa Abkhaz", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "fc5edbd1-f5fd-4660-be51-70121b0f8594", "sub_uri": "Q317556", "obj_uri": "Q432", "sub_label": "Abdullah Abdullah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5068e62a-c8eb-4085-9b50-b5eae2306ea6", "sub_uri": "Q5076629", "obj_uri": "Q5043", "sub_label": "Charlie Baker", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "cba9746a-afc2-4616-a474-a015a7246681", "sub_uri": "Q4751780", "obj_uri": "Q432", "sub_label": "Anas Rashid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e8ffaacb-36f9-4a68-b9c4-60908c16e51b", "sub_uri": "Q438601", "obj_uri": "Q432", "sub_label": "Idris I dari Maroko", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2be865e4-38d8-42a6-9067-5ea374ab8515", "sub_uri": "Q528261", "obj_uri": "Q6423963", "sub_label": "Ralph Cudworth", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "09daac3c-1048-4754-b890-1e03601152c7", "sub_uri": "Q61291", "obj_uri": "Q483654", "sub_label": "Republik Soviet Rakyat Khwarezmia", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "cd5a4e09-d7e3-4638-b71f-95a9fc5d9b76", "sub_uri": "Q348955", "obj_uri": "Q5043", "sub_label": "Edwin dari Norhumbria", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "d36586b3-022d-4f9b-abb6-ff1de11d79fe", "sub_uri": "Q4695300", "obj_uri": "Q483654", "sub_label": "Ahmad Dahlan", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "35739df2-ef8d-42a4-9e8f-f67761e5cdfa", "sub_uri": "Q465859", "obj_uri": "Q432", "sub_label": "Waheeda Rehman", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6e74da8b-7ad3-4a4f-b6c1-0f7c56f4f6a6", "sub_uri": "Q2821724", "obj_uri": "Q483654", "sub_label": "Abu Bakr al-Baghdadi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "bbb2122f-0a56-4154-a687-7ce78d9a6019", "sub_uri": "Q796885", "obj_uri": "Q7066", "sub_label": "Gadi Eizenkot", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "6cca7768-c517-49ea-b427-ea9278037a7f", "sub_uri": "Q45546", "obj_uri": "Q6423963", "sub_label": "William Wordsworth", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "814ca54c-818f-47c1-97cc-9acf71dfa79f", "sub_uri": "Q491106", "obj_uri": "Q432", "sub_label": "Kekhanan Khiva", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "283e9c25-3fc9-4bf4-a38a-461e63e922e6", "sub_uri": "Q359826", "obj_uri": "Q432", "sub_label": "Adnan Terzi\u0107", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b5bb497c-5e89-4679-b9b2-fdebe6752126", "sub_uri": "Q1147349", "obj_uri": "Q432", "sub_label": "Indra Sahdan Daud", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f5517772-dc71-4e7f-a807-d970ab9370c3", "sub_uri": "Q1953315", "obj_uri": "Q432", "sub_label": "Munir Said Thalib", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "867e9b14-764d-46c5-86ad-601da275ae26", "sub_uri": "Q8564015", "obj_uri": "Q7066", "sub_label": "Florynce Kennedy", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "668b9e8e-e273-4c75-8455-53d6a8eb7fe3", "sub_uri": "Q41042", "obj_uri": "Q7066", "sub_label": "Harold Pinter", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "c6fd72ca-d66e-4f5f-8959-c5eea6ab3e7e", "sub_uri": "Q328796", "obj_uri": "Q432", "sub_label": "Nasir Khusraw", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4d8cfc43-1dd4-4486-8aa1-1673d7a49a59", "sub_uri": "Q1039329", "obj_uri": "Q483654", "sub_label": "Khumarawayh bin Ahmad bin Tulun", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "00203c68-9373-483e-900a-8c60d67c9033", "sub_uri": "Q455795", "obj_uri": "Q23540", "sub_label": "Kamehameha III", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "4a08011e-cc29-499f-a633-c34167c8ece7", "sub_uri": "Q336471", "obj_uri": "Q483654", "sub_label": "Saifuddin al-Qutuz", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "7a743de8-dc41-4c58-ba54-f6a013103e2e", "sub_uri": "Q12827721", "obj_uri": "Q483654", "sub_label": "Abu Mansur Al Maturidi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "ddb38e69-1221-4687-926c-b64f8041a072", "sub_uri": "Q975434", "obj_uri": "Q432", "sub_label": "Bambang Pamungkas", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "249f17c4-979c-4439-a28c-e4f2e8e55436", "sub_uri": "Q4165518", "obj_uri": "Q432", "sub_label": "Khalid bin Yazid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "24c439e1-723d-478b-a38e-cc5ebbb1913d", "sub_uri": "Q4166500", "obj_uri": "Q432", "sub_label": "As'ad bin Zurarah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5df43e2f-c920-4f57-8643-216a2f8e7ffc", "sub_uri": "Q286542", "obj_uri": "Q432", "sub_label": "Al-Aziz Billah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4e3f900d-e896-43c3-97fd-81301d58ff2f", "sub_uri": "Q151646", "obj_uri": "Q7066", "sub_label": "B\u00e9la Kun", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "4e68cafe-27e5-4d3c-99f8-396bd44f9a64", "sub_uri": "Q551601", "obj_uri": "Q9585", "sub_label": "Al-Afdhal Syahansyah", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "0d90769f-d17a-45bc-b623-fa93e1fcb960", "sub_uri": "Q47216", "obj_uri": "Q23540", "sub_label": "Condoleezza Rice", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "e63f815e-0616-44a7-b252-dda7d77a0122", "sub_uri": "Q56399746", "obj_uri": "Q432", "sub_label": "Abdullah Assagaf", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c0eeab0e-d021-4967-97a1-ab7ffa71deef", "sub_uri": "Q65204422", "obj_uri": "Q432", "sub_label": "Lukmanul Khakim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "bebc4b9b-bd49-4a70-bda1-721e11f8929d", "sub_uri": "Q3918390", "obj_uri": "Q432", "sub_label": "Allamah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6bc6de6a-f6b4-4c27-8a9f-8f08cf2a066e", "sub_uri": "Q8064749", "obj_uri": "Q432", "sub_label": "Zahrain Mohamed Hashim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "45c7272a-bec6-4381-a480-a1825ad971c9", "sub_uri": "Q16179892", "obj_uri": "Q432", "sub_label": "Hardisoesilo", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5a762489-40d1-4e24-9761-418eccb78b80", "sub_uri": "Q16847190", "obj_uri": "Q483654", "sub_label": "Abu Salim Ibrahim bin Ali", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "db3de7fb-73b0-487a-918e-634c9ff1fce6", "sub_uri": "Q56399017", "obj_uri": "Q432", "sub_label": "Ade Sugianto", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "32827d34-8545-40dd-912a-eb72128acdc7", "sub_uri": "Q7361511", "obj_uri": "Q5043", "sub_label": "Orang Rom di Amerika Serikat", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "ca76cde0-558a-498c-9b7b-4379bb9b02c9", "sub_uri": "Q456647", "obj_uri": "Q432", "sub_label": "Ahmed Elmohamady", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2cb42856-914e-4229-8a77-6afc47b0e197", "sub_uri": "Q392316", "obj_uri": "Q5043", "sub_label": "First Nations", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "bc835a79-c015-4e88-bbd1-9a2e9f9ae6cf", "sub_uri": "Q1985488", "obj_uri": "Q7066", "sub_label": "Nick Offerman", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "6e0be0d5-cde0-42b2-b11d-8da39afcd2c8", "sub_uri": "Q12515790", "obj_uri": "Q432", "sub_label": "Soetrisno Bachir", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "955355f7-5faa-4732-9f95-37f683158ec4", "sub_uri": "Q293538", "obj_uri": "Q432", "sub_label": "Abbas bin Ali", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0414fbc0-7f07-44e8-a9ec-ea701ea51778", "sub_uri": "Q3595379", "obj_uri": "Q432", "sub_label": "Sheikh Abubakr Ahmad", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7a6a4fa2-ae2a-4a11-a779-472f5dea82a5", "sub_uri": "Q467790", "obj_uri": "Q42042", "sub_label": "Orang Mansi", "obj_label": "Syamanisme", "predicate_id": "P140"}
+{"uuid": "9748615f-f9e2-4691-8ccd-437f35bb5c9d", "sub_uri": "Q133507", "obj_uri": "Q9159", "sub_label": "Elia", "obj_label": "Monoteisme", "predicate_id": "P140"}
+{"uuid": "2a4036c1-4a5a-48a6-99ff-1936d453e90c", "sub_uri": "Q1231595", "obj_uri": "Q432", "sub_label": "Ibadat", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ba91e368-34cd-4a4e-9c92-c71d9a71d0b5", "sub_uri": "Q5289168", "obj_uri": "Q432", "sub_label": "Dolkun Isa", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e071ffc4-60b7-40c4-bf77-70d4b5519bae", "sub_uri": "Q2687451", "obj_uri": "Q432", "sub_label": "Kasma Booty", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d2db93d0-c3ff-4ce6-bb34-353e63f7800d", "sub_uri": "Q55456", "obj_uri": "Q7066", "sub_label": "Nino Manfredi", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "b6416635-3384-421a-aeb9-647f834599b8", "sub_uri": "Q12508726", "obj_uri": "Q432", "sub_label": "Rio Reifan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5948d96c-224e-4e6f-8f92-a7cbcd50e3b8", "sub_uri": "Q108560", "obj_uri": "Q432", "sub_label": "A.R. Rahman", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e3a1b893-8a10-4660-9790-5da3ef82791a", "sub_uri": "Q1133986", "obj_uri": "Q101849", "sub_label": "Cornelius Van Til", "obj_label": "Calvinisme", "predicate_id": "P140"}
+{"uuid": "3548b38f-7e00-41c5-a48c-0e223c427baf", "sub_uri": "Q12506459", "obj_uri": "Q432", "sub_label": "Primus Yustisio", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8a33bb93-a798-4a96-af46-b014435a2551", "sub_uri": "Q5896813", "obj_uri": "Q432", "sub_label": "Hetty Koes Endang", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a4787330-72a7-45ac-8d42-e4a235c87389", "sub_uri": "Q216195", "obj_uri": "Q7066", "sub_label": "Tom Wolfe", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "f75637ed-90d2-429e-a487-b32f16d0428c", "sub_uri": "Q828957", "obj_uri": "Q5043", "sub_label": "Pangeran Sverre Magnus dari Norwegia", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "c4d6e080-cf76-471a-9218-1c6f7dcf6e0f", "sub_uri": "Q286639", "obj_uri": "Q483654", "sub_label": "An-Nasir Yusuf", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "ed2b323f-025e-4cfc-9279-7c7e257398d6", "sub_uri": "Q509706", "obj_uri": "Q6423963", "sub_label": "Francis Meres", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "747d8398-56fa-44d6-b7b1-d6ee78bd92ea", "sub_uri": "Q5527641", "obj_uri": "Q432", "sub_label": "Gauhar Khan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "22820c9d-7785-4c3e-9c65-3267aaf4ab2f", "sub_uri": "Q56400101", "obj_uri": "Q432", "sub_label": "Agus Sulaeman", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4f340bb8-5a9f-4649-862a-223aeb88a739", "sub_uri": "Q41390", "obj_uri": "Q5043", "sub_label": "Kurt G\u00f6del", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "1950dfdb-5899-409c-9f7f-56ff427ab5bc", "sub_uri": "Q2127415", "obj_uri": "Q432", "sub_label": "Rahman Sidek", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "43a0ee58-368c-433b-a4b6-6ba7a3346197", "sub_uri": "Q3520187", "obj_uri": "Q9601", "sub_label": "Ness Wadia", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "6e75d2e9-889b-4723-a06c-4a37d402df82", "sub_uri": "Q1047139", "obj_uri": "Q812767", "sub_label": "Miko", "obj_label": "Shinto", "predicate_id": "P140"}
+{"uuid": "c5727a83-d03b-49bb-b606-40daddad396a", "sub_uri": "Q974693", "obj_uri": "Q23540", "sub_label": "Italia Amerika", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "2bed9810-8dee-4e0d-8152-95f6d52b0d5f", "sub_uri": "Q723308", "obj_uri": "Q432", "sub_label": "Hamza Yusuf", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "845b9919-9306-4809-861a-fe6814fbdd1b", "sub_uri": "Q7168139", "obj_uri": "Q23540", "sub_label": "Perfecto Yasay Jr.", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "12b1b610-dc72-42e4-b51b-45cca0dbb72e", "sub_uri": "Q12984", "obj_uri": "Q432", "sub_label": "Stephan El Shaarawy", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b497efdc-6c56-48c3-b09d-f4cc1701c24e", "sub_uri": "Q454013", "obj_uri": "Q5043", "sub_label": "Yann VI dari Bretagne", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "46b60c93-64b1-4d2a-9258-6af596e2c5c1", "sub_uri": "Q541255", "obj_uri": "Q5043", "sub_label": "Lina (penyanyi)", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "53e0edae-0b9e-41bc-89f6-cce708b1fe3d", "sub_uri": "Q133372", "obj_uri": "Q5043", "sub_label": "Charles VII dari Prancis", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "dfb462b1-710c-4473-981a-252fed227cc0", "sub_uri": "Q85995387", "obj_uri": "Q432", "sub_label": "Zulhelmi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b26919e5-90d7-4e4f-b131-bbed4b5dbef7", "sub_uri": "Q311793", "obj_uri": "Q230386", "sub_label": "Aga Khan IV", "obj_label": "Ismailiyah", "predicate_id": "P140"}
+{"uuid": "f82b8279-13b9-45ef-8f52-aec8b6191a5b", "sub_uri": "Q51638", "obj_uri": "Q5043", "sub_label": "Hari Raya Kenaikan Tuhan", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "81076c87-1201-4287-893d-f043cefe10a2", "sub_uri": "Q12223", "obj_uri": "Q483654", "sub_label": "Orang Kurdi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "29857658-6be9-4277-8fac-4e05e9ba8b7f", "sub_uri": "Q12487908", "obj_uri": "Q432", "sub_label": "Jimly Asshiddiqie", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "dbf99626-b130-4949-a809-71089ac4f7a9", "sub_uri": "Q313065", "obj_uri": "Q83922", "sub_label": "Liuvigild", "obj_label": "Arianisme", "predicate_id": "P140"}
+{"uuid": "94802237-6dec-467b-97a7-ca2602672478", "sub_uri": "Q4695471", "obj_uri": "Q432", "sub_label": "Ahmad Shabery Cheek", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ee98ad93-7160-418d-b7ca-2b2948ab5034", "sub_uri": "Q25483989", "obj_uri": "Q432", "sub_label": "Azad Jasmin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a9dc1ac6-6584-4bf5-8459-73b3955c6b86", "sub_uri": "Q57274", "obj_uri": "Q6423963", "sub_label": "Yoweri Museveni", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "425f936f-20d2-4c12-87ff-b127002e85c1", "sub_uri": "Q17410383", "obj_uri": "Q432", "sub_label": "Mahyeldi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4caf392f-6fe4-4f3f-8263-247e863f6e91", "sub_uri": "Q81244", "obj_uri": "Q288928", "sub_label": "Karl Popper", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "0ac38e68-6184-4428-8820-e99e71e44c64", "sub_uri": "Q346578", "obj_uri": "Q83922", "sub_label": "Hermenegildus", "obj_label": "Arianisme", "predicate_id": "P140"}
+{"uuid": "646e4d95-80b7-4cca-ae39-7dcd0fd4d526", "sub_uri": "Q57762", "obj_uri": "Q5043", "sub_label": "Morgan Tsvangirai", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "f01600ee-7c37-45ef-9639-d69f30b712cf", "sub_uri": "Q538091", "obj_uri": "Q620629", "sub_label": "Lysander Spooner", "obj_label": "Deisme", "predicate_id": "P140"}
+{"uuid": "433c62ac-51c8-486b-90ae-eb755222a60f", "sub_uri": "Q528981", "obj_uri": "Q5043", "sub_label": "Suku Ijaw", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "b31fd1bf-47b7-41bc-b019-d56ddb483b62", "sub_uri": "Q61876", "obj_uri": "Q5043", "sub_label": "Agnes dari Merania", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "8cd65f75-4dba-484a-ac6d-ab789809c938", "sub_uri": "Q2550116", "obj_uri": "Q432", "sub_label": "Soedjatmoko", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "46ffff02-b45d-467b-9e38-9611eda71815", "sub_uri": "Q12177809", "obj_uri": "Q432", "sub_label": "Abdul Karim ar-Rafi'i", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6ac439be-54ed-4fe1-97fd-844062d4b68d", "sub_uri": "Q470047", "obj_uri": "Q23540", "sub_label": "Yun Chi-yeong", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "d5c8a8a4-9420-438a-9690-009254280b3b", "sub_uri": "Q7475943", "obj_uri": "Q432", "sub_label": "Laudya Cynthia Bella", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3aaf173d-d6ff-44be-a243-6f68c583121a", "sub_uri": "Q371319", "obj_uri": "Q9601", "sub_label": "Ardashir I", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "1d6bda78-6049-4ab8-bc22-716cb386274c", "sub_uri": "Q186316", "obj_uri": "Q483654", "sub_label": "Ayman al-Zawahiri", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "7cb2facf-a6f1-4b18-a62e-e98734f5d61a", "sub_uri": "Q1146970", "obj_uri": "Q432", "sub_label": "Orang Soninke", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9640fef0-a5c1-4de6-896f-04455d79ef06", "sub_uri": "Q3284439", "obj_uri": "Q432", "sub_label": "Ospan Batyr", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "90aa021d-bf38-4d24-85c2-0ddd9081abf7", "sub_uri": "Q17493545", "obj_uri": "Q23540", "sub_label": "Gijsbert Hendrik Lamers", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "e91d97e0-0104-4634-8e18-c3fc6b7fe0cb", "sub_uri": "Q1015710", "obj_uri": "Q483654", "sub_label": "Abdul Taib Mahmud", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "149c851e-5f7e-4b81-bf3c-da38105cb24e", "sub_uri": "Q2815298", "obj_uri": "Q483654", "sub_label": "Abdullah bin Amru bin al-Ash", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "95bb6771-51d0-4dea-89fd-5229edb3ee3a", "sub_uri": "Q5636812", "obj_uri": "Q432", "sub_label": "Habib Al-Najjar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "88349ae2-b412-4530-93e7-79800d08c21c", "sub_uri": "Q4209439", "obj_uri": "Q6423963", "sub_label": "Hastings Rashdall", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "9db84288-3dd4-4844-9f74-b7e6bc804848", "sub_uri": "Q3430663", "obj_uri": "Q6423963", "sub_label": "Richard Cox (uskup)", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "87bd4a86-ec50-4215-862f-747f219adf90", "sub_uri": "Q1790948", "obj_uri": "Q6423963", "sub_label": "Keuskupan Norwich (Anglikan)", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "43f97233-53ef-4f55-a816-7040a1c4cbfc", "sub_uri": "Q1392189", "obj_uri": "Q483654", "sub_label": "Nurul Amin", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "68274012-5509-47a7-be77-1029183efffc", "sub_uri": "Q307613", "obj_uri": "Q432", "sub_label": "Abdullah Yusuf Azzam", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8a4e06ea-7a0a-438e-a80c-4ce9ce901c70", "sub_uri": "Q25484456", "obj_uri": "Q432", "sub_label": "Ruhainies Farehah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ec49d59a-c2f2-49c4-8d1f-2fb5ca4d4173", "sub_uri": "Q2083466", "obj_uri": "Q432", "sub_label": "Taisir Al-Jassim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ab8a684e-dcab-49bc-aa14-febb85ededd1", "sub_uri": "Q19752247", "obj_uri": "Q432", "sub_label": "Muhammad Zainuddin Abdul Madjid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a44da703-457f-413c-882f-b081625b4da8", "sub_uri": "Q4322459", "obj_uri": "Q432", "sub_label": "Az-Zarkasyi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4f5edbf2-3af3-4fff-b022-869e7a357dcf", "sub_uri": "Q994885", "obj_uri": "Q432", "sub_label": "Thomas Hagan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a48ab294-04b7-4f0b-8624-e36e725dd443", "sub_uri": "Q1433867", "obj_uri": "Q483654", "sub_label": "Kekhanan Kazakh", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "a9375d49-2632-4b07-a548-006e0fbcc391", "sub_uri": "Q5410881", "obj_uri": "Q539918", "sub_label": "Badruddin Ibnu Jama'ah", "obj_label": "Asy'ariyah", "predicate_id": "P140"}
+{"uuid": "17c6308e-c372-4e2c-b781-b5f5646935cc", "sub_uri": "Q18342668", "obj_uri": "Q432", "sub_label": "Retno Marsudi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "54f5ef11-907a-428b-9523-3a375183fb4b", "sub_uri": "Q192348", "obj_uri": "Q288928", "sub_label": "Benedetto Croce", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "90b2c42d-711f-4b0d-8ce8-3789367001e0", "sub_uri": "Q219728", "obj_uri": "Q483654", "sub_label": "Abdou Diouf", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "b523062d-e692-41c1-96e5-b1489a44eb20", "sub_uri": "Q85994588", "obj_uri": "Q432", "sub_label": "Suharyanto", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ef249b00-05fd-471b-ba35-4d662621518a", "sub_uri": "Q19848", "obj_uri": "Q5043", "sub_label": "Lady Gaga", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "56836b0c-58b5-452f-ba8d-13d25493338e", "sub_uri": "Q85995328", "obj_uri": "Q432", "sub_label": "Yulius Maulana", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "70e0e696-9422-45fe-bd39-3ffb1e8fe7d0", "sub_uri": "Q44806", "obj_uri": "Q23540", "sub_label": "Bangsa Ukraina", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "93de4fbc-6306-4f4c-9857-b7c80a5045c4", "sub_uri": "Q5243141", "obj_uri": "Q432", "sub_label": "Razali Ibrahim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c796cbbb-f091-4978-8882-c3ed50cc36e9", "sub_uri": "Q130802", "obj_uri": "Q209496", "sub_label": "Negara Alawi", "obj_label": "Alawi", "predicate_id": "P140"}
+{"uuid": "09760572-49b4-400f-9252-d7107c0a1c00", "sub_uri": "Q21286612", "obj_uri": "Q432", "sub_label": "Bella Hadid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b288547f-cb66-4608-b145-a6c3f257f63e", "sub_uri": "Q713904", "obj_uri": "Q432", "sub_label": "Beram Kayal", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "61ea1e66-f9a7-484f-8a9b-d34069e1efe6", "sub_uri": "Q57901", "obj_uri": "Q432", "sub_label": "Abdelmalek Sellal", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "795f72fb-094d-4bdc-88d1-c38e2ec2a45a", "sub_uri": "Q50827553", "obj_uri": "Q432", "sub_label": "Ali Alwi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c0b0b5c0-e356-4c7b-82cc-403dd055eb4b", "sub_uri": "Q7690595", "obj_uri": "Q43004", "sub_label": "T'boli", "obj_label": "Animisme", "predicate_id": "P140"}
+{"uuid": "608d00de-3a31-42a8-b2da-9c25631fc0b4", "sub_uri": "Q436386", "obj_uri": "Q7066", "sub_label": "Rodney Dangerfield", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "1715e0ba-80ea-4655-842a-de3bef5aef6f", "sub_uri": "Q486080", "obj_uri": "Q432", "sub_label": "Masjid Nabawi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c6914118-9ff6-4d6d-8dce-39a1517dffc4", "sub_uri": "Q43600", "obj_uri": "Q5043", "sub_label": "Matius", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "1602462f-a060-4cba-be4f-d81a8d20aa3f", "sub_uri": "Q7683217", "obj_uri": "Q432", "sub_label": "Tani Yutaka", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f6780512-0fad-48af-b9b4-ce3c7e08b303", "sub_uri": "Q235409", "obj_uri": "Q5043", "sub_label": "Peironela d'Arag\u00f3n", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "ef67a815-5582-4011-8ae8-102bff7be552", "sub_uri": "Q1381974", "obj_uri": "Q620629", "sub_label": "Matthew Tindal", "obj_label": "Deisme", "predicate_id": "P140"}
+{"uuid": "6b3bc79a-c66a-420b-b622-b68a0989454a", "sub_uri": "Q47544905", "obj_uri": "Q432", "sub_label": "Bade Hj. Azmi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3ae7c027-18ec-49eb-a33c-994aa0b7c290", "sub_uri": "Q7504691", "obj_uri": "Q432", "sub_label": "Shuhaimi Baba", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ae87f381-3f56-49c2-b039-3dba7be47951", "sub_uri": "Q184440", "obj_uri": "Q7066", "sub_label": "Jorge Amado", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "e56c0838-38d6-4ba4-b26c-aca3a2cf6051", "sub_uri": "Q13649920", "obj_uri": "Q432", "sub_label": "Mohammed Iqbal Khan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c237d0c2-ef23-49d3-a54d-0a28873d62df", "sub_uri": "Q263795", "obj_uri": "Q432", "sub_label": "Choudhry Rahmat Ali", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1d8c63f0-5ac6-4972-af44-8d6636a7b523", "sub_uri": "Q198770", "obj_uri": "Q9603", "sub_label": "Said Nurs\u00ee", "obj_label": "Sufisme", "predicate_id": "P140"}
+{"uuid": "e57dfb96-cbcf-4367-8d1d-4fb57def2219", "sub_uri": "Q468519", "obj_uri": "Q432", "sub_label": "Fatmawati", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7acc6138-050f-4faa-921e-4c57bca48bfb", "sub_uri": "Q27061564", "obj_uri": "Q432", "sub_label": "Sobron", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "161af80c-b286-4473-9350-02acfca1d3d8", "sub_uri": "Q363400", "obj_uri": "Q7066", "sub_label": "Nick Frost", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "d1f19384-af6a-4c70-b953-0d8dcc10d1a6", "sub_uri": "Q2621743", "obj_uri": "Q483654", "sub_label": "Asy-Syathibi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "4c006cf1-4054-470e-a2ab-6c38c6abbf19", "sub_uri": "Q2001", "obj_uri": "Q7066", "sub_label": "Stanley Kubrick", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "5b43ccde-5e84-4ef4-9fac-8543a8ff033c", "sub_uri": "Q469875", "obj_uri": "Q432", "sub_label": "Muhammad Ali Bogra", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d72a79e6-f2e4-4328-89af-36c3786cc4b4", "sub_uri": "Q467610", "obj_uri": "Q432", "sub_label": "Fatma Ko\u015fer Kaya", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b7b91b7f-61dd-4f27-a8a9-6e88ef4c0a7c", "sub_uri": "Q12473894", "obj_uri": "Q432", "sub_label": "Bambang Soesatyo", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9503ee9b-0f59-48ed-9920-c1cb5a5ae5ce", "sub_uri": "Q41866", "obj_uri": "Q5043", "sub_label": "Yustinianus I", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "210c2e5d-fb63-4da8-97dd-39ccbaaf0694", "sub_uri": "Q967941", "obj_uri": "Q432", "sub_label": "Roeslan Abdulgani", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "950ea79c-3d03-429c-83e9-cb429366ee0b", "sub_uri": "Q312735", "obj_uri": "Q5043", "sub_label": "Chaime II dari Aragon", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "d374a24c-db29-4c84-8b29-ea5de0103eba", "sub_uri": "Q12242049", "obj_uri": "Q432", "sub_label": "Martsad bin Abi Martsad al-Ghanawi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "985a0aab-1e34-4c31-a2cc-a6624226e9d0", "sub_uri": "Q15515416", "obj_uri": "Q432", "sub_label": "Emma Maembong", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "be35de0b-6912-4856-b65d-d4399e0e15ac", "sub_uri": "Q5435253", "obj_uri": "Q432", "sub_label": "Farid Kamil", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5251fc04-090f-47a5-8e53-3479bbf77d40", "sub_uri": "Q25480352", "obj_uri": "Q432", "sub_label": "Reen Rahim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e4892698-1d7a-455e-a381-d265ba3e6793", "sub_uri": "Q311174", "obj_uri": "Q812767", "sub_label": "Fumihito, Putra Mahkota Jepang", "obj_label": "Shinto", "predicate_id": "P140"}
+{"uuid": "e6bc88b2-acdd-4375-bce2-fd99ed3225a6", "sub_uri": "Q12178897", "obj_uri": "Q483654", "sub_label": "Ahmad bin Zaini Dahlan", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "63cce32d-969e-4b11-8e79-53d538fa315d", "sub_uri": "Q19878", "obj_uri": "Q1021580", "sub_label": "Muammar Khadafi", "obj_label": "Quranisme", "predicate_id": "P140"}
+{"uuid": "48cd7412-8525-4b7f-b55e-6caf5ee55c9d", "sub_uri": "Q167782", "obj_uri": "Q5043", "sub_label": "Charles V dari Prancis", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "e0b149bc-272b-44c6-95c3-d4e1b2ec0f00", "sub_uri": "Q49254213", "obj_uri": "Q432", "sub_label": "Adang Sudrajat", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ad2f9c71-43f1-4eea-a793-a97f18437f34", "sub_uri": "Q61118875", "obj_uri": "Q432", "sub_label": "Istiono", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "87252721-19b6-41ec-8b1b-a614267b04aa", "sub_uri": "Q349070", "obj_uri": "Q6423963", "sub_label": "Charles Wesley", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "eb8686c3-f211-497a-b67e-ffa42edfadcb", "sub_uri": "Q56417058", "obj_uri": "Q432", "sub_label": "Syamsul Maarif", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "63b059e6-9772-4878-8be6-43a64d00aee0", "sub_uri": "Q6733", "obj_uri": "Q288928", "sub_label": "Edward Teller", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "e5c5d767-961c-4969-a269-2d59bfe5714e", "sub_uri": "Q1373905", "obj_uri": "Q132265", "sub_label": "Thawal Thamrong Navaswadhi", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "5dabd78d-ed14-45f2-a0a6-ba67e7df0c66", "sub_uri": "Q320895", "obj_uri": "Q7066", "sub_label": "Geddy Lee", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "e6753dd4-d482-4023-8938-2b22a6b8bed0", "sub_uri": "Q105221", "obj_uri": "Q829348", "sub_label": "Dan Aykroyd", "obj_label": "Spiritualisme", "predicate_id": "P140"}
+{"uuid": "425037c5-3bd1-40be-a71e-41dd66b3c66e", "sub_uri": "Q61118288", "obj_uri": "Q432", "sub_label": "Umar Surya Fana", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6ee68f67-d0f3-48bb-b2f4-2d1d95d9d66e", "sub_uri": "Q1059707", "obj_uri": "Q43004", "sub_label": "Lanna", "obj_label": "Animisme", "predicate_id": "P140"}
+{"uuid": "be677c23-b550-472c-933f-9b83f683d016", "sub_uri": "Q61118852", "obj_uri": "Q432", "sub_label": "Muhidi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d1900c25-6707-4896-8517-65fca4d2929b", "sub_uri": "Q7435417", "obj_uri": "Q432", "sub_label": "Afieq Shazwan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "158454be-780e-4213-a168-e2cdf8757551", "sub_uri": "Q37979", "obj_uri": "Q812767", "sub_label": "Akihito", "obj_label": "Shinto", "predicate_id": "P140"}
+{"uuid": "bc0f2e7f-1e69-4ccc-b2df-0c9f97723569", "sub_uri": "Q3322204", "obj_uri": "Q432", "sub_label": "Thomas J. Abercrombie", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6779dd15-160b-4264-ac3f-41d3da1ffafd", "sub_uri": "Q17410844", "obj_uri": "Q432", "sub_label": "Nazarudin Kiemas", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a66c3878-26c1-4180-8170-170f968d8a92", "sub_uri": "Q17279284", "obj_uri": "Q483654", "sub_label": "Abu Wahib", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "7ae225b4-108a-49b5-a960-d798a58d2ccf", "sub_uri": "Q2614002", "obj_uri": "Q9585", "sub_label": "Lotfollah Safi Golpaygani", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "12e015c5-f8e7-4ea8-8739-aad4e6b26f03", "sub_uri": "Q353901", "obj_uri": "Q812767", "sub_label": "Iwane Matsui", "obj_label": "Shinto", "predicate_id": "P140"}
+{"uuid": "a429d567-8d41-4066-a7b4-bc96f53d8ec3", "sub_uri": "Q218957", "obj_uri": "Q23540", "sub_label": "Rainiharo", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "e90239ac-5414-40c8-bd51-6ed5e815868a", "sub_uri": "Q5777156", "obj_uri": "Q432", "sub_label": "Muhammad bin Ja'far", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "af7cb6eb-4a2c-48cc-a88f-fefc0e8f5435", "sub_uri": "Q732363", "obj_uri": "Q432", "sub_label": "Ibnu Abdil Barr", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d2bd8c6a-2228-4864-88b5-2c1b49f6057e", "sub_uri": "Q4118624", "obj_uri": "Q432", "sub_label": "Mukjizat Muhammad", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9fc84167-83a5-4608-971c-7f75283c9c56", "sub_uri": "Q10555516", "obj_uri": "Q432", "sub_label": "Makan Konat\u00e9", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f444a629-9ce8-4334-b492-5341ea4c805d", "sub_uri": "Q732429", "obj_uri": "Q432", "sub_label": "Ibnu Sa'ad", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2487db84-7291-4521-a6ff-3c7cbd58b0f1", "sub_uri": "Q11168814", "obj_uri": "Q432", "sub_label": "Hazairin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "69535baa-5098-4a25-bbd9-2d7ccc345b67", "sub_uri": "Q506501", "obj_uri": "Q5043", "sub_label": "Arzhur II dari Bretagne", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "8ccdb6e5-64de-49c5-a819-24ced339d6b4", "sub_uri": "Q85994129", "obj_uri": "Q432", "sub_label": "Samsul Bahri Ben Amiren", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d8255ccc-a058-410c-bde8-63ab6ee93d07", "sub_uri": "Q509775", "obj_uri": "Q432", "sub_label": "Kadir Topba\u015f", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "73d37522-d2fa-4945-8c50-a87421383954", "sub_uri": "Q2649246", "obj_uri": "Q432", "sub_label": "Tahir Jalaluddin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2258329b-be1f-4348-ad79-2b62f0150491", "sub_uri": "Q191644", "obj_uri": "Q5043", "sub_label": "Eva Green", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "bdb6f5dd-b87a-438b-a678-fa1bf6f01250", "sub_uri": "Q7403426", "obj_uri": "Q483654", "sub_label": "Salah Al Bandar", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "968b94d5-09d7-4c2b-94d4-1ddd90bd4f56", "sub_uri": "Q16117724", "obj_uri": "Q432", "sub_label": "Ahmad al-Wansyarisi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "53c9fd83-d833-472f-a8e5-e66f0b9cf0d4", "sub_uri": "Q11378", "obj_uri": "Q234953", "sub_label": "Syiwa", "obj_label": "Saiwa", "predicate_id": "P140"}
+{"uuid": "d66b49d8-f46a-4239-b4f6-095c0db0dcee", "sub_uri": "Q62852", "obj_uri": "Q7066", "sub_label": "Ted Nelson", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "5f43dbf4-3b78-4568-870a-d21c9a88547e", "sub_uri": "Q85850589", "obj_uri": "Q432", "sub_label": "Itoc Tochija", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "bfd515da-da8d-46a1-9c15-5593a90ee27c", "sub_uri": "Q20563065", "obj_uri": "Q432", "sub_label": "Ali Ar-Ramitani", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "eb4ee2f1-6c51-45ab-915e-41c4ab30758b", "sub_uri": "Q308394", "obj_uri": "Q432", "sub_label": "Abdoulaye Faye", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "28aee95d-954b-4fe2-a976-b2aa675a9268", "sub_uri": "Q12518329", "obj_uri": "Q432", "sub_label": "Ahmad Khatib as-Sambasi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "660a54e4-1cf6-42ab-96d8-9a9fe2abffc6", "sub_uri": "Q85989010", "obj_uri": "Q432", "sub_label": "Azis Andriansyah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e87e8275-e3cf-44ff-899f-3eb19c5645a7", "sub_uri": "Q183776", "obj_uri": "Q5043", "sub_label": "Leo I si Trakia", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "58f0ab68-d63d-4137-b3c3-aaa6e0fd4edb", "sub_uri": "Q229411", "obj_uri": "Q483654", "sub_label": "Kesultanan Delhi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "4b2c0b60-3374-425a-aedd-d06e76481da1", "sub_uri": "Q4838924", "obj_uri": "Q432", "sub_label": "Bachtiar Chamsyah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a05a839f-8ac6-41fa-abb3-183f4132431d", "sub_uri": "Q5984464", "obj_uri": "Q432", "sub_label": "Ibrahim Ali (Malaysia)", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6bb5eb4e-5040-4f0a-9260-1180e2fe164d", "sub_uri": "Q20449695", "obj_uri": "Q432", "sub_label": "Pekin Ibrahim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f09ddc09-046b-4c6e-b417-a114477a7dfb", "sub_uri": "Q1316755", "obj_uri": "Q6423963", "sub_label": "John Lightfoot", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "c60c48e5-9fd9-4549-80d3-b33221e5f9c5", "sub_uri": "Q160318", "obj_uri": "Q132265", "sub_label": "Norodom Sihanouk", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "6c13fe13-da31-479c-9312-d63f8b72f23d", "sub_uri": "Q7405426", "obj_uri": "Q483654", "sub_label": "Salman Al-Audah", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "e1e48fdd-a018-426f-a32f-b9586867946f", "sub_uri": "Q272588", "obj_uri": "Q432", "sub_label": "Abdullah Ahmad Badawi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2b886dff-ceeb-4bfd-8c43-d76df3f494c4", "sub_uri": "Q85990734", "obj_uri": "Q432", "sub_label": "Djamaludin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "526ffdef-7a73-4ce7-8fa5-13c22813787a", "sub_uri": "Q92760", "obj_uri": "Q7066", "sub_label": "Claude Shannon", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "7a4d1602-be20-4da2-be61-1b7e4269e1c0", "sub_uri": "Q188353", "obj_uri": "Q5043", "sub_label": "Bangsa Wales", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "3a0d37d4-7421-4ac6-8803-32255fe47c18", "sub_uri": "Q39524", "obj_uri": "Q483654", "sub_label": "Gamal Abdul Nasir", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "b856eccb-c13d-4a64-b1ba-7a39ae571de4", "sub_uri": "Q12191961", "obj_uri": "Q432", "sub_label": "Al-Lalika'i", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b517ffd4-9722-4634-9621-3f96a49decb0", "sub_uri": "Q310592", "obj_uri": "Q9585", "sub_label": "Mohammad Ali Rajai", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "082975f1-6e62-4fe7-bf84-7a6cdfdf7735", "sub_uri": "Q347128", "obj_uri": "Q5043", "sub_label": "Clay Aiken", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "a4f48a35-e66f-43ce-bd3e-92865b7b1323", "sub_uri": "Q56390454", "obj_uri": "Q432", "sub_label": "Maliki Mift", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0ae89762-0734-4e29-af96-ea3408cd030d", "sub_uri": "Q163415", "obj_uri": "Q7066", "sub_label": "William Shockley", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "e770c0fb-c648-44a0-af0f-cbeaa1510744", "sub_uri": "Q7069986", "obj_uri": "Q432", "sub_label": "Nur Fazura", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "320492dd-6816-4d17-943d-6031b2ed0be6", "sub_uri": "Q22880", "obj_uri": "Q101849", "sub_label": "Elektorat Pfalz", "obj_label": "Calvinisme", "predicate_id": "P140"}
+{"uuid": "7bf44fac-b8d6-42b7-a1df-b03e93c53e56", "sub_uri": "Q16799549", "obj_uri": "Q23540", "sub_label": "Orang Amerika Latin", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "f623f369-c7eb-4051-98c6-bfcc6ca222e4", "sub_uri": "Q2680", "obj_uri": "Q7066", "sub_label": "Bruce Willis", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "d263f3ad-d946-498e-a260-011682c4000c", "sub_uri": "Q42740", "obj_uri": "Q9598", "sub_label": "Suku Han", "obj_label": "Taoisme", "predicate_id": "P140"}
+{"uuid": "c2fcb430-60bb-4e2a-839d-44ec0194c93d", "sub_uri": "Q61101714", "obj_uri": "Q432", "sub_label": "Sophia Liana", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "09b2aeb1-c41a-462d-9dc3-4aa6d6fe14b7", "sub_uri": "Q3053437", "obj_uri": "Q432", "sub_label": "Emraan Hashmi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "756ebbcf-c83c-45d6-8009-a12507cd269f", "sub_uri": "Q978409", "obj_uri": "Q5043", "sub_label": "Yason dari Tesalonika", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "6cb348a3-ea21-4ff8-9aea-1638767e5e83", "sub_uri": "Q26236957", "obj_uri": "Q23540", "sub_label": "Eve Antoinette Ichwan", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "0815c4c7-eb0a-456c-b8f8-8c1f4e11fc24", "sub_uri": "Q784324", "obj_uri": "Q432", "sub_label": "Qasim bin Muhammad", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8676c494-d4cd-4194-beb7-86f72344873c", "sub_uri": "Q85909191", "obj_uri": "Q432", "sub_label": "Widarti Goenawan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5cdf124d-4d0f-431b-82b8-2817f572a0ea", "sub_uri": "Q66316", "obj_uri": "Q432", "sub_label": "Bassam Tibi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6eb2fa9d-61fa-4a1f-a14e-0de2d1afc7ee", "sub_uri": "Q1392988", "obj_uri": "Q432", "sub_label": "Fauzi Bowo", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "cce18941-4976-4f3a-8c1a-cb60940559c4", "sub_uri": "Q235863", "obj_uri": "Q5043", "sub_label": "Geneveva", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "7aac0f4f-5567-48d5-b3a5-8e84f9960bcb", "sub_uri": "Q714194", "obj_uri": "Q483654", "sub_label": "Jacques Verg\u00e8s", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "9880f860-5a3b-46d0-83d3-5f9a4d3b276f", "sub_uri": "Q20463929", "obj_uri": "Q432", "sub_label": "Siti Saleha", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "35e7ca62-fb91-4fd0-801f-6e87ee3fb3c2", "sub_uri": "Q1528131", "obj_uri": "Q432", "sub_label": "Had\u0131m Sinan Pasha", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9f047356-cbd9-46e8-86e3-8d7aa8e6aa32", "sub_uri": "Q1325825", "obj_uri": "Q432", "sub_label": "Masjid Id Kah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "64b15398-bbdc-4cfc-8425-4b5caeb7d498", "sub_uri": "Q2746631", "obj_uri": "Q432", "sub_label": "Elvy Sukaesih", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2e5745fa-79d5-416e-8de2-e7ecf8b3c139", "sub_uri": "Q17411062", "obj_uri": "Q432", "sub_label": "Rinto Subekti", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d57f4020-390a-4ac0-bfdb-2d2294d116d5", "sub_uri": "Q381080", "obj_uri": "Q5043", "sub_label": "Knud V dari Denmark", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "c444fbf5-659e-4f9b-969d-ffe21da8b594", "sub_uri": "Q451427", "obj_uri": "Q432", "sub_label": "Usamah bin Munqidz", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2c390e2f-ae3b-4146-9414-d68af166c34e", "sub_uri": "Q715098", "obj_uri": "Q432", "sub_label": "Ma Fuxiang", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "342f0d6f-cb3b-4279-91b0-de75cbacbeff", "sub_uri": "Q155794", "obj_uri": "Q7066", "sub_label": "Hans Bethe", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "7a4a79b0-f1be-4dac-a3d6-747741cf7b4c", "sub_uri": "Q1883", "obj_uri": "Q432", "sub_label": "Sabri Lamouchi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "39bcd29c-0bc1-49ff-8829-aaf8dc2eb2a6", "sub_uri": "Q16740536", "obj_uri": "Q432", "sub_label": "Teungku Hasan Krueng Kale", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "567116fb-56b8-45b9-9644-31d41ac29cfa", "sub_uri": "Q16047110", "obj_uri": "Q9585", "sub_label": "Ahmad Amirabadi", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "4d561ecd-547e-4d16-9033-5b34f0bbd274", "sub_uri": "Q26689638", "obj_uri": "Q432", "sub_label": "Ahmad Massoud", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5119af7c-b6ae-4702-964c-6c84ab57ca1c", "sub_uri": "Q674337", "obj_uri": "Q9585", "sub_label": "Naushad", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "e1456797-a9b5-4558-98cd-ac52c1e9070c", "sub_uri": "Q337506", "obj_uri": "Q483654", "sub_label": "Ahmad Sanjar", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "71cefc9c-8c8f-4534-9965-1226daca1469", "sub_uri": "Q332130", "obj_uri": "Q6423963", "sub_label": "Dunstan", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "b609eaeb-6bbd-4023-ad8f-57cc8b7b545c", "sub_uri": "Q2957653", "obj_uri": "Q7066", "sub_label": "Charb", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "bf799306-0c6c-4026-b183-9258e917f99a", "sub_uri": "Q464529", "obj_uri": "Q432", "sub_label": "Rohingya", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "63639bf9-cb3f-4ebb-bcc6-94bb495ba83c", "sub_uri": "Q106235", "obj_uri": "Q23540", "sub_label": "Hans-Dietrich Genscher", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "47118eed-a5f7-402c-8ea1-e63514d38e6d", "sub_uri": "Q12498747", "obj_uri": "Q432", "sub_label": "Muhammad Prakosa", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d235050e-91fa-4542-bd3a-36d33df4ae99", "sub_uri": "Q16184425", "obj_uri": "Q432", "sub_label": "Jazuli Juwaini", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6920b786-d89e-4f04-9426-fb5ac2795256", "sub_uri": "Q21101292", "obj_uri": "Q5043", "sub_label": "Mario Beccaria", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "96d13307-5bbc-4b5c-9aea-75d61bfcb7c0", "sub_uri": "Q1810435", "obj_uri": "Q432", "sub_label": "Ad-Darazi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4353c582-91c9-4425-804c-f3d956e5a3f6", "sub_uri": "Q8023493", "obj_uri": "Q432", "sub_label": "Wim Umboh", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a5494671-07bf-4cf2-a787-4855e5cabf3b", "sub_uri": "Q1048918", "obj_uri": "Q83922", "sub_label": "Kerajaan Suebi", "obj_label": "Arianisme", "predicate_id": "P140"}
+{"uuid": "e7897287-1f6d-472b-93b7-f413dbc0d609", "sub_uri": "Q123034", "obj_uri": "Q101849", "sub_label": "Ulrich Zwingli", "obj_label": "Calvinisme", "predicate_id": "P140"}
+{"uuid": "08d85b65-cc8f-4321-a73d-91d72ba0b79b", "sub_uri": "Q65205401", "obj_uri": "Q432", "sub_label": "Mohammad Fadjar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7f2ef56b-aff2-4286-996c-75e3a3de9561", "sub_uri": "Q317358", "obj_uri": "Q7066", "sub_label": "Michael Imperioli", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "9330f28a-2326-40d5-ae6c-aaf5684c30c0", "sub_uri": "Q12194385", "obj_uri": "Q432", "sub_label": "An-Nadhar bin Syamil", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "14613a3d-1d17-494f-9cc8-9c05c480578a", "sub_uri": "Q467973", "obj_uri": "Q7066", "sub_label": "Suhasini Maniratnam", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "8628e7b8-3d5f-46f2-b721-63853eee85b2", "sub_uri": "Q10856511", "obj_uri": "Q812767", "sub_label": "Norihito, Pangeran Takamado", "obj_label": "Shinto", "predicate_id": "P140"}
+{"uuid": "5cfa7c8a-2b0d-411e-8f32-6b891536ff60", "sub_uri": "Q202589", "obj_uri": "Q7066", "sub_label": "Cillian Murphy", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "7a3d3aff-e298-4b4d-b783-383194dde7de", "sub_uri": "Q44847", "obj_uri": "Q639625", "sub_label": "D.T. Suzuki", "obj_label": "Rinzai", "predicate_id": "P140"}
+{"uuid": "2d6ca596-43f6-4b45-b3b0-862fa4c27f2d", "sub_uri": "Q257911", "obj_uri": "Q1062789", "sub_label": "Phillis Wheatley", "obj_label": "Kongregasional", "predicate_id": "P140"}
+{"uuid": "30c201da-ac68-4979-b25e-08458a145fd5", "sub_uri": "Q85988917", "obj_uri": "Q432", "sub_label": "Arsyad Abdullah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "28ac78f2-deb2-4d1f-96d4-9a9ba54bb9c2", "sub_uri": "Q2420369", "obj_uri": "Q432", "sub_label": "Al-Khansa", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "648e4bb9-3219-4a00-906a-2c43b02ed6cd", "sub_uri": "Q183573", "obj_uri": "Q432", "sub_label": "Suku Hui", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b5c3b1a0-3e2b-4137-b55b-907663b0bb7f", "sub_uri": "Q374523", "obj_uri": "Q432", "sub_label": "Nordin Amrabat", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d879ad22-b7ff-40cb-896a-5e9b4723dd0b", "sub_uri": "Q251060", "obj_uri": "Q5043", "sub_label": "Frumentius", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "bacea207-8c35-44a2-8c18-2ac072fee881", "sub_uri": "Q217115", "obj_uri": "Q9603", "sub_label": "Ramzan Kadyrov", "obj_label": "Sufisme", "predicate_id": "P140"}
+{"uuid": "ecef9af6-09a3-43df-9502-f8f8b674a17e", "sub_uri": "Q43033", "obj_uri": "Q6423963", "sub_label": "Desmond Tutu", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "f4fb543e-4a9a-4705-913f-4d5e165a7ceb", "sub_uri": "Q2630337", "obj_uri": "Q432", "sub_label": "Adi bin Hatim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d3a0358a-3823-4ffc-8186-a1c5c408f7a5", "sub_uri": "Q11703211", "obj_uri": "Q6423963", "sub_label": "Richard Chenevix Trench", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "2034a685-978e-490a-ae18-a18148c28e58", "sub_uri": "Q15381644", "obj_uri": "Q432", "sub_label": "Barkhad Abdi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "814635fe-6b87-4ad0-989a-39825a833cfc", "sub_uri": "Q367861", "obj_uri": "Q432", "sub_label": "Jordan Ayew", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "29b41535-2c5a-4a73-8d2a-32db416ba4eb", "sub_uri": "Q16162627", "obj_uri": "Q432", "sub_label": "Alimin Abdullah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "607696dc-b7b5-4e84-9030-b6a4a4962fcb", "sub_uri": "Q12219545", "obj_uri": "Q432", "sub_label": "Shalih Alu Thalib", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "50161b12-bb24-4d68-92c4-1bd6be8a15cf", "sub_uri": "Q1189102", "obj_uri": "Q432", "sub_label": "Nazanin Boniadi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8a7206d3-6545-4aa4-90ec-704158c39847", "sub_uri": "Q105062551", "obj_uri": "Q5043", "sub_label": "Rebecca Brown", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "58064cba-5c05-4f1b-a6a5-8c65332f0b7a", "sub_uri": "Q317670", "obj_uri": "Q432", "sub_label": "Driss Jettou", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7fc32b04-561c-4766-a16a-e4ec46adf138", "sub_uri": "Q1058544", "obj_uri": "Q5043", "sub_label": "Sancho I dari Portugal", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "9f7bb609-2a7d-4c99-a444-91da528fe741", "sub_uri": "Q311488", "obj_uri": "Q7066", "sub_label": "Khorloogiin Choibalsan", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "ec4633c9-cc78-4e3c-b473-e00795fea34a", "sub_uri": "Q230523", "obj_uri": "Q131036", "sub_label": "Juliette Lewis", "obj_label": "Scientology", "predicate_id": "P140"}
+{"uuid": "7e6a16c1-e831-4471-8983-e625c1522a9c", "sub_uri": "Q19628142", "obj_uri": "Q432", "sub_label": "Osama Saadi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1af233fc-c836-47a9-a6d5-b71b958bb62b", "sub_uri": "Q16843706", "obj_uri": "Q432", "sub_label": "Gigi Hadid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f450f761-02e8-478f-9fb6-2e479a4e62a2", "sub_uri": "Q57282", "obj_uri": "Q23540", "sub_label": "Jacob Zuma", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "7f7a5686-e2c9-4b64-b8f6-214995cd11c7", "sub_uri": "Q1247508", "obj_uri": "Q5043", "sub_label": "Kerajaan Soissons", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "b8e64b16-58ad-4a4e-a013-33378e64f636", "sub_uri": "Q129987", "obj_uri": "Q23540", "sub_label": "William III dari Inggris", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "6e83c4b4-903e-459d-a842-2e74ead78f64", "sub_uri": "Q2840135", "obj_uri": "Q483654", "sub_label": "'Alqamah bin Qais", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "1af5245e-fc9a-4128-9212-dba9480fb6fc", "sub_uri": "Q48210", "obj_uri": "Q483654", "sub_label": "Abu Muhammad al-Baghawi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "cd55ff73-9c2f-427d-ae6d-5cb43443b741", "sub_uri": "Q183397", "obj_uri": "Q7066", "sub_label": "Fred Hoyle", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "0e1d60c5-3f55-40aa-86ed-d994ef8e7cdf", "sub_uri": "Q866214", "obj_uri": "Q5043", "sub_label": "Skapulir", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "6686e310-3d5d-4cd9-b2f4-8910dce6abc3", "sub_uri": "Q17306112", "obj_uri": "Q5043", "sub_label": "Tyler Joseph", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "92c99389-2e4d-4ede-a975-9ee022d11075", "sub_uri": "Q231453", "obj_uri": "Q5043", "sub_label": "Marie dari Anjou", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "6503324f-d5b5-48e3-ad26-08aea54bc658", "sub_uri": "Q2756601", "obj_uri": "Q432", "sub_label": "Agim Ibraimi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "238a1a06-b26a-4a8c-ac6e-b0439988b513", "sub_uri": "Q200582", "obj_uri": "Q432", "sub_label": "Khairuddin Barbarossa", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "75dd4da7-b08c-492b-b19e-bd5adfd8f8d2", "sub_uri": "Q12511361", "obj_uri": "Q432", "sub_label": "Sa'duddin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f0d6f3ba-d18a-405b-a3f6-01ff0a0c5ee7", "sub_uri": "Q57904", "obj_uri": "Q483654", "sub_label": "Mustafa A.G. Abushagur", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "c7f2b835-7708-46c0-8c2a-e3e5691e9690", "sub_uri": "Q4391780", "obj_uri": "Q432", "sub_label": "Masud Sabri", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d3eea00b-1191-4685-8714-f0f02ff61034", "sub_uri": "Q718601", "obj_uri": "Q5043", "sub_label": "Nana Akufo-Addo", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "a8485546-7853-41c3-b8f6-5d39559b68d8", "sub_uri": "Q2606870", "obj_uri": "Q432", "sub_label": "\u015eehzade Bayezid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "cc15c4ee-033b-4ca6-8fdb-39c033ef095b", "sub_uri": "Q2121486", "obj_uri": "Q432", "sub_label": "Qatadah bin Da'amah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "24ae7d00-bd6d-42a0-8583-9e45cfc13c58", "sub_uri": "Q314935", "obj_uri": "Q131036", "sub_label": "Paul Haggis", "obj_label": "Scientology", "predicate_id": "P140"}
+{"uuid": "cd90a62d-dfe0-4876-aa3e-8892a48ccce7", "sub_uri": "Q155164", "obj_uri": "Q432", "sub_label": "Imran Khan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d806e192-3616-4899-9ae4-f5440fcb1fb6", "sub_uri": "Q201190", "obj_uri": "Q5043", "sub_label": "Bangsa Palestina", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "f0f9142a-1db2-47cb-b9bd-9cd03c39575a", "sub_uri": "Q1203191", "obj_uri": "Q432", "sub_label": "Arbaaz Khan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3c2360dd-f7fc-4fdb-bfb1-b0f813abfd7a", "sub_uri": "Q80541", "obj_uri": "Q432", "sub_label": "Masjid Sultan Ahmed", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "411e1468-f275-47a9-b1a4-4711d536b1a7", "sub_uri": "Q272927", "obj_uri": "Q5043", "sub_label": "Kristen Schaal", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "2f8be050-8ade-4902-a014-360748ced840", "sub_uri": "Q7060", "obj_uri": "Q7066", "sub_label": "Michel Onfray", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "0ddad6d4-1a20-4a1d-9292-c14f761be020", "sub_uri": "Q315587", "obj_uri": "Q483654", "sub_label": "Sultan bin Abdul Aziz", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "b79979e7-9ba1-42c8-9671-88c22cb32a94", "sub_uri": "Q735601", "obj_uri": "Q483654", "sub_label": "Junaid al-Baghdadi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "b2cadea8-da89-426b-bd1d-317b43d2a6c6", "sub_uri": "Q146871", "obj_uri": "Q432", "sub_label": "Negara Saudi Pertama", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1be76798-5864-4c26-9f83-d5793de25fab", "sub_uri": "Q4260406", "obj_uri": "Q432", "sub_label": "Zulkifli Hasan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ec5fa679-1a7b-480f-b1a9-3346b934ba66", "sub_uri": "Q85989047", "obj_uri": "Q432", "sub_label": "Bambang Kusriyanto", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "034d9907-5a27-417b-9082-8f8102767ca0", "sub_uri": "Q307338", "obj_uri": "Q432", "sub_label": "Abdul Qadir Bajamal", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "bb06247f-aa26-4a34-a7f7-d8160cf957d7", "sub_uri": "Q4726554", "obj_uri": "Q432", "sub_label": "Aliff Aziz", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9b7f649c-39ce-4bf0-aeeb-287102691e1a", "sub_uri": "Q12512164", "obj_uri": "Q432", "sub_label": "Sarah Azhari", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "885e71d8-b155-4bf8-84a0-6f23dc812c45", "sub_uri": "Q44015", "obj_uri": "Q5043", "sub_label": "Yohanes", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "510108a6-f425-4120-9793-4beeafce753c", "sub_uri": "Q61119200", "obj_uri": "Q432", "sub_label": "Anantya Rezky Kirana", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "401ee4ed-c81a-45b6-84e5-4948810b77b6", "sub_uri": "Q230173", "obj_uri": "Q7066", "sub_label": "Kari Byron", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "5c9a930d-a5cf-45ac-8cdc-d389144c06b6", "sub_uri": "Q149805", "obj_uri": "Q483654", "sub_label": "Kerajaan Irak", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "932e5f8c-b637-41d3-b433-77ba320a5b5f", "sub_uri": "Q484302", "obj_uri": "Q620629", "sub_label": "James Hetfield", "obj_label": "Deisme", "predicate_id": "P140"}
+{"uuid": "6e49300d-9106-485f-b151-fd70b56d838f", "sub_uri": "Q634160", "obj_uri": "Q432", "sub_label": "Abdul Haq", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6bde7e76-5349-437b-a208-e39dde6c2ccf", "sub_uri": "Q202236", "obj_uri": "Q9601", "sub_label": "Darius II", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "1684fdfb-23af-4e2b-beaa-a5f1a958e94e", "sub_uri": "Q379613", "obj_uri": "Q432", "sub_label": "Ahmad Jamal", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ca1271f6-055d-4d66-9aa8-288dabd5397b", "sub_uri": "Q42992", "obj_uri": "Q7066", "sub_label": "Golda Meir", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "3922d898-e7be-4636-8cad-6a9578146634", "sub_uri": "Q335355", "obj_uri": "Q432", "sub_label": "Abdullah bin Abdul-Asad", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6286d446-4937-4b94-b0e3-e8e15cf4f05c", "sub_uri": "Q3303021", "obj_uri": "Q432", "sub_label": "Maimunah binti al-Harits", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "81a45c82-2528-46fe-8856-5e00d0738c59", "sub_uri": "Q12485075", "obj_uri": "Q432", "sub_label": "Haji Sumanik", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "05c457b8-6c71-442a-8a71-2c1e6a939a4f", "sub_uri": "Q1030348", "obj_uri": "Q812767", "sub_label": "Atsuko Ikeda", "obj_label": "Shinto", "predicate_id": "P140"}
+{"uuid": "38ddefc7-9215-4513-819c-7cebacd5de9f", "sub_uri": "Q293669", "obj_uri": "Q483654", "sub_label": "Al-Auza'i", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "ee043e7d-3774-4d03-8de9-36264443c419", "sub_uri": "Q1398150", "obj_uri": "Q432", "sub_label": "Muhammad bin Shalih al-Utsaimin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4f5779dc-0a05-4770-ab9f-551067b62ed8", "sub_uri": "Q569003", "obj_uri": "Q7066", "sub_label": "Brian Eno", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "9433ca08-615e-45d2-864f-aa2f9ce476ad", "sub_uri": "Q165883", "obj_uri": "Q5043", "sub_label": "Louis VI dari Prancis", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "8e0b5964-ff47-4621-8981-7c9d1f82eecc", "sub_uri": "Q6894090", "obj_uri": "Q432", "sub_label": "Mohd Zin Mohamed", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a237e27c-b7f6-4f43-91eb-2477810eadaa", "sub_uri": "Q7421228", "obj_uri": "Q432", "sub_label": "Saqib Saleem", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0379058a-461f-4581-9f89-6583154989d3", "sub_uri": "Q140144", "obj_uri": "Q432", "sub_label": "Zafarullah Khan Jamali", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a27588ff-a0f9-4cfe-97dd-64b8f571063a", "sub_uri": "Q367319", "obj_uri": "Q432", "sub_label": "Ibnu Jubair", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d7cbabf4-7e1b-44a0-90c6-4e0acee0f93f", "sub_uri": "Q982280", "obj_uri": "Q432", "sub_label": "Malik Meraj Khalid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "dd5a7b4e-598e-489a-916a-6daa1ecda36e", "sub_uri": "Q2081829", "obj_uri": "Q432", "sub_label": "Amirul Mukminin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "135610c7-cf77-4bce-b977-a6c5c5c6e691", "sub_uri": "Q732375", "obj_uri": "Q432", "sub_label": "Hakimullah Mahsud", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5ff8c268-7bd8-402e-a89b-ed24a1f096a7", "sub_uri": "Q574358", "obj_uri": "Q132265", "sub_label": "Mindon Min", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "d37fc628-8923-476b-a7e8-7d530216f862", "sub_uri": "Q181182", "obj_uri": "Q432", "sub_label": "Hassan Nasrallah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "92e6eb99-11fe-49a3-946d-44afddde1d65", "sub_uri": "Q36881", "obj_uri": "Q432", "sub_label": "Madhubala", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "bda391ae-3332-4831-90bc-79df1c537c15", "sub_uri": "Q889", "obj_uri": "Q432", "sub_label": "Afganistan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6f27b4fd-e8d6-4fdc-8cdf-30d855140533", "sub_uri": "Q34253", "obj_uri": "Q288928", "sub_label": "Linus Torvalds", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "eb8ad6ea-bcf0-4cf4-9aeb-3af5a0acf509", "sub_uri": "Q888706", "obj_uri": "Q106687", "sub_label": "Charles Edward Magoon", "obj_label": "Unitarianisme", "predicate_id": "P140"}
+{"uuid": "72a9b2ce-75b1-4481-be04-f54a5629c2f3", "sub_uri": "Q517297", "obj_uri": "Q812767", "sub_label": "Masaharu Homma", "obj_label": "Shinto", "predicate_id": "P140"}
+{"uuid": "398830ba-a15c-4517-9781-66a77e39de67", "sub_uri": "Q81140", "obj_uri": "Q83922", "sub_label": "Hunerik", "obj_label": "Arianisme", "predicate_id": "P140"}
+{"uuid": "3f93a9eb-37e1-43f3-87fb-dc7cada16d09", "sub_uri": "Q735699", "obj_uri": "Q483654", "sub_label": "Mustafa Dzhemilev", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "bb05c4e6-3a08-485a-b632-a969b868b704", "sub_uri": "Q12499431", "obj_uri": "Q432", "sub_label": "Mukti Ali", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "799eab1d-4096-43fa-9182-a325b8795836", "sub_uri": "Q19609480", "obj_uri": "Q432", "sub_label": "Abu Mahdi al-Muhandis", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f7a0c109-4e11-40bd-b3bf-c4e22b3da035", "sub_uri": "Q2484404", "obj_uri": "Q7066", "sub_label": "Yuval Noah Harari", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "71788ed8-7b52-4f97-9065-cd852a2444a2", "sub_uri": "Q919958", "obj_uri": "Q432", "sub_label": "Masjid Raya Sousse", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3e82f738-79f1-4fd2-9824-9af3e0ade689", "sub_uri": "Q7476090", "obj_uri": "Q432", "sub_label": "Shireen Sungkar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "df6d0ff0-c143-4101-9d47-30276dc554cb", "sub_uri": "Q56399984", "obj_uri": "Q432", "sub_label": "Wan Thamrin Hasyim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7bd50a7a-22d3-49b5-983e-14d807c5d663", "sub_uri": "Q381250", "obj_uri": "Q5043", "sub_label": "Sancho II dari Pamplona", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "c7b6fd32-f0fc-4a71-8ab1-5cdd92b6b0f0", "sub_uri": "Q1110560", "obj_uri": "Q432", "sub_label": "Umm Kulthum", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3e7bcb0c-3f27-4338-8a28-33f1575cf680", "sub_uri": "Q12223465", "obj_uri": "Q483654", "sub_label": "Al-Humaidi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "d114b3fb-73d1-48a1-a29d-782b239ae36f", "sub_uri": "Q316347", "obj_uri": "Q23540", "sub_label": "Thomas Reid", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "55f54b5f-4ace-4fb2-9660-6ae56c65edd1", "sub_uri": "Q2342822", "obj_uri": "Q432", "sub_label": "Pakistan Barat", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "646a1b4c-12c4-4807-a216-8e8c0733143a", "sub_uri": "Q19819982", "obj_uri": "Q432", "sub_label": "Imamah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7ae8d8c7-b138-42b9-af07-a1c611d65366", "sub_uri": "Q47780", "obj_uri": "Q432", "sub_label": "Zaha Hadid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2d5e2a77-3ba1-41cd-89d0-88f024bdea0f", "sub_uri": "Q6733935", "obj_uri": "Q432", "sub_label": "Mahfuz Omar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f64ccfb4-404e-44b4-84ab-bf2ea0c3f986", "sub_uri": "Q23844", "obj_uri": "Q288928", "sub_label": "George Clooney", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "cebd4d1d-af8f-4065-982b-d7ea6a8a8201", "sub_uri": "Q1918", "obj_uri": "Q432", "sub_label": "Franck Rib\u00e9ry", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "22b17b98-3a94-45ef-8cd5-a89de42e9d74", "sub_uri": "Q3810202", "obj_uri": "Q432", "sub_label": "Zakiah Daradjat", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0c84f4b1-278e-4675-bce8-482b4161b450", "sub_uri": "Q887940", "obj_uri": "Q432", "sub_label": "Raja Sulaeman", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a9c95d0d-f8cb-42ca-b02e-570e1a075676", "sub_uri": "Q437143", "obj_uri": "Q22679", "sub_label": "Alice Pike Barney", "obj_label": "Bah\u00e1\u02bc\u00ed", "predicate_id": "P140"}
+{"uuid": "107d0198-f7d9-4e60-b002-502427fb1e5c", "sub_uri": "Q700838", "obj_uri": "Q432", "sub_label": "Marwan al-Shehhi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "27e1f8a4-a3ef-4d64-a532-9e91229a104a", "sub_uri": "Q4740163", "obj_uri": "Q5043", "sub_label": "Carles Puigdemont", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "5bf2fd38-c58c-46cd-8439-2cfca8c97469", "sub_uri": "Q3956556", "obj_uri": "Q432", "sub_label": "Muhammad Hasbi Ash-Shiddieqy", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "03caed70-0c4d-43e5-ac4b-436a07150c1d", "sub_uri": "Q12183231", "obj_uri": "Q432", "sub_label": "Al-Ajurri", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "93a7a31f-fbe0-46a7-8c6d-19eacab30e5e", "sub_uri": "Q53761570", "obj_uri": "Q432", "sub_label": "Maszlee Malik", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "cb84970e-2b43-4e28-b6dc-944b752d56d2", "sub_uri": "Q1193617", "obj_uri": "Q48362", "sub_label": "Orang Hoa", "obj_label": "Mah\u0101y\u0101na", "predicate_id": "P140"}
+{"uuid": "d97da111-d24a-4258-941f-da9e531e22f2", "sub_uri": "Q355659", "obj_uri": "Q432", "sub_label": "Adem Jashari", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1e2beff7-cc07-4044-ac6f-f933187e4804", "sub_uri": "Q7050236", "obj_uri": "Q432", "sub_label": "Noraini Ahmad", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d407c1d3-bef2-4de4-abfa-56313e2f6e80", "sub_uri": "Q274769", "obj_uri": "Q483654", "sub_label": "Mustafa Abdul Jalil", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "eb60f19e-510a-4e9f-aef4-09d4d00d23e0", "sub_uri": "Q326766", "obj_uri": "Q432", "sub_label": "Musa C\u00e4lil", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7abf5b15-18f7-46bd-8d27-3560a3d5b2c7", "sub_uri": "Q219124", "obj_uri": "Q288928", "sub_label": "Guillermo del Toro", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "343eddbc-ff17-48fa-b99f-bd581e01b85a", "sub_uri": "Q102551", "obj_uri": "Q7066", "sub_label": "Ernest Borgnine", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "67cdbcf7-0544-4ca2-979a-3df374010800", "sub_uri": "Q11317558", "obj_uri": "Q132265", "sub_label": "Dhammapala", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "31315a59-06b0-435f-a727-8828b558a93c", "sub_uri": "Q56416583", "obj_uri": "Q432", "sub_label": "Arinal Djunaidi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "be047a7b-dfae-448d-9f3e-f77e1464fa8a", "sub_uri": "Q4715", "obj_uri": "Q483654", "sub_label": "Moncef Marzouki", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "51932982-31fa-4542-80f2-ee58b4cadad7", "sub_uri": "Q320109", "obj_uri": "Q9601", "sub_label": "Jamsetji Tata", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "d90f0f4f-eaf8-4763-964a-d9ccd9e76ebe", "sub_uri": "Q16181670", "obj_uri": "Q432", "sub_label": "Husin Naparin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a6aeea0c-534f-4afb-84a6-9c6258738ea1", "sub_uri": "Q16170072", "obj_uri": "Q432", "sub_label": "Bambang Wuryanto", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "58f5a49d-6f3b-4c22-be5f-5954ced6ed68", "sub_uri": "Q6105", "obj_uri": "Q6423963", "sub_label": "Hebe Camargo", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "6be9da5e-41a0-4c1c-9237-1551fd635ea0", "sub_uri": "Q7823505", "obj_uri": "Q432", "sub_label": "Tony Sucipto", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ed4e496d-ca95-47f6-a60f-60b1f3dcac16", "sub_uri": "Q192868", "obj_uri": "Q483654", "sub_label": "Nader Shah", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "8b9ecb14-cef9-432a-a0fc-9c1f922fe69a", "sub_uri": "Q965822", "obj_uri": "Q5043", "sub_label": "Madonna della Vittoria", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "942ece8f-e710-484c-90d2-0ed15b8be0a6", "sub_uri": "Q954928", "obj_uri": "Q6423963", "sub_label": "William Herbert (botanis)", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "732ab686-6b44-40bd-85ad-341a0a0e0d08", "sub_uri": "Q232636", "obj_uri": "Q812767", "sub_label": "Kiko, Putri Mahkota Jepang", "obj_label": "Shinto", "predicate_id": "P140"}
+{"uuid": "a3e80901-56cd-439c-8840-7c06e98be7ea", "sub_uri": "Q65211419", "obj_uri": "Q432", "sub_label": "Bahrain Kasuba", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "cc5e2350-4d90-4cfc-b9eb-b66d08ac6bde", "sub_uri": "Q336429", "obj_uri": "Q432", "sub_label": "Rashid Maidin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "854ccbb3-6768-47a0-946e-b417be40e3a3", "sub_uri": "Q270983", "obj_uri": "Q639625", "sub_label": "Kinkaku-ji", "obj_label": "Rinzai", "predicate_id": "P140"}
+{"uuid": "e5e5007a-81c9-4b10-ac41-9fa3bebde787", "sub_uri": "Q381817", "obj_uri": "Q132265", "sub_label": "Norodom Ranariddh", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "6779c1cd-e7dd-4f2c-a3f8-0579e4c8cb58", "sub_uri": "Q375998", "obj_uri": "Q7066", "sub_label": "Giovanni Pascoli", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "6910cd37-344e-4722-b656-bddb9fee8ff8", "sub_uri": "Q311796", "obj_uri": "Q483654", "sub_label": "Fuad II dari Mesir", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "f2f1da14-917f-494b-9494-a18d2e3ca5d0", "sub_uri": "Q65213524", "obj_uri": "Q432", "sub_label": "Erli Hasim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2fcfa05a-c7ef-4062-bbbe-d3594ff88755", "sub_uri": "Q61118430", "obj_uri": "Q432", "sub_label": "Sitti Rohmi Djalilah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0a33728f-2959-4f8d-b0be-1d80db7fbb66", "sub_uri": "Q4664442", "obj_uri": "Q432", "sub_label": "Abby Abadi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7d930b1a-d75d-4781-b729-94956dca1f66", "sub_uri": "Q6003106", "obj_uri": "Q432", "sub_label": "Imam Sufaat", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2a668451-6928-4fb7-a605-541672b617ff", "sub_uri": "Q2721266", "obj_uri": "Q483654", "sub_label": "Husein Kavazovi\u0107", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "239fed5a-2960-47d6-a266-3b5e429a4b0a", "sub_uri": "Q9557", "obj_uri": "Q432", "sub_label": "Aamir Khan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "797a5ce9-5cb6-4f4e-bdd8-8164c682ed61", "sub_uri": "Q354544", "obj_uri": "Q940709", "sub_label": "Shi Yongxin", "obj_label": "Chan", "predicate_id": "P140"}
+{"uuid": "802c2e86-5eaa-469d-a421-7fb8b2adb3d5", "sub_uri": "Q157451", "obj_uri": "Q9585", "sub_label": "Heydar Aliyev", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "074cd81f-df41-46b7-b74e-f4f6621a0226", "sub_uri": "Q750091", "obj_uri": "Q6423963", "sub_label": "Andrea Leadsom", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "7332837c-7490-42a5-8641-05b93882ff45", "sub_uri": "Q21282897", "obj_uri": "Q432", "sub_label": "Aina Abdul", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "42d862e3-6582-441a-93f2-f04ef8ef3454", "sub_uri": "Q274070", "obj_uri": "Q7066", "sub_label": "Alejandro Amen\u00e1bar", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "bc09497b-0637-48d6-b87a-8dfe9f33ca7d", "sub_uri": "Q11043304", "obj_uri": "Q432", "sub_label": "Naledi Pandor", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "232a3aa8-f486-4576-aea8-c6aaec3a5a59", "sub_uri": "Q2198528", "obj_uri": "Q432", "sub_label": "Ahmad ibnu Yusuf", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4276af63-20fb-4f19-900f-67afeb3b2937", "sub_uri": "Q23542552", "obj_uri": "Q432", "sub_label": "Adam Nor Azlin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "869af74d-344e-4ee1-b28f-31f1186ad922", "sub_uri": "Q362289", "obj_uri": "Q432", "sub_label": "Nader al-Dahabi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "25fef6e2-c613-4a8a-9bf9-4c38c179ce10", "sub_uri": "Q268731", "obj_uri": "Q5043", "sub_label": "Maria dari Montpellier", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "f6d46459-aa63-4f8c-890d-e668708fd8b7", "sub_uri": "Q44996703", "obj_uri": "Q432", "sub_label": "Hadi Fayyadh", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8bf29681-42f5-4807-8d14-72931a63cb1d", "sub_uri": "Q4115988", "obj_uri": "Q432", "sub_label": "Hakim bin Hizam", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "eaa2cc6e-3ed9-4872-8383-94d1e14a37d7", "sub_uri": "Q56399535", "obj_uri": "Q432", "sub_label": "Irwan Anwar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0f8929a4-08c3-406b-9efb-c0e842f9c82c", "sub_uri": "Q172896", "obj_uri": "Q5043", "sub_label": "Katakomba", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "ca14d1d1-5d65-4599-b594-3e8ec890e308", "sub_uri": "Q937697", "obj_uri": "Q7066", "sub_label": "Stefan Molyneux", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "66ca4dbf-972e-4ed0-aa55-875ca8f0326b", "sub_uri": "Q4904525", "obj_uri": "Q432", "sub_label": "Biem Triani Benjamin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "bd039429-c1bb-49b0-b11e-f8abb385b856", "sub_uri": "Q232757", "obj_uri": "Q432", "sub_label": "Gabrielle Anwar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1e63d735-4eba-41c8-a83f-3053ee497823", "sub_uri": "Q508482", "obj_uri": "Q432", "sub_label": "Fatou Bensouda", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "08aeffde-190e-47a9-9a8c-50fa42b80fcd", "sub_uri": "Q16122481", "obj_uri": "Q189570", "sub_label": "Najdah bin Amir", "obj_label": "Khawarij", "predicate_id": "P140"}
+{"uuid": "de91b15e-389c-4e0d-9fdb-5fb7badbf729", "sub_uri": "Q922503", "obj_uri": "Q752660", "sub_label": "Wagner Moura", "obj_label": "Candombl\u00e9", "predicate_id": "P140"}
+{"uuid": "3b4a7a4a-fab7-4ed1-a85f-fa57c2d37ed0", "sub_uri": "Q307312", "obj_uri": "Q432", "sub_label": "Abdul Mukmin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d1cd9180-54aa-4440-a780-192bdbdc5c84", "sub_uri": "Q539832", "obj_uri": "Q432", "sub_label": "Yusef Lateef", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "05c3d1ed-57ac-4cd2-abbb-96f6bca50298", "sub_uri": "Q170373", "obj_uri": "Q5043", "sub_label": "Christopher Wren", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "09683c69-24ba-45a5-b6ce-69bdc4a45a02", "sub_uri": "Q310999", "obj_uri": "Q5043", "sub_label": "Magnus Olavsson", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "2c9a1d9c-26f1-4eaa-899a-d9a70544865d", "sub_uri": "Q298419", "obj_uri": "Q483654", "sub_label": "Sokollu Mehmet Pa\u015fa", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "5d763169-9615-4aba-bfce-f88143ccb10b", "sub_uri": "Q27467049", "obj_uri": "Q9585", "sub_label": "Abbas Salehi", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "4663967e-d71c-4108-9fa2-fa4ed83c290e", "sub_uri": "Q232333", "obj_uri": "Q131036", "sub_label": "Karen Black", "obj_label": "Scientology", "predicate_id": "P140"}
+{"uuid": "ec59a4cd-7f35-48bd-b773-8038bf4da2b7", "sub_uri": "Q79965", "obj_uri": "Q837605", "sub_label": "Gerombolan Emas", "obj_label": "Tengrisme", "predicate_id": "P140"}
+{"uuid": "e27a57fd-ef70-4b34-8d99-c16b97daf004", "sub_uri": "Q295431", "obj_uri": "Q288928", "sub_label": "Julian Barnes", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "9a14279f-4585-4c0b-968e-f7607eb86341", "sub_uri": "Q12478452", "obj_uri": "Q432", "sub_label": "Cellica Nurrachadiana", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9e8e3c30-27db-40b6-a015-08ae1ec793f8", "sub_uri": "Q16231504", "obj_uri": "Q432", "sub_label": "Johan As'ari", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "97366886-5352-4a09-a4c2-0b22910bd15b", "sub_uri": "Q85994876", "obj_uri": "Q432", "sub_label": "Syamsul Udaya", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "328d486b-61a4-4167-a55d-a8ed28b95de8", "sub_uri": "Q355468", "obj_uri": "Q432", "sub_label": "Ali Muhammad Ghedi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4f4a2916-a258-457b-b7c0-3ce5ceca633e", "sub_uri": "Q85992530", "obj_uri": "Q432", "sub_label": "Mahyudin Algamar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2984a24c-ad0b-4bea-a22f-64d1cacf1992", "sub_uri": "Q25460903", "obj_uri": "Q432", "sub_label": "Eddy Soeparno", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "55977e7d-459b-4dc3-b00e-72244f0bdf0a", "sub_uri": "Q13534334", "obj_uri": "Q432", "sub_label": "Manahati Lestusen", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1a5ea7fa-120f-4cbf-b8c2-f212aae0de82", "sub_uri": "Q403707", "obj_uri": "Q483654", "sub_label": "Mustafa Tlass", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "c0038ed6-a18b-4ac9-abb0-19fecb8f67be", "sub_uri": "Q284701", "obj_uri": "Q432", "sub_label": "Al-Muktafi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "dd615af9-0096-4113-8d8b-80bb5cfff37a", "sub_uri": "Q1649306", "obj_uri": "Q5043", "sub_label": "Nyasaland", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "d8486e01-5bd4-482e-a500-24c4a5179037", "sub_uri": "Q155087", "obj_uri": "Q1062789", "sub_label": "Thornton Niven Wilder", "obj_label": "Kongregasional", "predicate_id": "P140"}
+{"uuid": "7d2ba20f-9c17-472d-8246-09acffb4f272", "sub_uri": "Q144396", "obj_uri": "Q432", "sub_label": "Zainab binti Jahsy", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "fa644370-32d8-46e0-85bd-7343d78e8ddf", "sub_uri": "Q978309", "obj_uri": "Q319218", "sub_label": "Lobsang Palden Yeshe, Panchen Lama ke-6", "obj_label": "Gelug", "predicate_id": "P140"}
+{"uuid": "e4eab7ae-d3fe-4847-826a-b53ed1bad977", "sub_uri": "Q296064", "obj_uri": "Q23540", "sub_label": "Gaston Doumergue", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "f4cba778-178f-403e-b7ba-a496f2b9825d", "sub_uri": "Q46229275", "obj_uri": "Q432", "sub_label": "Ki Wasyid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "bf712d1c-ce12-409d-90d5-1db8b1824752", "sub_uri": "Q206369", "obj_uri": "Q432", "sub_label": "Raffa\u00ebla Anderson", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "05df5cf9-b744-4edd-9c7e-709d1a66fa5a", "sub_uri": "Q160558", "obj_uri": "Q6423963", "sub_label": "Pangeran Arthur, Adipati Connaught dan Strathearn", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "56490e7f-01e3-4d08-b937-81fe2e66ef7b", "sub_uri": "Q193803", "obj_uri": "Q7066", "sub_label": "Roger Penrose", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "f8b8acca-a731-4ab4-a095-90a1e0080f36", "sub_uri": "Q3469504", "obj_uri": "Q483654", "sub_label": "Shalah al-Budair", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "32302f44-2ec7-4776-9fab-4e83de927bb5", "sub_uri": "Q60803", "obj_uri": "Q432", "sub_label": "Khwaja Ghulam Farid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f7d630ba-3240-4daf-a4e7-b432d456e609", "sub_uri": "Q300786", "obj_uri": "Q483654", "sub_label": "Aafia Siddiqui", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "806bd6f4-7af2-4035-a6c3-1b6e862dd273", "sub_uri": "Q7243", "obj_uri": "Q5043", "sub_label": "Leo Tolstoy", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "4bf72b13-5cbc-464a-88d6-debb852ebb42", "sub_uri": "Q76961", "obj_uri": "Q23540", "sub_label": "Caroline dari Ansbach", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "5384daab-4dcb-45c3-8948-c9ef63e5a354", "sub_uri": "Q57894", "obj_uri": "Q483654", "sub_label": "Jaber Al-Mubarak Al-Hamad Al-Sabah", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "142db70e-4c46-4e88-8078-b22e8739ed93", "sub_uri": "Q227897", "obj_uri": "Q101849", "sub_label": "Johann Bernoulli", "obj_label": "Calvinisme", "predicate_id": "P140"}
+{"uuid": "b0c33327-ef6c-4000-b4ab-9aa9599be9b2", "sub_uri": "Q387458", "obj_uri": "Q7066", "sub_label": "Charles Bradlaugh", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "9545a36b-0b53-418c-9de2-5f759e70582e", "sub_uri": "Q158450", "obj_uri": "Q432", "sub_label": "Ayesha Takia", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7c090060-632a-4fc0-b60c-44f67a3bc517", "sub_uri": "Q5874938", "obj_uri": "Q5043", "sub_label": "Hobby Lobby", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "45204341-e8b6-4fda-9421-9417fd3a11da", "sub_uri": "Q431562", "obj_uri": "Q432", "sub_label": "Medhi Lacen", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8b73ed88-60c9-4e49-a88b-01ac2cafaee7", "sub_uri": "Q6439798", "obj_uri": "Q5043", "sub_label": "Krystle D'Souza", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "60848ef2-1a66-4069-9a7e-4df313298eb3", "sub_uri": "Q214677", "obj_uri": "Q7066", "sub_label": "Nora Ephron", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "6410d062-aaf2-416c-b6b8-b1e6d177d80e", "sub_uri": "Q46652", "obj_uri": "Q432", "sub_label": "Kesultanan Melaka", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9785b605-7981-45c2-8eb4-921cc27cd671", "sub_uri": "Q31173655", "obj_uri": "Q432", "sub_label": "Sutan Adil Hendra", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "495a144b-a208-4184-965c-5a2897ad68d7", "sub_uri": "Q321097", "obj_uri": "Q23540", "sub_label": "Joshua Harris", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "c50a9c4c-a0e0-4cb0-acef-d7ffe7441dd8", "sub_uri": "Q471046", "obj_uri": "Q483654", "sub_label": "Rasyid Ridha", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "c2616549-1567-45bb-85be-01363ece164b", "sub_uri": "Q42581", "obj_uri": "Q7066", "sub_label": "Keira Knightley", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "adc1ab0e-6d9b-44f8-97e7-fdb2278780f0", "sub_uri": "Q18762077", "obj_uri": "Q23540", "sub_label": "Robert le Ma\u00e7on, Sieur de la Fontaine", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "d685c753-2625-4c54-8240-c1a647189e7c", "sub_uri": "Q4208223", "obj_uri": "Q432", "sub_label": "Tengku Afzan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ce2b6928-6a25-472e-83ae-0515eeae75bf", "sub_uri": "Q7186", "obj_uri": "Q288928", "sub_label": "Marie Curie", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "c15983d5-ff90-4abf-97b3-eeea0538275f", "sub_uri": "Q296724", "obj_uri": "Q432", "sub_label": "Mahmoud Jibril", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8cc97226-b814-4756-93d7-9cf0d431a1bf", "sub_uri": "Q244383", "obj_uri": "Q5043", "sub_label": "Rosa dari Lima", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "1882c304-5611-46cd-9ff1-38bb6b9ed283", "sub_uri": "Q334297", "obj_uri": "Q7066", "sub_label": "Pak Hon-yong", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "d0aa0576-0cc6-4896-aa95-b5f647b177c4", "sub_uri": "Q65055", "obj_uri": "Q432", "sub_label": "Ahmad Jabari", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a2cfc53a-aa4a-4442-af9e-8c73cd56d8c7", "sub_uri": "Q50242006", "obj_uri": "Q432", "sub_label": "Mohamed Juldeh Jalloh", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "91687344-6075-4389-8bee-ab8a64af463d", "sub_uri": "Q2005240", "obj_uri": "Q432", "sub_label": "Nur Misuari", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c4d8318d-9bd0-4c3e-870f-c9c74d7692fc", "sub_uri": "Q26236468", "obj_uri": "Q747802", "sub_label": "Evan McMullin", "obj_label": "Mormonisme", "predicate_id": "P140"}
+{"uuid": "84398d34-1f5b-416a-83bb-ffbe30a3c197", "sub_uri": "Q188459", "obj_uri": "Q5043", "sub_label": "Goldie Hawn", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "1124beba-80f2-4a76-b2c4-3e684e61a698", "sub_uri": "Q464583", "obj_uri": "Q432", "sub_label": "Yayuk Basuki", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "31250529-fddf-4f47-90f1-d6ea80f74b93", "sub_uri": "Q33203", "obj_uri": "Q23540", "sub_label": "Gereja Metodis", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "35b32b0d-4a18-4047-937d-fbeac99c37d6", "sub_uri": "Q177764", "obj_uri": "Q752660", "sub_label": "Voodoo", "obj_label": "Candombl\u00e9", "predicate_id": "P140"}
+{"uuid": "d6c2a2b8-127f-4405-9219-4a559a5c3da1", "sub_uri": "Q64010422", "obj_uri": "Q432", "sub_label": "Tashpolat Tiyip", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9ae4c2ad-7b9b-4518-9531-989a88aa06f8", "sub_uri": "Q16505360", "obj_uri": "Q432", "sub_label": "Bendara", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b0b6cb71-4d1e-4c35-945f-9f79f2a27b80", "sub_uri": "Q4725343", "obj_uri": "Q7066", "sub_label": "Alia Bhatt", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "e9e5d260-508d-48a1-8c17-df8e449649e1", "sub_uri": "Q5698152", "obj_uri": "Q620629", "sub_label": "Thomas Chubb", "obj_label": "Deisme", "predicate_id": "P140"}
+{"uuid": "b0e14c4f-719e-40e7-bf9a-90a5fea344a5", "sub_uri": "Q16164615", "obj_uri": "Q432", "sub_label": "Ahmad Hanafi Rais", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "922f669a-5573-4587-ad79-e9071001924b", "sub_uri": "Q411953", "obj_uri": "Q132265", "sub_label": "Mun Bhuridatta", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "0d7f2350-1ab3-4353-a6df-c9b646b71eba", "sub_uri": "Q8620", "obj_uri": "Q5043", "sub_label": "Kwame Nkrumah", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "84ed0b62-6f84-4148-ad54-fd066faeb8b2", "sub_uri": "Q2670453", "obj_uri": "Q432", "sub_label": "Djoeanda Kartawidjaja", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9162cc01-52a2-49d6-8174-6bd504359850", "sub_uri": "Q17411356", "obj_uri": "Q432", "sub_label": "Sigit Sosiantomo", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1fbb6a3f-ecf4-4f8a-a686-d8bb8cecb5a9", "sub_uri": "Q4665345", "obj_uri": "Q432", "sub_label": "Abdul Ghapur Salleh", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "38b91b58-49b7-489e-b87a-963eacc14df0", "sub_uri": "Q1468607", "obj_uri": "Q194253", "sub_label": "Universitas Liberty", "obj_label": "Evangelikalisme", "predicate_id": "P140"}
+{"uuid": "d9732c48-d88b-4293-97a7-9d73fc49a833", "sub_uri": "Q5395350", "obj_uri": "Q432", "sub_label": "Eros Djarot", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a1a0eeed-8bb9-46ab-a807-1846aec9b8e2", "sub_uri": "Q9015409", "obj_uri": "Q432", "sub_label": "Rachel Amanda", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "94f815c0-dc8c-4272-94f3-41a94445a526", "sub_uri": "Q2866447", "obj_uri": "Q432", "sub_label": "Aseel Omran", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f4092d6b-07cf-4f64-96e9-6fcbdad2a570", "sub_uri": "Q171336", "obj_uri": "Q23540", "sub_label": "Bangsa Slowakia", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "95166601-c3ed-4a0c-8bd4-853a0ea9dbd7", "sub_uri": "Q558626", "obj_uri": "Q432", "sub_label": "Mohammed Alim Khan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "738eb4b7-606d-4fb1-be53-3fd87ec3ccc3", "sub_uri": "Q198313", "obj_uri": "Q483654", "sub_label": "Ziaur Rahman", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "e16645a6-3ecb-4953-8930-51a7cbc8f07a", "sub_uri": "Q298981", "obj_uri": "Q432", "sub_label": "Hidayet T\u00fcrko\u011flu", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6e0bc0e2-a5bc-4eb1-9ff2-157d9fb6a013", "sub_uri": "Q153963", "obj_uri": "Q432", "sub_label": "Afrika Timur Jerman", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "44f00aac-6ce1-44d7-a10c-ca4f963f6caf", "sub_uri": "Q85822942", "obj_uri": "Q432", "sub_label": "Denny Baskar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "276e50f5-6744-4c92-bd0b-5d664e34b4f2", "sub_uri": "Q61118985", "obj_uri": "Q432", "sub_label": "Abdul Hafidz", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "74dc77b6-8ea9-4289-acdc-02315c3280b4", "sub_uri": "Q242051", "obj_uri": "Q432", "sub_label": "Irshad Manji", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b75b98aa-2a83-43cc-b99a-c4a45e1c43e7", "sub_uri": "Q16123079", "obj_uri": "Q144333", "sub_label": "Badruddin al-Hutsi", "obj_label": "Zaidiyah", "predicate_id": "P140"}
+{"uuid": "e68ca3cb-29a7-4ddd-9bd1-e0e34184f8a0", "sub_uri": "Q2995629", "obj_uri": "Q483654", "sub_label": "Ibnu Ajurrum", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "48c33a41-51eb-4118-9089-5b7195635158", "sub_uri": "Q448078", "obj_uri": "Q812767", "sub_label": "Hanako, Putri Hitachi", "obj_label": "Shinto", "predicate_id": "P140"}
+{"uuid": "d87e3a45-3871-46ba-8c9b-2c3f1247906e", "sub_uri": "Q10860139", "obj_uri": "Q432", "sub_label": "Muhammad Sani", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5a04e280-46a6-4e44-9688-4a5cc9f7a698", "sub_uri": "Q463581", "obj_uri": "Q7066", "sub_label": "Brian Cox (fisikawan)", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "3871e53d-125c-49b9-b044-a9d71ae38cb7", "sub_uri": "Q785131", "obj_uri": "Q132265", "sub_label": "Sri Vikrama Rajasinha dari Kandy", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "f1301ab2-f4b3-4b45-9630-35295e54192e", "sub_uri": "Q2657882", "obj_uri": "Q5043", "sub_label": "Kel Mitchell", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "4d87500c-2e36-4041-a45c-c898c14baa01", "sub_uri": "Q5599605", "obj_uri": "Q483654", "sub_label": "Masjid Agung al-Nuri (Mosul)", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "3f07e612-dae5-4e79-a72f-d87fcba864ae", "sub_uri": "Q448033", "obj_uri": "Q432", "sub_label": "Baydu", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ec1a6910-687f-4237-b275-2890128c3ae8", "sub_uri": "Q1986139", "obj_uri": "Q9601", "sub_label": "Kekaisaran Partia", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "b224e397-ee6f-438d-a3d9-6ac331610c29", "sub_uri": "Q273210", "obj_uri": "Q7066", "sub_label": "James Baldwin", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "d4691436-3103-4acc-8b3b-59bced3099e1", "sub_uri": "Q5257870", "obj_uri": "Q432", "sub_label": "Erra Fazira", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6cdeacfa-e788-4dc4-9656-0fa1f71c3003", "sub_uri": "Q403498", "obj_uri": "Q483654", "sub_label": "Ismail bin Hammad al-Jauhari", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "71dbc3c0-2e2f-451b-845d-f43a09520789", "sub_uri": "Q16120551", "obj_uri": "Q5043", "sub_label": "Arnoud van Doorn", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "3eba4ce7-ec34-44d6-a0f4-c075f4baffa4", "sub_uri": "Q716584", "obj_uri": "Q6423963", "sub_label": "Archibald Sayce", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "84089a17-f241-4301-8e7c-354ed1365684", "sub_uri": "Q558194", "obj_uri": "Q9601", "sub_label": "Sam Manekshaw", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "cd225a3d-b2ff-42ab-942e-2682a952fd05", "sub_uri": "Q336556", "obj_uri": "Q6423963", "sub_label": "George Jeffreys", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "a4b3f276-a864-48ce-b6e4-ca86950c5241", "sub_uri": "Q729150", "obj_uri": "Q7066", "sub_label": "Punisher", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "178426f9-fc58-4d03-ae84-a107dfd52636", "sub_uri": "Q24284643", "obj_uri": "Q432", "sub_label": "Yunan Nasution", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "20fa62dd-0e61-41ed-98d4-1436348ce1f6", "sub_uri": "Q4120128", "obj_uri": "Q432", "sub_label": "Syamsuddin as-Sakhawi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "167b30bc-ae86-48ca-9ba2-5d3b867ed670", "sub_uri": "Q462256", "obj_uri": "Q432", "sub_label": "Lubna Azabal", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "caec6f90-1c19-4610-bd19-ef3e05853698", "sub_uri": "Q734018", "obj_uri": "Q432", "sub_label": "Gamal Al-Ghitani", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "adcf57ca-f741-4b4a-9ff6-8c35c8663304", "sub_uri": "Q354642", "obj_uri": "Q483654", "sub_label": "Riyad Farid Hijab", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "9b1b19a4-c8cf-4c6a-bc11-44026ecff899", "sub_uri": "Q3745", "obj_uri": "Q432", "sub_label": "Ahmad Heryawan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d3a2af3e-84d6-4476-90f1-8d440ca30f0a", "sub_uri": "Q6965260", "obj_uri": "Q132265", "sub_label": "Narada Mahathera", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "2c811c41-9029-441c-9787-9c6fca05d7ed", "sub_uri": "Q5651915", "obj_uri": "Q432", "sub_label": "Maya Karin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c909a374-96bc-4c93-bc20-d0b22ade348e", "sub_uri": "Q42122", "obj_uri": "Q7066", "sub_label": "Tomas Transtr\u00f6mer", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "4e11a684-32ad-45aa-add2-30cf156f7785", "sub_uri": "Q461096", "obj_uri": "Q432", "sub_label": "Ibnu Hisyam", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ffcb2c0d-7bb5-4516-a44c-b29f8942c8c4", "sub_uri": "Q12681848", "obj_uri": "Q432", "sub_label": "Aaron Aziz", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "20c79845-c28d-4c45-94ed-a9aa58ff386b", "sub_uri": "Q1370306", "obj_uri": "Q7066", "sub_label": "Robert M. Price", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "85b8d9e4-98ba-4730-8053-706b3c133b62", "sub_uri": "Q28655334", "obj_uri": "Q432", "sub_label": "Yahya Abdul-Mateen II", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "93038cdc-e8bf-41e6-82b1-3c8e5f74cbfd", "sub_uri": "Q439127", "obj_uri": "Q432", "sub_label": "Maryam Rajavi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c63e7c17-dff4-412e-ab2b-f6fa742d00b3", "sub_uri": "Q41980", "obj_uri": "Q7066", "sub_label": "Demokritos", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "ad35be95-61fc-4948-9b46-f4b3d4d83da2", "sub_uri": "Q711083", "obj_uri": "Q23540", "sub_label": "Koryo-saram", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "f3b31c86-87cf-4315-8096-5ee61253e369", "sub_uri": "Q294365", "obj_uri": "Q432", "sub_label": "Talal dari Yordania", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f6c61d11-e5b9-44af-853e-a8d7c778a696", "sub_uri": "Q6886437", "obj_uri": "Q432", "sub_label": "Moanes Dabour", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f537589d-e24d-4acf-97f0-bcbfd2f60fb2", "sub_uri": "Q16146322", "obj_uri": "Q432", "sub_label": "Shagufta Ali", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5e934f29-9514-4818-a0eb-7f9434c963a7", "sub_uri": "Q5772615", "obj_uri": "Q432", "sub_label": "Hishammuddin Hussein", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "63aa4453-bc87-4832-af55-61fe32a70419", "sub_uri": "Q939691", "obj_uri": "Q5043", "sub_label": "Suku Swazi", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "2ff4132a-8f2b-4523-8b83-60e209e650a9", "sub_uri": "Q4790555", "obj_uri": "Q432", "sub_label": "Arif Zakaria", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ba5d308c-9fa6-4025-a569-38dc00eb4df4", "sub_uri": "Q56399775", "obj_uri": "Q432", "sub_label": "Nasrudin Sumintapura", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5ca889d5-5200-47b2-a375-a3d27c2c255b", "sub_uri": "Q181659", "obj_uri": "Q7066", "sub_label": "Ursula Kroeber Le Guin", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "f13b0f68-e6dd-4ee2-9e02-06baae507795", "sub_uri": "Q335260", "obj_uri": "Q6423963", "sub_label": "Antony Armstrong-Jones, Earl Snowdon ke-1", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "b27a27a3-be5e-41dd-a711-a1671ff9d13c", "sub_uri": "Q6798731", "obj_uri": "Q432", "sub_label": "Mohd Khalil Yaakob", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6f77aa70-d764-4ec6-9a94-592bbcea1dd2", "sub_uri": "Q2679233", "obj_uri": "Q9316", "sub_label": "Yo Yo Honey Singh", "obj_label": "Sikhisme", "predicate_id": "P140"}
+{"uuid": "04d64340-9325-48a7-9dc8-65c70c5580b0", "sub_uri": "Q27063340", "obj_uri": "Q432", "sub_label": "Abul Khayr Alonto", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "202bcf42-0750-4c64-b8e1-257eb92496c8", "sub_uri": "Q229828", "obj_uri": "Q7066", "sub_label": "Mikhail Kalinin", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "864d4ae3-cb16-4406-9ef1-d7e1e2c533b6", "sub_uri": "Q3607449", "obj_uri": "Q432", "sub_label": "Al-Mizzi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "99211f57-5b0d-43d2-a45c-a3b30e6a50b8", "sub_uri": "Q400807", "obj_uri": "Q432", "sub_label": "Ahmad Shah Bahadur", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a5b31e43-478d-44a2-9e8e-af80007205df", "sub_uri": "Q12482698", "obj_uri": "Q432", "sub_label": "Fadli Zon", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5fdcde40-be36-441a-9120-a8ce6f808580", "sub_uri": "Q12485598", "obj_uri": "Q432", "sub_label": "Herman Tino", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "de7d0473-1c7c-40a2-8858-6feed2b22d60", "sub_uri": "Q41563", "obj_uri": "Q7066", "sub_label": "Julia Gillard", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "0f585143-786c-419b-a992-d4cce73d2bfe", "sub_uri": "Q56399882", "obj_uri": "Q432", "sub_label": "Pramono", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c9e0237b-7cc8-4294-822a-d9d1090322b8", "sub_uri": "Q12507435", "obj_uri": "Q432", "sub_label": "Puti Guntur Soekarno", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6c05b125-d41d-4ca5-97d8-d282b2f560bc", "sub_uri": "Q38875", "obj_uri": "Q432", "sub_label": "Mos Def", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b6ae515d-4799-48df-bebd-e9e5d98653b6", "sub_uri": "Q4918678", "obj_uri": "Q432", "sub_label": "Endon Mahmood", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "808f4360-4ada-4f6f-9176-8a2063c67875", "sub_uri": "Q345134", "obj_uri": "Q9601", "sub_label": "Ardawan II", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "3055bf7f-2873-4c1d-adac-3098be28e9ff", "sub_uri": "Q3111665", "obj_uri": "Q483654", "sub_label": "Yusuf bin Abi'l-Saj", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "8c3e2e45-9c8d-4631-9c40-1e359b91ffc0", "sub_uri": "Q519718", "obj_uri": "Q43004", "sub_label": "Dinasti Toungoo", "obj_label": "Animisme", "predicate_id": "P140"}
+{"uuid": "80552ee8-c1c9-4335-b6c5-7e78f9c70582", "sub_uri": "Q76194", "obj_uri": "Q23540", "sub_label": "Gerd Theissen", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "2cc01a8f-c747-499f-9318-71e3afddda3d", "sub_uri": "Q622820", "obj_uri": "Q432", "sub_label": "Wanita dalam Islam", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e1ae9b1b-aad2-43cd-b3cc-52d166951b4e", "sub_uri": "Q843392", "obj_uri": "Q43004", "sub_label": "Suku Wa", "obj_label": "Animisme", "predicate_id": "P140"}
+{"uuid": "430ce030-8240-4f1e-bc7f-b0ba1c0b6477", "sub_uri": "Q7646502", "obj_uri": "Q432", "sub_label": "Suroosh Alvi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "da0dafbd-d886-4a40-b54d-8ce06c23b959", "sub_uri": "Q5203466", "obj_uri": "Q5043", "sub_label": "D.A. Carson", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "f6b7d699-1b3f-4ae0-b5be-bad6593b590a", "sub_uri": "Q9068", "obj_uri": "Q7066", "sub_label": "Voltaire", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "084041b0-6ecf-487e-8531-efe72a1a3bda", "sub_uri": "Q14625876", "obj_uri": "Q432", "sub_label": "Muhammad bin Jamil Zainu", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b657c571-bca5-4813-9a8e-bd7e0b49df04", "sub_uri": "Q509569", "obj_uri": "Q5043", "sub_label": "Flavianus", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "4b21362c-e5e6-4be3-af3a-60493c68cb00", "sub_uri": "Q228717", "obj_uri": "Q288928", "sub_label": "Rose Byrne", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "b6ad4827-ff72-46aa-bb54-ca054df3b84e", "sub_uri": "Q207672", "obj_uri": "Q6423963", "sub_label": "William Wilberforce", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "788566a0-1d42-4727-a8c9-bb72e8eb2377", "sub_uri": "Q12682034", "obj_uri": "Q432", "sub_label": "Adenan Satem", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "57e3723f-3478-4145-8c47-88832f6c44f1", "sub_uri": "Q562209", "obj_uri": "Q7066", "sub_label": "Cesare Merzagora", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "c7b6df80-f76d-4ac7-bdb8-5bf16cd522ba", "sub_uri": "Q287573", "obj_uri": "Q432", "sub_label": "Al-Baidhawi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "85d93134-2e82-4953-b12b-8fffb4041d0d", "sub_uri": "Q477711", "obj_uri": "Q432", "sub_label": "Santri", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a9c36c3d-37ac-4a40-bfe5-db8dd1a63cf6", "sub_uri": "Q182130", "obj_uri": "Q385517", "sub_label": "Morihei Ueshiba", "obj_label": "Oomoto", "predicate_id": "P140"}
+{"uuid": "2ecb8fdb-52e2-47f6-ad19-83e4d8a6584d", "sub_uri": "Q2090354", "obj_uri": "Q7066", "sub_label": "As'ad AbuKhalil", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "74ed57c8-9b27-4cd9-8168-7ce300249bf5", "sub_uri": "Q485508", "obj_uri": "Q7066", "sub_label": "Charles Manson", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "170ec661-51ac-4bfe-aa05-aededccdf14f", "sub_uri": "Q57899", "obj_uri": "Q432", "sub_label": "Omar Abdirashid Ali-Sharmarke", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4ed7942f-d5ae-4c08-b44b-e068bacf1a1e", "sub_uri": "Q483505", "obj_uri": "Q483654", "sub_label": "Bangsa Tajik", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "e1d277b4-c9b5-41e2-9fe8-1306dd94a8f7", "sub_uri": "Q20979382", "obj_uri": "Q5043", "sub_label": "Denis Shapovalov", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "db892ac6-1119-4cbd-bdc3-ce122f526feb", "sub_uri": "Q55832", "obj_uri": "Q7066", "sub_label": "Boles\u0142aw Bierut", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "9070e0ae-3457-49f7-9423-486d9af6602c", "sub_uri": "Q184785", "obj_uri": "Q7066", "sub_label": "Anne Rice", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "eb465a9c-bfd9-44e0-bfa0-4df5b61c8894", "sub_uri": "Q234542", "obj_uri": "Q6423963", "sub_label": "Putri Victoria dari Britania Raya", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "bb88ddf1-849f-4626-9b29-ee44b19b3385", "sub_uri": "Q1028835", "obj_uri": "Q5043", "sub_label": "Kamerun Britania", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "32179a0a-5340-4f5b-a628-15427f839833", "sub_uri": "Q12499392", "obj_uri": "Q432", "sub_label": "Yunus Yosfiah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c18fdac5-1f6f-4304-9e51-2377d3469529", "sub_uri": "Q677728", "obj_uri": "Q23540", "sub_label": "Celio Secondo Curione", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "e81f0d5d-5235-4e09-b987-375f284980c9", "sub_uri": "Q12178105", "obj_uri": "Q483654", "sub_label": "Abu Ubaid al-Qasim bin Salam", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "646e6058-fa7d-4417-8e41-fd8f49292a74", "sub_uri": "Q55238732", "obj_uri": "Q432", "sub_label": "Muhammad Quraish Shihab", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ee576f9f-3186-4b0e-9c83-f96dd78a32db", "sub_uri": "Q34935", "obj_uri": "Q432", "sub_label": "Muhammad Rafiq Tarar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0f794d26-b4e0-4433-831b-f036ce5ce74a", "sub_uri": "Q12470623", "obj_uri": "Q432", "sub_label": "Abu Hanifah (menteri)", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ba0f3335-47b0-452c-8b66-4597b8d1a6c4", "sub_uri": "Q316553", "obj_uri": "Q432", "sub_label": "Ramush Haradinaj", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4f31185e-21e2-464e-a2ec-8c43ae53a8e8", "sub_uri": "Q7295347", "obj_uri": "Q432", "sub_label": "Rasyid Bakri", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "543a5946-ab7c-471b-afc9-56596ed2ebb6", "sub_uri": "Q146906", "obj_uri": "Q432", "sub_label": "Hussein dari Yordania", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b29a7aad-aa18-4909-8ac1-7f4a1ac87276", "sub_uri": "Q1148040", "obj_uri": "Q432", "sub_label": "Al-Ala' bin al-Hadhrami", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "830eb226-ddc5-404b-84de-e85d95605cdb", "sub_uri": "Q472593", "obj_uri": "Q5043", "sub_label": "Ignatius Kutu Acheamphong", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "345a41d0-8f11-4860-9156-0a56fea7e71c", "sub_uri": "Q12470958", "obj_uri": "Q432", "sub_label": "Ahmad Jais", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "76530c4f-769d-413a-8be3-89cebfc166b6", "sub_uri": "Q281900", "obj_uri": "Q432", "sub_label": "Masjid Sankt-Peterburg", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "eabd8c04-44c9-43c1-b374-68029f35b3b0", "sub_uri": "Q24284647", "obj_uri": "Q432", "sub_label": "Abdurrahman Syihab", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8b9659d2-bb82-4aba-90da-cc8172805048", "sub_uri": "Q5434715", "obj_uri": "Q432", "sub_label": "Farah (aktris)", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "bdd80bb2-c36e-4be2-986f-194dff73dff3", "sub_uri": "Q4261785", "obj_uri": "Q432", "sub_label": "Widjojo Nitisastro", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b7482421-a60e-487e-99c8-843263db7a48", "sub_uri": "Q385521", "obj_uri": "Q6423963", "sub_label": "St Paul's, Covent Garden", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "10a6fb58-7c07-4a15-bef4-5e864b58d201", "sub_uri": "Q6759210", "obj_uri": "Q432", "sub_label": "Jawad Ali", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "cb50af09-6930-41d0-a223-3cc1883cffd5", "sub_uri": "Q4670207", "obj_uri": "Q483654", "sub_label": "Abu Hatim ar-Razi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "191212ec-07a0-419e-97c7-3cfdbb1073c9", "sub_uri": "Q46420", "obj_uri": "Q9603", "sub_label": "Ibnu Arabi", "obj_label": "Sufisme", "predicate_id": "P140"}
+{"uuid": "cbd1f63b-690e-4688-b477-626ca5774ffe", "sub_uri": "Q42985", "obj_uri": "Q7066", "sub_label": "Ivan Pavlov", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "6ee8ab16-d561-40a9-937e-311e69c8f2b7", "sub_uri": "Q659457", "obj_uri": "Q432", "sub_label": "Bani Qasi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "251c950f-707b-4f31-81ac-00be12c10181", "sub_uri": "Q41395", "obj_uri": "Q288928", "sub_label": "Jos\u00e9 Luis Rodr\u00edguez Zapatero", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "c6caa126-58fc-47b6-8897-97d3ad0dce7d", "sub_uri": "Q717400", "obj_uri": "Q319218", "sub_label": "Thubten Choekyi Nyima, Panchen Lama ke-9", "obj_label": "Gelug", "predicate_id": "P140"}
+{"uuid": "a80869db-d362-4066-b3fd-ffe8cd3d6186", "sub_uri": "Q311796", "obj_uri": "Q432", "sub_label": "Fuad II dari Mesir", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7bb35685-e5fe-4352-9e9b-011e0f1fdc8c", "sub_uri": "Q310668", "obj_uri": "Q432", "sub_label": "Cheick Tiot\u00e9", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4fe12fcf-371b-4e24-97d4-d1305dfede90", "sub_uri": "Q1398330", "obj_uri": "Q9585", "sub_label": "Husain bin Hamdan", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "d5d0a39d-bd55-4791-bbbd-a7e6fc7ea894", "sub_uri": "Q74784045", "obj_uri": "Q432", "sub_label": "Anang Syarif Hidayat", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3ab595a4-a4d0-4a0c-94ae-72a2ea480288", "sub_uri": "Q379733", "obj_uri": "Q5043", "sub_label": "Odorico da Pordenone", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "ab4b6a10-5d5b-4cb6-b5b3-01e6b1c8f02d", "sub_uri": "Q104665715", "obj_uri": "Q5043", "sub_label": "Eriko Sotarduga", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "fe447e01-0704-425e-a2ba-dc850a7d4e7a", "sub_uri": "Q1093767", "obj_uri": "Q432", "sub_label": "Hindun binti Utbah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3704ac93-4a92-4ded-bf50-ea6d08bf047d", "sub_uri": "Q335097", "obj_uri": "Q432", "sub_label": "\u00d6z Beg Khan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2faa2a96-fa12-456a-8b83-95566e21ad91", "sub_uri": "Q1374720", "obj_uri": "Q101849", "sub_label": "William Ames", "obj_label": "Calvinisme", "predicate_id": "P140"}
+{"uuid": "5bb91b4e-a9be-4a7d-b8cb-c205fbc16c41", "sub_uri": "Q39691", "obj_uri": "Q432", "sub_label": "Johann Ludwig Burckhardt", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6749b9a3-b558-4cc6-aebf-e002ee6b64e1", "sub_uri": "Q401027", "obj_uri": "Q432", "sub_label": "Ahmadshah Abdullah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5519e2ea-de3e-477d-a8f2-65629b3b6b9c", "sub_uri": "Q440145", "obj_uri": "Q5043", "sub_label": "George Lincoln Rockwell", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "08a946dd-6f32-4c62-963c-18fff0de9cb6", "sub_uri": "Q25483927", "obj_uri": "Q432", "sub_label": "Saari Amri", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "31e51b06-80e7-45ec-9e9f-d47c91cb500c", "sub_uri": "Q316440", "obj_uri": "Q5043", "sub_label": "Sabas", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "54f5c964-dfb9-454e-83ab-eaa9cb97351c", "sub_uri": "Q12382617", "obj_uri": "Q432", "sub_label": "Muhammad ar-Riquti", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5d71d49c-027a-41a3-a1c6-4d9d41998323", "sub_uri": "Q455845", "obj_uri": "Q7066", "sub_label": "Ernestine Rose", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "dc5f0822-ab15-47b3-b640-75714693e2ea", "sub_uri": "Q4325822", "obj_uri": "Q432", "sub_label": "Asy-Syaukani", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "86909ecd-5f46-4abc-807b-d8462f0a585d", "sub_uri": "Q447638", "obj_uri": "Q6423963", "sub_label": "John Stott", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "18721018-14e9-4bc3-9ac9-408c624becf6", "sub_uri": "Q2700074", "obj_uri": "Q432", "sub_label": "Noh Alam Shah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "898b3020-c8d1-4d49-bef9-f1435f7feedd", "sub_uri": "Q21710247", "obj_uri": "Q23540", "sub_label": "Eunha", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "9729b4b4-d651-445b-ac3f-ef5a4bc6c431", "sub_uri": "Q544182", "obj_uri": "Q432", "sub_label": "Jahandar Shah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0262d2e4-c0b9-45f4-a509-3d5cb887a193", "sub_uri": "Q152727", "obj_uri": "Q101849", "sub_label": "Friedrich Wilhelm dari Brandenburg", "obj_label": "Calvinisme", "predicate_id": "P140"}
+{"uuid": "cb3ab7db-6a93-49a9-b66a-6a6196ce739a", "sub_uri": "Q73646", "obj_uri": "Q7066", "sub_label": "Thorstein Bunde Veblen", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "14c3d67f-3247-43ce-8f32-d6c5bac1112b", "sub_uri": "Q1101111", "obj_uri": "Q825754", "sub_label": "Shiseibyo", "obj_label": "Neo-Konfusianisme", "predicate_id": "P140"}
+{"uuid": "e3c4529b-b4e6-4213-b307-7089d89a2607", "sub_uri": "Q119679", "obj_uri": "Q483654", "sub_label": "Ibnu Qayyim Al-Jauziyyah", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "20cc4d34-1e52-4a0b-86b8-2353f89cfcef", "sub_uri": "Q199443", "obj_uri": "Q483654", "sub_label": "Dinasti Ghuriyah", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "23fbf5bd-caf4-42b3-820c-c8810c5e85a3", "sub_uri": "Q317942", "obj_uri": "Q7066", "sub_label": "Euhemeros", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "e72a9416-f707-4c9b-9077-7f95a8984c24", "sub_uri": "Q3777031", "obj_uri": "Q483654", "sub_label": "Ibnu al-Quthiyyah", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "9d6e4ac2-da39-4fce-964c-e36cb9f7e525", "sub_uri": "Q309381", "obj_uri": "Q43004", "sub_label": "Suku Li", "obj_label": "Animisme", "predicate_id": "P140"}
+{"uuid": "e5901292-fc10-402e-9f4c-fc7c785ce9b6", "sub_uri": "Q350891", "obj_uri": "Q6423963", "sub_label": "Adam Sedgwick", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "8e72fa52-8111-4639-82b9-c531b369c9b4", "sub_uri": "Q17410819", "obj_uri": "Q483654", "sub_label": "Fuad Masum", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "daba849a-0d22-4a07-a809-43a91dabac5f", "sub_uri": "Q5893510", "obj_uri": "Q9585", "sub_label": "Isa Kalantari", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "5e9cb4c0-ad1a-4449-9018-e0860c075115", "sub_uri": "Q541946", "obj_uri": "Q5043", "sub_label": "Hari Raya Tritunggal Mahakudus", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "b0f73234-a99f-4326-b4f3-d77b2222b700", "sub_uri": "Q13412374", "obj_uri": "Q7066", "sub_label": "Bill Burr", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "231f1157-f69c-4e89-9027-fca3ba35f314", "sub_uri": "Q10860099", "obj_uri": "Q432", "sub_label": "Agusrin Maryono Najamuddin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3db0bcd1-3dc5-452f-8f1c-ad4c89707272", "sub_uri": "Q25485605", "obj_uri": "Q432", "sub_label": "Hannah Delisha", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0bc80c38-98f3-4e2a-827c-75509061a5ed", "sub_uri": "Q12702139", "obj_uri": "Q432", "sub_label": "Rozita Che Wan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d4b6f1dd-3091-47e9-ab9e-662c24e6897d", "sub_uri": "Q241676", "obj_uri": "Q1062789", "sub_label": "Noah Webster", "obj_label": "Kongregasional", "predicate_id": "P140"}
+{"uuid": "9a2cbb7c-0e99-4dbb-bb5f-09a94f50b8f0", "sub_uri": "Q16730615", "obj_uri": "Q432", "sub_label": "Kasim Hafeez", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9c9a7014-50e7-40d6-bd58-b2194d63ca9b", "sub_uri": "Q6529576", "obj_uri": "Q432", "sub_label": "Bangsa Bihari", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d43e7cc1-0b6b-4aed-8b03-3fb9436c2a5a", "sub_uri": "Q34851", "obj_uri": "Q5043", "sub_label": "Elizabeth Taylor", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "c9b5e387-5508-4575-bcfe-f15e0076ac7e", "sub_uri": "Q6932396", "obj_uri": "Q432", "sub_label": "Muhammad Amin Bughra", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ad6abf39-389a-4e16-bed4-f0f08cfe8f47", "sub_uri": "Q65211883", "obj_uri": "Q432", "sub_label": "Muhammad Kasuba", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e55629ab-35b6-47a8-b9f1-84309cf72fa4", "sub_uri": "Q737448", "obj_uri": "Q9585", "sub_label": "Muhammad Husain Thabathaba'i", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "a26ff665-cf0a-40af-89b2-6fc3e74abd37", "sub_uri": "Q671163", "obj_uri": "Q5043", "sub_label": "Guglielmo Fieschi", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "2def282a-1cab-4d21-921d-360cf0eb3077", "sub_uri": "Q459687", "obj_uri": "Q6423963", "sub_label": "John Mbiti", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "82a72e76-cdb9-424a-88e5-67cf231742f9", "sub_uri": "Q878543", "obj_uri": "Q6423963", "sub_label": "Frederick Karlomuana Timakata", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "1a124d64-c840-43c2-b573-a186a91358a5", "sub_uri": "Q471040", "obj_uri": "Q7066", "sub_label": "Vinayak Damodar Savarkar", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "07c85354-7437-43fd-bff2-d2b18143b2f4", "sub_uri": "Q7399497", "obj_uri": "Q432", "sub_label": "Sahara Khatun", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e15c8f10-ca58-482d-be14-2a8e88bec130", "sub_uri": "Q5452120", "obj_uri": "Q432", "sub_label": "Firmanzah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "665369ef-2b92-457c-85bd-73ae73f21f0e", "sub_uri": "Q87015", "obj_uri": "Q432", "sub_label": "Alexander Litvinenko", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a6c51c62-5989-43d2-b083-a6faf0dd326f", "sub_uri": "Q3119366", "obj_uri": "Q178671", "sub_label": "Matilda Joslyn Gage", "obj_label": "Teosofi", "predicate_id": "P140"}
+{"uuid": "fd227c10-39de-4521-ab17-4e014f653739", "sub_uri": "Q192465", "obj_uri": "Q131036", "sub_label": "Chick Corea", "obj_label": "Scientology", "predicate_id": "P140"}
+{"uuid": "33dafba1-0484-4f69-a32a-f691569812b5", "sub_uri": "Q65213497", "obj_uri": "Q432", "sub_label": "Achmad Fahmi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "17adec7f-34e5-43ed-b142-af01591ce0b1", "sub_uri": "Q7966977", "obj_uri": "Q432", "sub_label": "Wan Abdul Rahim Wan Abdullah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d9dfdfe2-657c-44ec-b1de-aae3034cefad", "sub_uri": "Q31173622", "obj_uri": "Q432", "sub_label": "Novita Wijayanti", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "89882a71-f32b-402b-a6af-9e81a3a288a6", "sub_uri": "Q263272", "obj_uri": "Q6423963", "sub_label": "Katharine Jefferts Schori", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "c5bf6603-c0f9-4718-bcc1-f3359e50f51d", "sub_uri": "Q1394", "obj_uri": "Q7066", "sub_label": "Vladimir Lenin", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "20d5f3ad-253c-4bdb-9605-89ca2ffd58bb", "sub_uri": "Q221522", "obj_uri": "Q5043", "sub_label": "Santo Yohanes dari Nepomuk", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "68935738-f127-4abe-8d3b-229983597f62", "sub_uri": "Q976022", "obj_uri": "Q7066", "sub_label": "Jamie Dornan", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "05ee10b8-8217-47bf-ab1f-503cf997e933", "sub_uri": "Q176643", "obj_uri": "Q7066", "sub_label": "James Alexander Mirrlees", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "2affcf4e-b0ed-42c4-965f-fc89272317a5", "sub_uri": "Q804009", "obj_uri": "Q432", "sub_label": "Masjid Nasional Baitul Mukarram", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "48d0e3d6-6c63-449b-bc08-e364ddfb5206", "sub_uri": "Q19746356", "obj_uri": "Q432", "sub_label": "Muhammad Afif al-Banjari", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6bf10401-77c4-4047-beb1-a694645d2757", "sub_uri": "Q7934206", "obj_uri": "Q483654", "sub_label": "Abu Mohammad al-Julani", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "b3a296e1-955e-421b-992a-9f75535ec35c", "sub_uri": "Q1554548", "obj_uri": "Q432", "sub_label": "Massoud Rajavi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "069d1f2c-3e1f-4dae-9f9e-aa2253551308", "sub_uri": "Q4665459", "obj_uri": "Q432", "sub_label": "Abdul Kahar Muzakkar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1c60768d-dc35-4972-aaf7-d3dd91ee988a", "sub_uri": "Q117144", "obj_uri": "Q101849", "sub_label": "Mikl\u00f3s Horthy", "obj_label": "Calvinisme", "predicate_id": "P140"}
+{"uuid": "60158b24-c129-4a31-9a33-ade17169846a", "sub_uri": "Q379707", "obj_uri": "Q9585", "sub_label": "Bismillah Khan", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "f347c5cc-5e0b-4d77-9e32-f1d3f25e000f", "sub_uri": "Q31186930", "obj_uri": "Q432", "sub_label": "Puteri Aishah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f3763593-7092-41d9-ad34-c0c8df6abc70", "sub_uri": "Q847420", "obj_uri": "Q483654", "sub_label": "Kesultanan Mamluk (Delhi)", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "c24d8726-053a-4ace-a66b-2b6e81d65882", "sub_uri": "Q190240", "obj_uri": "Q5043", "sub_label": "Siprianus", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "5c51f600-21c2-417b-b0c3-e923c4a0188f", "sub_uri": "Q85822957", "obj_uri": "Q23540", "sub_label": "August Marpaung", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "df1816ab-b828-49b4-8a93-faad262a8f81", "sub_uri": "Q17410756", "obj_uri": "Q432", "sub_label": "Mohammad Toha (politikus)", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f5a94a93-1d31-46f7-be3f-e04c6f31b936", "sub_uri": "Q373034", "obj_uri": "Q432", "sub_label": "Sa\u00efd Taghmaoui", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "53899e11-307c-49ea-99a6-726bcb4e50b4", "sub_uri": "Q333703", "obj_uri": "Q432", "sub_label": "Fakhruddin Ar-Razi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b76be3e4-f68a-4542-bbed-248743376c34", "sub_uri": "Q705562", "obj_uri": "Q432", "sub_label": "Raleb Majadele", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b31ee2ff-57b1-465a-a4eb-636058cd97e2", "sub_uri": "Q342137", "obj_uri": "Q432", "sub_label": "Al-Hakim Biamrillah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a62794ca-6f45-412c-b4a0-6902534da2ff", "sub_uri": "Q3542702", "obj_uri": "Q432", "sub_label": "Sharafuddin dari Selangor", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1663887b-a54b-469e-b3f0-35ccb18b5ba2", "sub_uri": "Q159778", "obj_uri": "Q23540", "sub_label": "Michelle Pfeiffer", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "5a431ad6-0f9f-4721-a65e-a1503c5745b2", "sub_uri": "Q198770", "obj_uri": "Q483654", "sub_label": "Said Nurs\u00ee", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "7fd1ea62-6e27-49af-af7b-14f69842a85c", "sub_uri": "Q57526", "obj_uri": "Q432", "sub_label": "Bujar Nishani", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4893240e-57dd-45bb-a5b9-932d27b27c8b", "sub_uri": "Q4260088", "obj_uri": "Q432", "sub_label": "Muhammad Taib", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "50b13069-011c-43f8-ba54-5bf9c9bdb58f", "sub_uri": "Q1672477", "obj_uri": "Q9601", "sub_label": "Bangsa Iran", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "ea476f9e-a96e-433a-acae-c79cae04be56", "sub_uri": "Q7876446", "obj_uri": "Q432", "sub_label": "Ubadah bin ash-Shamit", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7d138c3f-5856-4ee2-96b4-3d6c5c8bc7cd", "sub_uri": "Q1430090", "obj_uri": "Q432", "sub_label": "Masjid Nuruosmaniye", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9149828b-5df8-48f2-8cb2-e7827bb959fa", "sub_uri": "Q7207", "obj_uri": "Q6423963", "sub_label": "Elizabeth I dari Inggris", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "e0c24a57-77c3-4b5b-9b15-1df0655c091d", "sub_uri": "Q131152", "obj_uri": "Q432", "sub_label": "Shirin Ebadi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c61ae228-45a6-4d52-9d6a-b99c9a50c412", "sub_uri": "Q331707", "obj_uri": "Q483654", "sub_label": "Ekmeleddin \u0130hsano\u011flu", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "85c897cc-b6da-4e10-8b5e-a8ee7d4a0a97", "sub_uri": "Q981846", "obj_uri": "Q432", "sub_label": "Muqrin bin Abdulaziz Al Saud", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "fec3f436-87cc-4ce3-9df5-2ed6d899a313", "sub_uri": "Q56413418", "obj_uri": "Q432", "sub_label": "Nihayatul Wafiroh", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "195910be-f90e-4ab1-9567-911645734622", "sub_uri": "Q4201898", "obj_uri": "Q432", "sub_label": "Sunan Muria", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "776804f9-e1c0-4c62-8317-e92d6c28478e", "sub_uri": "Q755878", "obj_uri": "Q432", "sub_label": "Atiku Abubakar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8c059ece-71c5-4f9e-b9cd-1c125e3d2cca", "sub_uri": "Q4702172", "obj_uri": "Q432", "sub_label": "Al-Akhfasy al-Akbar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f04cf784-e8cb-487a-9608-c6cb228f60fa", "sub_uri": "Q307365", "obj_uri": "Q432", "sub_label": "Abdul Qadir al-Jailani", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "564a0ff5-df7a-4e4f-ad80-542f7eb11fe5", "sub_uri": "Q61056", "obj_uri": "Q668460", "sub_label": "Ma'mun Ar-Rasyid", "obj_label": "Muktazilah", "predicate_id": "P140"}
+{"uuid": "2c27a4bc-bd39-45e9-b0d2-cf0ff71554b3", "sub_uri": "Q2748525", "obj_uri": "Q432", "sub_label": "Amjad Ali Khan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5fe5b2ca-18b1-4e0e-a813-bf4e0dbf2c8d", "sub_uri": "Q56398822", "obj_uri": "Q432", "sub_label": "Soltoni Mohdally", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c5c848e7-cf70-4dd8-8437-93bb111013fd", "sub_uri": "Q4016805", "obj_uri": "Q432", "sub_label": "Muhammad Isa Anshary", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d63a2197-7c1f-4973-85b8-84e50455e24c", "sub_uri": "Q323341", "obj_uri": "Q23540", "sub_label": "Immanuel Tremellius", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "161835c3-4c2b-4865-9bd3-a371fe13923a", "sub_uri": "Q229184", "obj_uri": "Q5043", "sub_label": "Lily Collins", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "5ac23de1-ee50-40c4-9129-2ae058e2ccc3", "sub_uri": "Q12470969", "obj_uri": "Q432", "sub_label": "Ahmad Shiddiq", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e71cd8a6-f76a-45c6-8d67-9c03c4294370", "sub_uri": "Q194442", "obj_uri": "Q483654", "sub_label": "Ahmad bin Hanbal", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "013e26aa-8992-488c-8434-3d4d7983b1d6", "sub_uri": "Q12697948", "obj_uri": "Q432", "sub_label": "Mohamed Salleh Ismael", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b5431efa-ecbc-43b8-9949-6cae1740bee9", "sub_uri": "Q17055379", "obj_uri": "Q432", "sub_label": "Rubiah Wang", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3493d83a-7e31-4f45-887c-25893ce12825", "sub_uri": "Q4201195", "obj_uri": "Q432", "sub_label": "Sunan Gunung Jati", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7672df19-55a9-4329-b117-e53fa6bc712a", "sub_uri": "Q4925272", "obj_uri": "Q132265", "sub_label": "Norodom Buppha Devi", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "3fb61682-0269-4cd4-891d-5924d3a3ad9d", "sub_uri": "Q3505511", "obj_uri": "Q432", "sub_label": "Elie Aiboy", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "2d7f5510-68d1-4bdb-ba91-caef93c48557", "sub_uri": "Q450890", "obj_uri": "Q432", "sub_label": "Anjem Choudary", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "c4752119-abe7-430f-95d8-42556ac0ecbb", "sub_uri": "Q19730403", "obj_uri": "Q432", "sub_label": "Tuanku Pasaman", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "027e30cc-b4cf-476b-8de8-e3aeae94518e", "sub_uri": "Q1110668", "obj_uri": "Q432", "sub_label": "Fatimah binti Asad", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "683823cb-c2df-42d5-ae27-a7306209a5b3", "sub_uri": "Q435056", "obj_uri": "Q7066", "sub_label": "John W. Campbell", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "52cf791a-d4da-4da7-a7d3-1f029f3f9f6c", "sub_uri": "Q271878", "obj_uri": "Q6423963", "sub_label": "George Curzon", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "a8d2f7a6-ef6e-43c7-8007-58c55b1329c5", "sub_uri": "Q468432", "obj_uri": "Q432", "sub_label": "Jalaluddin as-Suyuthi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "50f38124-f65f-4774-a810-cd06a128b5e2", "sub_uri": "Q192138", "obj_uri": "Q432", "sub_label": "Ibrahim Rugova", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a6d78cdd-0d26-4113-a9ff-f7402ead27c6", "sub_uri": "Q717732", "obj_uri": "Q9232", "sub_label": "Abbakka Chowta", "obj_label": "Jainisme", "predicate_id": "P140"}
+{"uuid": "8dc3700e-c519-402c-82fe-28a29cd797b8", "sub_uri": "Q35610", "obj_uri": "Q214255", "sub_label": "Arthur Conan Doyle", "obj_label": "Spiritisme", "predicate_id": "P140"}
+{"uuid": "c9e70e8b-4b83-4321-83bc-59986898309d", "sub_uri": "Q16140394", "obj_uri": "Q132265", "sub_label": "Sujarinee Vivacharawongse", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "aea4b1fe-24fe-4de5-b0e7-616de747354c", "sub_uri": "Q19723696", "obj_uri": "Q432", "sub_label": "Ade Rezki Pratama", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0af74ef2-66ec-4260-bd39-f74be24dbe6f", "sub_uri": "Q47285", "obj_uri": "Q6423963", "sub_label": "Joseph John Thomson", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "f7da2ae4-2539-4b43-a3ad-5df77ac57cc0", "sub_uri": "Q4665622", "obj_uri": "Q432", "sub_label": "Abdul Rahman Sulaeman", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8de5ff44-d385-420b-bd4e-cf551ad4eaf4", "sub_uri": "Q41605", "obj_uri": "Q5043", "sub_label": "Konstantinus IV", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "f53efb8f-fc49-4d4e-bdb7-24e0e75e0a90", "sub_uri": "Q4201482", "obj_uri": "Q432", "sub_label": "Syafruddin Prawiranegara", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e726e2de-dbc0-47a2-ad46-3e9fb3969b4a", "sub_uri": "Q55720", "obj_uri": "Q6423963", "sub_label": "Sarah, Adipatni York", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "85728585-85c2-485c-b385-655a4c15dcba", "sub_uri": "Q56393541", "obj_uri": "Q432", "sub_label": "Devano Danendra", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a71becaa-1c1d-4084-b553-db350938844b", "sub_uri": "Q461733", "obj_uri": "Q23540", "sub_label": "William Robertson Smith", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "b607e811-183b-464e-a4d3-dcbb459acf90", "sub_uri": "Q172365", "obj_uri": "Q5043", "sub_label": "Suku San", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "a84a188b-8a81-40d0-8edc-60074660f064", "sub_uri": "Q365965", "obj_uri": "Q432", "sub_label": "Amr Zaky", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f668480d-4c54-419b-b93c-98e1c78839fc", "sub_uri": "Q602993", "obj_uri": "Q168414", "sub_label": "Kitbuqa", "obj_label": "Nestorianisme", "predicate_id": "P140"}
+{"uuid": "50deb355-94a4-43f8-8056-23d1e68f9c08", "sub_uri": "Q298423", "obj_uri": "Q7066", "sub_label": "Chelsea Manning", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "131fe5f8-4f12-482d-915a-5a70f27d8dde", "sub_uri": "Q3595385", "obj_uri": "Q7066", "sub_label": "Pinarayi Vijayan", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "4d695db8-b0da-45bd-9795-b81635dce3ce", "sub_uri": "Q25464675", "obj_uri": "Q432", "sub_label": "Nadiem Makarim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ec9ca127-a6c4-49d5-88d8-2f9952929974", "sub_uri": "Q334882", "obj_uri": "Q483654", "sub_label": "Abu Bakar bin Umar", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "f575c8c3-bd2d-4627-a063-7351187fc8b8", "sub_uri": "Q373650", "obj_uri": "Q483654", "sub_label": "Kekaisaran Sur", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "226456b7-aa91-4b11-9fc0-c915c279b0e7", "sub_uri": "Q715092", "obj_uri": "Q432", "sub_label": "Ma Qi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5d7a8d01-8ee1-4845-acb9-2814b821e983", "sub_uri": "Q6943238", "obj_uri": "Q432", "sub_label": "Mustafa Badreddine", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e5e4ea75-1425-425b-a06b-26f7410a2093", "sub_uri": "Q298427", "obj_uri": "Q483654", "sub_label": "Nizham al-Mulk", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "53c25f57-db47-4abd-8d84-139b7f81382b", "sub_uri": "Q21095868", "obj_uri": "Q483654", "sub_label": "Sevil Shhaideh", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "e8b9d5b5-ac15-4ebe-a4b9-ee7e017f5299", "sub_uri": "Q298430", "obj_uri": "Q5043", "sub_label": "Reynaldo Bignone", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "061cdfad-91db-4426-a035-1a200818300e", "sub_uri": "Q4251706", "obj_uri": "Q432", "sub_label": "Sultan Mudzafar Shah I", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "89beca2c-3989-482b-b5a4-c52bc21da820", "sub_uri": "Q268181", "obj_uri": "Q7066", "sub_label": "Chuck Palahniuk", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "5dc71252-33c0-4a1e-81d8-e43a8680f978", "sub_uri": "Q310065", "obj_uri": "Q5043", "sub_label": "John Balliol", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "4c3f19fc-164f-400a-9eb3-89c97f2493ff", "sub_uri": "Q2261664", "obj_uri": "Q432", "sub_label": "Bisyr bin al-Harits", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9e324a92-22ba-49e1-b27f-d243ef1809ae", "sub_uri": "Q316553", "obj_uri": "Q483654", "sub_label": "Ramush Haradinaj", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "a48a962d-bb9c-48f2-9c99-cbd738eb2a33", "sub_uri": "Q295107", "obj_uri": "Q5043", "sub_label": "Mr. T", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "6e2ab21d-4a90-4e66-8576-47e5cd520e2b", "sub_uri": "Q402245", "obj_uri": "Q432", "sub_label": "Muhammad Said Ramadhan al-Buthi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f5e2ba32-ea90-41fd-a0ed-3863a6c52a8b", "sub_uri": "Q6527", "obj_uri": "Q23540", "sub_label": "Jean-Jacques Rousseau", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "a149945e-3d1d-48bb-80c5-fae0128d4e35", "sub_uri": "Q7333042", "obj_uri": "Q432", "sub_label": "Ridwan Kamil", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d826e123-f6c3-4a9d-88e7-cc32f12f4d84", "sub_uri": "Q188653", "obj_uri": "Q483654", "sub_label": "Ahmed Yassin", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "96f4269d-a125-42e0-8f9f-923589c08f08", "sub_uri": "Q2762152", "obj_uri": "Q432", "sub_label": "Sajid Khan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a6529316-9faf-4951-8839-5494e332fc54", "sub_uri": "Q4115052", "obj_uri": "Q432", "sub_label": "Ali al-Akbar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d30c97da-1169-4df6-a0e9-4fbf18506f29", "sub_uri": "Q3918429", "obj_uri": "Q483654", "sub_label": "Ahmad Shah Khan", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "1d9dec7b-e1a6-497f-93bf-6646935fa4d5", "sub_uri": "Q1396312", "obj_uri": "Q432", "sub_label": "Shah Abdul Latif Bhittai", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "cb56af07-fbd3-4020-9e03-e602305ae61b", "sub_uri": "Q12222190", "obj_uri": "Q483654", "sub_label": "Adil al-Kalbani", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "8a1fbb07-d431-4d5e-9a81-f5323cd388a9", "sub_uri": "Q1070829", "obj_uri": "Q432", "sub_label": "Ali-Reza Pahlavi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "27cd1c52-de7a-4ac8-afa6-5b884dd0416b", "sub_uri": "Q8060", "obj_uri": "Q432", "sub_label": "Orang Rom", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6a575409-3d06-47c8-a4dd-6bdf5ea5eadb", "sub_uri": "Q129987", "obj_uri": "Q6423963", "sub_label": "William III dari Inggris", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "030e720a-2fca-4f2d-bc0a-66b56ceb5458", "sub_uri": "Q1067803", "obj_uri": "Q6423963", "sub_label": "Katedral Gereja Kristus, Dublin", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "ba595c7b-0290-4a19-afe8-e250924764c7", "sub_uri": "Q374273", "obj_uri": "Q5043", "sub_label": "Armie Hammer", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "e6c8a44b-8fd9-4fd8-9afc-3c7d14d1192c", "sub_uri": "Q318780", "obj_uri": "Q483654", "sub_label": "Younis Mahmoud", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "6776b4da-a1d1-4d90-9ee7-69a4919b2123", "sub_uri": "Q12241721", "obj_uri": "Q432", "sub_label": "Mudrikah bin Ilyas", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3d4c370d-476f-460d-9a94-c311cb6dde90", "sub_uri": "Q12485388", "obj_uri": "Q432", "sub_label": "Hasan Basri (ulama)", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b4fe83bc-df91-453b-8a78-c1b9f6c6d574", "sub_uri": "Q6068571", "obj_uri": "Q432", "sub_label": "Ermir Lenjani", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "eb32e609-afb7-4938-a369-63335f57fe4f", "sub_uri": "Q278980", "obj_uri": "Q7066", "sub_label": "Akkineni Nageswara Rao", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "0e849933-97bd-44ca-ad22-1ba8ed751833", "sub_uri": "Q165983", "obj_uri": "Q432", "sub_label": "Bayezid II", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "323f8c46-af18-46f6-96f3-7e539fbc63e5", "sub_uri": "Q76357", "obj_uri": "Q7066", "sub_label": "J\u00fcrgen Habermas", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "6dbb75fb-77a5-44fb-90b6-da75f537ccda", "sub_uri": "Q25189650", "obj_uri": "Q23540", "sub_label": "Nabeel Qureshi (pengarang)", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "7ab825f0-27da-4072-9357-5da196faebbd", "sub_uri": "Q56400053", "obj_uri": "Q432", "sub_label": "CH Patoppoi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "75859c1f-23d4-4539-a35e-80f4eae75b14", "sub_uri": "Q57625", "obj_uri": "Q432", "sub_label": "Sali Berisha", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "bf1ff006-a694-4d64-bfe6-4c0b488aebc4", "sub_uri": "Q268003", "obj_uri": "Q7066", "sub_label": "Edvard Kardelj", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "0749abcf-bb4c-4559-aa68-5029e2cd95be", "sub_uri": "Q40477", "obj_uri": "Q432", "sub_label": "Bangsa Slavia", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "fa02e513-f0c8-4967-a0bb-5c64e19da28e", "sub_uri": "Q24006732", "obj_uri": "Q432", "sub_label": "Muhammad Ibrahim (bankir)", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5b701d79-a117-4004-8f3a-e1d5dda3d67c", "sub_uri": "Q2038", "obj_uri": "Q288928", "sub_label": "Fran\u00e7ois Maurice Adrien Marie Mitterrand", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "47ea47b3-2a87-4fec-b8d3-ab6f228b4022", "sub_uri": "Q2137829", "obj_uri": "Q432", "sub_label": "Muhammad Ahmad Hussein", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "37ffb403-f90e-43f7-bbe5-6520a25a7074", "sub_uri": "Q133267", "obj_uri": "Q7066", "sub_label": "Lev Davidovich Landau", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "9c7164b1-85bb-411d-8ced-ed8c9e49196a", "sub_uri": "Q190972", "obj_uri": "Q5043", "sub_label": "Jim Parsons", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "b2c90901-a56e-41d8-9cd0-d8db9e38af2a", "sub_uri": "Q1353651", "obj_uri": "Q6423963", "sub_label": "Robert Neelly Bellah", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "c0629efd-2b7c-476a-aad4-3a600e7d85c8", "sub_uri": "Q160460", "obj_uri": "Q432", "sub_label": "Al-Farabi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0004be2c-bfbb-4d78-bb8c-33ec41a1c7b1", "sub_uri": "Q80956", "obj_uri": "Q7066", "sub_label": "Svante August Arrhenius", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "bbdffa09-d088-4a6b-b9d3-a8a7454c4ea2", "sub_uri": "Q370868", "obj_uri": "Q43004", "sub_label": "Suku Yao", "obj_label": "Animisme", "predicate_id": "P140"}
+{"uuid": "a85d80fc-b145-4b50-958d-31ddc6880b79", "sub_uri": "Q379662", "obj_uri": "Q23540", "sub_label": "Jang Taek-sang", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "cad71909-b9a5-4004-8aa6-44281e2eb082", "sub_uri": "Q7788209", "obj_uri": "Q6423963", "sub_label": "Thomas Cannon", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "41c072d8-0d06-4c14-a8e8-08c2b2dcb83c", "sub_uri": "Q187702", "obj_uri": "Q5043", "sub_label": "Gereja Makam Kudus", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "25668b33-91f4-47c3-b4b0-8e319aa5fd24", "sub_uri": "Q484816", "obj_uri": "Q483654", "sub_label": "Kurmanbek Bakiyev", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "1508261e-855e-4e2f-b28d-558a2f9bb653", "sub_uri": "Q468579", "obj_uri": "Q483654", "sub_label": "Wan Azizah Wan Ismail", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "6ece155a-3349-4b7f-9ea8-9a77c7cbec1b", "sub_uri": "Q1995603", "obj_uri": "Q230386", "sub_label": "Ikhwan As-Shafa", "obj_label": "Ismailiyah", "predicate_id": "P140"}
+{"uuid": "3dcfc29b-bfda-4d38-9266-166e9cb6db33", "sub_uri": "Q2504940", "obj_uri": "Q432", "sub_label": "Jamal Zahalka", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "dfb0bcf6-15b6-4ded-a018-d7cb95453b1b", "sub_uri": "Q4932722", "obj_uri": "Q432", "sub_label": "Bob Hasan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7c9ef1c1-838f-4c52-9f24-b36abd530f60", "sub_uri": "Q3595388", "obj_uri": "Q432", "sub_label": "Abdur Raheem Green", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ac996c5e-1eb5-4298-a1a5-4d40842ddde2", "sub_uri": "Q1884989", "obj_uri": "Q432", "sub_label": "Mahmoud Mohammed Taha", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a49355e9-3b19-4573-a382-1ba1fd9c3b80", "sub_uri": "Q311155", "obj_uri": "Q432", "sub_label": "Lorik Cana", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7707f0f5-c39f-4aec-9e16-3ddb072b5384", "sub_uri": "Q291877", "obj_uri": "Q5043", "sub_label": "\u00cd\u00f1igo Arista", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "e8da0a05-4c35-4d30-9106-982877e440b0", "sub_uri": "Q4259635", "obj_uri": "Q432", "sub_label": "Ahmad Fakri Saarani", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "62fedb32-f788-479c-8688-b69e6f775e1f", "sub_uri": "Q231693", "obj_uri": "Q9585", "sub_label": "Mumtaz Mahal", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "7d4b41c2-c911-414b-9c1f-6bc6abd51f74", "sub_uri": "Q313797", "obj_uri": "Q483654", "sub_label": "Mohamed Abdelaziz", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "6f40ca8e-128b-4c46-a882-b687870ea561", "sub_uri": "Q3160968", "obj_uri": "Q6423963", "sub_label": "James Cameron (misionaris)", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "8fd56b96-3af7-4f63-b0f8-aba43bcea3ed", "sub_uri": "Q2821166", "obj_uri": "Q432", "sub_label": "Abdelmadjid Tebboune", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a983bf97-3c9b-4114-b5da-5514b96df4c2", "sub_uri": "Q702918", "obj_uri": "Q432", "sub_label": "Ma Huan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "28670ac7-0fb9-4c8d-a0bd-0e5d4c1903cb", "sub_uri": "Q983475", "obj_uri": "Q7066", "sub_label": "M. K. Stalin", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "1624fdad-10d7-4180-a1f5-1de6308aa7f9", "sub_uri": "Q582779", "obj_uri": "Q9316", "sub_label": "Sikh", "obj_label": "Sikhisme", "predicate_id": "P140"}
+{"uuid": "583f6bc6-656a-4b91-a4f4-78870fd462ed", "sub_uri": "Q4273082", "obj_uri": "Q432", "sub_label": "Musa Hassan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "edefcce7-6312-47fe-8b69-8b9af4c49be9", "sub_uri": "Q1399863", "obj_uri": "Q9585", "sub_label": "Fedaiyan Islam", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "79381813-41a1-49bc-afe3-75b733ebe568", "sub_uri": "Q171525", "obj_uri": "Q5043", "sub_label": "Jake Johnson", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "a7b95cdd-7e91-4ac5-8a34-8edc6f9c4845", "sub_uri": "Q28723990", "obj_uri": "Q432", "sub_label": "A. Fatih Syuhud", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7ecfb525-193e-4eb2-9b02-0889baa4755a", "sub_uri": "Q16057941", "obj_uri": "Q432", "sub_label": "Othman Abdul", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3c438cba-6010-4b33-b2e7-ffbc85e1e678", "sub_uri": "Q56416847", "obj_uri": "Q432", "sub_label": "Ipank", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "14a6b8ad-521d-42a7-bc72-c752e3b0bcf0", "sub_uri": "Q335495", "obj_uri": "Q432", "sub_label": "Ismail Gasprinsky", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "fc25ebf7-5eab-445e-b74a-278d6e9414b6", "sub_uri": "Q12557", "obj_uri": "Q168414", "sub_label": "Kekaisaran Mongol", "obj_label": "Nestorianisme", "predicate_id": "P140"}
+{"uuid": "62092d3f-ff0c-4993-8961-4515a5078252", "sub_uri": "Q25459191", "obj_uri": "Q432", "sub_label": "Teungku Peukan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8ef71565-24d5-4ade-af61-1fb01b50ba92", "sub_uri": "Q141829", "obj_uri": "Q7066", "sub_label": "Lavrenti Beria", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "d28a69a1-33d3-49d0-aa4a-454d7de49ec7", "sub_uri": "Q2623954", "obj_uri": "Q5043", "sub_label": "Humbert dari Romans", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "965bafea-81a5-4747-816d-772dc979140f", "sub_uri": "Q15222839", "obj_uri": "Q432", "sub_label": "Kokhir Rasulzoda", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d465c98e-98ae-465a-92e6-b969b5b6bc91", "sub_uri": "Q312215", "obj_uri": "Q101849", "sub_label": "Willem V, Pangeran Oranye", "obj_label": "Calvinisme", "predicate_id": "P140"}
+{"uuid": "3ad35bc7-82ed-4981-8aef-4a25b2d89b6e", "sub_uri": "Q55825411", "obj_uri": "Q432", "sub_label": "Bambang Supeno", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "20603227-add8-4424-86de-6d3ba1b156be", "sub_uri": "Q31187026", "obj_uri": "Q432", "sub_label": "Noorainee Abdul Rahman", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "bb804e8d-281f-4e01-8f29-902abad97021", "sub_uri": "Q207381", "obj_uri": "Q9601", "sub_label": "Khosrau I", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "5a9bc9ac-672f-4285-8827-5dbdb99f384c", "sub_uri": "Q7116999", "obj_uri": "Q432", "sub_label": "Pieter Frederik Dahler", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "eec4bddf-5780-464d-aba3-2b38f1cf01b0", "sub_uri": "Q1647787", "obj_uri": "Q432", "sub_label": "Thalhah bin Ubaidillah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "9bf7d071-e9c1-4c18-810d-08d431bdad1a", "sub_uri": "Q368983", "obj_uri": "Q483654", "sub_label": "Talgat Tadzhuddin", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "7355918e-cc1f-4b08-9c51-98d045f40e92", "sub_uri": "Q12472657", "obj_uri": "Q432", "sub_label": "Asman Abnur", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0f3e2e16-f189-40d3-a0c4-4103e99da8c8", "sub_uri": "Q253660", "obj_uri": "Q432", "sub_label": "Sajida Talfah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "33db1117-cc00-41c6-bb32-d2ae178b5d55", "sub_uri": "Q165487", "obj_uri": "Q483654", "sub_label": "Ahmet Necdet Sezer", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "93ee461c-4d81-410a-9e48-787fc4a25b63", "sub_uri": "Q2565329", "obj_uri": "Q432", "sub_label": "Masjid Yavuz Selim", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e0b521ce-ec7c-43ce-a499-9a186031f347", "sub_uri": "Q156833", "obj_uri": "Q7066", "sub_label": "Ramiz Alia", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "83e0aa39-863b-40a0-b354-04e154d8d264", "sub_uri": "Q3281697", "obj_uri": "Q432", "sub_label": "Raja Zarith Sofia", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "63bf819b-d701-4c33-a700-05fd1f7d7f9c", "sub_uri": "Q160163", "obj_uri": "Q7066", "sub_label": "Norman Finkelstein", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "a8e39e91-b10c-4016-8e31-abcb0deb672a", "sub_uri": "Q4115020", "obj_uri": "Q432", "sub_label": "Ghafar Baba", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "022ce408-4aa3-4f5e-9540-ab2336a0d48a", "sub_uri": "Q169841", "obj_uri": "Q483654", "sub_label": "Nazim al-Kudsi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "d034df63-5765-4946-8d35-62ee50a9b67b", "sub_uri": "Q15072678", "obj_uri": "Q7066", "sub_label": "Kate Smurthwaite", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "d65ba272-67fe-4333-86ef-00edd6734d55", "sub_uri": "Q12178783", "obj_uri": "Q432", "sub_label": "Ahmad bin Yahya an-Najmi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "de73bc29-30c0-4c84-ad18-520d96b2feb1", "sub_uri": "Q19840070", "obj_uri": "Q483654", "sub_label": "Masjid Dunhuang", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "addc1fbf-8dc9-466d-9563-9b0f3208b1ef", "sub_uri": "Q1810435", "obj_uri": "Q230386", "sub_label": "Ad-Darazi", "obj_label": "Ismailiyah", "predicate_id": "P140"}
+{"uuid": "2171ef50-0319-45f3-b00c-ac4c02ab0955", "sub_uri": "Q178525", "obj_uri": "Q5043", "sub_label": "Ali\u00e9nor dari Aquitaine", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "9ff220d8-eafb-44e9-a604-94f8ed83f51c", "sub_uri": "Q2001344", "obj_uri": "Q432", "sub_label": "Artika Sari Devi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "fd0d2fba-ebba-420f-bfe4-dc1629cd0044", "sub_uri": "Q77254", "obj_uri": "Q5043", "sub_label": "Bertha dari Holland", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "2bd78f2e-5a4d-4250-a368-048a92dca08d", "sub_uri": "Q2044035", "obj_uri": "Q6423963", "sub_label": "Thomas Traherne", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "ec49c0b6-ec9c-4aa1-bcaf-13a2be6d4e9f", "sub_uri": "Q3516312", "obj_uri": "Q432", "sub_label": "Tawfik Hamid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8702d2d7-b89e-40c7-b0cd-dc7a0722612c", "sub_uri": "Q96989513", "obj_uri": "Q5043", "sub_label": "John Siffy Mirin", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "bcda9a9c-bcf9-40f3-835d-179feac5b32e", "sub_uri": "Q471970", "obj_uri": "Q9585", "sub_label": "Amir-Abbas Hoveyda", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "d3fa4f0c-1ea0-4352-a331-3b582660acff", "sub_uri": "Q422065", "obj_uri": "Q483654", "sub_label": "Kesultanan Sulu", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "297f8585-c6d9-4cd4-b273-54cf88fbbb96", "sub_uri": "Q317332", "obj_uri": "Q432", "sub_label": "Abdul Karim Al-Jili", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "dec0bb45-e0b7-4e4d-91c8-0d54bb1e3508", "sub_uri": "Q4827386", "obj_uri": "Q7066", "sub_label": "Ava Helen Pauling", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "66b31e2b-6696-4cf7-8a90-cee6c05b00a6", "sub_uri": "Q1912", "obj_uri": "Q432", "sub_label": "Karim Benzema", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6da11080-3512-4968-80f3-257ab76f9969", "sub_uri": "Q17411207", "obj_uri": "Q432", "sub_label": "Saiful Rasyid", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d15f6d87-2eb3-4807-bc65-a2c58d87f794", "sub_uri": "Q8314759", "obj_uri": "Q432", "sub_label": "Nabil Ghilas", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "33ec1762-1d70-4b83-9da9-6f957462adda", "sub_uri": "Q1263627", "obj_uri": "Q5043", "sub_label": "Astolfo", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "d3af1108-0524-4341-b90c-ed0b017e3107", "sub_uri": "Q8075176", "obj_uri": "Q432", "sub_label": "Zulkifli Noordin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "865d72ad-5ae8-4530-bd53-f3a9f09b3043", "sub_uri": "Q191719", "obj_uri": "Q5043", "sub_label": "Zooey Deschanel", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "2d511a38-6edc-489e-b6f6-bd7a998ef41a", "sub_uri": "Q6008261", "obj_uri": "Q432", "sub_label": "Imran bin Hushain", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a18a6d9d-64f6-4915-875a-ed239b67e9b3", "sub_uri": "Q940348", "obj_uri": "Q432", "sub_label": "Suku Bosnia", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "323b5b1f-674a-4864-aa48-e446cd6e5707", "sub_uri": "Q58843", "obj_uri": "Q483654", "sub_label": "Tuareg", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "e9ac807c-e729-4de5-8ffd-5952d0eda204", "sub_uri": "Q97208493", "obj_uri": "Q432", "sub_label": "Firman Maliksyah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "81d546b7-d13d-4a10-befd-e75b4950efd6", "sub_uri": "Q312311", "obj_uri": "Q5043", "sub_label": "Pero III dari Aragon", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "8ef58586-4597-4a83-87d4-753feaeccf40", "sub_uri": "Q3531971", "obj_uri": "Q5043", "sub_label": "Y.S. Jaganmohan Reddy", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "5dc13df3-eaa4-4060-bdf0-806a3477e706", "sub_uri": "Q484265", "obj_uri": "Q7066", "sub_label": "Andrew Carnegie", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "995bd829-2081-4312-b430-dc22308393e3", "sub_uri": "Q4974068", "obj_uri": "Q432", "sub_label": "Bront Palarae", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0837276a-d4b4-4594-bffd-186d26e3ed04", "sub_uri": "Q243550", "obj_uri": "Q483654", "sub_label": "Necmettin Erbakan", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "59c218a1-ee4a-4c3a-81c6-a1198e3053f8", "sub_uri": "Q28724053", "obj_uri": "Q483654", "sub_label": "Bachtiar Nasir", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "6ac562a3-b0d2-40ad-8f26-f83bb52ccd05", "sub_uri": "Q17410743", "obj_uri": "Q432", "sub_label": "Akil Mochtar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4aec7fa4-4f16-4a29-a4ef-e1853313015b", "sub_uri": "Q299215", "obj_uri": "Q432", "sub_label": "Sabbatai Zevi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "10760077-f85a-47f7-8bf2-44b3d6004780", "sub_uri": "Q3125330", "obj_uri": "Q7066", "sub_label": "Ali Sina", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "77b6dd3f-219b-4620-ac58-b0012cb6f442", "sub_uri": "Q731866", "obj_uri": "Q432", "sub_label": "Ibnu al-Jauzi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "426e5924-3f54-46d6-9a1b-38a711388ca2", "sub_uri": "Q1397957", "obj_uri": "Q432", "sub_label": "Noor Hassanali", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1b24ad39-2939-4127-a678-f67289443976", "sub_uri": "Q950218", "obj_uri": "Q432", "sub_label": "Noraniza Idris", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7bef604c-29a6-43c3-b49f-40c4f9ad39cc", "sub_uri": "Q582861", "obj_uri": "Q483654", "sub_label": "Banu Marin", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "023995d5-9873-4f04-af03-0003eaeaf4d0", "sub_uri": "Q317045", "obj_uri": "Q432", "sub_label": "Mehmet Okur", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "5a349645-6eb9-4bb7-8bf0-acd14b95db45", "sub_uri": "Q16500098", "obj_uri": "Q7066", "sub_label": "Sunday Assembly", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "d837c0bd-9a74-4862-a926-b0ed39a2bbf7", "sub_uri": "Q1518629", "obj_uri": "Q432", "sub_label": "Feminisme Islam", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3ae9c9c4-f77b-476e-baaf-a0ac7efff861", "sub_uri": "Q299530", "obj_uri": "Q483654", "sub_label": "Mizan Zainal Abidin dari Terengganu", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "6765fab1-52f3-4a7b-b3e9-00b34ca8f525", "sub_uri": "Q400624", "obj_uri": "Q9585", "sub_label": "Ahmad Jannati", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "22a1b0c5-326e-417a-bf7e-5c6eb3bceda5", "sub_uri": "Q297194", "obj_uri": "Q5043", "sub_label": "Valdemar I dari Denmark", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "36dc9df4-7574-467b-9b45-8abd4be841f5", "sub_uri": "Q243705", "obj_uri": "Q6423963", "sub_label": "Robert Gascoyne-Cecil, Marquess Salisbury III", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "160160fe-e293-472a-9bce-dd554255e9d6", "sub_uri": "Q298577", "obj_uri": "Q432", "sub_label": "Marwan bin al-Hakam", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b7a930bd-4183-40d2-8806-70e7f05408ea", "sub_uri": "Q16165013", "obj_uri": "Q483654", "sub_label": "Airin Rachmi Diany", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "009fd59d-15a3-435e-8345-2d41786c492c", "sub_uri": "Q485136", "obj_uri": "Q288928", "sub_label": "Roza Otunbayeva", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "f5335e6b-3199-4adb-8238-dd167c4baf00", "sub_uri": "Q65211482", "obj_uri": "Q432", "sub_label": "Coki Manurung", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6f814929-7a5e-4230-8eaf-290e8f2eeeef", "sub_uri": "Q51267", "obj_uri": "Q5043", "sub_label": "Kofi Abrefa Busia", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "c15fc4e6-9633-4a6a-b989-6c0b6dad9574", "sub_uri": "Q6957308", "obj_uri": "Q483654", "sub_label": "Ibrahim an-Nakha'i", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "edcff4ec-8048-4fcb-beeb-0293b21ced33", "sub_uri": "Q704151", "obj_uri": "Q5043", "sub_label": "Dinasti Arsakid Armenia", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "c9d90b9c-f095-4880-a22f-84e8b4f75e38", "sub_uri": "Q15869", "obj_uri": "Q9601", "sub_label": "Freddie Mercury", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "b3832642-6944-43c0-8b11-26c93bdd6f83", "sub_uri": "Q8064855", "obj_uri": "Q432", "sub_label": "Zainal Mustafa", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "b06259b8-6dea-4701-bdcd-d1ee5bb4ec62", "sub_uri": "Q233928", "obj_uri": "Q7066", "sub_label": "Laila Khalid", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "5492beb7-2057-4e62-ad6c-cb25d731c686", "sub_uri": "Q4058315", "obj_uri": "Q432", "sub_label": "Sartaj Aziz", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "29d98e7a-3068-462e-afab-e9bc767ce747", "sub_uri": "Q1612888", "obj_uri": "Q432", "sub_label": "Abdullahi Ahmed An-Na'im", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6af7c448-8f2e-4db2-b5b7-40cabe117c60", "sub_uri": "Q275425", "obj_uri": "Q5043", "sub_label": "Thietmar dari Merseburg", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "dd85dacb-00d6-40a2-975f-728e5d168cb0", "sub_uri": "Q313920", "obj_uri": "Q9601", "sub_label": "Walagasy V", "obj_label": "Zoroastrianisme", "predicate_id": "P140"}
+{"uuid": "2afa0e77-863b-44a4-bfae-dad46e7d5e82", "sub_uri": "Q335284", "obj_uri": "Q7066", "sub_label": "Jyoti Basu", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "42d3ed95-aeac-4237-b38f-c467ae512d2a", "sub_uri": "Q3341179", "obj_uri": "Q620629", "sub_label": "Nicol\u00e1s Eyzaguirre", "obj_label": "Deisme", "predicate_id": "P140"}
+{"uuid": "5c2877cd-97fb-4da7-9856-b03ac45ac6f0", "sub_uri": "Q76725", "obj_uri": "Q7066", "sub_label": "Max Stirner", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "eca5c3c9-bc5c-43ce-8305-f6813954b0e2", "sub_uri": "Q199482", "obj_uri": "Q432", "sub_label": "Ahmed III", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "fa1e7dc9-46e2-42ba-a255-b99a632a5eea", "sub_uri": "Q349339", "obj_uri": "Q7066", "sub_label": "Doug Liman", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "e5972e43-672d-42ea-9a0d-bfebad9741cd", "sub_uri": "Q191710", "obj_uri": "Q42042", "sub_label": "Orang Aleut", "obj_label": "Syamanisme", "predicate_id": "P140"}
+{"uuid": "3c868eeb-62be-4e7f-8d0a-5a6411deab84", "sub_uri": "Q706180", "obj_uri": "Q432", "sub_label": "Nazr Mohammed", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "0fa3ed76-3919-4b9f-851a-0ff59cb9c073", "sub_uri": "Q96988767", "obj_uri": "Q432", "sub_label": "Sri Wulan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ef224d3f-4a55-49ef-ac83-6f49c5d51c9e", "sub_uri": "Q4687822", "obj_uri": "Q432", "sub_label": "Ibrahim Elfiky", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e6ab1500-debe-42cb-bf5d-96277c43b579", "sub_uri": "Q149067", "obj_uri": "Q9598", "sub_label": "Pavel Durov", "obj_label": "Taoisme", "predicate_id": "P140"}
+{"uuid": "c80c6756-8c35-454f-9810-6b1a8165205e", "sub_uri": "Q1110691", "obj_uri": "Q432", "sub_label": "Mush'ab bin Umair", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f77f366c-a25c-4168-adcf-96098cad00c4", "sub_uri": "Q1799152", "obj_uri": "Q432", "sub_label": "Suleyman Shah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ace40664-d0e3-4073-8ebd-19f4f6f834c6", "sub_uri": "Q133386", "obj_uri": "Q23540", "sub_label": "Jan Peter Balkenende", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "ebadbe3f-f41e-465a-a550-ae9444bab176", "sub_uri": "Q2177228", "obj_uri": "Q432", "sub_label": "Aqil bin Abi Thalib", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "4899d347-3533-4a91-8ad6-83397cec0c00", "sub_uri": "Q166234", "obj_uri": "Q7066", "sub_label": "Ugo Foscolo", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "d1883fea-090d-428b-bed2-d0662c692543", "sub_uri": "Q381113", "obj_uri": "Q432", "sub_label": "Amr Moussa", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "774798e4-4f52-4bb4-829c-41174b178cc0", "sub_uri": "Q4115985", "obj_uri": "Q483654", "sub_label": "Ahmad al-Muhajir", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "5ca132c4-ba14-413b-931c-64b27574c73e", "sub_uri": "Q1942702", "obj_uri": "Q9585", "sub_label": "Mohammad-Reza Golpaygani", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "b4699028-3dc1-4e29-bb65-edda6dbc770a", "sub_uri": "Q241900", "obj_uri": "Q9232", "sub_label": "Wasista", "obj_label": "Jainisme", "predicate_id": "P140"}
+{"uuid": "81732056-d165-41e9-8385-13e734ad9e59", "sub_uri": "Q482451", "obj_uri": "Q432", "sub_label": "Abu'l Qasim Mahmud Umar Al Zamakhsari", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "dc70ad3e-6a20-4a14-8ec1-9863f150c93e", "sub_uri": "Q311922", "obj_uri": "Q5043", "sub_label": "Anti-Paus Eulalius", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "6946b6ab-b7f9-49e5-b65c-a1ece765953c", "sub_uri": "Q961890", "obj_uri": "Q9585", "sub_label": "Yusuf Adil Shah", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "a58fd8fb-a276-443e-b9b9-5e20be41b379", "sub_uri": "Q193706", "obj_uri": "Q194253", "sub_label": "David Luiz", "obj_label": "Evangelikalisme", "predicate_id": "P140"}
+{"uuid": "eef74594-20f2-42cb-a655-2898ae196a8a", "sub_uri": "Q85994997", "obj_uri": "Q432", "sub_label": "Trunoyudo Wisnu Andiko", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ffe5d9f7-84f1-4e97-9a6f-b9904e8f88a6", "sub_uri": "Q247291", "obj_uri": "Q9585", "sub_label": "Arab Rawa-Rawa", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "eda6bf9e-82d0-42e5-9c9a-dfad12ed1bb5", "sub_uri": "Q156404", "obj_uri": "Q5043", "sub_label": "Rudolf IV dari Austria", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "1f62f40b-085f-4895-98ae-6f6050c0c595", "sub_uri": "Q25461525", "obj_uri": "Q432", "sub_label": "Mohammad Idris", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "27c62421-a316-4583-889e-2a38162aed3a", "sub_uri": "Q57258", "obj_uri": "Q288928", "sub_label": "Ivo Josipovi\u0107", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "6e97e469-b2a9-45a7-ba48-d122b2602324", "sub_uri": "Q312579", "obj_uri": "Q7066", "sub_label": "Iain Banks", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "47a6032c-1126-4b89-a0d3-44dd1b027e91", "sub_uri": "Q152229", "obj_uri": "Q101849", "sub_label": "Friedrich Wilhelm II dari Prusia", "obj_label": "Calvinisme", "predicate_id": "P140"}
+{"uuid": "1b50441f-4c79-4d44-8d7f-69543a78a8a5", "sub_uri": "Q62066735", "obj_uri": "Q432", "sub_label": "Masjid Al Noor, Christchurch", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e14cb9ff-82ba-4df4-8a28-789d09d33891", "sub_uri": "Q1396878", "obj_uri": "Q9585", "sub_label": "Fazlollah Zahedi", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "f64d9149-bd84-4994-ada9-a0040ca785ed", "sub_uri": "Q354721", "obj_uri": "Q1062789", "sub_label": "Roger Sherman", "obj_label": "Kongregasional", "predicate_id": "P140"}
+{"uuid": "07613972-e125-401b-8573-51a20840099e", "sub_uri": "Q151494", "obj_uri": "Q432", "sub_label": "Mehmed V", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f4988fcd-b826-4b4f-b6d6-a9193260ad0e", "sub_uri": "Q4936751", "obj_uri": "Q132265", "sub_label": "Bodu Bala Sena", "obj_label": "Therav\u0101da", "predicate_id": "P140"}
+{"uuid": "a0024cf7-2092-4056-9f24-263d3d977f20", "sub_uri": "Q85994611", "obj_uri": "Q432", "sub_label": "Sulaiman Kohar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "fd1102a2-2105-4669-8e5c-83ddbb5d75e8", "sub_uri": "Q358374", "obj_uri": "Q5043", "sub_label": "Chuan I d'Arag\u00f3n", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "a08dcf7f-4f69-4206-af6f-dd203e365747", "sub_uri": "Q12509212", "obj_uri": "Q432", "sub_label": "Rusydi Hamka", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "77dc15de-ac74-4946-bfde-526bcef6d307", "sub_uri": "Q132524", "obj_uri": "Q7066", "sub_label": "Ayn Rand", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "a4d4d8ca-817d-4ed0-969f-b844c68c5446", "sub_uri": "Q15065475", "obj_uri": "Q432", "sub_label": "Evan Dimas", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "22bd4344-868e-4e54-97fb-9a01873143a2", "sub_uri": "Q4724557", "obj_uri": "Q9585", "sub_label": "Ali Adil Shah I", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "90d4b39b-789d-4e8c-a740-7c74d711f361", "sub_uri": "Q34428", "obj_uri": "Q5043", "sub_label": "Philippe II dari Prancis", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "0c4ab946-53a1-4e38-86e7-e666e020a259", "sub_uri": "Q36591", "obj_uri": "Q288928", "sub_label": "Vladimir Nabokov", "obj_label": "Agnostisisme", "predicate_id": "P140"}
+{"uuid": "8e16904a-a62f-498c-b4d5-7a6762ea2da3", "sub_uri": "Q1150151", "obj_uri": "Q812767", "sub_label": "Abe no Seimei", "obj_label": "Shinto", "predicate_id": "P140"}
+{"uuid": "2099b5aa-e020-48c6-81b4-1364ed4f1505", "sub_uri": "Q800238", "obj_uri": "Q483654", "sub_label": "Bahi Ladgham", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "216f4849-4a20-415d-98bf-a22d15e2b050", "sub_uri": "Q6122255", "obj_uri": "Q432", "sub_label": "Saif bin Umar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "003133c1-fd0e-4203-b8ba-9b7bd0d6311e", "sub_uri": "Q18421236", "obj_uri": "Q432", "sub_label": "Adelia Artamevia", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6f72608a-57bc-46db-a396-f232b17eae1d", "sub_uri": "Q312966", "obj_uri": "Q432", "sub_label": "Khan Abdul Ghaffar Khan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ef228d3b-4008-47a0-9448-fa2baad8b0c3", "sub_uri": "Q698735", "obj_uri": "Q23540", "sub_label": "Tsai Chin (penyanyi)", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "78958e75-3db9-4578-8196-72d5b984864e", "sub_uri": "Q49253452", "obj_uri": "Q432", "sub_label": "Baby Shima", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6c5cd70c-d349-4feb-b9e6-7a25c991ea53", "sub_uri": "Q605340", "obj_uri": "Q209605", "sub_label": "Kebudayaan Wari", "obj_label": "Viracocha", "predicate_id": "P140"}
+{"uuid": "1f4db70a-cc99-4420-a3e0-972925ad2dbb", "sub_uri": "Q7594874", "obj_uri": "Q6423963", "sub_label": "St Michael le Belfrey, York", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "3db96618-23cd-449e-a4e4-88b898e6d9af", "sub_uri": "Q2044233", "obj_uri": "Q483654", "sub_label": "Rageh Omaar", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "31aaab96-52f7-41a6-a7de-536791fe7914", "sub_uri": "Q189575", "obj_uri": "Q7066", "sub_label": "Ion Iliescu", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "ccaf9b66-e2a0-4ada-a5fb-909e49e9a49c", "sub_uri": "Q3078450", "obj_uri": "Q5043", "sub_label": "Ranald MacDonald", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "57b52a46-9042-4125-8b7e-3c86749c578f", "sub_uri": "Q217557", "obj_uri": "Q7066", "sub_label": "Joyce Carol Oates", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "4f6542c2-e8f9-4284-a1ac-4ccea533de51", "sub_uri": "Q366051", "obj_uri": "Q23540", "sub_label": "Charles-Adolphe Wurtz", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "893d0c89-656d-4430-9ca8-8db8e4e1c6a5", "sub_uri": "Q96987307", "obj_uri": "Q432", "sub_label": "Lathifah Shohib", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e722864c-c022-4050-ad9c-a9aa5dcc8d6d", "sub_uri": "Q7283293", "obj_uri": "Q432", "sub_label": "Rahadyan Sastrowardoyo", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "1c1b75de-57b6-4889-98ec-edf5ba02152a", "sub_uri": "Q206238", "obj_uri": "Q9159", "sub_label": "Elisa", "obj_label": "Monoteisme", "predicate_id": "P140"}
+{"uuid": "bdb42be5-f1ed-4c45-86d3-e8c36dee6b62", "sub_uri": "Q61119233", "obj_uri": "Q432", "sub_label": "Slamet", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "8765f03f-d76a-4324-9ce9-a067d5dadc11", "sub_uri": "Q11208972", "obj_uri": "Q432", "sub_label": "Bakri Omar", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "521e3110-138a-4dcf-9e29-7513f4ad9a48", "sub_uri": "Q1145321", "obj_uri": "Q432", "sub_label": "Utbah bin Ghazwan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6a499546-b273-4dd7-80b1-59df25c415ee", "sub_uri": "Q3272458", "obj_uri": "Q23540", "sub_label": "Gerrit Berkouwer", "obj_label": "Protestanisme", "predicate_id": "P140"}
+{"uuid": "a481f354-3d64-4a4a-b029-e8a515c3e027", "sub_uri": "Q43459", "obj_uri": "Q9585", "sub_label": "Ferdowsi", "obj_label": "Syiah", "predicate_id": "P140"}
+{"uuid": "b0505878-eab0-4771-8de1-0bb8c956da8b", "sub_uri": "Q7531880", "obj_uri": "Q432", "sub_label": "Siti Hasmah Mohamad Ali", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "edcc02a5-d950-469a-86a7-100ff3d9a9d7", "sub_uri": "Q4665280", "obj_uri": "Q432", "sub_label": "Abdul Aziz Abdul Kadir", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3229c7ec-dd07-43eb-9156-22b73f1961b6", "sub_uri": "Q18421260", "obj_uri": "Q432", "sub_label": "Cita Citata", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a2457c76-e680-4ebc-a6e5-57590e8d2cf1", "sub_uri": "Q350427", "obj_uri": "Q6423963", "sub_label": "John Jewel", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "33130f51-0dba-49ae-8ba1-0669d48fb517", "sub_uri": "Q7339112", "obj_uri": "Q432", "sub_label": "Ramdani Lestaluhu", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "7651a9bc-e4e8-4b98-b3e7-52f2884badb2", "sub_uri": "Q699041", "obj_uri": "Q432", "sub_label": "Fuad Hassan", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "cfead8a2-a7cd-4b8e-80e1-caa98bc521a0", "sub_uri": "Q280768", "obj_uri": "Q6423963", "sub_label": "Keuskupan Sodor dan Man", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "1d107aa9-4e04-4488-9a70-b59e5904610e", "sub_uri": "Q5437755", "obj_uri": "Q432", "sub_label": "Fathima Beevi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "3b02ee5c-7dc1-412a-a31d-2c5231d3b714", "sub_uri": "Q33866", "obj_uri": "Q6423963", "sub_label": "Theodore Roosevelt", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "d7775b1d-d5d8-43eb-93ad-de7767d63fcb", "sub_uri": "Q703925", "obj_uri": "Q6423963", "sub_label": "John Stevens Henslow", "obj_label": "Anglikanisme", "predicate_id": "P140"}
+{"uuid": "4a77fad8-3c87-436d-b325-763e798f3e00", "sub_uri": "Q16723182", "obj_uri": "Q483654", "sub_label": "Ya'qub al-Jarkhi", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "9382f30a-3ca0-4be2-ade4-2cfbc73c4f66", "sub_uri": "Q2813852", "obj_uri": "Q483654", "sub_label": "Al-Laits bin Sa'ad", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "eafcef1e-f9b7-41e4-b41c-3047be2ee096", "sub_uri": "Q210059", "obj_uri": "Q7066", "sub_label": "Neil Gaiman", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "0cbf6b01-8045-44f4-8e76-78429f535cc5", "sub_uri": "Q152265", "obj_uri": "Q483654", "sub_label": "Mohammad Zahir Shah", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "0942134e-8ec7-4b72-b8f1-bf1af791ce74", "sub_uri": "Q7400032", "obj_uri": "Q432", "sub_label": "Saifuddin Abdullah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "09a25e45-0236-4546-813c-deed36afab63", "sub_uri": "Q3052569", "obj_uri": "Q483654", "sub_label": "Rana Hussein", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "d4a4893f-7e9c-424b-a046-00486491e5a8", "sub_uri": "Q1658041", "obj_uri": "Q432", "sub_label": "Al-Aswad Al-Ansi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ddade33f-4eb2-49e8-992e-b3616bccafa8", "sub_uri": "Q56394386", "obj_uri": "Q432", "sub_label": "Muhammad Thahir Imam Lapeo", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "23b5c154-1d71-4f62-b4fc-7043c5ae0ddc", "sub_uri": "Q708247", "obj_uri": "Q5043", "sub_label": "Gaius Marius Victorinus", "obj_label": "Kekristenan", "predicate_id": "P140"}
+{"uuid": "22e01ccb-b7db-4471-a84a-854035f06cf4", "sub_uri": "Q6671800", "obj_uri": "Q432", "sub_label": "Ahmad Bashah Md Hanipah", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "67bc2950-2351-4308-b1b5-36c0fa4cb1db", "sub_uri": "Q56399291", "obj_uri": "Q432", "sub_label": "Supratman", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e512616a-73b7-458f-a035-53b953466625", "sub_uri": "Q12499822", "obj_uri": "Q432", "sub_label": "Nadirsyah Hosen", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "62ba5208-0a2a-42d1-86e9-4bae92df13b5", "sub_uri": "Q152381", "obj_uri": "Q432", "sub_label": "Mohamed Nasheed", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "ae055fae-a0f0-4ac0-9a65-b3783d7292b2", "sub_uri": "Q40589", "obj_uri": "Q483654", "sub_label": "Keith Ellison", "obj_label": "Suni", "predicate_id": "P140"}
+{"uuid": "d16661a5-53e7-486c-881b-cd2e12e3ba66", "sub_uri": "Q218862", "obj_uri": "Q432", "sub_label": "K\u014dz\u014d Okamoto", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "f26528f2-0d0a-420a-b303-bdf9380da3fc", "sub_uri": "Q4902218", "obj_uri": "Q432", "sub_label": "Widodo A. S.", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "d924ad12-e00a-4627-ab59-a838dc6bbdfd", "sub_uri": "Q314342", "obj_uri": "Q7066", "sub_label": "David O. Russell", "obj_label": "Ateisme", "predicate_id": "P140"}
+{"uuid": "4329768d-1385-47d7-acc5-bb4485ebca26", "sub_uri": "Q8917042", "obj_uri": "Q432", "sub_label": "Muhammad al-Mahdi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "6b08143f-d716-4256-ae85-a3baa88963a5", "sub_uri": "Q56400109", "obj_uri": "Q432", "sub_label": "Laode Kaimoeddin", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "be0cc952-ac82-4d63-a5fb-edae4d98bc43", "sub_uri": "Q12470626", "obj_uri": "Q432", "sub_label": "Abu Mudi", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "a62ab7dd-0a42-4a2f-8c79-24b8c2eca78e", "sub_uri": "Q19751336", "obj_uri": "Q432", "sub_label": "Baby Huwae", "obj_label": "Islam", "predicate_id": "P140"}
+{"uuid": "e90dc6aa-ea5f-4b1f-8bc9-41b7130864b1", "sub_uri": "Q85991969", "obj_uri": "Q432", "sub_label": "Juarsah", "obj_label": "Islam", "predicate_id": "P140"}

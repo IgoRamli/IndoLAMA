@@ -1,0 +1,1000 @@
+{"uuid": "9ac75bd2-a1d4-4505-b347-01423006583a", "sub_uri": "Q258724", "obj_uri": "Q155896", "sub_label": "Fokker K.I", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "7e408905-4e5d-48cc-8d04-9ec21cc1ccb8", "sub_uri": "Q4836084", "obj_uri": "Q26678", "sub_label": "BMW X4", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "378f67b1-e3e0-4e0c-95b8-a7e40d8a0b8c", "sub_uri": "Q2578057", "obj_uri": "Q1418", "sub_label": "Nokia 3110", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "c6d57222-2c93-4a63-b5c1-a472da1e36f3", "sub_uri": "Q756741", "obj_uri": "Q6742", "sub_label": "Citro\u00ebn Berlingo", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "865e451e-a56f-4db6-9dd3-776e050694c2", "sub_uri": "Q15244204", "obj_uri": "Q1418", "sub_label": "Nokia Lumia 525", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "1558659d-fbbb-4504-97a8-ef99ef3b94ad", "sub_uri": "Q853280", "obj_uri": "Q9584", "sub_label": "Honda Insight", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "f026f4ab-9ea0-4587-9a51-332bdb9bb900", "sub_uri": "Q2664145", "obj_uri": "Q188508", "sub_label": "Mikoyan MiG-110", "obj_label": "Mikoyan", "predicate_id": "P176"}
+{"uuid": "8addf917-9ef2-4565-bd8a-9ad7cb2d7f1f", "sub_uri": "Q1957708", "obj_uri": "Q105557", "sub_label": "Embraer Lineage 1000", "obj_label": "Embraer", "predicate_id": "P176"}
+{"uuid": "64dc1a01-d680-44d0-93a7-afce8b570302", "sub_uri": "Q495403", "obj_uri": "Q321772", "sub_label": "Kapal perusak kelas Gwanggaeto the Great", "obj_label": "Daewoo", "predicate_id": "P176"}
+{"uuid": "2d56468e-0893-49ec-95ec-fadee1e9b2da", "sub_uri": "Q7830844", "obj_uri": "Q53268", "sub_label": "Mesin NR Toyota", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "379b67cd-c6f0-49af-a888-4b3a979a76af", "sub_uri": "Q796621", "obj_uri": "Q26678", "sub_label": "BMW N46", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "2badb460-6633-4daa-8b05-3a7e51157345", "sub_uri": "Q859777", "obj_uri": "Q308889", "sub_label": "Cessna 175 Skylark", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "79589e91-d702-428f-9a67-4ccecb71d5a2", "sub_uri": "Q1032022", "obj_uri": "Q429877", "sub_label": "Canadair CT-114 Tutor", "obj_label": "Canadair", "predicate_id": "P176"}
+{"uuid": "4bc13a6a-546a-40f9-973c-322c74968ff1", "sub_uri": "Q2299034", "obj_uri": "Q1538336", "sub_label": "WZ551", "obj_label": "Norinco", "predicate_id": "P176"}
+{"uuid": "643aa35b-035e-4fb7-9d60-5cbb37501fd3", "sub_uri": "Q728292", "obj_uri": "Q949211", "sub_label": "Venera 9", "obj_label": "Lavochkin", "predicate_id": "P176"}
+{"uuid": "16c36f72-02f6-45c8-a2d7-5d63db2083db", "sub_uri": "Q1122787", "obj_uri": "Q194009", "sub_label": "Tupolev ANT-7", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "39df7fb6-f790-459e-b776-9514b0e023dc", "sub_uri": "Q796395", "obj_uri": "Q26678", "sub_label": "BMW Seri 1", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "a6c33731-7d13-40ea-8414-2fce7255060e", "sub_uri": "Q5431728", "obj_uri": "Q193701", "sub_label": "Falcon 1e", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "a4f4bb25-4c29-4db8-81e9-85cf7a554281", "sub_uri": "Q2455437", "obj_uri": "Q1418", "sub_label": "Nokia 6500 geser", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "569e916a-7f3b-4c32-99f5-b0423fd185c9", "sub_uri": "Q183259", "obj_uri": "Q8093", "sub_label": "Super Nintendo Entertainment System", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "85888854-7053-49af-89bd-aa8f441a4281", "sub_uri": "Q62246", "obj_uri": "Q183275", "sub_label": "Polikarbonat", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "c720c28b-22eb-44ee-bf70-6aaf18383a59", "sub_uri": "Q2001722", "obj_uri": "Q53268", "sub_label": "Toyota Raum", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "2b127803-2ed5-47e7-baa7-8779f4b87ecb", "sub_uri": "Q1044847", "obj_uri": "Q53268", "sub_label": "Lexus LS", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "4ccc3a8c-8750-4f47-a939-519d8a46fbb7", "sub_uri": "Q1339927", "obj_uri": "Q1275307", "sub_label": "ENAER T-35 Pill\u00e1n", "obj_label": "ENAER", "predicate_id": "P176"}
+{"uuid": "4a337adb-13ae-4da3-a3d2-7a9b32b13c3f", "sub_uri": "Q181815", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-95", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "070e65ee-3b2d-472c-a014-c9a641735232", "sub_uri": "Q202712", "obj_uri": "Q37156", "sub_label": "IBM PC", "obj_label": "IBM", "predicate_id": "P176"}
+{"uuid": "9b5ca3de-e743-4027-886b-2c638a9b8480", "sub_uri": "Q911668", "obj_uri": "Q308889", "sub_label": "Cessna Citation V", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "db6e50fb-89f2-4c31-b0da-28f5944640a8", "sub_uri": "Q921822", "obj_uri": "Q6742", "sub_label": "Peugeot 404", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "70a784be-90ed-47a4-8a09-f423710734e2", "sub_uri": "Q1410131", "obj_uri": "Q181642", "sub_label": "Suzuki Jimny", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "d968cdda-3c50-460a-9245-fb9a48979b3d", "sub_uri": "Q275816", "obj_uri": "Q66", "sub_label": "Lunar Roving Vehicle", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "4be92554-ed5a-4b32-881e-e9c54bfdf3ec", "sub_uri": "Q747313", "obj_uri": "Q156644", "sub_label": "BGM-71 TOW", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "d09f4e5b-7c33-41cd-ad73-eee6fb64fed3", "sub_uri": "Q3459972", "obj_uri": "Q219203", "sub_label": "Hisaki (satelit)", "obj_label": "NEC", "predicate_id": "P176"}
+{"uuid": "76210274-63ec-4dde-b1bc-7ca43b7a7a5f", "sub_uri": "Q184839", "obj_uri": "Q8093", "sub_label": "Nintendo 64", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "cbfdfb11-a899-4eaa-960e-08f5d168664d", "sub_uri": "Q18913449", "obj_uri": "Q6686", "sub_label": "Renault Kadjar", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "8d02a7a1-1044-4ff7-a584-978064bd6f18", "sub_uri": "Q15091626", "obj_uri": "Q1418", "sub_label": "Nokia Lumia 2520", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "3906a31b-e881-40b5-9f97-f80d9e857ed4", "sub_uri": "Q398898", "obj_uri": "Q398878", "sub_label": "AgustaWestland AW159 Wildcat", "obj_label": "AgustaWestland", "predicate_id": "P176"}
+{"uuid": "2e898ff3-6d3d-4ddc-b6a0-3b057fabd846", "sub_uri": "Q890171", "obj_uri": "Q66", "sub_label": "Boeing AH-6", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "b7a76bac-516d-4647-bc34-f45fb89015f8", "sub_uri": "Q260855", "obj_uri": "Q241828", "sub_label": "Kamov Ka-8", "obj_label": "Kamov", "predicate_id": "P176"}
+{"uuid": "c654f942-9e71-405f-a2a8-f7c70e1f441c", "sub_uri": "Q14121138", "obj_uri": "Q1418", "sub_label": "Nokia 105", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "b2c53da9-102d-4b96-bdbc-e79f5f6c1cb1", "sub_uri": "Q837734", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-15", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "932da3af-bede-49cf-abad-2a41dabb64d4", "sub_uri": "Q719607", "obj_uri": "Q949211", "sub_label": "Venera 3", "obj_label": "Lavochkin", "predicate_id": "P176"}
+{"uuid": "a4c1cc52-8f19-4ae6-92c0-1e33bb0b95ed", "sub_uri": "Q302455", "obj_uri": "Q188454", "sub_label": "Yamaha YZR-M1", "obj_label": "Yamaha", "predicate_id": "P176"}
+{"uuid": "262fcb5f-0306-47ee-8f3e-8733af14c70c", "sub_uri": "Q12522300", "obj_uri": "Q3930665", "sub_label": "Trenz", "obj_label": "Indofood", "predicate_id": "P176"}
+{"uuid": "83be540c-918b-460f-be2f-55de202b6f61", "sub_uri": "Q48572", "obj_uri": "Q499207", "sub_label": "Rosetta (wahana antariksa)", "obj_label": "Astrium", "predicate_id": "P176"}
+{"uuid": "5ce30ff1-e98c-4163-9ab8-60ce8f268cbd", "sub_uri": "Q647131", "obj_uri": "Q35996", "sub_label": "Mazda CX-9", "obj_label": "Mazda", "predicate_id": "P176"}
+{"uuid": "73c1e116-657f-49d5-9541-0d7c80a5b96c", "sub_uri": "Q2004372", "obj_uri": "Q596139", "sub_label": "Slime", "obj_label": "Mattel", "predicate_id": "P176"}
+{"uuid": "5c6e1617-6380-4bdf-a1fa-b2db9bcdf965", "sub_uri": "Q214229", "obj_uri": "Q6742", "sub_label": "Peugeot 107", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "21db2fd6-4257-4b7e-bfde-20aac48d568a", "sub_uri": "Q796458", "obj_uri": "Q26678", "sub_label": "BMW X5 (E53)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "f7682d2f-87fa-4c6d-a994-a143a904e6de", "sub_uri": "Q2908515", "obj_uri": "Q66", "sub_label": "Boeing Model 6D", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "5c8eeed2-16ad-49b3-b689-2df8b01953c3", "sub_uri": "Q194297", "obj_uri": "Q161140", "sub_label": "Guinness", "obj_label": "Diageo", "predicate_id": "P176"}
+{"uuid": "4ce54891-d367-46b3-96df-838aa83b90e1", "sub_uri": "Q4937141", "obj_uri": "Q66", "sub_label": "Boeing Model 306", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "6a8a634e-fccd-40ff-a133-5b53acadf0e2", "sub_uri": "Q686708", "obj_uri": "Q308889", "sub_label": "Cessna 182 Skylane", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "4ca512b8-bdb5-4d7b-8911-c375947bc2e4", "sub_uri": "Q506796", "obj_uri": "Q38076", "sub_label": "Big Mac", "obj_label": "McDonald's", "predicate_id": "P176"}
+{"uuid": "681b502f-3b52-43f9-8c18-ac8fd68e27fe", "sub_uri": "Q704551", "obj_uri": "Q183275", "sub_label": "Mitsubishi B1M", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "95bc59d0-d5a3-45e5-9637-6390e794d030", "sub_uri": "Q192137", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-25", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "c52badb7-3045-49a0-b675-855fb1361d92", "sub_uri": "Q796582", "obj_uri": "Q26678", "sub_label": "BMW M54", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "fd277aaa-726d-4ec4-9f9b-1d887789b91d", "sub_uri": "Q14905318", "obj_uri": "Q890353", "sub_label": "Bofors 57 mm", "obj_label": "Bofors", "predicate_id": "P176"}
+{"uuid": "52c21486-bfe8-4a89-a72f-ce8e85d3ab3e", "sub_uri": "Q5629948", "obj_uri": "Q1538336", "sub_label": "HJ-9", "obj_label": "Norinco", "predicate_id": "P176"}
+{"uuid": "63e3fb0a-4bb1-45cd-a087-bddd65cbc2ed", "sub_uri": "Q1093602", "obj_uri": "Q6742", "sub_label": "Citro\u00ebn C6", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "a94b2276-cad9-40f6-a59f-cba1e10e3375", "sub_uri": "Q387120", "obj_uri": "Q188217", "sub_label": "SEAT Arosa", "obj_label": "SEAT", "predicate_id": "P176"}
+{"uuid": "f8f1611a-8a65-4727-b53d-efa563453033", "sub_uri": "Q1573107", "obj_uri": "Q38076", "sub_label": "Quarter Pounder", "obj_label": "McDonald's", "predicate_id": "P176"}
+{"uuid": "3acda462-ccc5-4ed5-9c49-4ed8530e986d", "sub_uri": "Q1581397", "obj_uri": "Q20716", "sub_label": "Samsung Galaxy Camera", "obj_label": "Samsung", "predicate_id": "P176"}
+{"uuid": "93ef73f3-7a50-46ce-97d7-63a33a8e1ecd", "sub_uri": "Q2068073", "obj_uri": "Q53268", "sub_label": "Toyota Brevis", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "4debda08-901f-45e2-b7a6-ceccafa0f00a", "sub_uri": "Q13411061", "obj_uri": "Q26678", "sub_label": "BMW X5 (F15)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "f53c5dfc-1a76-4b75-8adb-ccd76283d114", "sub_uri": "Q173159", "obj_uri": "Q27586", "sub_label": "Ferrari F10", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "044c0564-ae0f-49e8-8299-95b4c5688c97", "sub_uri": "Q2844656", "obj_uri": "Q1418", "sub_label": "Nokia Lumia 510", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "88ab8ba8-591a-40ea-83ba-2775beca7025", "sub_uri": "Q152800", "obj_uri": "Q949211", "sub_label": "Venera 7", "obj_label": "Lavochkin", "predicate_id": "P176"}
+{"uuid": "fa9683fc-e472-49a2-92ab-decc850c96ea", "sub_uri": "Q537998", "obj_uri": "Q53268", "sub_label": "Toyota Dyna", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "5156fc87-ed04-48ab-9e73-123b849674f9", "sub_uri": "Q87775025", "obj_uri": "Q17081612", "sub_label": "Vaksin Covid-19 Moderna", "obj_label": "Moderna", "predicate_id": "P176"}
+{"uuid": "afc503a7-a213-4c98-9312-a5b1ccc8ce90", "sub_uri": "Q2297890", "obj_uri": "Q13220673", "sub_label": "Meriam laut QF 2-pounder", "obj_label": "Vickers", "predicate_id": "P176"}
+{"uuid": "a762943f-0472-46f9-b864-b07634beb811", "sub_uri": "Q389317", "obj_uri": "Q221419", "sub_label": "Ilyushin Il-108", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "e5f47877-9def-4b24-a058-3658d5497358", "sub_uri": "Q16840425", "obj_uri": "Q297600", "sub_label": "G\u00f6kt\u00fcrk-3", "obj_label": "ASELSAN", "predicate_id": "P176"}
+{"uuid": "369150e0-718b-4280-9ee1-d41b78245800", "sub_uri": "Q1658685", "obj_uri": "Q221419", "sub_label": "Ilyushin Il-8", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "308e1db6-1aef-4d1a-bc2b-3c224c1cd45c", "sub_uri": "Q576038", "obj_uri": "Q965259", "sub_label": "PZL M-15 Belphegor", "obj_label": "PZL", "predicate_id": "P176"}
+{"uuid": "a3a4eeb4-07f8-4b39-83f2-4fcc03727407", "sub_uri": "Q1067637", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-14", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "d64eea8d-60cf-4a68-8653-27f30eea7bb6", "sub_uri": "Q17056508", "obj_uri": "Q9584", "sub_label": "Honda CB Trigger", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "1f8314e6-f40f-4cd6-a83f-aa24bdb97fda", "sub_uri": "Q172163", "obj_uri": "Q27586", "sub_label": "Ferrari F2002", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "ecf3ad45-7d2c-4c5d-b87c-9d7129b78e38", "sub_uri": "Q13775482", "obj_uri": "Q1418", "sub_label": "Nokia Lumia 1020", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "255c164b-7871-41d9-b200-53f9580b09a6", "sub_uri": "Q209868", "obj_uri": "Q2985314", "sub_label": "Sega Master System", "obj_label": "Tectoy", "predicate_id": "P176"}
+{"uuid": "8be876ec-e4d8-43da-8f6a-645080d74ed6", "sub_uri": "Q2031285", "obj_uri": "Q53268", "sub_label": "Toyota Mark II", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "e751812e-8080-4da8-aecc-f21b3f15f7ec", "sub_uri": "Q2118209", "obj_uri": "Q29913", "sub_label": "Puma (AFV)", "obj_label": "Iveco", "predicate_id": "P176"}
+{"uuid": "58427761-82b0-4e59-b5a3-cf1f91185f12", "sub_uri": "Q3024433", "obj_uri": "Q497860", "sub_label": "KRI Kelas Makassar", "obj_label": "DSME", "predicate_id": "P176"}
+{"uuid": "99e626aa-1995-4357-8f8d-c5bb17eacc6b", "sub_uri": "Q3696039", "obj_uri": "Q66", "sub_label": "Boeing Model 8", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "c93827d5-69bc-4280-a052-b828b3580a68", "sub_uri": "Q2048551", "obj_uri": "Q308889", "sub_label": "Temco TT Pinto", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "98da5747-a9fa-4022-9e28-df609557673b", "sub_uri": "Q796565", "obj_uri": "Q26678", "sub_label": "BMW M40", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "619b2db2-84ea-49f1-b0e0-0082a0f1cc61", "sub_uri": "Q696575", "obj_uri": "Q183275", "sub_label": "Mitsubishi A7M", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "e0aefc8d-717b-40bc-b971-dd192cab17fc", "sub_uri": "Q844842", "obj_uri": "Q1418", "sub_label": "Nokia 3230", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "19401f99-8e8b-4eaf-80c9-ae8c59fea23b", "sub_uri": "Q488204", "obj_uri": "Q308889", "sub_label": "A-37 Dragonfly", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "eba15d5b-5093-499a-b78a-5b3db3177e0f", "sub_uri": "Q546051", "obj_uri": "Q949211", "sub_label": "Yakovlev Yak-7", "obj_label": "Lavochkin", "predicate_id": "P176"}
+{"uuid": "8b052e10-320b-4d3a-bf52-67bd1ce9933e", "sub_uri": "Q1626665", "obj_uri": "Q9584", "sub_label": "Honda Ridgeline", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "7847e002-69a6-4de1-96ab-eb202c31f487", "sub_uri": "Q1162891", "obj_uri": "Q9584", "sub_label": "Honda City", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "1b12da24-e3c5-47e2-8315-ebd396cd10d1", "sub_uri": "Q3696043", "obj_uri": "Q66", "sub_label": "Boeing Model 7", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "432c34fa-65ea-4200-a284-3d816a9a59be", "sub_uri": "Q5612061", "obj_uri": "Q463261", "sub_label": "Grumman XSBF", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "24441efd-ea9c-4688-a9fe-c2235cd4583e", "sub_uri": "Q588014", "obj_uri": "Q4231577", "sub_label": "Black Eagle (tank)", "obj_label": "Omsktransmash", "predicate_id": "P176"}
+{"uuid": "45b33ee7-dbf2-40b6-9136-93e6be8763f4", "sub_uri": "Q319509", "obj_uri": "Q248", "sub_label": "Intel 8008", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "b52fd8ee-50f7-4757-a50c-3f92d7958f30", "sub_uri": "Q1024445", "obj_uri": "Q66", "sub_label": "Boeing Starliner", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "be91cd16-88e0-4915-a6b8-c806c37d8e86", "sub_uri": "Q838837", "obj_uri": "Q26678", "sub_label": "BMW Seri 3 (E30)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "2778ae15-06dd-4fe0-b0ee-67a73f2022b7", "sub_uri": "Q1065662", "obj_uri": "Q949211", "sub_label": "Mars 5", "obj_label": "Lavochkin", "predicate_id": "P176"}
+{"uuid": "8c4932f7-5a61-4a57-a543-a6d349cd9ca6", "sub_uri": "Q6502", "obj_uri": "Q67", "sub_label": "EADS/Northrop Grumman KC-45", "obj_label": "Airbus", "predicate_id": "P176"}
+{"uuid": "c725f90a-2cff-4c5e-affe-c224c11ab204", "sub_uri": "Q913114", "obj_uri": "Q105557", "sub_label": "Embraer ERJ 145 family", "obj_label": "Embraer", "predicate_id": "P176"}
+{"uuid": "b79a09d2-c020-4372-90b4-fcd3f24ab471", "sub_uri": "Q736765", "obj_uri": "Q333498", "sub_label": "Bombardier Q Series", "obj_label": "Bombardier", "predicate_id": "P176"}
+{"uuid": "b05e450b-ebe6-4a95-8dd0-cce55c7f849d", "sub_uri": "Q1361311", "obj_uri": "Q6742", "sub_label": "Peugeot 305", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "df9f446c-f34c-4dbf-ae82-6ef9e997b603", "sub_uri": "Q914069", "obj_uri": "Q53268", "sub_label": "Toyota Land Cruiser", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "f7c882d5-5f0b-48dc-9052-e55ac42db083", "sub_uri": "Q257219", "obj_uri": "Q155896", "sub_label": "Fokker G.I", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "478c8907-0475-4ea8-802f-f4d18043a1c6", "sub_uri": "Q1093538", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn AX", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "ad083312-8d5e-4e36-bbc2-0811d8581780", "sub_uri": "Q1662409", "obj_uri": "Q20165", "sub_label": "Infiniti Q45", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "756b0997-e728-4fd0-a086-c4e1f8376f77", "sub_uri": "Q615991", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-85", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "f8a1ea0b-e38e-4fb8-ad2b-3389726c0098", "sub_uri": "Q8507", "obj_uri": "Q1475312", "sub_label": "Parc Olympique Lyonnais", "obj_label": "VINCI", "predicate_id": "P176"}
+{"uuid": "b3424ec4-58ca-4db3-b63e-c17c6a889730", "sub_uri": "Q162116", "obj_uri": "Q650639", "sub_label": "Westland Lynx", "obj_label": "A\u00e9rospatiale", "predicate_id": "P176"}
+{"uuid": "ff762d6f-7e93-459b-95c6-ef592d7ad6f7", "sub_uri": "Q658918", "obj_uri": "Q6742", "sub_label": "Citro\u00ebn XM", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "5f3b9fb9-c732-4818-a0e6-fa12fdc7ff27", "sub_uri": "Q842031", "obj_uri": "Q161544", "sub_label": "Rheinmetall MG 3", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "87c501ca-a969-4fd3-b5b1-f641ab324fd8", "sub_uri": "Q76843", "obj_uri": "Q183275", "sub_label": "Mitsubishi Ki-15", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "a9f54ac6-5be6-40d7-9b5b-aeaf8c0e166d", "sub_uri": "Q339025", "obj_uri": "Q156644", "sub_label": "MIM-104 Patriot", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "ff75507f-6b02-487d-ac10-85fe786c6214", "sub_uri": "Q1476909", "obj_uri": "Q173357", "sub_label": "Simca 1000", "obj_label": "Simca", "predicate_id": "P176"}
+{"uuid": "5d4fee10-9afc-4690-bf92-48a30b50216b", "sub_uri": "Q75040453", "obj_uri": "Q172030", "sub_label": "McLaren MCL35", "obj_label": "McLaren", "predicate_id": "P176"}
+{"uuid": "af45464c-2efe-4526-b1dd-decdfe659099", "sub_uri": "Q981209", "obj_uri": "Q53268", "sub_label": "Toyota HiAce", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "ca60f6d8-2b90-4cff-bc86-c8909f7a510b", "sub_uri": "Q19943435", "obj_uri": "Q9584", "sub_label": "Honda Beat", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "69013e28-dad3-40cc-82c6-5d62d9af2c7e", "sub_uri": "Q24262968", "obj_uri": "Q95", "sub_label": "Google Home", "obj_label": "Google", "predicate_id": "P176"}
+{"uuid": "00adbf6c-7649-46a6-b40a-f643e92192f8", "sub_uri": "Q14094", "obj_uri": "Q463094", "sub_label": "IPod Touch", "obj_label": "Foxconn", "predicate_id": "P176"}
+{"uuid": "771b4d99-b082-4568-89e8-8130794dfa67", "sub_uri": "Q293772", "obj_uri": "Q156644", "sub_label": "AIM-54 Phoenix", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "5b2c6ae1-5a2b-41f5-9990-b51825f5dc40", "sub_uri": "Q485226", "obj_uri": "Q156644", "sub_label": "Hawker 800", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "803b1230-3f09-4b44-8b10-321fe90abd48", "sub_uri": "Q2357052", "obj_uri": "Q1418", "sub_label": "Nokia C5-00", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "c1002bd5-1ba0-4a90-bd84-2c89ac5cab99", "sub_uri": "Q1479510", "obj_uri": "Q920568", "sub_label": "Soko G-2 Galeb", "obj_label": "SOKO", "predicate_id": "P176"}
+{"uuid": "681cb349-27ac-42ca-9e41-b073e0ae4a40", "sub_uri": "Q20988259", "obj_uri": "Q2548367", "sub_label": "HISAR", "obj_label": "ROKETSAN", "predicate_id": "P176"}
+{"uuid": "7af1b724-e522-46c2-899e-67f187906711", "sub_uri": "Q398900", "obj_uri": "Q398878", "sub_label": "AgustaWestland AW139", "obj_label": "AgustaWestland", "predicate_id": "P176"}
+{"uuid": "466596c5-13aa-47ce-abbb-dbda905506dd", "sub_uri": "Q667988", "obj_uri": "Q1336983", "sub_label": "Learjet 35", "obj_label": "Learjet", "predicate_id": "P176"}
+{"uuid": "1df90915-9d9b-4f99-a974-bc0d11e2a5cc", "sub_uri": "Q166258", "obj_uri": "Q463261", "sub_label": "Grumman G-73 Mallard", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "3206ad26-9391-4f54-b00d-2fe5fcc3c58d", "sub_uri": "Q504320", "obj_uri": "Q13220673", "sub_label": "Tank Centurion", "obj_label": "Vickers", "predicate_id": "P176"}
+{"uuid": "2193597c-8716-4147-827e-71914ab3e1e8", "sub_uri": "Q10676", "obj_uri": "Q122741", "sub_label": "Sega Mega Drive", "obj_label": "Sega", "predicate_id": "P176"}
+{"uuid": "3da5f4aa-81b4-4191-8a84-6024e88de504", "sub_uri": "Q7830779", "obj_uri": "Q53268", "sub_label": "Mesin E Toyota", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "4e693832-88b8-4967-a480-404497352716", "sub_uri": "Q2005745", "obj_uri": "Q1418", "sub_label": "Nokia N75", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "65672a26-f025-444f-9fb8-21f9b2572cb7", "sub_uri": "Q1418193", "obj_uri": "Q327429", "sub_label": "GTS Finnjet", "obj_label": "W\u00e4rtsil\u00e4", "predicate_id": "P176"}
+{"uuid": "d6a3749e-1179-493d-97c8-2b61968508b1", "sub_uri": "Q420789", "obj_uri": "Q3895", "sub_label": "Adidas Predator", "obj_label": "Adidas", "predicate_id": "P176"}
+{"uuid": "6ea51c43-fc6f-441c-a0d0-1cc6970bc6d3", "sub_uri": "Q117235", "obj_uri": "Q27586", "sub_label": "Ferrari 360", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "36a92de4-8db8-4e02-a444-622fbb2cd31f", "sub_uri": "Q748454", "obj_uri": "Q40993", "sub_label": "Porsche Carrera GT", "obj_label": "Porsche", "predicate_id": "P176"}
+{"uuid": "2ad99761-e52e-4a3c-b59d-a4384fc44a25", "sub_uri": "Q796592", "obj_uri": "Q26678", "sub_label": "BMW M67", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "f7a7fa65-d841-472a-9e70-38808bad234a", "sub_uri": "Q6127479", "obj_uri": "Q161544", "sub_label": "20 cm leichter Ladungswerfer", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "7c556eac-f5d7-4282-8da1-8b75b30452d1", "sub_uri": "Q1362426", "obj_uri": "Q6742", "sub_label": "Peugeot 204", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "b74a7ad7-7d02-4b10-81b8-580793a429db", "sub_uri": "Q758752", "obj_uri": "Q23317", "sub_label": "Audi A5", "obj_label": "Audi", "predicate_id": "P176"}
+{"uuid": "c8213cdd-b07b-4cbe-a586-aae347757ba7", "sub_uri": "Q1349098", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-36", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "fd0805c5-411e-4caa-a082-642f7ab11950", "sub_uri": "Q5011978", "obj_uri": "Q1538336", "sub_label": "CJ-1", "obj_label": "Norinco", "predicate_id": "P176"}
+{"uuid": "898311b6-e41e-41fc-96e3-a5d5b18adc45", "sub_uri": "Q796478", "obj_uri": "Q26678", "sub_label": "BMW Seri 6 (F06/F12/F13)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "fd5c4b89-a37b-40b6-8c60-d3091064a657", "sub_uri": "Q295466", "obj_uri": "Q105557", "sub_label": "AMX International AMX", "obj_label": "Embraer", "predicate_id": "P176"}
+{"uuid": "62a6dd71-e50f-48a1-9972-ff2ba8cc697d", "sub_uri": "Q742458", "obj_uri": "Q949211", "sub_label": "Venera 6", "obj_label": "Lavochkin", "predicate_id": "P176"}
+{"uuid": "6cdf35f8-ac70-43a5-b88c-71effabd5e0d", "sub_uri": "Q23518144", "obj_uri": "Q2283", "sub_label": "Tay (bot)", "obj_label": "Microsoft", "predicate_id": "P176"}
+{"uuid": "093e54c7-cc21-4504-896c-a074c97de809", "sub_uri": "Q1647192", "obj_uri": "Q1418", "sub_label": "Nokia N72", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "b2f4cfff-41fc-405d-906d-508a25218d17", "sub_uri": "Q1890237", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-80", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "4d9b421d-5dee-4576-b6b5-db024a468707", "sub_uri": "Q28054048", "obj_uri": "Q66", "sub_label": "Boeing T-7 Red Hawk", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "7ddebec7-a74f-433c-96df-ebaf9176f3d3", "sub_uri": "Q796427", "obj_uri": "Q26678", "sub_label": "BMW Seri 6", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "7d9f603c-6313-45b1-bc16-9fac0263ac51", "sub_uri": "Q2348042", "obj_uri": "Q155896", "sub_label": "Fokker T.III", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "172037ee-e567-4af5-986b-6696a56d6166", "sub_uri": "Q209482", "obj_uri": "Q166203", "sub_label": "2 cm Gebirgsflak 38", "obj_label": "Mauser", "predicate_id": "P176"}
+{"uuid": "9564bacc-c2fe-489e-86aa-9ced3569f73b", "sub_uri": "Q15215794", "obj_uri": "Q193701", "sub_label": "Falcon 9 v1.1", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "3d625bb9-ccdd-4912-ae2a-d1b8d75ac2db", "sub_uri": "Q943299", "obj_uri": "Q27586", "sub_label": "Ferrari FF", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "c9d8c2ff-1590-4a5f-8a20-acb0ce22eb26", "sub_uri": "Q704234", "obj_uri": "Q40993", "sub_label": "Porsche 991", "obj_label": "Porsche", "predicate_id": "P176"}
+{"uuid": "4eb989db-80c7-44c3-a463-8fcb00ffd10a", "sub_uri": "Q1132565", "obj_uri": "Q35962", "sub_label": "Maserati Quattroporte", "obj_label": "Maserati", "predicate_id": "P176"}
+{"uuid": "91a6f414-d3e9-4a63-96f4-653461ca4a3d", "sub_uri": "Q132020", "obj_uri": "Q2283", "sub_label": "Xbox (konsol)", "obj_label": "Microsoft", "predicate_id": "P176"}
+{"uuid": "4756bcc2-8330-4874-971d-f9c33759a0e9", "sub_uri": "Q3747026", "obj_uri": "Q155896", "sub_label": "Fokker C.I", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "b748e46e-8a42-460e-ad33-4793cdc85823", "sub_uri": "Q1057187", "obj_uri": "Q308889", "sub_label": "Cessna 310", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "94ccf564-d5a4-4785-b3f7-71887077bef6", "sub_uri": "Q2332825", "obj_uri": "Q1418", "sub_label": "Nokia 6500 klasik", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "efdef859-278f-4e4e-8201-52c6fec395f2", "sub_uri": "Q6359066", "obj_uri": "Q241828", "sub_label": "Kamov Ka-92", "obj_label": "Kamov", "predicate_id": "P176"}
+{"uuid": "10305d55-a7d5-4e41-82ee-e1c64f80de3c", "sub_uri": "Q6103662", "obj_uri": "Q2548367", "sub_label": "J-600T Y\u0131ld\u0131r\u0131m", "obj_label": "ROKETSAN", "predicate_id": "P176"}
+{"uuid": "0072f3c6-0574-4f55-8ccd-1c16f9ccdc95", "sub_uri": "Q930466", "obj_uri": "Q26678", "sub_label": "BMW Z4 (E89)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "0bc70f55-6448-44c2-b6d8-5f66e4ff4926", "sub_uri": "Q1110438", "obj_uri": "Q13220673", "sub_label": "Ordnance QF 2-pounder", "obj_label": "Vickers", "predicate_id": "P176"}
+{"uuid": "3dfab1f7-fb97-47dc-966a-94eb0dd0355b", "sub_uri": "Q431014", "obj_uri": "Q642622", "sub_label": "Beriev Be-4", "obj_label": "Beriev", "predicate_id": "P176"}
+{"uuid": "08e0032c-99a5-415f-acf2-bb466e831a71", "sub_uri": "Q1139368", "obj_uri": "Q53268", "sub_label": "Toyota Sienna", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "8e04ba3a-2ff6-49df-a35f-593be1624697", "sub_uri": "Q3877856", "obj_uri": "Q1418", "sub_label": "Nokia 7210 Supernova", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "9dfdfbc1-babb-4c5e-ba58-ce8309c42a93", "sub_uri": "Q461651", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-15", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "bebc3ed1-b889-479a-b0f5-c1a7a06f7f5f", "sub_uri": "Q907752", "obj_uri": "Q66", "sub_label": "LGM-118 Peacekeeper", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "3251fd85-1e07-49e5-a26d-0716be9fed57", "sub_uri": "Q96206989", "obj_uri": "Q193701", "sub_label": "Crew Dragon Resilience", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "5e2bc553-7088-4023-a6b6-66ee8188dad0", "sub_uri": "Q5166112", "obj_uri": "Q836947", "sub_label": "Convair XP6Y", "obj_label": "Convair", "predicate_id": "P176"}
+{"uuid": "ed10fdb7-d9d9-4c71-bc8a-fd6b6c064cd0", "sub_uri": "Q2465699", "obj_uri": "Q308889", "sub_label": "Cessna 350 Corvalis", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "68dd5905-48c4-42a3-9480-a5a0955e32e2", "sub_uri": "Q22752926", "obj_uri": "Q9584", "sub_label": "Honda BR-V", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "c0012ff8-65f4-4592-ba88-0685f910bcd2", "sub_uri": "Q229429", "obj_uri": "Q53247", "sub_label": "3DO Interactive Multiplayer", "obj_label": "Panasonic", "predicate_id": "P176"}
+{"uuid": "5975a43a-23f5-4813-b517-fcb947aa822a", "sub_uri": "Q247971", "obj_uri": "Q40993", "sub_label": "Porsche Cayman", "obj_label": "Porsche", "predicate_id": "P176"}
+{"uuid": "4d6505f4-e1aa-478b-98b1-22b6e8945cd3", "sub_uri": "Q835768", "obj_uri": "Q836325", "sub_label": "MBB Bo 105", "obj_label": "Messerschmitt-B\u00f6lkow-Blohm", "predicate_id": "P176"}
+{"uuid": "69ec1b43-3479-4907-a02a-5e89b5f9db59", "sub_uri": "Q6108876", "obj_uri": "Q49125", "sub_label": "Lokomotif JNR EH200", "obj_label": "Toshiba", "predicate_id": "P176"}
+{"uuid": "967868b7-8593-43be-8fe1-a92cbd276e69", "sub_uri": "Q277491", "obj_uri": "Q219501", "sub_label": "Saab 340", "obj_label": "Saab", "predicate_id": "P176"}
+{"uuid": "7504db1c-70e6-442e-870b-7f8df8b775a6", "sub_uri": "Q4811943", "obj_uri": "Q152864", "sub_label": "Republic of Gamers", "obj_label": "Asus", "predicate_id": "P176"}
+{"uuid": "dbc2ec59-ad02-422a-be86-05feb753a659", "sub_uri": "Q538968", "obj_uri": "Q249190", "sub_label": "Avro York", "obj_label": "Avro", "predicate_id": "P176"}
+{"uuid": "99503737-21fc-49f9-a05c-f2c75e40a36b", "sub_uri": "Q1093535", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn Ami", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "b67685b6-702d-4b57-a75c-2c3de03194d8", "sub_uri": "Q7830866", "obj_uri": "Q53268", "sub_label": "Mesin SZ Toyota", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "a2647f3e-c522-489b-be99-4a3a5f3165ab", "sub_uri": "Q432478", "obj_uri": "Q309084", "sub_label": "Automotrice \u00e0 grande vitesse", "obj_label": "Alstom", "predicate_id": "P176"}
+{"uuid": "7eeaa77a-87b7-402c-b322-38eb6d21fd75", "sub_uri": "Q3139954", "obj_uri": "Q9584", "sub_label": "Honda RVF750 RC45", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "9a395a45-51b0-46e2-85ca-99dee92195f0", "sub_uri": "Q1809943", "obj_uri": "Q53268", "sub_label": "Toyota WISH", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "fc152a0f-63cd-42ec-8c5e-5eb97a8e91b8", "sub_uri": "Q721721", "obj_uri": "Q66", "sub_label": "Boeing X-32", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "ed881085-9c0c-4eb7-abb6-3c0933a9dc9d", "sub_uri": "Q7194994", "obj_uri": "Q7194993", "sub_label": "Pindad SPR", "obj_label": "Pindad", "predicate_id": "P176"}
+{"uuid": "7869ae02-a7ea-4f58-a0ed-0cf1aa64d452", "sub_uri": "Q521425", "obj_uri": "Q27586", "sub_label": "Ferrari F310", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "38a807ee-db88-45f0-9a3e-9d01308d72cd", "sub_uri": "Q177035", "obj_uri": "Q66", "sub_label": "Boeing XB-15", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "8288c746-b250-4398-8f99-eb6b3fd9f027", "sub_uri": "Q292464", "obj_uri": "Q156644", "sub_label": "AGM-176 Griffin", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "808753f5-bf8c-4d1c-aa83-fc4ef5a93c7b", "sub_uri": "Q22808999", "obj_uri": "Q193701", "sub_label": "Falcon 9 Full Thrust", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "ad378fcd-d1e5-4330-96f2-a447e89d19a9", "sub_uri": "Q4243692", "obj_uri": "Q155896", "sub_label": "Fokker DC.I", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "1a5ba052-795b-4232-80ee-2abf032d880c", "sub_uri": "Q48496", "obj_uri": "Q66", "sub_label": "Mars Science Laboratory", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "3581507f-e235-4b72-ac48-8b6e9a37ff75", "sub_uri": "Q796783", "obj_uri": "Q26678", "sub_label": "BMW Z4", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "8165a1d6-6f50-4ad3-b7de-45086046c985", "sub_uri": "Q8047181", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-140", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "7530e24e-b629-411b-9642-76392b6d2587", "sub_uri": "Q4271023", "obj_uri": "Q193701", "sub_label": "Dragon CRS-4", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "d7e4ae6e-b8f8-4801-80e2-de1657353dfa", "sub_uri": "Q277339", "obj_uri": "Q27586", "sub_label": "Ferrari 250 GTO", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "8845d6f8-10e6-4886-bd8b-2e2861302907", "sub_uri": "Q1048035", "obj_uri": "Q507269", "sub_label": "WonderSwan Color", "obj_label": "Bandai", "predicate_id": "P176"}
+{"uuid": "60303ab1-4b5d-409b-b3e6-105516326462", "sub_uri": "Q494812", "obj_uri": "Q3895", "sub_label": "Adidas Fevernova", "obj_label": "Adidas", "predicate_id": "P176"}
+{"uuid": "a4ddc986-93bd-4df1-8ef9-08a43bd493ca", "sub_uri": "Q562475", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-9", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "58220cd6-e2be-4de7-8ed9-42f8b0c9d6df", "sub_uri": "Q608789", "obj_uri": "Q1762250", "sub_label": "BMPT Terminator", "obj_label": "Uralvagonzavod", "predicate_id": "P176"}
+{"uuid": "8d158d5f-ac46-49d5-86e3-0fc421b40d71", "sub_uri": "Q2269192", "obj_uri": "Q6686", "sub_label": "Renault R202", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "a47d4eea-0669-4286-bbcf-9917f76f4ae6", "sub_uri": "Q618665", "obj_uri": "Q241828", "sub_label": "Kamov Ka-60", "obj_label": "Kamov", "predicate_id": "P176"}
+{"uuid": "50413287-bf77-48c0-9b8d-c652a3b6c600", "sub_uri": "Q209292", "obj_uri": "Q166203", "sub_label": "2,8 cm sPzB 41", "obj_label": "Mauser", "predicate_id": "P176"}
+{"uuid": "b28f9666-cacc-47d1-98a4-7c38b1b88fb7", "sub_uri": "Q627956", "obj_uri": "Q6742", "sub_label": "Citro\u00ebn M\u00e9hari", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "6b2c53a6-402e-428b-bfe1-b16bf08c2b82", "sub_uri": "Q12061529", "obj_uri": "Q836325", "sub_label": "MBB Lampyridae", "obj_label": "Messerschmitt-B\u00f6lkow-Blohm", "predicate_id": "P176"}
+{"uuid": "b52e92d2-cdee-4dac-8ec0-518a175aa9d6", "sub_uri": "Q889408", "obj_uri": "Q66", "sub_label": "Boeing C-40 Clipper", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "255362a1-1fbb-4484-8d41-052ad26a21e8", "sub_uri": "Q774971", "obj_uri": "Q40966", "sub_label": "Opel Agila", "obj_label": "Opel", "predicate_id": "P176"}
+{"uuid": "84576f94-c5ea-4447-8a6c-03b58067c666", "sub_uri": "Q1766169", "obj_uri": "Q1418", "sub_label": "Nokia 1112", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "ea9bc1e1-6e8f-4f85-bec1-e3d5bba0e18e", "sub_uri": "Q2908565", "obj_uri": "Q66", "sub_label": "Boeing XP-15", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "257af5f7-f23d-4dde-88ec-bc433a6ea448", "sub_uri": "Q1809938", "obj_uri": "Q20165", "sub_label": "Nissan Xterra", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "30476ce0-0ecf-465c-973b-1436f975359e", "sub_uri": "Q818306", "obj_uri": "Q27224", "sub_label": "Bentley Continental GT", "obj_label": "Bentley", "predicate_id": "P176"}
+{"uuid": "6445b269-d254-49a7-9999-53b2ce67e99a", "sub_uri": "Q1426415", "obj_uri": "Q9584", "sub_label": "Honda HR-V", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "449429c0-5172-4292-a603-e595bc8daf62", "sub_uri": "Q834801", "obj_uri": "Q161544", "sub_label": "Mauser BK-27", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "0018eefb-2dc5-4e9e-8c33-4700425d1773", "sub_uri": "Q755904", "obj_uri": "Q1418", "sub_label": "Nokia Nseries", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "1ec71aad-aa65-44c7-b784-b6e573acdae5", "sub_uri": "Q726411", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn C3", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "156b9456-98ad-4dc5-991a-1680f12dafe4", "sub_uri": "Q1581540", "obj_uri": "Q53268", "sub_label": "Toyota Tacoma", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "9705757c-98e4-499a-bd48-32f1fa9a35dc", "sub_uri": "Q2917066", "obj_uri": "Q2311", "sub_label": "EADS Mako", "obj_label": "EADS", "predicate_id": "P176"}
+{"uuid": "0ecb60a6-fc9e-4afc-8259-963a91a3e98b", "sub_uri": "Q246644", "obj_uri": "Q40966", "sub_label": "Opel Vectra", "obj_label": "Opel", "predicate_id": "P176"}
+{"uuid": "1991613f-9d8c-4e13-9454-0ac7daf62b28", "sub_uri": "Q2669957", "obj_uri": "Q948202", "sub_label": "Galil ACE", "obj_label": "FAMAE", "predicate_id": "P176"}
+{"uuid": "eaaed95a-2254-4728-b6c2-443d25fce27b", "sub_uri": "Q1057377", "obj_uri": "Q219203", "sub_label": "TurboGrafx-16", "obj_label": "NEC", "predicate_id": "P176"}
+{"uuid": "1c626580-7788-4783-bb8d-a1ae9d93e2eb", "sub_uri": "Q1999178", "obj_uri": "Q1538336", "sub_label": "Norinco Tipe 86S", "obj_label": "Norinco", "predicate_id": "P176"}
+{"uuid": "850a89b7-7df8-4174-8e62-86b98c8087e2", "sub_uri": "Q756741", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn Berlingo", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "bf4be94a-9c80-4cb0-908d-4ea68fe7e21c", "sub_uri": "Q2020407", "obj_uri": "Q1418", "sub_label": "Nokia 3510i", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "b3ecb1f7-7204-446f-9414-7c8312493ad0", "sub_uri": "Q634188", "obj_uri": "Q156644", "sub_label": "FGM-148 Javelin", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "b155f85c-9b47-4fc9-b105-e8d9b36abe24", "sub_uri": "Q1360213", "obj_uri": "Q66", "sub_label": "AGM-86 ALCM", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "ebbd3452-a149-4511-b7fb-2c52731c34a7", "sub_uri": "Q14669289", "obj_uri": "Q40993", "sub_label": "Porsche 919 Hybrid", "obj_label": "Porsche", "predicate_id": "P176"}
+{"uuid": "2ed57ae6-2a64-49ba-bd01-018b82a6c93d", "sub_uri": "Q780998", "obj_uri": "Q26678", "sub_label": "BMW Seri 7 (E65)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "9e0c0747-5aa1-4074-9463-367e2adb9b96", "sub_uri": "Q463632", "obj_uri": "Q9584", "sub_label": "Honda Accord", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "9c8260a2-4384-4966-a929-1d37951bf07b", "sub_uri": "Q607229", "obj_uri": "Q212268", "sub_label": "Antonov An-10", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "73cc8f8c-a0d4-4318-843a-4e38f78edc99", "sub_uri": "Q756036", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-28", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "4b74c37e-508d-491d-ad22-cf8302885e9c", "sub_uri": "Q205509", "obj_uri": "Q248", "sub_label": "Intel 4004", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "a15687e1-01ce-4fc3-b978-d14b2ba2c2a7", "sub_uri": "Q1700432", "obj_uri": "Q1771558", "sub_label": "Socata TB 30 Epsilon", "obj_label": "SOCATA", "predicate_id": "P176"}
+{"uuid": "888793f7-3af1-4306-a01d-68a37fea356c", "sub_uri": "Q1998952", "obj_uri": "Q1418", "sub_label": "Nokia 6030", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "578b12c8-da1b-4b03-bf8e-a7bb915a1d4b", "sub_uri": "Q390389", "obj_uri": "Q248", "sub_label": "Intel Itanium", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "9cae89c7-073a-4c07-ad59-0f15b38a682f", "sub_uri": "Q332637", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-33", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "efd1e32f-47ca-4d90-919d-b20bf6c3c8d7", "sub_uri": "Q15838575", "obj_uri": "Q66", "sub_label": "USA-248", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "12048b0e-2ece-41b1-b167-2e45b8a02e30", "sub_uri": "Q22949", "obj_uri": "Q836947", "sub_label": "Atlas (keluarga roket)", "obj_label": "Convair", "predicate_id": "P176"}
+{"uuid": "212d04d4-00e8-4dba-9d66-6493b7a59627", "sub_uri": "Q1129471", "obj_uri": "Q6458562", "sub_label": "LHTEC T800", "obj_label": "LHTEC", "predicate_id": "P176"}
+{"uuid": "15b5133e-55ad-4447-b40e-868136ddfd9c", "sub_uri": "Q1193142", "obj_uri": "Q1507207", "sub_label": "Klimov RD-33", "obj_label": "Klimov", "predicate_id": "P176"}
+{"uuid": "28ff282b-b9e6-45cb-86fc-f81c9b2fd0f4", "sub_uri": "Q1754283", "obj_uri": "Q13220673", "sub_label": "Vickers Warwick", "obj_label": "Vickers", "predicate_id": "P176"}
+{"uuid": "9473896d-bc11-4afd-b9fb-680cf5e4391b", "sub_uri": "Q1754758", "obj_uri": "Q173357", "sub_label": "Simca Vedette", "obj_label": "Simca", "predicate_id": "P176"}
+{"uuid": "f9db6a09-9045-4d51-a802-7ec52d413b28", "sub_uri": "Q938850", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn Saxo", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "9e4208ef-4116-401b-bb8f-8144d1f2a8ae", "sub_uri": "Q897994", "obj_uri": "Q35896", "sub_label": "Lancia Delta", "obj_label": "Lancia", "predicate_id": "P176"}
+{"uuid": "40bab06e-a7b8-4525-82c3-1a4adb4bf319", "sub_uri": "Q6819352", "obj_uri": "Q193701", "sub_label": "SpaceX CRS-3", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "64b4e5d8-a110-4254-a114-4c0914da9748", "sub_uri": "Q178351", "obj_uri": "Q212268", "sub_label": "Antonov An-225", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "98c8d1a0-3edc-4bd3-8554-02511674c7cc", "sub_uri": "Q44127", "obj_uri": "Q80978", "sub_label": "Peladen", "obj_label": "Hewlett-Packard", "predicate_id": "P176"}
+{"uuid": "5d5bc2ec-0adf-4b06-9172-d3dacfa52126", "sub_uri": "Q1477062", "obj_uri": "Q1197161", "sub_label": "Valmet M76", "obj_label": "Valmet", "predicate_id": "P176"}
+{"uuid": "157cf269-e1c9-4b72-b367-3c24b257bf68", "sub_uri": "Q1046867", "obj_uri": "Q181114", "sub_label": "Chrysler PT Cruiser", "obj_label": "Chrysler", "predicate_id": "P176"}
+{"uuid": "b5edee11-c8d8-4b1c-a914-563e53b42fc2", "sub_uri": "Q494698", "obj_uri": "Q20716", "sub_label": "Samsung Galaxy Note", "obj_label": "Samsung", "predicate_id": "P176"}
+{"uuid": "a5b6f52b-4750-48bc-a82a-3c65e336c23e", "sub_uri": "Q4694614", "obj_uri": "Q398845", "sub_label": "Agusta GA.140", "obj_label": "Agusta", "predicate_id": "P176"}
+{"uuid": "236cab14-4476-4196-8512-306ca0d68c20", "sub_uri": "Q691949", "obj_uri": "Q3895", "sub_label": "Adidas Tango", "obj_label": "Adidas", "predicate_id": "P176"}
+{"uuid": "428631f7-d53e-4754-b36c-28f260dfc231", "sub_uri": "Q1057283", "obj_uri": "Q308889", "sub_label": "Cessna Citation Latitude", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "7b5c2307-8484-41e8-a106-2bc95cc323bd", "sub_uri": "Q1643391", "obj_uri": "Q1418", "sub_label": "Nokia 6630", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "f8a6b343-b39b-464d-a8f1-fbfd0c7a1d35", "sub_uri": "Q573554", "obj_uri": "Q463261", "sub_label": "Grumman XF5F Skyrocket", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "280b1761-9a4d-4937-8e5c-0b5b8d255e08", "sub_uri": "Q1079225", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-9 (1946)", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "207e54b2-4140-40fc-b786-215898f76f37", "sub_uri": "Q11197545", "obj_uri": "Q217338", "sub_label": "Casio Edifice", "obj_label": "Casio", "predicate_id": "P176"}
+{"uuid": "7a296665-a489-4e0a-beb4-3ad04b4ef8c7", "sub_uri": "Q293810", "obj_uri": "Q156644", "sub_label": "AIM-7 Sparrow", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "006af294-4a04-4b68-85ef-e7018c2bc0c8", "sub_uri": "Q3883598", "obj_uri": "Q27586", "sub_label": "Ferrari F138", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "05d6f6da-f394-4ce9-bfe1-fc392ed5a41e", "sub_uri": "Q15077887", "obj_uri": "Q9584", "sub_label": "Honda Sonic 150R", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "477eca3b-458b-463f-9939-d51cf5be076c", "sub_uri": "Q367286", "obj_uri": "Q851367", "sub_label": "Tsyklon-2", "obj_label": "Yuzhmash", "predicate_id": "P176"}
+{"uuid": "167d200b-de0b-4c4c-b141-5d5adc568478", "sub_uri": "Q907134", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-38", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "5617bc59-4cc4-43a6-9835-6bc432d7f61d", "sub_uri": "Q819135", "obj_uri": "Q324782", "sub_label": "Beretta 93R", "obj_label": "Beretta", "predicate_id": "P176"}
+{"uuid": "91ab8f17-b2ae-4bdd-a86a-a8c64cf40788", "sub_uri": "Q796629", "obj_uri": "Q26678", "sub_label": "BMW N57", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "18ae76b2-e5e0-40b8-bead-f4ab0738d11d", "sub_uri": "Q1415815", "obj_uri": "Q20165", "sub_label": "Nissan Juke", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "f8c3d9da-d63e-49bf-912e-afbacdb1eb7d", "sub_uri": "Q1129322", "obj_uri": "Q836947", "sub_label": "Convair XC-99", "obj_label": "Convair", "predicate_id": "P176"}
+{"uuid": "f1813d04-9fcc-4733-a208-16997cee98ca", "sub_uri": "Q98062104", "obj_uri": "Q463094", "sub_label": "Pixel 4a", "obj_label": "Foxconn", "predicate_id": "P176"}
+{"uuid": "1b5a5d60-5364-4db1-80d3-0eb18381709a", "sub_uri": "Q5464196", "obj_uri": "Q155896", "sub_label": "Fokker F.29", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "7a864d5b-82e4-4587-8fa3-d37bc91fc1b2", "sub_uri": "Q207976", "obj_uri": "Q6742", "sub_label": "Peugeot 206", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "ef45c07f-fc77-4b2c-a397-9450d4569144", "sub_uri": "Q2044886", "obj_uri": "Q965259", "sub_label": "Gelatik (pesawat)", "obj_label": "PZL", "predicate_id": "P176"}
+{"uuid": "0c5ab304-41e9-4209-bb13-c9083ed82200", "sub_uri": "Q676888", "obj_uri": "Q1347160", "sub_label": "AASM", "obj_label": "SAGEM", "predicate_id": "P176"}
+{"uuid": "2e4a6745-09cd-4ce5-bcf8-f4f26f548262", "sub_uri": "Q643966", "obj_uri": "Q6742", "sub_label": "Citro\u00ebn C4", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "3028bc19-7ff3-4d00-a618-59449305f35c", "sub_uri": "Q734103", "obj_uri": "Q463261", "sub_label": "Grumman TBF Avenger", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "c25ea138-6db5-456f-9304-c3d1b9f4764a", "sub_uri": "Q2733256", "obj_uri": "Q9584", "sub_label": "Honda CBR1000RR", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "e9c149b4-7b9d-4a79-9384-1564cc696e06", "sub_uri": "Q11221591", "obj_uri": "Q9584", "sub_label": "Honda Vario", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "c405d731-0943-4ba3-8617-a18afe71b842", "sub_uri": "Q932091", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-52", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "0ab4a8b9-186f-4b07-8e9c-6b5d048ed47e", "sub_uri": "Q796581", "obj_uri": "Q26678", "sub_label": "BMW M52", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "9cfe99d7-1719-44f7-8e2c-0b661d8423c8", "sub_uri": "Q922201", "obj_uri": "Q181642", "sub_label": "Suzuki Alto", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "e419cf71-5824-4949-b67d-7e646dc6cfa8", "sub_uri": "Q3877815", "obj_uri": "Q1418", "sub_label": "Nokia 1800", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "9f559c79-132c-4660-869a-8ebb283bac1c", "sub_uri": "Q694456", "obj_uri": "Q219501", "sub_label": "Saab 29 Tunnan", "obj_label": "Saab", "predicate_id": "P176"}
+{"uuid": "c4956c64-92c9-428f-bf81-b62e2ef4ac8c", "sub_uri": "Q1244475", "obj_uri": "Q221419", "sub_label": "Sukhoi Su-10", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "96592112-b61d-4ac5-b109-d3ad1ff47f8d", "sub_uri": "Q481759", "obj_uri": "Q309084", "sub_label": "Kereta Api Acela", "obj_label": "Alstom", "predicate_id": "P176"}
+{"uuid": "21778054-399f-45cd-875a-26d45af736c5", "sub_uri": "Q770733", "obj_uri": "Q27436", "sub_label": "Cadillac CTS", "obj_label": "Cadillac", "predicate_id": "P176"}
+{"uuid": "fabeae68-6259-4eb4-abc9-e405a7ad5334", "sub_uri": "Q56942", "obj_uri": "Q8093", "sub_label": "Wii U", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "05a04afe-32c6-4437-8477-9c7ce423f4d2", "sub_uri": "Q49052", "obj_uri": "Q20716", "sub_label": "Nexus S", "obj_label": "Samsung", "predicate_id": "P176"}
+{"uuid": "acbbb1a9-b8b2-45ca-8c3d-0bd7857233f7", "sub_uri": "Q1047701", "obj_uri": "Q217338", "sub_label": "G-Shock", "obj_label": "Casio", "predicate_id": "P176"}
+{"uuid": "ba4c8311-f528-4e70-97a3-6d684d8fdb9d", "sub_uri": "Q11171806", "obj_uri": "Q27511", "sub_label": "Daihatsu Xenia", "obj_label": "Daihatsu", "predicate_id": "P176"}
+{"uuid": "6d5b4d41-3949-42e3-be86-9c69626ba40d", "sub_uri": "Q55533476", "obj_uri": "Q53268", "sub_label": "Toyota Corolla (E210)", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "079e38b5-5eac-47b5-9e8c-5bde915b5a89", "sub_uri": "Q16821712", "obj_uri": "Q193701", "sub_label": "SpaceX CRS-6", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "49cc90cd-09d7-4b9a-985a-745a0c6debfa", "sub_uri": "Q1808738", "obj_uri": "Q53268", "sub_label": "Toyota Ractis", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "08d602f9-c0d5-4610-bb20-7cf4fec5cc24", "sub_uri": "Q953874", "obj_uri": "Q156644", "sub_label": "GBU-28", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "8d39e789-9911-4dec-a519-c56bf7b6b1d4", "sub_uri": "Q15613350", "obj_uri": "Q1477661", "sub_label": "Heavy Equipment Transport System", "obj_label": "PACCAR", "predicate_id": "P176"}
+{"uuid": "91768fbb-7d3a-471c-8aa5-25056aaeaa4b", "sub_uri": "Q182008", "obj_uri": "Q836325", "sub_label": "Galileo (wahana antariksa)", "obj_label": "Messerschmitt-B\u00f6lkow-Blohm", "predicate_id": "P176"}
+{"uuid": "095a80ec-33c5-488a-9815-1677b939d2cd", "sub_uri": "Q2109633", "obj_uri": "Q20716", "sub_label": "Samsung Galaxy Mini 2", "obj_label": "Samsung", "predicate_id": "P176"}
+{"uuid": "174c14d2-a724-4496-add3-3fc96a34011f", "sub_uri": "Q679103", "obj_uri": "Q23317", "sub_label": "Audi Quattro", "obj_label": "Audi", "predicate_id": "P176"}
+{"uuid": "80596df9-ad69-4785-a577-cb3d45a4667b", "sub_uri": "Q6537926", "obj_uri": "Q53268", "sub_label": "Lexus IS (XE20)", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "54dc0904-9a7d-4925-9461-f77a079c5511", "sub_uri": "Q691212", "obj_uri": "Q105557", "sub_label": "Embraer Legacy 500", "obj_label": "Embraer", "predicate_id": "P176"}
+{"uuid": "e46a358e-5367-4447-abc5-ff9df69b87c9", "sub_uri": "Q664251", "obj_uri": "Q273320", "sub_label": "Kitab-Kitab Sibilin", "obj_label": "Sibyl", "predicate_id": "P176"}
+{"uuid": "4a9f264b-9549-41d3-9188-4b6ddc4514ba", "sub_uri": "Q2916180", "obj_uri": "Q794", "sub_label": "Hoot (torpedo)", "obj_label": "Iran", "predicate_id": "P176"}
+{"uuid": "e369e04e-74eb-445d-8ea9-afed5c91eaf7", "sub_uri": "Q3077088", "obj_uri": "Q35886", "sub_label": "Lamborghini Urus", "obj_label": "Lamborghini", "predicate_id": "P176"}
+{"uuid": "eec8e9fd-1819-4e21-9e54-e427892d7289", "sub_uri": "Q60199034", "obj_uri": "Q1636958", "sub_label": "Xiaomi Pocophone F1", "obj_label": "Xiaomi", "predicate_id": "P176"}
+{"uuid": "6bcf6f1c-a6d3-406f-a6d6-d425fd25450f", "sub_uri": "Q15015195", "obj_uri": "Q507269", "sub_label": "Apple Pippin", "obj_label": "Bandai", "predicate_id": "P176"}
+{"uuid": "7bc2aade-b1a9-4ce4-9334-8d63fd3c35af", "sub_uri": "Q5209131", "obj_uri": "Q1476369", "sub_label": "Daihatsu Sirion", "obj_label": "Perodua", "predicate_id": "P176"}
+{"uuid": "8a30dbd6-7c67-48c3-9066-6f5b752444d9", "sub_uri": "Q1031885", "obj_uri": "Q920568", "sub_label": "Soko G-4 Super Galeb", "obj_label": "SOKO", "predicate_id": "P176"}
+{"uuid": "792385b7-39ab-4039-a7c6-3a90bac53171", "sub_uri": "Q1957486", "obj_uri": "Q66", "sub_label": "Lockheed YF-22", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "d71d88c8-c476-4c1a-bf26-8c38913e1dc1", "sub_uri": "Q4053425", "obj_uri": "Q66", "sub_label": "Boeing YQM-94", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "634b756f-f0a2-45a9-acb3-20e64a5c6027", "sub_uri": "Q18845397", "obj_uri": "Q2283", "sub_label": "Windows 10 Mobile", "obj_label": "Microsoft", "predicate_id": "P176"}
+{"uuid": "4869e9e2-97e7-4c50-baef-ff1b9418f43c", "sub_uri": "Q796601", "obj_uri": "Q26678", "sub_label": "BMW M6", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "ab989866-ae33-401f-8bad-8a8b10436ee2", "sub_uri": "Q152917", "obj_uri": "Q35886", "sub_label": "Lamborghini Gallardo", "obj_label": "Lamborghini", "predicate_id": "P176"}
+{"uuid": "7ad6555b-d254-489a-ace8-8257cc0654fb", "sub_uri": "Q23807849", "obj_uri": "Q9584", "sub_label": "Honda Africa Twin", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "84125b91-b95f-46e8-98e4-c82416d7cc9b", "sub_uri": "Q6116059", "obj_uri": "Q752556", "sub_label": "SABIA-Mar", "obj_label": "INVAP", "predicate_id": "P176"}
+{"uuid": "88a1e0a2-a856-4636-85c0-1802675511e3", "sub_uri": "Q13558830", "obj_uri": "Q333780", "sub_label": "Yakovlev UT-3", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "bf3bd5b7-f1e2-4656-95bf-a9d356e26682", "sub_uri": "Q1626501", "obj_uri": "Q9584", "sub_label": "Honda CBR600RR", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "a17e8478-a44d-4a2f-a8a8-9ea0f8f31309", "sub_uri": "Q4200843", "obj_uri": "Q53268", "sub_label": "Toyota Harrier", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "5ad8928b-e0e5-41db-9f0f-92e8232b2686", "sub_uri": "Q13361286", "obj_uri": "Q1140680", "sub_label": "Xbox One", "obj_label": "Flextronics", "predicate_id": "P176"}
+{"uuid": "0eeba2f1-0e4e-4ddc-89f8-e7b6f896cb1e", "sub_uri": "Q433102", "obj_uri": "Q190414", "sub_label": "Tupolev ANT-20", "obj_label": "TsAGI", "predicate_id": "P176"}
+{"uuid": "3c7dc4a6-f6e8-4629-b3d6-b63a54093eed", "sub_uri": "Q15800877", "obj_uri": "Q9584", "sub_label": "Honda Verza 150", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "bc5ffd4f-a487-4fa2-a6ec-cfbe5b446154", "sub_uri": "Q796750", "obj_uri": "Q26678", "sub_label": "BMW S65", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "ab6d56d9-d09e-4952-9b2f-c0c281e5c2a3", "sub_uri": "Q657808", "obj_uri": "Q219203", "sub_label": "Intel 8088", "obj_label": "NEC", "predicate_id": "P176"}
+{"uuid": "173f96ed-2521-4057-95cb-2f8059e435a9", "sub_uri": "Q835594", "obj_uri": "Q66", "sub_label": "Quest Joint Airlock", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "348bc5d8-e091-4989-a04b-b24eea090caa", "sub_uri": "Q1515744", "obj_uri": "Q1849871", "sub_label": "Turbomeca Arrius", "obj_label": "Turbomeca", "predicate_id": "P176"}
+{"uuid": "20696759-e936-4dbc-b3d6-555644cabec4", "sub_uri": "Q1761291", "obj_uri": "Q1418", "sub_label": "Nokia 5700", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "2d413bd8-6f26-4f41-96ea-2acef66e7142", "sub_uri": "Q1902575", "obj_uri": "Q24706289", "sub_label": "AK-200", "obj_label": "IZhMASh", "predicate_id": "P176"}
+{"uuid": "b36edb2d-2f96-4c2e-8055-dc5ce5fac24b", "sub_uri": "Q60134", "obj_uri": "Q166203", "sub_label": "Karabiner 98k", "obj_label": "Mauser", "predicate_id": "P176"}
+{"uuid": "d2783125-4327-462d-a8fc-a6d47ab9926c", "sub_uri": "Q1998479", "obj_uri": "Q1418", "sub_label": "Nokia 5220", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "e5856347-26e7-497e-8def-2d85f71f8dcb", "sub_uri": "Q1140952", "obj_uri": "Q40966", "sub_label": "Renault Trafic", "obj_label": "Opel", "predicate_id": "P176"}
+{"uuid": "b7759c15-7321-4a17-9cab-df9ef73022a6", "sub_uri": "Q181002", "obj_uri": "Q6742", "sub_label": "Peugeot 505", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "f8da59eb-37e3-4a9c-a3af-4f3b3a2a43ef", "sub_uri": "Q1340723", "obj_uri": "Q1336983", "sub_label": "Learjet 25", "obj_label": "Learjet", "predicate_id": "P176"}
+{"uuid": "2b60163c-8686-4d71-8ef0-028f05ae9d44", "sub_uri": "Q1679646", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-44", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "063d166e-6ea5-4db2-9b82-adef5257c27e", "sub_uri": "Q170144", "obj_uri": "Q193007", "sub_label": "Sukhoi-Gulfstream S-21", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "e00885c6-788c-4040-a2dc-8706d9be6a2e", "sub_uri": "Q2570871", "obj_uri": "Q221419", "sub_label": "Ilyushin Il-1", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "16006d10-aadf-4aa6-a655-aa0185f0bdfe", "sub_uri": "Q602715", "obj_uri": "Q156644", "sub_label": "RIM-7 Sea Sparrow", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "d186fe60-57a8-4d0b-b164-c1519be9c3fa", "sub_uri": "Q276396", "obj_uri": "Q27586", "sub_label": "Ferrari 458 Italia", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "f73d782a-07a7-4719-a523-04372005aa41", "sub_uri": "Q615865", "obj_uri": "Q40993", "sub_label": "Porsche 924", "obj_label": "Porsche", "predicate_id": "P176"}
+{"uuid": "55d27797-6080-4d1e-b72d-002cb3a640ce", "sub_uri": "Q1621548", "obj_uri": "Q378849", "sub_label": "Kapal perusak kelas Hobart", "obj_label": "Navantia", "predicate_id": "P176"}
+{"uuid": "b28a1d1e-bac6-448b-a3de-c35548ebbeba", "sub_uri": "Q269880", "obj_uri": "Q27586", "sub_label": "Ferrari Enzo", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "f7bb0921-eb17-42c9-ad1f-78a01c9e4024", "sub_uri": "Q794595", "obj_uri": "Q920568", "sub_label": "A\u00e9rospatiale Gazelle", "obj_label": "SOKO", "predicate_id": "P176"}
+{"uuid": "c6f1b976-0811-4bae-868f-cea559324513", "sub_uri": "Q11084078", "obj_uri": "Q172741", "sub_label": "Subaru Sambar", "obj_label": "Subaru", "predicate_id": "P176"}
+{"uuid": "6e8be2ab-172d-4c7e-8dff-7a8ace9159a9", "sub_uri": "Q841738", "obj_uri": "Q29570", "sub_label": "Daytona 500", "obj_label": "Chevrolet", "predicate_id": "P176"}
+{"uuid": "d506e214-ea38-47c4-ad32-1ad9a4736bee", "sub_uri": "Q12479704", "obj_uri": "Q29041", "sub_label": "Lokomotif D14", "obj_label": "Hanomag", "predicate_id": "P176"}
+{"uuid": "6deb490a-0792-43ee-ad17-264ad3c1c61e", "sub_uri": "Q2661792", "obj_uri": "Q324782", "sub_label": "Beretta Cx4 Storm", "obj_label": "Beretta", "predicate_id": "P176"}
+{"uuid": "d05ca9fb-21a7-4c5e-b92b-3a5f3ff7bca4", "sub_uri": "Q48998289", "obj_uri": "Q2548367", "sub_label": "Bora (peluru kendali)", "obj_label": "ROKETSAN", "predicate_id": "P176"}
+{"uuid": "6fcc165f-6b8c-4702-b162-9b789b6852fa", "sub_uri": "Q18642203", "obj_uri": "Q1418", "sub_label": "Microsoft Lumia 535", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "a00b9a61-9c26-490f-a1bc-268e92295319", "sub_uri": "Q194068", "obj_uri": "Q463261", "sub_label": "Apollo 15", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "cb244abc-a08a-4f56-b458-aad59d109fa3", "sub_uri": "Q7651325", "obj_uri": "Q181642", "sub_label": "Suzuki Satria F150", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "32a767ec-c370-4a50-a736-3d489cb2f634", "sub_uri": "Q925439", "obj_uri": "Q378849", "sub_label": "HMAS Canberra (L02)", "obj_label": "Navantia", "predicate_id": "P176"}
+{"uuid": "cec91851-1038-4b18-be6a-9a9d83b6a3bc", "sub_uri": "Q610273", "obj_uri": "Q308889", "sub_label": "Cessna Citation Columbus", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "a788b257-2296-4d44-ab41-b0bdcdfb1721", "sub_uri": "Q245509", "obj_uri": "Q851367", "sub_label": "Tsyklon", "obj_label": "Yuzhmash", "predicate_id": "P176"}
+{"uuid": "bf964002-6af4-491a-b335-db5b4d69a666", "sub_uri": "Q3764306", "obj_uri": "Q745394", "sub_label": "Gilera DNA", "obj_label": "Gilera", "predicate_id": "P176"}
+{"uuid": "4c8a1f8d-1e86-4bba-bd70-8f8745e8c223", "sub_uri": "Q85759619", "obj_uri": "Q12482593", "sub_label": "Esemka Bima", "obj_label": "Esemka", "predicate_id": "P176"}
+{"uuid": "8a097dc4-e2d6-421e-a6ea-18fe9c3abc8c", "sub_uri": "Q544275", "obj_uri": "Q965259", "sub_label": "PZL-130 Orlik", "obj_label": "PZL", "predicate_id": "P176"}
+{"uuid": "84b69c11-a51a-4438-9629-3c50230e000a", "sub_uri": "Q1568768", "obj_uri": "Q183275", "sub_label": "Kapal penjelajah Jepang Haguro", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "8e86c44e-e5b5-4ab4-98f7-b809545414d8", "sub_uri": "Q2455489", "obj_uri": "Q1418", "sub_label": "Nokia 2115i", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "af3b36c7-fb24-4bcb-8b1f-be3d1865941e", "sub_uri": "Q629268", "obj_uri": "Q6742", "sub_label": "Talbot Samba", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "781c526e-f386-4e0d-aa1f-feae14e90e4f", "sub_uri": "Q526516", "obj_uri": "Q269792", "sub_label": "Ferrero Rocher", "obj_label": "Ferrero", "predicate_id": "P176"}
+{"uuid": "2d2f5bb7-02b9-415f-a2a1-7a514d785869", "sub_uri": "Q182617", "obj_uri": "Q221419", "sub_label": "Ilyushin Il-78", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "f94d1e84-8bc4-4c1d-9fb5-1786530e377f", "sub_uri": "Q56394440", "obj_uri": "Q29041", "sub_label": "Lokomotif C29", "obj_label": "Hanomag", "predicate_id": "P176"}
+{"uuid": "16acb70d-4b9f-473c-ab41-9846156e3b35", "sub_uri": "Q290942", "obj_uri": "Q1538336", "sub_label": "QBZ-95", "obj_label": "Norinco", "predicate_id": "P176"}
+{"uuid": "c40d068f-5b28-4bc4-8109-16ff27230140", "sub_uri": "Q1626516", "obj_uri": "Q9584", "sub_label": "Honda CB350", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "bf28c1b9-3432-4be0-ac62-131993d7e52a", "sub_uri": "Q464247", "obj_uri": "Q188508", "sub_label": "Mikoyan-Gurevich MiG-1", "obj_label": "Mikoyan", "predicate_id": "P176"}
+{"uuid": "05698892-21c4-4eb7-9694-ff7415ee12fb", "sub_uri": "Q39699", "obj_uri": "Q1602482", "sub_label": "Eurocopter AS355", "obj_label": "Helibras", "predicate_id": "P176"}
+{"uuid": "6306a53f-9147-4cbc-9106-fb7137dfdbd5", "sub_uri": "Q645248", "obj_uri": "Q66", "sub_label": "Boeing EC-135", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "cce4cd46-59eb-44d2-9f22-6ca33fe9db20", "sub_uri": "Q2405260", "obj_uri": "Q1418", "sub_label": "N-Gage QD", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "e176d2b6-059e-483a-927a-70ec61209b51", "sub_uri": "Q502738", "obj_uri": "Q193007", "sub_label": "Sukhoi T-3", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "92268e95-1113-4a62-a6d3-3fa67ad4b8d5", "sub_uri": "Q568384", "obj_uri": "Q334800", "sub_label": "Mirinda", "obj_label": "PepsiCo", "predicate_id": "P176"}
+{"uuid": "acb56b62-bc00-4b16-a740-b8bdc7cf9eac", "sub_uri": "Q7510888", "obj_uri": "Q668355", "sub_label": "Siemens C651", "obj_label": "Simmering-Graz-Pauker", "predicate_id": "P176"}
+{"uuid": "85816d9f-3a8e-4824-8eff-0fb64df68233", "sub_uri": "Q4023121", "obj_uri": "Q156644", "sub_label": "GBU-24 Paveway III", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "3c90b8ae-993d-47ff-a018-7c39df88d2c4", "sub_uri": "Q1650826", "obj_uri": "Q1418", "sub_label": "Nokia 2626", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "b57e1ea2-e208-436c-8882-e3556429e77d", "sub_uri": "Q3747034", "obj_uri": "Q155896", "sub_label": "Fokker M.5", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "f811a88d-df03-460e-81bc-9430b5ad80f6", "sub_uri": "Q1810725", "obj_uri": "Q1336983", "sub_label": "Learjet 23", "obj_label": "Learjet", "predicate_id": "P176"}
+{"uuid": "f481c981-4dd3-46a0-9e66-613ab45e88b3", "sub_uri": "Q890232", "obj_uri": "Q66", "sub_label": "Boeing YC-14", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "9ec173ec-0140-4043-b497-bfca344f4bfb", "sub_uri": "Q34825", "obj_uri": "Q2283", "sub_label": "Windows Phone 8", "obj_label": "Microsoft", "predicate_id": "P176"}
+{"uuid": "9a58a17d-005e-4015-b93e-3f2dd0328252", "sub_uri": "Q3543804", "obj_uri": "Q1418", "sub_label": "Nokia 6810", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "ba486a9c-0773-4377-815c-2c530a38b1c7", "sub_uri": "Q796469", "obj_uri": "Q26678", "sub_label": "BMW Seri 1 (E87)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "40d77f06-be01-4ab0-848c-f0c56ed0e565", "sub_uri": "Q1197010", "obj_uri": "Q53268", "sub_label": "Toyota Allion", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "b088d0cb-6869-412f-b48a-ab0a2509e5bc", "sub_uri": "Q201894", "obj_uri": "Q23317", "sub_label": "Audi e-tron", "obj_label": "Audi", "predicate_id": "P176"}
+{"uuid": "a1375f1e-47ad-4b5d-9fa8-9ce8a7d70d48", "sub_uri": "Q8085731", "obj_uri": "Q1418", "sub_label": "Nokia 2600 klasik", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "03c83072-c885-4038-981a-aeb92043c5a6", "sub_uri": "Q160469", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-124", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "0185cf29-c316-4437-abee-3b51414f30df", "sub_uri": "Q2393493", "obj_uri": "Q1418", "sub_label": "Nokia 8110", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "9e0263aa-6b9d-4393-9623-18ad489feb76", "sub_uri": "Q4000537", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-125", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "c0f2b3b1-c073-40c6-8e35-f4bc3a5a5560", "sub_uri": "Q728276", "obj_uri": "Q949211", "sub_label": "Venera 5", "obj_label": "Lavochkin", "predicate_id": "P176"}
+{"uuid": "5e5c4add-f3de-40c4-aa63-6108a24f6672", "sub_uri": "Q18375", "obj_uri": "Q650639", "sub_label": "Ariane 1", "obj_label": "A\u00e9rospatiale", "predicate_id": "P176"}
+{"uuid": "69434587-771c-44ec-8f2a-0297165c32b3", "sub_uri": "Q3489695", "obj_uri": "Q463261", "sub_label": "Grumman XTB2F", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "e1d3f2e8-b471-41fc-b83f-114d909fd9cd", "sub_uri": "Q1135125", "obj_uri": "Q9584", "sub_label": "Honda Jazz", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "735a44c5-f279-49f6-8441-ca519d6caa85", "sub_uri": "Q488761", "obj_uri": "Q181642", "sub_label": "Suzuki Carry", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "d14f151f-911a-4f4f-ac95-d3b5377f9335", "sub_uri": "Q1914618", "obj_uri": "Q35996", "sub_label": "Mazda Familia", "obj_label": "Mazda", "predicate_id": "P176"}
+{"uuid": "159e7e2a-25e5-4dfe-ad47-5d1b8736eb2d", "sub_uri": "Q204331", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-30", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "56a2086f-5baa-4118-ada6-2a33ecd1a684", "sub_uri": "Q684552", "obj_uri": "Q161544", "sub_label": "Sturer Emil", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "f82fe87f-0b72-4586-b9db-230834958bcb", "sub_uri": "Q1074148", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-29", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "0b10e930-a13f-4e55-b831-1de235342518", "sub_uri": "Q1136956", "obj_uri": "Q122741", "sub_label": "SG-1000", "obj_label": "Sega", "predicate_id": "P176"}
+{"uuid": "f0f1305e-0839-4a06-8447-e17dd8a1b166", "sub_uri": "Q826094", "obj_uri": "Q6742", "sub_label": "Peugeot 106", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "e180d5ac-1031-493c-9bb8-c638a91cf5d8", "sub_uri": "Q749081", "obj_uri": "Q248", "sub_label": "Pentium D", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "a9bc99ee-c69a-4115-8384-fb74a91265ed", "sub_uri": "Q1483444", "obj_uri": "Q53268", "sub_label": "Toyota Corolla Verso", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "2a7b0000-327d-4061-9c0c-1d715b4a822e", "sub_uri": "Q173369", "obj_uri": "Q6686", "sub_label": "Renault R28", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "d7d8902d-22f7-4952-af0a-65415da175f1", "sub_uri": "Q787128", "obj_uri": "Q35996", "sub_label": "Mazda Biante", "obj_label": "Mazda", "predicate_id": "P176"}
+{"uuid": "17786bee-5d1a-41fe-acb0-24a654893596", "sub_uri": "Q1131572", "obj_uri": "Q27511", "sub_label": "Daihatsu Terios", "obj_label": "Daihatsu", "predicate_id": "P176"}
+{"uuid": "a3d366c4-9817-4d33-9ad7-57dcc62d6c30", "sub_uri": "Q271559", "obj_uri": "Q212268", "sub_label": "Antonov An-12", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "d33fcaa7-e4ac-4b6f-87fe-58815dfe08e1", "sub_uri": "Q4045443", "obj_uri": "Q1418", "sub_label": "Nokia Asha 205", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "5dc33469-8f13-4cb7-b4c4-3884a172cf9a", "sub_uri": "Q499179", "obj_uri": "Q66", "sub_label": "Boeing E-4", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "79ea0c90-e913-4a3a-952f-a4e194fdb745", "sub_uri": "Q1126576", "obj_uri": "Q40993", "sub_label": "Porsche 912", "obj_label": "Porsche", "predicate_id": "P176"}
+{"uuid": "dfee765b-a080-4b0c-9bc7-7b9838b2e110", "sub_uri": "Q1146704", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-2000", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "f3576c5d-2ccb-4e73-bbd3-1e4e4e0793f5", "sub_uri": "Q17163402", "obj_uri": "Q183275", "sub_label": "Sikorsky S-61", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "301386d1-dd58-437e-8b12-633de40dd32d", "sub_uri": "Q1061474", "obj_uri": "Q763052", "sub_label": "Kapal induk kelas Invincible", "obj_label": "Vickers-Armstrongs", "predicate_id": "P176"}
+{"uuid": "be1ec75e-4608-4065-9100-f721d588c414", "sub_uri": "Q6799964", "obj_uri": "Q38076", "sub_label": "McArabia", "obj_label": "McDonald's", "predicate_id": "P176"}
+{"uuid": "6b341119-aca0-4941-94dd-771f76a3d286", "sub_uri": "Q1422375", "obj_uri": "Q188508", "sub_label": "Mikoyan-Gurevich MiG-105", "obj_label": "Mikoyan", "predicate_id": "P176"}
+{"uuid": "57a0517b-3363-437e-af66-bee21d2d9e15", "sub_uri": "Q1810996", "obj_uri": "Q20165", "sub_label": "Nissan Laurel", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "ba7cca44-2efe-4229-81d7-6b57b4195aec", "sub_uri": "Q218636", "obj_uri": "Q66", "sub_label": "Rockwell B-1 Lancer", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "f73d2534-6291-4694-be5b-0250fd258bff", "sub_uri": "Q3747031", "obj_uri": "Q155896", "sub_label": "Fokker F26", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "f792138f-1f69-4d09-becf-fb41704da451", "sub_uri": "Q847125", "obj_uri": "Q836947", "sub_label": "Convair Model 48 Charger", "obj_label": "Convair", "predicate_id": "P176"}
+{"uuid": "0b5c8349-a83f-4002-9432-509700bb1475", "sub_uri": "Q22981838", "obj_uri": "Q35886", "sub_label": "Lamborghini Centenari\u00f3", "obj_label": "Lamborghini", "predicate_id": "P176"}
+{"uuid": "e73c10d5-03c6-4957-b762-88fe0d87193e", "sub_uri": "Q1342708", "obj_uri": "Q53268", "sub_label": "Toyota FJ Cruiser", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "78d7f017-52fb-4a31-adad-dceb60f67dfc", "sub_uri": "Q398898", "obj_uri": "Q910379", "sub_label": "AgustaWestland AW159 Wildcat", "obj_label": "Leonardo", "predicate_id": "P176"}
+{"uuid": "749848fd-540d-41bb-a93b-0d7a1aea8b66", "sub_uri": "Q1626648", "obj_uri": "Q9584", "sub_label": "Honda Odyssey", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "8258955a-11b6-4b76-913d-feb882d95480", "sub_uri": "Q543507", "obj_uri": "Q188508", "sub_label": "Mikoyan-Gurevich DIS", "obj_label": "Mikoyan", "predicate_id": "P176"}
+{"uuid": "1e72e5fc-8f9b-4e33-982b-04f69a6a6aa7", "sub_uri": "Q2279505", "obj_uri": "Q1418", "sub_label": "Nokia 8800", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "ab11d895-f4f5-472e-963a-96bf472fca97", "sub_uri": "Q1358750", "obj_uri": "Q181642", "sub_label": "Suzuki Fronte", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "302f1c70-0faa-4948-a296-37c7e0148b5f", "sub_uri": "Q63347", "obj_uri": "Q704874", "sub_label": "Satelit Remote-Sensing Eropa", "obj_label": "DASA", "predicate_id": "P176"}
+{"uuid": "3ea025c5-3225-44b8-a88a-42718ad4b205", "sub_uri": "Q204992", "obj_uri": "Q81191", "sub_label": "Lira", "obj_label": "IPZS", "predicate_id": "P176"}
+{"uuid": "3c3fa103-4c71-46a5-9de8-a50cba646516", "sub_uri": "Q1050584", "obj_uri": "Q6686", "sub_label": "Renault Fluence", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "9a7f0669-4df9-49c2-b209-f46fd5403ec0", "sub_uri": "Q2908532", "obj_uri": "Q66", "sub_label": "Boeing Model 2", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "1390c88d-535a-42b5-a1ce-bbc89d1458c5", "sub_uri": "Q494465", "obj_uri": "Q35349", "sub_label": "Kia Picanto", "obj_label": "Kia", "predicate_id": "P176"}
+{"uuid": "84d8fed4-19e8-47fc-b4d3-5be8cd0eb136", "sub_uri": "Q172233", "obj_uri": "Q1762250", "sub_label": "T-34", "obj_label": "Uralvagonzavod", "predicate_id": "P176"}
+{"uuid": "6e7ecf78-6697-4b60-989c-f1cc78db8f84", "sub_uri": "Q2424775", "obj_uri": "Q28616", "sub_label": "GAZ Tigr", "obj_label": "GAZ", "predicate_id": "P176"}
+{"uuid": "9d1b152d-a5f2-4796-a32d-5775b0ad5d6f", "sub_uri": "Q1467623", "obj_uri": "Q463261", "sub_label": "Grumman Gulfstream II", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "f16331bd-931a-4372-98cd-647ed5ae31d5", "sub_uri": "Q172742", "obj_uri": "Q8093", "sub_label": "Nintendo Entertainment System", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "9fb9e5ec-4241-4161-beca-dceb5032672e", "sub_uri": "Q1645610", "obj_uri": "Q183275", "sub_label": "Mitsubishi Ki-1", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "8f0d329a-be0d-46c1-a814-a425bc9a9f4f", "sub_uri": "Q62156", "obj_uri": "Q212268", "sub_label": "Antonov An-26", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "e3c3c195-aa1f-4835-9404-4c1a3a2e2ff0", "sub_uri": "Q444137", "obj_uri": "Q188508", "sub_label": "Mikoyan-Gurevich I-211", "obj_label": "Mikoyan", "predicate_id": "P176"}
+{"uuid": "b9de80f8-3201-4159-8c8c-0ca99f4a851e", "sub_uri": "Q830955", "obj_uri": "Q248", "sub_label": "Hyper-Threading", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "abe35da0-47c4-43ce-b433-dcbf03e65fda", "sub_uri": "Q2038310", "obj_uri": "Q2373726", "sub_label": "Lokomotif listrik ESS 3200", "obj_label": "Werkspoor", "predicate_id": "P176"}
+{"uuid": "fb222769-0590-4acb-a8d0-b4e836e61ce2", "sub_uri": "Q1993662", "obj_uri": "Q20165", "sub_label": "Nissan Caravan", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "293eac6f-ee2a-4411-b4b3-cc6c1ab4df9c", "sub_uri": "Q12500851", "obj_uri": "Q1418", "sub_label": "Nokia 6108", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "5e60e8b8-7677-43df-8376-e88417de836e", "sub_uri": "Q5289407", "obj_uri": "Q1418", "sub_label": "Nokia N80", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "cf273de7-441e-46b4-9eb6-0605ebf1305f", "sub_uri": "Q20086818", "obj_uri": "Q26678", "sub_label": "BMW X1 (F48)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "ed5a006a-496b-457f-8b5d-25bf4f50561f", "sub_uri": "Q489621", "obj_uri": "Q35349", "sub_label": "Kia Forte", "obj_label": "Kia", "predicate_id": "P176"}
+{"uuid": "3e4451f4-e8b0-47a3-afd1-d7b8ba64e8e5", "sub_uri": "Q7830809", "obj_uri": "Q53268", "sub_label": "Mesin Toyota L", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "5edfb73a-d484-4345-84e0-95c1c568cccc", "sub_uri": "Q173364", "obj_uri": "Q27586", "sub_label": "Ferrari F2007", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "3855521c-1357-45b5-819a-23ab8e2497d3", "sub_uri": "Q890205", "obj_uri": "Q66", "sub_label": "Boeing Phantom Eye", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "36e20fd9-3199-4b74-856b-6c36e00ef0b1", "sub_uri": "Q371950", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-17", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "d3dc22d6-a064-4c57-ae97-b5ae29ca8924", "sub_uri": "Q587445", "obj_uri": "Q155896", "sub_label": "Fokker F.II", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "eb73a20b-9b49-40f3-950f-72272a0b9c90", "sub_uri": "Q1541535", "obj_uri": "Q35996", "sub_label": "Mazda5", "obj_label": "Mazda", "predicate_id": "P176"}
+{"uuid": "45dd6ef2-9655-4eb8-a962-e77649c00cf1", "sub_uri": "Q4937148", "obj_uri": "Q66", "sub_label": "Boeing NB", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "3b7310c4-8574-42d7-a2fe-73179b5946a1", "sub_uri": "Q12485852", "obj_uri": "Q9584", "sub_label": "Honda Scoopy", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "3ab73251-8564-415a-ae2c-3cebeb88c3ff", "sub_uri": "Q3064736", "obj_uri": "Q193701", "sub_label": "Falcon 5", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "4ce207f3-ed26-42a1-937b-2523841b38dd", "sub_uri": "Q309177", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-34", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "acd101a4-e3c0-482e-8a1a-dfd5a49e6353", "sub_uri": "Q1057063", "obj_uri": "Q308889", "sub_label": "Cessna 162 Skycatcher", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "de310123-7df0-46c7-bc2e-d2df1ade927a", "sub_uri": "Q1935914", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-8", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "fa792214-9f2e-4fab-b41f-47c6c30874a5", "sub_uri": "Q13221714", "obj_uri": "Q66", "sub_label": "USA-242", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "9f7f9561-7bb9-4278-a037-7b7d7188bea6", "sub_uri": "Q208382", "obj_uri": "Q463261", "sub_label": "Apollo Lunar Module", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "29650a75-56a7-489e-91a3-d5be6ce67414", "sub_uri": "Q164440", "obj_uri": "Q1336983", "sub_label": "Learjet 28", "obj_label": "Learjet", "predicate_id": "P176"}
+{"uuid": "11cdca94-da58-4938-86c5-f7016cb5644a", "sub_uri": "Q3943472", "obj_uri": "Q155896", "sub_label": "General Aviation PJ", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "ca6692a7-08e1-4706-b1ca-e367e5194d23", "sub_uri": "Q1608823", "obj_uri": "Q308889", "sub_label": "Cessna CitationJet/M2", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "a2f066a2-39a2-424d-8736-856092b1d1e8", "sub_uri": "Q835813", "obj_uri": "Q156644", "sub_label": "GBU-10 Paveway II", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "d8121607-0cb5-4f9d-8c15-1d3794fc4c3c", "sub_uri": "Q6425", "obj_uri": "Q66", "sub_label": "Boeing 777", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "0cb658b4-5eda-4061-ae4f-ebbdcf2cef6e", "sub_uri": "Q2663289", "obj_uri": "Q7194993", "sub_label": "Pindad SS2", "obj_label": "Pindad", "predicate_id": "P176"}
+{"uuid": "27d75fac-1887-4194-8643-1bc6c514e147", "sub_uri": "Q1519939", "obj_uri": "Q9584", "sub_label": "Honda Civic (generasi ketujuh)", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "9bc00f13-a4dd-4b2e-a583-010a05e4c782", "sub_uri": "Q1129328", "obj_uri": "Q836947", "sub_label": "Convair XF-92", "obj_label": "Convair", "predicate_id": "P176"}
+{"uuid": "f09d7a3a-622b-4c5b-aad8-40f5693aba87", "sub_uri": "Q2348731", "obj_uri": "Q308889", "sub_label": "Cessna 152", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "a475d004-2d27-4715-813b-e7c56ed376b9", "sub_uri": "Q2502230", "obj_uri": "Q1331507", "sub_label": "S-500 (sistem peluru kendali)", "obj_label": "Almaz-Antey", "predicate_id": "P176"}
+{"uuid": "29d769fa-238d-47b3-a461-df00ea56b2a2", "sub_uri": "Q7830899", "obj_uri": "Q53268", "sub_label": "Mesin Toyota UZ", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "757cdf0d-d5ef-48af-ae04-c906572b736a", "sub_uri": "Q3502386", "obj_uri": "Q1418", "sub_label": "Nokia 6820", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "1d811f36-a30e-499f-a8fc-f279baf96b8e", "sub_uri": "Q1400823", "obj_uri": "Q53268", "sub_label": "Toyota LiteAce", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "841971a9-2a6b-4fde-b94c-4f9849f8471b", "sub_uri": "Q1436314", "obj_uri": "Q181642", "sub_label": "Suzuki GSV-R", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "afa75dbc-9e44-47de-b40f-6d54d7b5fb2e", "sub_uri": "Q400620", "obj_uri": "Q463261", "sub_label": "F-11 Tiger", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "b0aabac4-13aa-4064-9dce-ce188efbae1c", "sub_uri": "Q1128405", "obj_uri": "Q36008", "sub_label": "Mercedes-Benz Kelas-GLS", "obj_label": "Mercedes-Benz", "predicate_id": "P176"}
+{"uuid": "dbc70a4e-b6c8-4852-aab1-29feed5b74e9", "sub_uri": "Q212193", "obj_uri": "Q269792", "sub_label": "Nutella", "obj_label": "Ferrero", "predicate_id": "P176"}
+{"uuid": "dd90daa9-8b23-465c-af02-cd8ab385d784", "sub_uri": "Q1998585", "obj_uri": "Q1418", "sub_label": "Nokia 5320", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "e82c2780-f68c-4126-9615-680a6c10fbc7", "sub_uri": "Q499185", "obj_uri": "Q642622", "sub_label": "Beriev A-50", "obj_label": "Beriev", "predicate_id": "P176"}
+{"uuid": "eb82eb3e-bf6d-47f3-a1d4-9e1a61a64bc6", "sub_uri": "Q822665", "obj_uri": "Q6742", "sub_label": "Citro\u00ebn C5", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "263c064f-4102-4256-9036-29f10d5d4f14", "sub_uri": "Q650591", "obj_uri": "Q2309", "sub_label": "Lada Niva", "obj_label": "AvtoVAZ", "predicate_id": "P176"}
+{"uuid": "9d91b358-fb16-4b75-b052-21eb3285743c", "sub_uri": "Q840438", "obj_uri": "Q1418", "sub_label": "Nokia 1110", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "1657dac9-0a5d-4e5f-a90e-c75000b00bf2", "sub_uri": "Q1130587", "obj_uri": "Q181642", "sub_label": "Suzuki Vitara", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "ee09daef-4b0c-4f59-bfac-6b3d3457b6cc", "sub_uri": "Q918312", "obj_uri": "Q1138291", "sub_label": "Curtiss SB2C Helldiver", "obj_label": "Curtiss-Wright", "predicate_id": "P176"}
+{"uuid": "5a4318a9-3042-4826-bcd6-44359db76ba6", "sub_uri": "Q696891", "obj_uri": "Q13220673", "sub_label": "Kapal tempur Jepang Mikasa", "obj_label": "Vickers", "predicate_id": "P176"}
+{"uuid": "6c263875-cac1-4c74-96d0-694486300647", "sub_uri": "Q22341441", "obj_uri": "Q1636958", "sub_label": "Redmi Note 3", "obj_label": "Xiaomi", "predicate_id": "P176"}
+{"uuid": "ae22447b-bcbb-4359-9a95-df75d9786319", "sub_uri": "Q1057385", "obj_uri": "Q308889", "sub_label": "Cessna Citation Mustang", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "3868fffc-1d7c-44fd-9125-1afb56557d96", "sub_uri": "Q7277388", "obj_uri": "Q483274", "sub_label": "ROKS Dokdo (LPH-6111)", "obj_label": "Hanjin", "predicate_id": "P176"}
+{"uuid": "e676c5e5-2d35-498f-8925-ac175e9104df", "sub_uri": "Q5926364", "obj_uri": "Q160120", "sub_label": "Huawei Ascend", "obj_label": "Huawei", "predicate_id": "P176"}
+{"uuid": "06d0e7d0-abf6-43b5-a364-d77f4309b82c", "sub_uri": "Q151465", "obj_uri": "Q159656", "sub_label": "Panzer I", "obj_label": "Krupp", "predicate_id": "P176"}
+{"uuid": "556b4104-e5eb-47c8-88c0-4673a7080a15", "sub_uri": "Q3718856", "obj_uri": "Q194009", "sub_label": "Tupolev TB-6", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "ff1ddb2b-8084-4ae2-bfe3-d497ca9db7f0", "sub_uri": "Q1816264", "obj_uri": "Q27511", "sub_label": "Daihatsu Taruna", "obj_label": "Daihatsu", "predicate_id": "P176"}
+{"uuid": "cb81be37-957b-409d-b6e5-e1d76bbb59c9", "sub_uri": "Q825781", "obj_uri": "Q6742", "sub_label": "Peugeot 405", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "a4f3b76c-33f1-44eb-8a14-30fcd4ca96f5", "sub_uri": "Q167365", "obj_uri": "Q181642", "sub_label": "Suzuki GSX-R1100", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "e5538188-7cad-4cdd-a3f8-7f47000c77a5", "sub_uri": "Q159229", "obj_uri": "Q40966", "sub_label": "Panzerwerfer", "obj_label": "Opel", "predicate_id": "P176"}
+{"uuid": "c6ab88be-ffeb-423b-8022-0fcd33f5b7a3", "sub_uri": "Q775121", "obj_uri": "Q35996", "sub_label": "Mazda MX-6", "obj_label": "Mazda", "predicate_id": "P176"}
+{"uuid": "4686ebba-18ab-47c1-af7b-887e970342fa", "sub_uri": "Q1192304", "obj_uri": "Q181114", "sub_label": "Juno I", "obj_label": "Chrysler", "predicate_id": "P176"}
+{"uuid": "095dc231-0bf3-48b3-904d-01e4aad9e578", "sub_uri": "Q1093703", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn H Van", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "f42f3206-04c1-4e87-9999-82c1222ff837", "sub_uri": "Q2658462", "obj_uri": "Q2465628", "sub_label": "AO-63", "obj_label": "TsNIITochMash", "predicate_id": "P176"}
+{"uuid": "d85f95a4-46f7-4476-8af6-b9d5dc88adc8", "sub_uri": "Q796559", "obj_uri": "Q26678", "sub_label": "BMW M30", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "b64a0d00-8494-4102-86cb-c1a0e1d1c145", "sub_uri": "Q14760470", "obj_uri": "Q66", "sub_label": "USA-244", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "334f09f0-c589-4d76-a3cd-cfe611d31cb5", "sub_uri": "Q2564", "obj_uri": "Q2309", "sub_label": "Lada Priora", "obj_label": "AvtoVAZ", "predicate_id": "P176"}
+{"uuid": "bea5b127-29b1-4900-ae9d-b9010a0734ed", "sub_uri": "Q3045560", "obj_uri": "Q1476369", "sub_label": "Perodua MyVi", "obj_label": "Perodua", "predicate_id": "P176"}
+{"uuid": "9e7de3d7-d853-4bc0-8404-86eefb7779c2", "sub_uri": "Q1512971", "obj_uri": "Q53268", "sub_label": "Toyota Sequoia", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "7c0c20a4-69fb-4288-96ac-8b38e03e47c3", "sub_uri": "Q431152", "obj_uri": "Q6742", "sub_label": "Peugeot 306", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "9e896665-dc72-41d4-b0d4-64010b9f206d", "sub_uri": "Q237757", "obj_uri": "Q248", "sub_label": "Pentium 4", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "32a2cb11-3a64-4d43-82a4-ac05729fd657", "sub_uri": "Q44127", "obj_uri": "Q248", "sub_label": "Peladen", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "40fb2f2f-dad9-454e-b731-a9d8a6e96e87", "sub_uri": "Q1264219", "obj_uri": "Q40966", "sub_label": "Opel Adam", "obj_label": "Opel", "predicate_id": "P176"}
+{"uuid": "5fd1013a-062a-4ff5-b5f7-108de45b7942", "sub_uri": "Q90565224", "obj_uri": "Q1636958", "sub_label": "Redmi Note 8", "obj_label": "Xiaomi", "predicate_id": "P176"}
+{"uuid": "f011a76c-1d3e-455b-abd7-bd7943ee6c65", "sub_uri": "Q18381", "obj_uri": "Q650639", "sub_label": "Ariane 3", "obj_label": "A\u00e9rospatiale", "predicate_id": "P176"}
+{"uuid": "a5448025-ad32-44c0-bddf-ebf4be321888", "sub_uri": "Q217673", "obj_uri": "Q841263", "sub_label": "Vespa", "obj_label": "Piaggio", "predicate_id": "P176"}
+{"uuid": "11db74a4-4e38-4cac-89b1-4347da30cec6", "sub_uri": "Q1761879", "obj_uri": "Q1418", "sub_label": "Nokia 3650", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "15dad7d9-1b4a-4082-860c-54a1dcbfd85a", "sub_uri": "Q6451506", "obj_uri": "Q851367", "sub_label": "R-36 (peluru kendali)", "obj_label": "Yuzhmash", "predicate_id": "P176"}
+{"uuid": "9889ae30-ba56-499b-b5e6-cd9a68114de4", "sub_uri": "Q449396", "obj_uri": "Q241828", "sub_label": "Kamov Ka-115", "obj_label": "Kamov", "predicate_id": "P176"}
+{"uuid": "24505021-f18d-42e2-bbe3-2521db4e7a0b", "sub_uri": "Q2530939", "obj_uri": "Q308889", "sub_label": "Cessna 340", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "6fcd0c48-684d-49dd-afb6-b821829d5bfe", "sub_uri": "Q20084075", "obj_uri": "Q26678", "sub_label": "BMW Seri 7 (G11)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "8b8c1c64-f64a-496b-9dcf-40dc3723fede", "sub_uri": "Q2002116", "obj_uri": "Q1418", "sub_label": "Nokia 2630", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "977d9170-5a70-4e95-902e-57d78d384805", "sub_uri": "Q17243", "obj_uri": "Q501476", "sub_label": "Monopoli (permainan)", "obj_label": "Hasbro", "predicate_id": "P176"}
+{"uuid": "7ebf919a-7c39-4ded-bb89-aa9d0931b662", "sub_uri": "Q384406", "obj_uri": "Q463261", "sub_label": "Grumman JF Duck", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "6aad4c9e-cc27-44a3-ad42-3394ca97ae24", "sub_uri": "Q422004", "obj_uri": "Q20165", "sub_label": "Nissan Sylphy", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "b87bc8f4-cdf2-400c-b803-1c89b85093e1", "sub_uri": "Q2343923", "obj_uri": "Q634227", "sub_label": "Beechcraft T-34 Mentor", "obj_label": "Beechcraft", "predicate_id": "P176"}
+{"uuid": "22aed955-8722-48c1-9ec3-79d0bc39fba5", "sub_uri": "Q1210227", "obj_uri": "Q53268", "sub_label": "Toyota Ipsum", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "f1e08c94-54d1-44ae-bc14-eccc1ab17859", "sub_uri": "Q2406341", "obj_uri": "Q1418", "sub_label": "Nokia 6151", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "298aadae-9c43-4770-bd1b-a4557b59fcac", "sub_uri": "Q324610", "obj_uri": "Q248", "sub_label": "Intel 8080", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "c83966b9-1cbb-4a62-a7c5-ea1161d73795", "sub_uri": "Q927610", "obj_uri": "Q398878", "sub_label": "AgustaWestland Apache", "obj_label": "AgustaWestland", "predicate_id": "P176"}
+{"uuid": "f5672e72-f1ef-483e-b69d-1b50a4427710", "sub_uri": "Q958075", "obj_uri": "Q221419", "sub_label": "Ilyushin Il-10", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "452eb618-53b3-40a1-9af1-230a083b4947", "sub_uri": "Q1867551", "obj_uri": "Q398878", "sub_label": "Lockheed Martin VH-71 Kestrel", "obj_label": "AgustaWestland", "predicate_id": "P176"}
+{"uuid": "dd8a80a2-f78a-4823-970b-66cb4003da58", "sub_uri": "Q849485", "obj_uri": "Q6686", "sub_label": "Renault Espace", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "e6268526-c523-4092-86dd-6e6669c65d8e", "sub_uri": "Q644105", "obj_uri": "Q53268", "sub_label": "Toyota Porte", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "e5910c5e-faa5-48c7-9fee-d3e1d328b1f7", "sub_uri": "Q2033494", "obj_uri": "Q161544", "sub_label": "Rheinmetall MK 20 Rh 202", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "966adabe-f905-4e38-ad12-d3ba424f505e", "sub_uri": "Q781475", "obj_uri": "Q156644", "sub_label": "GBU-12 Paveway II", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "ac1bff7f-2cc8-475a-a917-704953005deb", "sub_uri": "Q1334020", "obj_uri": "Q188217", "sub_label": "SEAT Alhambra", "obj_label": "SEAT", "predicate_id": "P176"}
+{"uuid": "9a7ffe76-5c66-458e-aca6-c3388bf7b830", "sub_uri": "Q770178", "obj_uri": "Q1418", "sub_label": "Nokia 6100", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "93fd5bfc-fed3-4e73-baa6-58ff1b3def20", "sub_uri": "Q1516033", "obj_uri": "Q194009", "sub_label": "Tupolev I-12", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "d40f7e96-9094-452a-96e2-f3a70c8105d3", "sub_uri": "Q56394494", "obj_uri": "Q29041", "sub_label": "Lokomotif D50", "obj_label": "Hanomag", "predicate_id": "P176"}
+{"uuid": "f6927388-13c6-4175-8aa1-de5f11f652ba", "sub_uri": "Q1139986", "obj_uri": "Q6742", "sub_label": "Peugeot 309", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "469bba24-ba2a-4ba4-bfd5-77994361029d", "sub_uri": "Q1093538", "obj_uri": "Q6742", "sub_label": "Citro\u00ebn AX", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "138d22fa-a23a-4d5a-9798-dd3dab8778f5", "sub_uri": "Q8109781", "obj_uri": "Q333498", "sub_label": "Bombardier CRJ", "obj_label": "Bombardier", "predicate_id": "P176"}
+{"uuid": "542d1118-9ad6-4091-84dc-a68c6d1e5893", "sub_uri": "Q758789", "obj_uri": "Q23317", "sub_label": "Audi S8", "obj_label": "Audi", "predicate_id": "P176"}
+{"uuid": "fa0f848c-9750-4ccd-8090-187dd62049c3", "sub_uri": "Q2030444", "obj_uri": "Q308889", "sub_label": "Cessna Citation M2", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "3d7ed3fc-aca1-4a3d-b24f-84847169def9", "sub_uri": "Q1626569", "obj_uri": "Q9584", "sub_label": "Honda Civic (generasi keenam)", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "9666a882-97d1-4eee-8a1e-f47b864fa5c4", "sub_uri": "Q616158", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-114", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "9eba2f03-c6f4-4da8-9c23-37e9022b38e3", "sub_uri": "Q660273", "obj_uri": "Q53268", "sub_label": "Lexus RX", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "de843ad0-fe5c-4f68-ab05-5d76cc280639", "sub_uri": "Q2063877", "obj_uri": "Q2548367", "sub_label": "UMTAS", "obj_label": "ROKETSAN", "predicate_id": "P176"}
+{"uuid": "d389f2ab-9b7a-4f53-b388-74b31aa47b55", "sub_uri": "Q1130692", "obj_uri": "Q35896", "sub_label": "Lancia Lybra", "obj_label": "Lancia", "predicate_id": "P176"}
+{"uuid": "93472225-fcad-4957-891e-c6adbb18b003", "sub_uri": "Q1610", "obj_uri": "Q940689", "sub_label": "Alfa Romeo 159", "obj_label": "Fiat", "predicate_id": "P176"}
+{"uuid": "60ce406a-df8f-462a-812c-316794a509b3", "sub_uri": "Q822665", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn C5", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "f93b9233-0b83-4185-a2f5-5ec26e10a1e4", "sub_uri": "Q1860725", "obj_uri": "Q26678", "sub_label": "BMW X3 (F25)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "5a1d8ab5-1311-468b-9da9-badeb6b63028", "sub_uri": "Q3747030", "obj_uri": "Q155896", "sub_label": "Fokker F.XXIV", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "69f3db99-3b2f-4c86-8b2d-b4a13f8dd900", "sub_uri": "Q173573", "obj_uri": "Q27586", "sub_label": "Ferrari F300", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "e52e3bd5-d47f-4344-ab0d-bfb9db77c5a2", "sub_uri": "Q408463", "obj_uri": "Q169052", "sub_label": "Airco DH.4", "obj_label": "Airco", "predicate_id": "P176"}
+{"uuid": "b3051892-fe04-4554-9ea4-d3a2d946e59f", "sub_uri": "Q890178", "obj_uri": "Q66", "sub_label": "Boeing 307", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "1b7a7e52-5be2-4006-a8c4-255a5766e535", "sub_uri": "Q968277", "obj_uri": "Q66", "sub_label": "Boeing T-43", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "e42d2492-db44-40f0-9533-4b846ef06416", "sub_uri": "Q287526", "obj_uri": "Q35896", "sub_label": "Lancia Prisma", "obj_label": "Lancia", "predicate_id": "P176"}
+{"uuid": "1d78597f-b446-4de1-b8c5-fedc3e18cce1", "sub_uri": "Q838833", "obj_uri": "Q53268", "sub_label": "Lexus IS", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "2e099eda-63d1-4b62-b099-737076f21a08", "sub_uri": "Q1993846", "obj_uri": "Q20165", "sub_label": "Nissan Rogue", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "8e1b1c6c-df30-4aa8-993c-fda6df59a26f", "sub_uri": "Q2945380", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-100", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "223a6289-56c5-43a7-be51-65b65ae95372", "sub_uri": "Q386903", "obj_uri": "Q248", "sub_label": "Intel Core i7", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "6da83813-fe5b-4c48-a0bd-6c505562ea69", "sub_uri": "Q4321", "obj_uri": "Q248", "sub_label": "Papan induk", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "95ebffa9-f841-4dd2-9933-4bb3c9e46c73", "sub_uri": "Q1540052", "obj_uri": "Q841263", "sub_label": "Piaggio P.108", "obj_label": "Piaggio", "predicate_id": "P176"}
+{"uuid": "7b727684-2a6e-4a5d-862e-7e30f1dd7d06", "sub_uri": "Q913796", "obj_uri": "Q9584", "sub_label": "Honda S2000", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "58b6691b-1016-48e2-80d8-5e2bbc21c382", "sub_uri": "Q665708", "obj_uri": "Q634227", "sub_label": "Beechcraft Super King Air", "obj_label": "Beechcraft", "predicate_id": "P176"}
+{"uuid": "9c0cb50a-6405-4d9f-9e96-af1818b22011", "sub_uri": "Q1421437", "obj_uri": "Q172741", "sub_label": "Subaru Tribeca", "obj_label": "Subaru", "predicate_id": "P176"}
+{"uuid": "956a82b6-2649-4f40-8374-2ab0e89818d6", "sub_uri": "Q218637", "obj_uri": "Q459083", "sub_label": "ATR 42", "obj_label": "ATR", "predicate_id": "P176"}
+{"uuid": "e083f880-e938-424a-80c4-db064f785ce8", "sub_uri": "Q607359", "obj_uri": "Q212268", "sub_label": "Antonov An-180", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "54a9f462-ee58-4581-89ef-767e891b8d1a", "sub_uri": "Q211443", "obj_uri": "Q221419", "sub_label": "Ilyushin Il-2 Shturmovik", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "92e04479-9e79-49f4-b7b8-d39d3a078400", "sub_uri": "Q381152", "obj_uri": "Q1197161", "sub_label": "Aermacchi M-290 RediGO", "obj_label": "Valmet", "predicate_id": "P176"}
+{"uuid": "ad3a0057-d8ce-4444-99a0-e48b1817358a", "sub_uri": "Q820622", "obj_uri": "Q642622", "sub_label": "Beriev Be-2", "obj_label": "Beriev", "predicate_id": "P176"}
+{"uuid": "11fc3546-ddb5-4284-9271-5cc5fb45de67", "sub_uri": "Q476636", "obj_uri": "Q36008", "sub_label": "Mercedes-Benz SLS AMG", "obj_label": "Mercedes-Benz", "predicate_id": "P176"}
+{"uuid": "206de04d-8106-41bd-abfd-79de339360c5", "sub_uri": "Q917677", "obj_uri": "Q6686", "sub_label": "Renault 4CV", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "c2c8e9cd-9831-4596-9afe-e6d4c14e971d", "sub_uri": "Q532428", "obj_uri": "Q463261", "sub_label": "Northrop Grumman EA-6B Prowler", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "7af7034f-c219-4805-8177-c571170e9c33", "sub_uri": "Q560347", "obj_uri": "Q14799", "sub_label": "SuperMUC", "obj_label": "Lenovo", "predicate_id": "P176"}
+{"uuid": "a7a5a81c-83e4-4fff-9f0e-00c9a3957eab", "sub_uri": "Q255946", "obj_uri": "Q27564", "sub_label": "Dodge Avenger", "obj_label": "Dodge", "predicate_id": "P176"}
+{"uuid": "f8ed242f-1a7b-48a7-913c-c8485fdcce48", "sub_uri": "Q2656591", "obj_uri": "Q463261", "sub_label": "Grumman Ag Cat", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "30119577-2f97-442b-8cf5-b2ea3b1a8cee", "sub_uri": "Q56394494", "obj_uri": "Q2373726", "sub_label": "Lokomotif D50", "obj_label": "Werkspoor", "predicate_id": "P176"}
+{"uuid": "082bdc65-b711-43ac-803f-b9d12ce641f1", "sub_uri": "Q796577", "obj_uri": "Q26678", "sub_label": "BMW M50", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "b3a89e1e-9bdd-4473-913e-1fe805ee9ff5", "sub_uri": "Q4243677", "obj_uri": "Q155896", "sub_label": "Fokker V.1", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "29bba878-4bc1-4d21-98cc-d219d4e43213", "sub_uri": "Q209214", "obj_uri": "Q23317", "sub_label": "Audi Front", "obj_label": "Audi", "predicate_id": "P176"}
+{"uuid": "0d1af4df-1324-4aae-9dd5-75e2acb24ae6", "sub_uri": "Q24911258", "obj_uri": "Q20716", "sub_label": "Samsung Galaxy Grand Prime", "obj_label": "Samsung", "predicate_id": "P176"}
+{"uuid": "0c36747f-b4ca-45e5-bcc3-351af7d3d799", "sub_uri": "Q503274", "obj_uri": "Q26678", "sub_label": "BMW Seri 7", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "2fb92c84-119c-4453-a746-1f65c4116ddf", "sub_uri": "Q1993748", "obj_uri": "Q20165", "sub_label": "Nissan Livina", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "a0a04fe1-cfe6-431d-8587-5cfde136ecbe", "sub_uri": "Q1193133", "obj_uri": "Q155896", "sub_label": "Fokker D.XI", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "8f15b1ff-e1ef-49e4-ba5a-a5fa62d0f65f", "sub_uri": "Q371237", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-26", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "30c94cf5-0baa-4d6e-98db-c5238ad450b7", "sub_uri": "Q420780", "obj_uri": "Q35349", "sub_label": "Kia Soul", "obj_label": "Kia", "predicate_id": "P176"}
+{"uuid": "5eef1c22-9f8f-413e-a95c-b9bcac6155e4", "sub_uri": "Q206409", "obj_uri": "Q1138291", "sub_label": "Curtiss P-40 Warhawk", "obj_label": "Curtiss-Wright", "predicate_id": "P176"}
+{"uuid": "fd767a4f-9171-47d4-a39d-d2534a077d17", "sub_uri": "Q758784", "obj_uri": "Q23317", "sub_label": "Audi S4", "obj_label": "Audi", "predicate_id": "P176"}
+{"uuid": "56fffea7-02e5-4776-a77e-948f464fbb20", "sub_uri": "Q1516321", "obj_uri": "Q20165", "sub_label": "Infiniti G", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "3ba2f36c-b60e-4c63-9257-5399becd7b4d", "sub_uri": "Q62833385", "obj_uri": "Q193701", "sub_label": "SpaceX Starship", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "91570b36-697c-4d0e-b8da-282aad58f74c", "sub_uri": "Q596504", "obj_uri": "Q40993", "sub_label": "Porsche 356", "obj_label": "Porsche", "predicate_id": "P176"}
+{"uuid": "1aed2a7e-f690-457e-98cf-a3bde7b161b5", "sub_uri": "Q2655512", "obj_uri": "Q9584", "sub_label": "Acura CL", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "d8541c94-5b70-4f7c-96a1-5caad5e0eaa1", "sub_uri": "Q628189", "obj_uri": "Q248", "sub_label": "Pentium Pro", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "a9c606ac-3eda-4b0f-91c9-816283e0c60a", "sub_uri": "Q1341985", "obj_uri": "Q53268", "sub_label": "Lexus LFA", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "d1160916-9e59-47fc-8418-d89e0f4e5f43", "sub_uri": "Q719025", "obj_uri": "Q156644", "sub_label": "GBU-16 Paveway II", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "bc05056a-934a-45ab-9662-df29adc920a8", "sub_uri": "Q23924645", "obj_uri": "Q181642", "sub_label": "Suzuki Baleno (2015)", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "6cb26f2b-eab9-44f3-b56f-811fe0d2cbea", "sub_uri": "Q4542347", "obj_uri": "Q183275", "sub_label": "Mitsubishi 1MF9", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "4878d354-270b-4130-91aa-0a04204b8928", "sub_uri": "Q20427027", "obj_uri": "Q9584", "sub_label": "Honda Supra", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "2dc0b310-b39e-403b-ba0d-31a1e46ffa28", "sub_uri": "Q2908499", "obj_uri": "Q66", "sub_label": "Boeing F3B", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "7d30d22d-0be0-4023-b6b5-6e987f7ffd34", "sub_uri": "Q796636", "obj_uri": "Q26678", "sub_label": "BMW N62", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "8a11858b-751c-4925-9e20-bc61b5d0f813", "sub_uri": "Q746313", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-9 (II)", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "cc8e0bfb-db8a-4ae3-a7cd-b76dec5364f7", "sub_uri": "Q796778", "obj_uri": "Q26678", "sub_label": "BMW X5", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "df73bcf2-5dcd-45cf-afa3-10d00f753cf1", "sub_uri": "Q4045437", "obj_uri": "Q1418", "sub_label": "Nokia 7373", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "4a3aceb7-8b2f-450e-a33a-9c00f41d318c", "sub_uri": "Q616144", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-12", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "f601ebed-5445-4e20-8692-b5819a105628", "sub_uri": "Q1915522", "obj_uri": "Q181642", "sub_label": "Toyota Urban Cruiser", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "6abc6bbc-470f-496a-9304-845f75bc3dd4", "sub_uri": "Q7830753", "obj_uri": "Q53268", "sub_label": "Mesin Toyota B", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "4d78026a-929c-47a9-8f1b-c0d04d7dd331", "sub_uri": "Q7853563", "obj_uri": "Q194009", "sub_label": "Tupolev ANT-10", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "16485cb2-4d61-4c65-8356-af68bd7ae320", "sub_uri": "Q499109", "obj_uri": "Q20165", "sub_label": "Nissan GT-R", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "32ec7e2c-4cc9-42fd-9531-37bae089c074", "sub_uri": "Q22128401", "obj_uri": "Q188508", "sub_label": "Mikoyan MiG-41", "obj_label": "Mikoyan", "predicate_id": "P176"}
+{"uuid": "e0a0569d-f20e-45ee-9780-085a8f936ff9", "sub_uri": "Q531589", "obj_uri": "Q6686", "sub_label": "Renault Sc\u00e9nic", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "a1688ef6-446a-4d28-bff7-f97eb90d161e", "sub_uri": "Q150307", "obj_uri": "Q463094", "sub_label": "IPad 2", "obj_label": "Foxconn", "predicate_id": "P176"}
+{"uuid": "5676f5d6-2d19-46b4-9b22-9a5a10e1dd8b", "sub_uri": "Q1462593", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-1000", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "4be1d881-94bf-4ff9-b083-a4260ac1c065", "sub_uri": "Q133324", "obj_uri": "Q66", "sub_label": "Lockheed Martin F-22 Raptor", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "0e403502-ef09-4be2-a93e-60736dd99e31", "sub_uri": "Q1051720", "obj_uri": "Q333780", "sub_label": "Yakovlev Pchela", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "2a3a1b3c-5c2d-4a6f-9dd6-4c4a7d0b0e59", "sub_uri": "Q1810661", "obj_uri": "Q398878", "sub_label": "Sikorsky H-5", "obj_label": "AgustaWestland", "predicate_id": "P176"}
+{"uuid": "693f100c-c934-478c-9c27-4bcae7079897", "sub_uri": "Q3277774", "obj_uri": "Q66", "sub_label": "Boeing Skyfox", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "019eae33-976e-40e6-8f94-701d8b39d9ab", "sub_uri": "Q834801", "obj_uri": "Q166203", "sub_label": "Mauser BK-27", "obj_label": "Mauser", "predicate_id": "P176"}
+{"uuid": "b3db8381-83ba-4051-920a-08183cad2558", "sub_uri": "Q1157561", "obj_uri": "Q53268", "sub_label": "Daihatsu Materia", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "8a71fd56-147f-4cd5-ac02-f4ec1f81fe7b", "sub_uri": "Q1165099", "obj_uri": "Q193701", "sub_label": "Kestrel (mesin roket)", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "036b80d2-45e1-415a-a9d6-3af6bb13e860", "sub_uri": "Q946724", "obj_uri": "Q53268", "sub_label": "Toyota AA", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "7bf96d74-e21b-4b5f-80ca-2ad34f5b300f", "sub_uri": "Q2164371", "obj_uri": "Q183275", "sub_label": "Sikorsky S-62", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "5d84ea60-f4f4-4870-8b21-f7e5ecf93b82", "sub_uri": "Q603323", "obj_uri": "Q172741", "sub_label": "Subaru Legacy", "obj_label": "Subaru", "predicate_id": "P176"}
+{"uuid": "2147fe3c-0991-49f0-ba48-cb23e888fabe", "sub_uri": "Q1518795", "obj_uri": "Q9584", "sub_label": "Honda Civic (generasi kelima)", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "c8cbf6c5-9144-421f-86eb-2845e240f5aa", "sub_uri": "Q218977", "obj_uri": "Q763052", "sub_label": "Vickers Valiant", "obj_label": "Vickers-Armstrongs", "predicate_id": "P176"}
+{"uuid": "70df5f6f-f1fe-4354-91c2-56a11f29b3bf", "sub_uri": "Q2147948", "obj_uri": "Q161544", "sub_label": "Rheinmetall Rh-120", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "3f801d56-74b9-4f30-84cb-16edd5d4714b", "sub_uri": "Q3041602", "obj_uri": "Q53268", "sub_label": "Toyota Prius c", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "e5fd0b55-6c25-4ea2-96dc-5e04226ad9cd", "sub_uri": "Q1073847", "obj_uri": "Q547140", "sub_label": "AR-15 (senapan)", "obj_label": "ArmaLite", "predicate_id": "P176"}
+{"uuid": "f5ac72d8-06cc-4567-aa16-3d328fcdb344", "sub_uri": "Q2408860", "obj_uri": "Q155896", "sub_label": "Fokker T.V", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "62947a45-52ac-426b-8a13-aa69f0e0035d", "sub_uri": "Q18980952", "obj_uri": "Q20165", "sub_label": "Nissan GT-R LM Nismo", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "546c403a-0e55-486a-a5fa-478250a4f357", "sub_uri": "Q503191", "obj_uri": "Q160746", "sub_label": "Nescaf\u00e9", "obj_label": "Nestl\u00e9", "predicate_id": "P176"}
+{"uuid": "15666134-8300-46e6-a760-b8dac9ae14a9", "sub_uri": "Q1537625", "obj_uri": "Q181642", "sub_label": "Suzuki Karimun Estilo", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "e14d8666-c29e-43d7-91a1-d6c39745adda", "sub_uri": "Q1854416", "obj_uri": "Q4231577", "sub_label": "TOS-1", "obj_label": "Omsktransmash", "predicate_id": "P176"}
+{"uuid": "c824c69a-08fc-41ed-a9d3-97e4364e08bd", "sub_uri": "Q1374737", "obj_uri": "Q181642", "sub_label": "Suzuki Grand Escudo XL7", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "335729b9-b290-4382-8701-8c421b5c32dd", "sub_uri": "Q135846", "obj_uri": "Q66", "sub_label": "Boeing X-51", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "6b53156c-c638-401a-98b4-55d01848b30d", "sub_uri": "Q1456624", "obj_uri": "Q878020", "sub_label": "Stemme S10", "obj_label": "Stemme", "predicate_id": "P176"}
+{"uuid": "589a2754-5bdf-461a-a734-303e14ecefff", "sub_uri": "Q1471612", "obj_uri": "Q463261", "sub_label": "Grumman C-1 Trader", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "97f11d31-f996-4cc8-81d0-c160d17507b7", "sub_uri": "Q10862963", "obj_uri": "Q1418", "sub_label": "Nokia N78", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "7418e266-5242-4fbe-b238-990fb16b31c1", "sub_uri": "Q763994", "obj_uri": "Q27511", "sub_label": "Daihatsu Sonica", "obj_label": "Daihatsu", "predicate_id": "P176"}
+{"uuid": "d0e372a4-2791-48a5-98c7-264900fc1221", "sub_uri": "Q2766", "obj_uri": "Q463094", "sub_label": "IPhone", "obj_label": "Foxconn", "predicate_id": "P176"}
+{"uuid": "b8aa5735-fd81-4cd2-93ca-98e82d22d55e", "sub_uri": "Q1993858", "obj_uri": "Q20165", "sub_label": "Nissan Stanza", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "e3fe8c5e-5f5e-4553-bde2-40727eb436f6", "sub_uri": "Q741656", "obj_uri": "Q23317", "sub_label": "Audi A2", "obj_label": "Audi", "predicate_id": "P176"}
+{"uuid": "e6e9e74c-cbe1-439f-8f92-45c11231dd47", "sub_uri": "Q1896846", "obj_uri": "Q172741", "sub_label": "Subaru 1500", "obj_label": "Subaru", "predicate_id": "P176"}
+{"uuid": "a0f17f54-5e09-44e1-a15b-c4571637b69e", "sub_uri": "Q244479", "obj_uri": "Q308889", "sub_label": "Cessna 172", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "7a853fef-68ce-4739-abb0-35ea30418dbb", "sub_uri": "Q656154", "obj_uri": "Q248", "sub_label": "Intel Xeon", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "97fedf3f-5410-412f-b694-be633408f5c3", "sub_uri": "Q159067", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-134", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "1b408b9d-9d34-4dc9-9f52-c2c2540dd8fb", "sub_uri": "Q471806", "obj_uri": "Q4046573", "sub_label": "Microsoft Surface", "obj_label": "Pegatron", "predicate_id": "P176"}
+{"uuid": "8c6fb9ac-a1c9-406c-85f1-401954801cba", "sub_uri": "Q2441258", "obj_uri": "Q183275", "sub_label": "Mitsubishi Ki-83", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "942d808d-5d05-4139-b975-d44de5802fd2", "sub_uri": "Q615977", "obj_uri": "Q791733", "sub_label": "Aviadvigatel PS-90", "obj_label": "Aviadvigatel", "predicate_id": "P176"}
+{"uuid": "769f4c58-e33f-4281-a3cd-49f78a3e9c17", "sub_uri": "Q15727631", "obj_uri": "Q499207", "sub_label": "Hispasat AG1", "obj_label": "Astrium", "predicate_id": "P176"}
+{"uuid": "33b839b1-71d6-43f5-9091-73b849927d71", "sub_uri": "Q591145", "obj_uri": "Q6686", "sub_label": "Renault 12", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "8870abd0-8063-4b13-afa0-4a1b10a71c5e", "sub_uri": "Q115976", "obj_uri": "Q308889", "sub_label": "Cessna T303 Crusader", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "7d312b6b-fc3e-4cba-938f-f7b6852c49f1", "sub_uri": "Q796585", "obj_uri": "Q26678", "sub_label": "BMW M57", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "6f5d5cbd-2b9c-4c58-a3e3-ede05249fe3d", "sub_uri": "Q622888", "obj_uri": "Q37156", "sub_label": "Intel 80286", "obj_label": "IBM", "predicate_id": "P176"}
+{"uuid": "28c3f67a-7256-48e8-b3fe-ca70936aa7ec", "sub_uri": "Q1200222", "obj_uri": "Q1475070", "sub_label": "Storm Shadow", "obj_label": "MBDA", "predicate_id": "P176"}
+{"uuid": "02aeeedf-a484-4669-a11b-1dfeb364bcf9", "sub_uri": "Q4050439", "obj_uri": "Q181642", "sub_label": "Suzuki Ertiga", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "f5fe01ee-f78a-4aae-bdd6-9fac3bd66501", "sub_uri": "Q3796530", "obj_uri": "Q221419", "sub_label": "Ilyushin Il-16", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "8680fbf7-bd10-4965-b7cf-9a3e8c67adb3", "sub_uri": "Q12478109", "obj_uri": "Q2373726", "sub_label": "Lokomotif CC50", "obj_label": "Werkspoor", "predicate_id": "P176"}
+{"uuid": "6b98c52a-4c7b-4fa6-a254-7cc3726522a0", "sub_uri": "Q6108607", "obj_uri": "Q49125", "sub_label": "Lokomotif JNR ED76", "obj_label": "Toshiba", "predicate_id": "P176"}
+{"uuid": "1004aaa7-49b5-4cc8-9e20-63a8ea5fc617", "sub_uri": "Q1195361", "obj_uri": "Q3895", "sub_label": "Adidas Etrusco Unico", "obj_label": "Adidas", "predicate_id": "P176"}
+{"uuid": "eeac4190-0d06-44f5-b364-ce0742ab943c", "sub_uri": "Q25458102", "obj_uri": "Q29041", "sub_label": "Lokomotif C30", "obj_label": "Hanomag", "predicate_id": "P176"}
+{"uuid": "74b48557-e7e3-4599-8674-9df19422c827", "sub_uri": "Q743470", "obj_uri": "Q181642", "sub_label": "Suzuki Aerio", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "91bdd63f-2d20-4a91-a5de-0396c593e60e", "sub_uri": "Q56417011", "obj_uri": "Q181642", "sub_label": "Suzuki GSX R150", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "8289bae1-c3d1-407c-a440-86e6a8799fdb", "sub_uri": "Q937707", "obj_uri": "Q308889", "sub_label": "Cessna Citation I", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "ab1ca014-6f65-4d8b-8bb5-b095e8192f41", "sub_uri": "Q390816", "obj_uri": "Q463261", "sub_label": "F9F Panther", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "3f758782-b83e-445c-bc84-d700f7413911", "sub_uri": "Q796780", "obj_uri": "Q26678", "sub_label": "BMW X3", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "7c7d7f84-c912-4b2e-a0cd-b0e1c99f9b82", "sub_uri": "Q2638913", "obj_uri": "Q1418", "sub_label": "Nokia C1-01", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "4353c3cf-44fd-4ddf-b679-a02bf208360c", "sub_uri": "Q384469", "obj_uri": "Q836947", "sub_label": "Convair 990", "obj_label": "Convair", "predicate_id": "P176"}
+{"uuid": "52b97893-a1ad-4499-b364-f42b6b792342", "sub_uri": "Q758769", "obj_uri": "Q23317", "sub_label": "Audi Q5", "obj_label": "Audi", "predicate_id": "P176"}
+{"uuid": "e559b7a5-81c4-4807-bfbc-e9dce9b281b8", "sub_uri": "Q1662192", "obj_uri": "Q66", "sub_label": "Inertial Upper Stage", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "9b5c71b1-fce7-4369-94ef-44875087f37f", "sub_uri": "Q818295", "obj_uri": "Q27224", "sub_label": "Bentley Flying Spur (2005)", "obj_label": "Bentley", "predicate_id": "P176"}
+{"uuid": "674cf3ab-6828-4a32-8f9f-2203981fdbd2", "sub_uri": "Q697896", "obj_uri": "Q161544", "sub_label": "10,5 cm FlaK 38", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "a415c1c4-8c0f-4625-8033-6025371a4865", "sub_uri": "Q848543", "obj_uri": "Q155896", "sub_label": "Fokker F.XXXVI", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "d5cc6da8-1e3e-4d62-9e72-daed4a8d07ce", "sub_uri": "Q796488", "obj_uri": "Q26678", "sub_label": "BMW Seri 7 (F01)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "4f1cc077-b026-4855-966e-a3376c4560dd", "sub_uri": "Q60740801", "obj_uri": "Q53268", "sub_label": "Toyota Yaris (XP150)", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "7f238ed2-70ac-4e33-b748-f48c175ee3a1", "sub_uri": "Q632939", "obj_uri": "Q27511", "sub_label": "Daihatsu Luxio", "obj_label": "Daihatsu", "predicate_id": "P176"}
+{"uuid": "69b7bc93-bbf4-4784-bd6d-b849eddb5c75", "sub_uri": "Q173032", "obj_uri": "Q172030", "sub_label": "McLaren MP4-22", "obj_label": "McLaren", "predicate_id": "P176"}
+{"uuid": "3df539a5-0c36-48ce-9db5-c48e4a4205b2", "sub_uri": "Q791930", "obj_uri": "Q157062", "sub_label": "Axe", "obj_label": "Unilever", "predicate_id": "P176"}
+{"uuid": "50d41328-9f9a-4327-b121-2bd936cf4dfa", "sub_uri": "Q900937", "obj_uri": "Q156644", "sub_label": "RIM-161 Standard Missile 3", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "fc2e324a-dcaf-42c1-b891-b71cce84f13a", "sub_uri": "Q820635", "obj_uri": "Q642622", "sub_label": "Beriev R-1", "obj_label": "Beriev", "predicate_id": "P176"}
+{"uuid": "7900bb78-380b-4114-9c6b-d3ed98b3c838", "sub_uri": "Q1480926", "obj_uri": "Q1418", "sub_label": "Nokia 7110", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "358276d1-09f0-41ab-825f-bc37e04b99ef", "sub_uri": "Q1510174", "obj_uri": "Q9584", "sub_label": "Honda Element", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "87a02f76-3142-4c13-896d-b268df84c633", "sub_uri": "Q584321", "obj_uri": "Q183275", "sub_label": "Mitsubishi MH2000", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "66e676e5-a77c-4d73-8e71-611ee55597d0", "sub_uri": "Q1163407", "obj_uri": "Q105557", "sub_label": "Embraer EMB 120 Brasilia", "obj_label": "Embraer", "predicate_id": "P176"}
+{"uuid": "7d1a73d8-ceea-416e-944f-3fcd59b8b75e", "sub_uri": "Q1761209", "obj_uri": "Q1418", "sub_label": "Nokia E65", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "d2f18ac2-4a37-41bc-b5db-19bd0525e66d", "sub_uri": "Q796785", "obj_uri": "Q26678", "sub_label": "BMW i3", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "21439bc5-5dce-4526-b232-baf5c47d6cf1", "sub_uri": "Q2297890", "obj_uri": "Q763052", "sub_label": "Meriam laut QF 2-pounder", "obj_label": "Vickers-Armstrongs", "predicate_id": "P176"}
+{"uuid": "a697bcac-123c-4659-9cf5-e313a78cdf47", "sub_uri": "Q4653390", "obj_uri": "Q156644", "sub_label": "APQ-181 radar", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "83d41d77-7d49-4e8e-89b7-ecea74d2338e", "sub_uri": "Q4000531", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-121", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "4842379c-f37b-492e-a1f6-7d36f2306709", "sub_uri": "Q56399702", "obj_uri": "Q1636958", "sub_label": "Xiaomi Mi 8 SE", "obj_label": "Xiaomi", "predicate_id": "P176"}
+{"uuid": "aa7eb3bf-8f08-4e8c-a6ea-bebd6fc4e724", "sub_uri": "Q164293", "obj_uri": "Q308889", "sub_label": "Cessna 421", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "930cc70d-8af1-4a55-98ea-1af0438c4a08", "sub_uri": "Q48911273", "obj_uri": "Q1636958", "sub_label": "Redmi 5A", "obj_label": "Xiaomi", "predicate_id": "P176"}
+{"uuid": "ef79b996-941b-413f-83fd-10e73ebe9d90", "sub_uri": "Q2647299", "obj_uri": "Q26678", "sub_label": "BMW X3 (E83)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "49f401a1-41a3-4298-bb8a-9023a96e51db", "sub_uri": "Q1591686", "obj_uri": "Q156644", "sub_label": "British Aerospace BAe 125", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "ea1daa16-2951-41f4-b642-50d14d910cb9", "sub_uri": "Q1506812", "obj_uri": "Q9584", "sub_label": "Honda Civic (generasi kedelapan)", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "03da88ad-cf8f-4052-9da9-47928452e79a", "sub_uri": "Q5065567", "obj_uri": "Q308889", "sub_label": "Cessna CG-2", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "96d344fb-1322-46c0-84df-e7927148b269", "sub_uri": "Q796486", "obj_uri": "Q26678", "sub_label": "BMW Seri 5 (F10)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "1641019e-077f-49c2-b18c-335132d67e92", "sub_uri": "Q203315", "obj_uri": "Q49125", "sub_label": "Zilog Z80", "obj_label": "Toshiba", "predicate_id": "P176"}
+{"uuid": "d9938780-1551-4d8b-834d-955316c4eb3b", "sub_uri": "Q207624", "obj_uri": "Q36008", "sub_label": "Mercedes-Benz SLR McLaren", "obj_label": "Mercedes-Benz", "predicate_id": "P176"}
+{"uuid": "a60ce618-523a-43f7-8579-900d3da39eec", "sub_uri": "Q1193565", "obj_uri": "Q8093", "sub_label": "Satellaview", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "fa676cc7-fb69-465c-90b9-4301365ddf2d", "sub_uri": "Q12482680", "obj_uri": "Q2373726", "sub_label": "Lokomotif F10", "obj_label": "Werkspoor", "predicate_id": "P176"}
+{"uuid": "1bde8b72-c449-45fb-993a-4991c7f5addb", "sub_uri": "Q947947", "obj_uri": "Q763052", "sub_label": "Vickers VC10", "obj_label": "Vickers-Armstrongs", "predicate_id": "P176"}
+{"uuid": "5eea13d2-ad32-44b5-be00-f0980def6c13", "sub_uri": "Q508308", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-50 (1975)", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "2ba8b44c-f925-48c4-b75d-facd6385476e", "sub_uri": "Q15975817", "obj_uri": "Q269792", "sub_label": "Kinder Joy", "obj_label": "Ferrero", "predicate_id": "P176"}
+{"uuid": "3cc5fe65-2410-446d-afc5-96d347538a81", "sub_uri": "Q270059", "obj_uri": "Q334800", "sub_label": "7 Up", "obj_label": "PepsiCo", "predicate_id": "P176"}
+{"uuid": "95cb00ea-0312-40ee-857c-2d7b60e7dbef", "sub_uri": "Q1130681", "obj_uri": "Q6742", "sub_label": "Peugeot 403", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "871dc4d3-a5d6-4e17-93e5-eeea160fa325", "sub_uri": "Q2320342", "obj_uri": "Q1418", "sub_label": "Nokia 8600 Luna", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "7ae916ca-b0cc-40b0-98c9-b3d680dda927", "sub_uri": "Q1723243", "obj_uri": "Q241828", "sub_label": "Kamov Ka-18", "obj_label": "Kamov", "predicate_id": "P176"}
+{"uuid": "3f701642-a3f1-4a2a-8f1c-07c54fc5d78d", "sub_uri": "Q56898", "obj_uri": "Q8093", "sub_label": "Wii Remote", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "cc8463b2-8215-4295-8ffb-f100c1113e4e", "sub_uri": "Q18349943", "obj_uri": "Q9584", "sub_label": "Honda CB150R", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "e303359c-9f9b-4d57-9fa0-3ff61ac5d87e", "sub_uri": "Q87002134", "obj_uri": "Q2548367", "sub_label": "Mini Ak\u0131ll\u0131 M\u00fchimmat", "obj_label": "ROKETSAN", "predicate_id": "P176"}
+{"uuid": "ec7ee6b8-73d0-4825-9679-0a8d7cf534de", "sub_uri": "Q97154240", "obj_uri": "Q30256699", "sub_label": "Vaksin Covid-19 Pfizer\u2013BioNTech", "obj_label": "BioNTech", "predicate_id": "P176"}
+{"uuid": "c5aa5a8c-8e9f-4b71-99d2-83e3406451db", "sub_uri": "Q633117", "obj_uri": "Q53268", "sub_label": "Toyota Curren", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "69158cdd-a30b-4dfd-a41d-ce029308889a", "sub_uri": "Q15910439", "obj_uri": "Q15081643", "sub_label": "Vita (merek)", "obj_label": "Vitasoy", "predicate_id": "P176"}
+{"uuid": "06bd7a5b-fe19-4fe8-829c-5e572bbca73e", "sub_uri": "Q1057324", "obj_uri": "Q308889", "sub_label": "Cessna Citation III", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "994505ae-88c9-4e11-9551-84baedd31dd1", "sub_uri": "Q28450215", "obj_uri": "Q193701", "sub_label": "Falcon 9 Block 5", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "1fea71de-0b6b-48b2-b2e1-d0d8e34ec414", "sub_uri": "Q820631", "obj_uri": "Q642622", "sub_label": "Beriev MDR-5", "obj_label": "Beriev", "predicate_id": "P176"}
+{"uuid": "3b88364a-a88e-456b-91aa-5d45f6f2f3ba", "sub_uri": "Q725524", "obj_uri": "Q248", "sub_label": "Intel 80186", "obj_label": "Intel", "predicate_id": "P176"}
+{"uuid": "024a57db-8da9-43f6-a0c6-952d13fdfeb6", "sub_uri": "Q1350", "obj_uri": "Q40966", "sub_label": "Opel Astra", "obj_label": "Opel", "predicate_id": "P176"}
+{"uuid": "20a9cf3b-c359-4bde-bd37-31158e380174", "sub_uri": "Q2594060", "obj_uri": "Q53268", "sub_label": "Toyota Land Cruiser Prado", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "b0c0cebd-e0c3-413e-87ae-5b6ab8d0fe5a", "sub_uri": "Q738470", "obj_uri": "Q20165", "sub_label": "Nissan March", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "251c712c-43ca-439c-824f-3ee40b0486ee", "sub_uri": "Q7853567", "obj_uri": "Q194009", "sub_label": "Tupolev DB-1", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "86d11287-4192-410b-8427-115323090e66", "sub_uri": "Q842330", "obj_uri": "Q1418", "sub_label": "Nokia 5800 XpressMusic", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "09166bf3-a5d7-4bb9-95b9-b33f9c9003a7", "sub_uri": "Q229851", "obj_uri": "Q2283", "sub_label": "Zune", "obj_label": "Microsoft", "predicate_id": "P176"}
+{"uuid": "59968dc3-dc5e-4525-b60f-c54f30b9bb84", "sub_uri": "Q2022415", "obj_uri": "Q26678", "sub_label": "BMW Sauber F1.06", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "16c23ab1-da77-4865-a263-e232b5f6d67f", "sub_uri": "Q5065572", "obj_uri": "Q308889", "sub_label": "Cessna CR-3", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "4e33d7d2-e0ee-4b61-9fe1-e8c8724b9791", "sub_uri": "Q48806840", "obj_uri": "Q20165", "sub_label": "Nissan Terra", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "a45a876e-3b52-4264-842b-f9ca93534a17", "sub_uri": "Q193487", "obj_uri": "Q212268", "sub_label": "Antonov An-124", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "7d92bdfc-e9c1-4e1a-a277-b0c2ace00564", "sub_uri": "Q1131578", "obj_uri": "Q183275", "sub_label": "Mitsubishi J2M", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "bdbaa7cd-8ae2-42ef-ba8c-a59c86b2bf0a", "sub_uri": "Q2141538", "obj_uri": "Q218038", "sub_label": "Television Infrared Observation Satellite", "obj_label": "RCA", "predicate_id": "P176"}
+{"uuid": "bb6249d0-791c-4e92-a4fb-b0423a95d33e", "sub_uri": "Q1072763", "obj_uri": "Q40990", "sub_label": "Mobil berotot", "obj_label": "Pontiac", "predicate_id": "P176"}
+{"uuid": "a03ecf29-54d3-4ec1-bab4-bb5b8f6dfb89", "sub_uri": "Q616465", "obj_uri": "Q194009", "sub_label": "Tupolev TB-3", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "446637ce-ebec-43e5-acc2-10cc0ab5a725", "sub_uri": "Q1152952", "obj_uri": "Q1128353", "sub_label": "DEFA cannon", "obj_label": "CASA", "predicate_id": "P176"}
+{"uuid": "7ea2eb91-b7f9-4867-aeb2-e5f6c88acf68", "sub_uri": "Q408463", "obj_uri": "Q155896", "sub_label": "Airco DH.4", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "57dcbba5-1d7b-4878-9e80-7b48ea7e60cb", "sub_uri": "Q170151", "obj_uri": "Q66", "sub_label": "Boeing X-48", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "0954d85d-ff50-4209-80f3-4c62ec55fcc9", "sub_uri": "Q142591", "obj_uri": "Q155896", "sub_label": "Douglas DC-2", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "caea1576-d8f3-417c-8bef-ebb5fe81550c", "sub_uri": "Q607192", "obj_uri": "Q212268", "sub_label": "Antonov A-7", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "0f91863b-d713-41d8-9320-675f103c04db", "sub_uri": "Q376916", "obj_uri": "Q40966", "sub_label": "Opel Corsa", "obj_label": "Opel", "predicate_id": "P176"}
+{"uuid": "2aa216bd-b9ec-4994-83c2-c6fecdea7a76", "sub_uri": "Q796511", "obj_uri": "Q26678", "sub_label": "BMW GINA", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "93954ace-2a16-4a28-b380-384103166bff", "sub_uri": "Q123038", "obj_uri": "Q35962", "sub_label": "Maserati GranTurismo", "obj_label": "Maserati", "predicate_id": "P176"}
+{"uuid": "fa27698f-8995-4243-9716-040aa6ac4bea", "sub_uri": "Q1807067", "obj_uri": "Q36008", "sub_label": "Mercedes-Benz Axor", "obj_label": "Mercedes-Benz", "predicate_id": "P176"}
+{"uuid": "f71a4b2f-9247-4ed8-97b3-fcadfba2df62", "sub_uri": "Q80320", "obj_uri": "Q183275", "sub_label": "Mitsubishi Ki-30", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "6b8b5a33-cd14-447b-add9-bd77d43f46ab", "sub_uri": "Q903839", "obj_uri": "Q6686", "sub_label": "Renault Captur", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "865e63fa-83d7-491f-b86e-afb7da42f6e6", "sub_uri": "Q1060737", "obj_uri": "Q156644", "sub_label": "RIM-116 Rolling Airframe Missile", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "9ec1e19b-368e-4429-8b0a-7b7a2c4b7dfd", "sub_uri": "Q861634", "obj_uri": "Q35996", "sub_label": "Mazda RX-7", "obj_label": "Mazda", "predicate_id": "P176"}
+{"uuid": "8b755e2d-1e58-4d9c-ba53-3c73d87d54dc", "sub_uri": "Q573409", "obj_uri": "Q66", "sub_label": "Boeing XF8B", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "b429bfaf-5949-40b7-8c33-f4f91815f66c", "sub_uri": "Q12257149", "obj_uri": "Q650639", "sub_label": "Eurocopter AS332 Super Puma", "obj_label": "A\u00e9rospatiale", "predicate_id": "P176"}
+{"uuid": "84cfb30a-4f3c-4c42-86ac-7d577cd7af39", "sub_uri": "Q1332435", "obj_uri": "Q2548367", "sub_label": "SOM (peluru kendali)", "obj_label": "ROKETSAN", "predicate_id": "P176"}
+{"uuid": "f1c76f2b-973d-4ddd-9fda-9c4b632e1460", "sub_uri": "Q172621", "obj_uri": "Q172030", "sub_label": "McLaren MP4/4", "obj_label": "McLaren", "predicate_id": "P176"}
+{"uuid": "fefe4d9c-5a02-4946-b312-172e15798828", "sub_uri": "Q159881", "obj_uri": "Q429877", "sub_label": "F-104 Starfighter", "obj_label": "Canadair", "predicate_id": "P176"}
+{"uuid": "3db17fbd-51e8-45b5-97d8-208f54798bbb", "sub_uri": "Q2113800", "obj_uri": "Q9584", "sub_label": "Acura ILX", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "534b9c41-a8d5-4f34-91d5-946b9a48894f", "sub_uri": "Q4064670", "obj_uri": "Q212268", "sub_label": "Antonov An-178", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "b06b1a96-7e70-4b27-a7e4-9c9f43fa8f8d", "sub_uri": "Q796448", "obj_uri": "Q26678", "sub_label": "BMW Seri 7 (E23)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "1aff974e-83fd-4906-a21d-e49e787d2322", "sub_uri": "Q431675", "obj_uri": "Q13220673", "sub_label": "Matilda I (tank)", "obj_label": "Vickers", "predicate_id": "P176"}
+{"uuid": "4173af9e-c6f7-4736-90da-27d77b6021f5", "sub_uri": "Q530013", "obj_uri": "Q20165", "sub_label": "Nissan Tiida", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "56c7cae3-1e7e-42b4-9368-da1c83871242", "sub_uri": "Q57780158", "obj_uri": "Q1636958", "sub_label": "Xiaomi Mi MIX 3", "obj_label": "Xiaomi", "predicate_id": "P176"}
+{"uuid": "9900ea30-afde-46ff-9950-30ed032ffb67", "sub_uri": "Q48263", "obj_uri": "Q463094", "sub_label": "Xbox 360", "obj_label": "Foxconn", "predicate_id": "P176"}
+{"uuid": "6658db4a-2673-4feb-9c90-557502197b3f", "sub_uri": "Q748333", "obj_uri": "Q949211", "sub_label": "Luna 14", "obj_label": "Lavochkin", "predicate_id": "P176"}
+{"uuid": "f75ad728-cce2-4765-9d58-7584a48ccf5c", "sub_uri": "Q12499779", "obj_uri": "Q29041", "sub_label": "Lokomotif Nederlands-Indische Spoorweg Maatschappij seri 107", "obj_label": "Hanomag", "predicate_id": "P176"}
+{"uuid": "4ca10859-b58f-46ec-82e7-30f718754464", "sub_uri": "Q973654", "obj_uri": "Q27564", "sub_label": "Dodge Durango", "obj_label": "Dodge", "predicate_id": "P176"}
+{"uuid": "ff4c7c5d-f639-473f-8993-f4652fe6c212", "sub_uri": "Q326015", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn 2CV", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "4ad4dc72-18dd-4e3c-aa6d-cdfa89790a0a", "sub_uri": "Q1139503", "obj_uri": "Q1418", "sub_label": "Nokia Lumia 710", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "d64dd67c-9798-461e-aff2-24fd41f5d0d2", "sub_uri": "Q1550397", "obj_uri": "Q463261", "sub_label": "Grumman F7F Tigercat", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "e840591f-7e68-485b-a394-980a2eef0393", "sub_uri": "Q3194559", "obj_uri": "Q1418", "sub_label": "Nokia 1280", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "5a8e9faf-5bdb-4d1d-b162-869aa692108f", "sub_uri": "Q1124097", "obj_uri": "Q1327429", "sub_label": "Kapal pesiar kelas Concordia", "obj_label": "Fincantieri", "predicate_id": "P176"}
+{"uuid": "118ef7f7-c028-49af-849f-670de41fb622", "sub_uri": "Q4208333", "obj_uri": "Q1538336", "sub_label": "QSW-06", "obj_label": "Norinco", "predicate_id": "P176"}
+{"uuid": "b2f7e188-9831-4c28-895e-6b73669dcfbc", "sub_uri": "Q1591669", "obj_uri": "Q634227", "sub_label": "Hawker 400", "obj_label": "Beechcraft", "predicate_id": "P176"}
+{"uuid": "066724a0-b741-4d56-b405-63a3db91f29b", "sub_uri": "Q19960305", "obj_uri": "Q6686", "sub_label": "Renault Kwid", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "b33cfb1c-202b-4a9e-9d76-5ef2048e1362", "sub_uri": "Q1142312", "obj_uri": "Q1538336", "sub_label": "Senapan serbu Tipe 56", "obj_label": "Norinco", "predicate_id": "P176"}
+{"uuid": "5470bf37-ac38-46db-a517-34fb13a27d12", "sub_uri": "Q215227", "obj_uri": "Q6742", "sub_label": "Peugeot 307", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "63572538-b51b-4812-ae83-64889e5ea79d", "sub_uri": "Q584229", "obj_uri": "Q1538336", "sub_label": "QBU-88", "obj_label": "Norinco", "predicate_id": "P176"}
+{"uuid": "53ae603e-571f-43e9-aff2-68eb6457f2c8", "sub_uri": "Q57737690", "obj_uri": "Q3082637", "sub_label": "Wuling Confero", "obj_label": "SAIC-GM-Wuling", "predicate_id": "P176"}
+{"uuid": "2f93ed40-44c8-48b0-9845-204cc8c30653", "sub_uri": "Q2746511", "obj_uri": "Q181642", "sub_label": "Suzuki Cultus", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "e556633e-014f-48fd-afe6-1cd255908f23", "sub_uri": "Q292481", "obj_uri": "Q650639", "sub_label": "SS.11", "obj_label": "A\u00e9rospatiale", "predicate_id": "P176"}
+{"uuid": "0c55ab53-3db8-4638-b385-4f2036eddb7a", "sub_uri": "Q950506", "obj_uri": "Q6686", "sub_label": "Dacia Duster", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "a58d7c40-c77e-4755-9962-8912325d97c5", "sub_uri": "Q203622", "obj_uri": "Q249190", "sub_label": "Avro Lancaster", "obj_label": "Avro", "predicate_id": "P176"}
+{"uuid": "a4f7252a-a8bc-4825-b921-2ea85dd193fa", "sub_uri": "Q1982541", "obj_uri": "Q26678", "sub_label": "BMW M47", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "f9e6e2c1-cc9d-4953-9642-07dfe12a491a", "sub_uri": "Q380053", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-16", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "8ef1225e-2232-4d56-9ea7-2cb3e529f5f9", "sub_uri": "Q171468", "obj_uri": "Q398878", "sub_label": "Boeing AH-64 Apache", "obj_label": "AgustaWestland", "predicate_id": "P176"}
+{"uuid": "2e494a82-1257-490a-90d3-c45f8bf572ba", "sub_uri": "Q911001", "obj_uri": "Q221419", "sub_label": "Ilyushin Il-12", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "c7d98b6d-840d-4bd1-b0f9-5ef847ed7484", "sub_uri": "Q840441", "obj_uri": "Q1418", "sub_label": "Nokia 1011", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "59a32279-8c3d-4b52-96a7-46de44e6cf86", "sub_uri": "Q80862", "obj_uri": "Q35962", "sub_label": "Maserati Levante", "obj_label": "Maserati", "predicate_id": "P176"}
+{"uuid": "ff12afc1-17e7-4226-bb4e-7985b86fc471", "sub_uri": "Q49384", "obj_uri": "Q36008", "sub_label": "Mercedes-Benz Kelas-A", "obj_label": "Mercedes-Benz", "predicate_id": "P176"}
+{"uuid": "feed90e7-d9e2-4092-9041-8de86bf95f85", "sub_uri": "Q827056", "obj_uri": "Q188217", "sub_label": "SEAT Le\u00f3n", "obj_label": "SEAT", "predicate_id": "P176"}
+{"uuid": "86c1b529-5441-4271-823a-65f0040dae99", "sub_uri": "Q815664", "obj_uri": "Q66", "sub_label": "Bell Boeing Quad TiltRotor", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "7968a291-06b6-40b7-9e63-e3992291bbf1", "sub_uri": "Q145527", "obj_uri": "Q35349", "sub_label": "Kia Sportage", "obj_label": "Kia", "predicate_id": "P176"}
+{"uuid": "997bb1d0-df25-46da-89f6-daf7a83eaffb", "sub_uri": "Q135888", "obj_uri": "Q38076", "sub_label": "Chicken McNuggets", "obj_label": "McDonald's", "predicate_id": "P176"}
+{"uuid": "f5f3a630-a68d-40e9-906f-f0a686cbedad", "sub_uri": "Q510392", "obj_uri": "Q6686", "sub_label": "Renault R24", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "8c64dd53-91e4-4906-b898-efc9db0e6dd1", "sub_uri": "Q540868", "obj_uri": "Q122741", "sub_label": "Genesis Nomad", "obj_label": "Sega", "predicate_id": "P176"}
+{"uuid": "a3900115-2cde-4090-8897-a2f967c2dcf0", "sub_uri": "Q504138", "obj_uri": "Q6742", "sub_label": "Peugeot 607", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "fe9b593d-1d85-4e65-a4c0-9b8f430263e3", "sub_uri": "Q1370421", "obj_uri": "Q27564", "sub_label": "Dodge Charger (LX)", "obj_label": "Dodge", "predicate_id": "P176"}
+{"uuid": "6336adee-ad06-4a0a-8dc5-2ae8e74246fc", "sub_uri": "Q109997", "obj_uri": "Q3895", "sub_label": "Adidas Questra", "obj_label": "Adidas", "predicate_id": "P176"}
+{"uuid": "6cd2e1c2-83a6-403a-9cad-4b387b4688ac", "sub_uri": "Q184198", "obj_uri": "Q122741", "sub_label": "Sega Dreamcast", "obj_label": "Sega", "predicate_id": "P176"}
+{"uuid": "fec6c843-ee3b-4c26-a06a-022b7f1f4e67", "sub_uri": "Q14195339", "obj_uri": "Q1418", "sub_label": "Nokia Lumia 625", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "27412583-24e3-4218-aac2-f3ada0b5176f", "sub_uri": "Q13392599", "obj_uri": "Q66", "sub_label": "USA-243", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "fd544b9d-1a08-4f11-8c38-593f743d1f07", "sub_uri": "Q7048001", "obj_uri": "Q1418", "sub_label": "Nokia Lumia 720", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "63d488d1-9a3b-4bf4-a75e-0ce3edbf4e7d", "sub_uri": "Q44435", "obj_uri": "Q851367", "sub_label": "R-12 Dvina", "obj_label": "Yuzhmash", "predicate_id": "P176"}
+{"uuid": "d103fb1b-5062-41f9-8a1b-36bf3c47f123", "sub_uri": "Q890191", "obj_uri": "Q66", "sub_label": "Boeing Monomail", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "b609f9f6-d61b-4232-8edc-890573bf653a", "sub_uri": "Q6490", "obj_uri": "Q67", "sub_label": "Airbus A310 MRTT", "obj_label": "Airbus", "predicate_id": "P176"}
+{"uuid": "d86a6ecd-cd52-41b6-8a3f-237312c5c800", "sub_uri": "Q1099455", "obj_uri": "Q333780", "sub_label": "Yakovlev Yak-200", "obj_label": "Yakovlev", "predicate_id": "P176"}
+{"uuid": "ac85effc-2d01-49a8-9383-7d9b2987d416", "sub_uri": "Q598126", "obj_uri": "Q642622", "sub_label": "Beriev Be-6", "obj_label": "Beriev", "predicate_id": "P176"}
+{"uuid": "5c77810a-548b-4e3c-aca2-ada2ef3530bd", "sub_uri": "Q1023748", "obj_uri": "Q2548367", "sub_label": "Roketsan Cirit", "obj_label": "ROKETSAN", "predicate_id": "P176"}
+{"uuid": "8d5a1d45-278c-45ba-8fb0-cd64ab7ff8be", "sub_uri": "Q723397", "obj_uri": "Q155896", "sub_label": "Fokker 70", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "a062e857-e252-4b00-8be8-a810c22fb631", "sub_uri": "Q151068", "obj_uri": "Q541477", "sub_label": "Panzer II", "obj_label": "Daimler-Benz", "predicate_id": "P176"}
+{"uuid": "87fb122f-b54e-4265-aa19-0ebb53ac227a", "sub_uri": "Q2088098", "obj_uri": "Q1418", "sub_label": "Nokia 2650", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "59fd87b6-4d2a-4625-89b6-e337813bd575", "sub_uri": "Q796618", "obj_uri": "Q26678", "sub_label": "BMW N45", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "259a24f7-468b-4818-968f-8747526cf92f", "sub_uri": "Q2908560", "obj_uri": "Q66", "sub_label": "Boeing XF6B", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "2ff1c1ff-7b4b-402e-a254-43c6e00e470a", "sub_uri": "Q4694617", "obj_uri": "Q398845", "sub_label": "Agusta GA.70", "obj_label": "Agusta", "predicate_id": "P176"}
+{"uuid": "2fb8fd44-5815-40c1-9850-1c6cf4c221b9", "sub_uri": "Q402880", "obj_uri": "Q1562826", "sub_label": "Beeline (merek)", "obj_label": "VEON", "predicate_id": "P176"}
+{"uuid": "9b85cd3f-f7db-48f4-b897-4d850656e46b", "sub_uri": "Q132516", "obj_uri": "Q66", "sub_label": "Boeing RC-135", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "b77249a0-426c-415a-9645-739effc322b3", "sub_uri": "Q18154301", "obj_uri": "Q66", "sub_label": "Exploration Upper Stage", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "41a51275-34d0-462a-9928-55f3012fccb6", "sub_uri": "Q1420682", "obj_uri": "Q53268", "sub_label": "Toyota Caldina", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "70addd80-5c96-447e-a127-7b1d71ba46cb", "sub_uri": "Q575092", "obj_uri": "Q463094", "sub_label": "Google Glass", "obj_label": "Foxconn", "predicate_id": "P176"}
+{"uuid": "c0039a19-1301-44ed-aa80-0dfd5e80fd82", "sub_uri": "Q820621", "obj_uri": "Q642622", "sub_label": "Beriev MBR-7", "obj_label": "Beriev", "predicate_id": "P176"}
+{"uuid": "f42f4750-486f-4653-a7a3-7c70cdd564c1", "sub_uri": "Q1820293", "obj_uri": "Q27511", "sub_label": "Toyota Avanza", "obj_label": "Daihatsu", "predicate_id": "P176"}
+{"uuid": "977f9043-3c3c-41d4-b6af-3e8902ff3e43", "sub_uri": "Q3877857", "obj_uri": "Q1418", "sub_label": "Nokia 7510 Supernova", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "259f023a-fc6b-4d5d-b695-c735df955048", "sub_uri": "Q5065566", "obj_uri": "Q308889", "sub_label": "Cessna 526 CitationJet", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "ccdb334c-0ddc-4774-93f3-4688d7c027d4", "sub_uri": "Q1736380", "obj_uri": "Q36008", "sub_label": "Mercedes-Benz C11", "obj_label": "Mercedes-Benz", "predicate_id": "P176"}
+{"uuid": "5133ac55-5315-46ea-b37f-df4befca7744", "sub_uri": "Q11460", "obj_uri": "Q242468", "sub_label": "Pakaian", "obj_label": "Penjahit", "predicate_id": "P176"}
+{"uuid": "6ffdde0c-32ad-4a12-9bd7-8c6a492ebc03", "sub_uri": "Q22927297", "obj_uri": "Q23317", "sub_label": "Audi Q2", "obj_label": "Audi", "predicate_id": "P176"}
+{"uuid": "62e12e07-a537-4feb-a78c-defaacd33733", "sub_uri": "Q940317", "obj_uri": "Q67", "sub_label": "QinetiQ Zephyr", "obj_label": "Airbus", "predicate_id": "P176"}
+{"uuid": "cef39b5a-6bd0-4306-a064-12ad00cfa1a6", "sub_uri": "Q165365", "obj_uri": "Q1128353", "sub_label": "CASA C-101 Aviojet", "obj_label": "CASA", "predicate_id": "P176"}
+{"uuid": "e615fb6a-bf3b-444a-b86c-610ab22cb078", "sub_uri": "Q39668", "obj_uri": "Q650639", "sub_label": "Eurocopter AS350", "obj_label": "A\u00e9rospatiale", "predicate_id": "P176"}
+{"uuid": "0e29dcd6-3c14-4ebc-8276-fda335dfa364", "sub_uri": "Q972242", "obj_uri": "Q650639", "sub_label": "Eurocopter HH-65 Dolphin", "obj_label": "A\u00e9rospatiale", "predicate_id": "P176"}
+{"uuid": "8f6f3a61-0512-4e26-9dbf-7e468d71eed3", "sub_uri": "Q1465760", "obj_uri": "Q910379", "sub_label": "OTO Melara 76 mm", "obj_label": "Leonardo", "predicate_id": "P176"}
+{"uuid": "7cd53bec-7df9-49ac-9b04-2cfdbd39f0db", "sub_uri": "Q398951", "obj_uri": "Q398878", "sub_label": "Agusta AW119", "obj_label": "AgustaWestland", "predicate_id": "P176"}
+{"uuid": "3d4b1523-0c05-4551-bf29-a45ba798fad5", "sub_uri": "Q547675", "obj_uri": "Q9584", "sub_label": "Honda Stream", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "4cd2809c-e5d3-47f0-a687-8cf3a3087b0b", "sub_uri": "Q216747", "obj_uri": "Q9584", "sub_label": "Honda Civic", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "83e4d6bf-c0ae-4bc6-a877-5c1038d50f04", "sub_uri": "Q641911", "obj_uri": "Q219501", "sub_label": "Saab 17", "obj_label": "Saab", "predicate_id": "P176"}
+{"uuid": "db81051f-fbfc-44cc-9f9a-8a93f8b7e980", "sub_uri": "Q844500", "obj_uri": "Q66", "sub_label": "McDonnell Douglas F-15E Strike Eagle", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "60254331-b945-4510-983b-bc5c72409fca", "sub_uri": "Q751540", "obj_uri": "Q181642", "sub_label": "Suzuki SX4", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "a91c58e3-e36e-4779-920c-e8240b8dd94c", "sub_uri": "Q19869313", "obj_uri": "Q1762250", "sub_label": "T-15 Armata", "obj_label": "Uralvagonzavod", "predicate_id": "P176"}
+{"uuid": "21bff295-82ea-446e-b11b-e9e29ee7c422", "sub_uri": "Q1130093", "obj_uri": "Q40966", "sub_label": "Opel Meriva", "obj_label": "Opel", "predicate_id": "P176"}
+{"uuid": "a7706551-97a9-444b-a148-127b69a6c2a5", "sub_uri": "Q2465029", "obj_uri": "Q1418", "sub_label": "Nokia Morph", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "7c17074d-a2a8-40d3-bf71-bdafbdf2bb42", "sub_uri": "Q172957", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-154", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "5013b6e4-8a9e-4af4-aad3-b520b212e4c9", "sub_uri": "Q1752220", "obj_uri": "Q188508", "sub_label": "Mikoyan-Gurevich I-320", "obj_label": "Mikoyan", "predicate_id": "P176"}
+{"uuid": "54068392-cd03-45a6-abf3-dd85ce8065d2", "sub_uri": "Q465903", "obj_uri": "Q463261", "sub_label": "Grumman F6F Hellcat", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "643fad7f-49ad-45eb-bf2d-46231ea2819a", "sub_uri": "Q2068063", "obj_uri": "Q53268", "sub_label": "Toyota NAV1", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "9404a5f3-5b84-4b94-8346-14e52333aaa5", "sub_uri": "Q2296502", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-6", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "5d952fd8-6390-47c1-96c7-b8e3766b2689", "sub_uri": "Q698105", "obj_uri": "Q463261", "sub_label": "Grumman HU-16 Albatross", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "eac18cb3-344e-4cd7-b430-ff6860e5aab6", "sub_uri": "Q1407492", "obj_uri": "Q1418", "sub_label": "Nokia 5310", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "54d73892-37e1-4252-b6be-8bd59a648564", "sub_uri": "Q16725870", "obj_uri": "Q181642", "sub_label": "Suzuki Celerio", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "9a9354b4-89f0-4e91-997a-6238314ca15d", "sub_uri": "Q738104", "obj_uri": "Q23317", "sub_label": "Audi RS6", "obj_label": "Audi", "predicate_id": "P176"}
+{"uuid": "1e7c43eb-3bd9-4f1b-bec6-2650e63d27da", "sub_uri": "Q5065569", "obj_uri": "Q308889", "sub_label": "Cessna CW-6", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "19309f9b-36ad-406f-b052-c7650e3695c6", "sub_uri": "Q1141520", "obj_uri": "Q173151", "sub_label": "Fiat Ducato", "obj_label": "Talbot", "predicate_id": "P176"}
+{"uuid": "7ed6e4dd-f6c8-4726-a828-eae84e8da2c3", "sub_uri": "Q1156500", "obj_uri": "Q8093", "sub_label": "Nintendo R.O.B", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "1d22b550-2701-479d-976d-4e1b83098e21", "sub_uri": "Q100026", "obj_uri": "Q155896", "sub_label": "General Dynamics F-16 Fighting Falcon", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "3bed8b4f-6846-421e-81a6-b8f16743a40b", "sub_uri": "Q204944", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-22M", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "27c24542-5bf2-4165-b49b-24efcf800a73", "sub_uri": "Q1093657", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn LNA", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "35ea31ee-563a-4d18-ae73-ba98870a5573", "sub_uri": "Q1141318", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn C4 Picasso", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "51d9b79b-f5a9-45a9-a0eb-3692cfd3065d", "sub_uri": "Q2447967", "obj_uri": "Q645950", "sub_label": "WikiReader", "obj_label": "OpenMoko", "predicate_id": "P176"}
+{"uuid": "8bc82358-dfb2-42b3-817a-0201342d2be7", "sub_uri": "Q135321", "obj_uri": "Q8093", "sub_label": "Famicom Disk System", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "b8355c18-cbf8-42cc-b941-860f7511e1c4", "sub_uri": "Q2753440", "obj_uri": "Q40993", "sub_label": "Porsche Macan", "obj_label": "Porsche", "predicate_id": "P176"}
+{"uuid": "807de19b-a0f8-4fdd-8841-55d7058513b4", "sub_uri": "Q913559", "obj_uri": "Q6686", "sub_label": "Renault 20/30", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "32a7ce8b-3f60-4cec-b68a-b0aeb4c5f836", "sub_uri": "Q595050", "obj_uri": "Q27586", "sub_label": "Ferrari F2003-GA", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "881d73e6-9d74-4063-aa05-fa501c5db923", "sub_uri": "Q219357", "obj_uri": "Q40993", "sub_label": "Porsche 911", "obj_label": "Porsche", "predicate_id": "P176"}
+{"uuid": "fca33274-e677-4024-842e-033a5a0ca6b0", "sub_uri": "Q6478", "obj_uri": "Q67", "sub_label": "Airbus A330", "obj_label": "Airbus", "predicate_id": "P176"}
+{"uuid": "e9f930df-901c-4f74-a06a-1ba345d539e9", "sub_uri": "Q1577574", "obj_uri": "Q53268", "sub_label": "Scion tC", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "ce230c15-cd16-4c57-b370-5ce97352150e", "sub_uri": "Q3647136", "obj_uri": "Q1418", "sub_label": "Nokia 6600 lipat", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "2349aa64-5678-4c6d-8ef0-fe43b3bf06e9", "sub_uri": "Q262818", "obj_uri": "Q851367", "sub_label": "R-16 (peluru kendali)", "obj_label": "Yuzhmash", "predicate_id": "P176"}
+{"uuid": "3f9d2905-9c43-46b5-9196-b91ddbf27991", "sub_uri": "Q1780607", "obj_uri": "Q1418", "sub_label": "Nokia E50", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "c5966773-1847-43bd-b838-5d78865cf541", "sub_uri": "Q5830", "obj_uri": "Q67", "sub_label": "Airbus A380", "obj_label": "Airbus", "predicate_id": "P176"}
+{"uuid": "8cb7b522-7833-45a7-b210-3373db55e419", "sub_uri": "Q1317341", "obj_uri": "Q37156", "sub_label": "Sega TeraDrive", "obj_label": "IBM", "predicate_id": "P176"}
+{"uuid": "8a202b35-5002-4fdb-88c5-e1985f512312", "sub_uri": "Q679435", "obj_uri": "Q181642", "sub_label": "Suzuki Splash", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "ec3bbfdd-ea3a-4eca-9d2c-2f6cf0326e0a", "sub_uri": "Q14147881", "obj_uri": "Q152864", "sub_label": "Asus Fonepad", "obj_label": "Asus", "predicate_id": "P176"}
+{"uuid": "66afd4f5-b881-4209-bec5-18f13557ebf2", "sub_uri": "Q20680193", "obj_uri": "Q1636958", "sub_label": "Redmi 2", "obj_label": "Xiaomi", "predicate_id": "P176"}
+{"uuid": "dc67ce70-b19c-4f99-b1a4-d2c11c119056", "sub_uri": "Q751759", "obj_uri": "Q99", "sub_label": "Lockheed P-80 Shooting Star", "obj_label": "California", "predicate_id": "P176"}
+{"uuid": "63920d55-f2dc-4b76-8934-247f024ea499", "sub_uri": "Q211369", "obj_uri": "Q66", "sub_label": "Boeing C-17 Globemaster III", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "63658fe5-c3d4-4505-a420-c7dcee905e04", "sub_uri": "Q1993750", "obj_uri": "Q20165", "sub_label": "Nissan NV", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "01fa98f5-5173-4e2a-9a6e-dad5a480eba4", "sub_uri": "Q290653", "obj_uri": "Q66", "sub_label": "Boeing Model 6", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "905f4002-5880-4756-9122-aa083247e050", "sub_uri": "Q796464", "obj_uri": "Q26678", "sub_label": "BMW Seri 5 (E60)", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "20483b7f-d87d-4547-a497-2a4f90d2454d", "sub_uri": "Q657771", "obj_uri": "Q949211", "sub_label": "Luna 24", "obj_label": "Lavochkin", "predicate_id": "P176"}
+{"uuid": "5cfc7706-df44-4b16-865b-2fcbb5781573", "sub_uri": "Q2629934", "obj_uri": "Q183275", "sub_label": "Mitsubishi 1MF", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "7b566ba8-b9f7-40a6-9761-5e86e325c811", "sub_uri": "Q1281878", "obj_uri": "Q9584", "sub_label": "Honda CBR1100XX", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "d4564a01-e8f1-4b59-a00a-cda4e7bb307b", "sub_uri": "Q726411", "obj_uri": "Q6742", "sub_label": "Citro\u00ebn C3", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "bab20539-ef3a-400e-a0a8-80394226f6a9", "sub_uri": "Q1165880", "obj_uri": "Q27564", "sub_label": "Dodge Journey", "obj_label": "Dodge", "predicate_id": "P176"}
+{"uuid": "07dff4b6-e4f5-4ffa-aa5e-3854c97ccb2e", "sub_uri": "Q4040308", "obj_uri": "Q913741", "sub_label": "HSC Manannan", "obj_label": "Incat", "predicate_id": "P176"}
+{"uuid": "5f1edf2a-c3dd-4fa7-b170-cea607e94f37", "sub_uri": "Q370674", "obj_uri": "Q53268", "sub_label": "Toyota iQ", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "24c76901-8c52-407f-b168-2ff3decd9227", "sub_uri": "Q607305", "obj_uri": "Q212268", "sub_label": "Antonov An-14", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "8208f033-8623-4892-a429-f68d8c9ee5d6", "sub_uri": "Q3877858", "obj_uri": "Q1418", "sub_label": "Nokia 8250", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "8aea4ac2-d3bd-4e0c-ab3b-b027d26e9a2a", "sub_uri": "Q1984243", "obj_uri": "Q1331507", "sub_label": "S-300VM", "obj_label": "Almaz-Antey", "predicate_id": "P176"}
+{"uuid": "8ab7bdfc-d426-437c-a16a-954a0e912f8e", "sub_uri": "Q17298682", "obj_uri": "Q95", "sub_label": "Android TV", "obj_label": "Google", "predicate_id": "P176"}
+{"uuid": "f7e2e0b7-a50e-4e4f-8980-ce3a2e847b65", "sub_uri": "Q1658670", "obj_uri": "Q221419", "sub_label": "Ilyushin Il-30", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "f1ca2b80-f926-4d67-9f79-47859bff6ce1", "sub_uri": "Q18012886", "obj_uri": "Q1476369", "sub_label": "Perodua Axia", "obj_label": "Perodua", "predicate_id": "P176"}
+{"uuid": "0723082d-6941-4f46-bc09-ce2bf532c950", "sub_uri": "Q20922293", "obj_uri": "Q890353", "sub_label": "Bofors 155 Bonus", "obj_label": "Bofors", "predicate_id": "P176"}
+{"uuid": "e57161dc-7eb3-4ac3-93cc-e1cc0c1f59f0", "sub_uri": "Q272268", "obj_uri": "Q183275", "sub_label": "Mitsubishi Lancer", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "6ff989fb-f313-45df-8939-b1acd239a7bb", "sub_uri": "Q287488", "obj_uri": "Q1676085", "sub_label": "Progress D-18T", "obj_label": "Ivchenko-Progress", "predicate_id": "P176"}
+{"uuid": "8dc8af1e-0c23-43d0-9fcc-fca530d84dfc", "sub_uri": "Q219764", "obj_uri": "Q459083", "sub_label": "ATR 72", "obj_label": "ATR", "predicate_id": "P176"}
+{"uuid": "c317589e-f083-4383-8a8a-dfdcd31b5859", "sub_uri": "Q1077526", "obj_uri": "Q53268", "sub_label": "Lexus SC", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "524c5e49-b560-4072-a569-d287b8ece191", "sub_uri": "Q3640759", "obj_uri": "Q910379", "sub_label": "Black Shark (torpedo)", "obj_label": "Leonardo", "predicate_id": "P176"}
+{"uuid": "b5a897c4-45f1-49c4-bda8-aa70ef2b7b4e", "sub_uri": "Q1480095", "obj_uri": "Q20165", "sub_label": "Nissan Silvia", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "b1020e82-c093-4dfe-bfcf-811cc9e2ca7e", "sub_uri": "Q5464200", "obj_uri": "Q155896", "sub_label": "Fokker M 10", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "a1553e52-ee1f-42c7-93ae-4fd8db9ef887", "sub_uri": "Q5065577", "obj_uri": "Q308889", "sub_label": "Cessna EC-1", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "2cd8de66-b432-47c8-9a34-886ae2b0d249", "sub_uri": "Q18532", "obj_uri": "Q499207", "sub_label": "Ariane 5", "obj_label": "Astrium", "predicate_id": "P176"}
+{"uuid": "2a5d0067-2e88-4f38-8556-d705ae429a4c", "sub_uri": "Q1068935", "obj_uri": "Q20165", "sub_label": "Nissan Teana", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "466ff47e-7b19-4de6-be44-81eaeedd7422", "sub_uri": "Q107594447", "obj_uri": "Q193007", "sub_label": "Sukhoi Su-75", "obj_label": "Sukhoi", "predicate_id": "P176"}
+{"uuid": "2667516d-8472-42a1-8fca-14c5f7f279bc", "sub_uri": "Q3647560", "obj_uri": "Q1418", "sub_label": "Nokia 6301", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "1fb23e07-7dc5-4f40-b84a-fc87b697fabf", "sub_uri": "Q19944331", "obj_uri": "Q181642", "sub_label": "Suzuki Nex", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "55f05617-9e76-4280-9a16-fc2d18373adf", "sub_uri": "Q2535849", "obj_uri": "Q9584", "sub_label": "Honda RC212V", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "1a093a61-1152-41f3-91a0-b8f8b55115bd", "sub_uri": "Q2001711", "obj_uri": "Q53268", "sub_label": "Toyota Camry Solara", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "03b27d30-09ba-4d46-8792-9f1ebb1bd242", "sub_uri": "Q459982", "obj_uri": "Q188217", "sub_label": "SEAT Ibiza", "obj_label": "SEAT", "predicate_id": "P176"}
+{"uuid": "a64d6670-1400-4619-8f3a-eae8d9ae3eb7", "sub_uri": "Q578959", "obj_uri": "Q66", "sub_label": "Boeing B-50 Superfortress", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "f2b9eefe-54ea-483c-ac17-b91223312053", "sub_uri": "Q819119", "obj_uri": "Q161544", "sub_label": "Puma (IFV)", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "1a854b5d-31e3-4355-950b-3bdc7cbcd1c0", "sub_uri": "Q688643", "obj_uri": "Q2582531", "sub_label": "PZL SM-2", "obj_label": "PZL-\u015awidnik", "predicate_id": "P176"}
+{"uuid": "7154580c-5402-409f-b5a2-2c37090880de", "sub_uri": "Q673038", "obj_uri": "Q308889", "sub_label": "Cessna Citation Excel", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "d37f997d-2d66-491b-9981-a1c238de23d9", "sub_uri": "Q2296737", "obj_uri": "Q1418", "sub_label": "Nokia 6670", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "2faf682f-5027-4d5c-9e8a-fad21bd81ed7", "sub_uri": "Q4260555", "obj_uri": "Q9584", "sub_label": "Honda U3-X", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "69742928-ab6a-4bfb-87f3-503d6580fc04", "sub_uri": "Q391342", "obj_uri": "Q172741", "sub_label": "Subaru Impreza", "obj_label": "Subaru", "predicate_id": "P176"}
+{"uuid": "11a948b8-ceac-42cb-8fad-96fbcb28b405", "sub_uri": "Q1159933", "obj_uri": "Q949211", "sub_label": "Luna 9", "obj_label": "Lavochkin", "predicate_id": "P176"}
+{"uuid": "ffd80443-e47f-4358-894c-9c7391330a0b", "sub_uri": "Q391923", "obj_uri": "Q194009", "sub_label": "Tupolev Tu-14", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "a4880528-7cb9-45c0-a012-caa5d20ca1f3", "sub_uri": "Q763711", "obj_uri": "Q9584", "sub_label": "Honda CBR900RR", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "9ec70f33-76e0-4060-b461-9abf2d14dcf7", "sub_uri": "Q917897", "obj_uri": "Q327429", "sub_label": "Taymyr (kapal pemecah es bertenaga nuklir)", "obj_label": "W\u00e4rtsil\u00e4", "predicate_id": "P176"}
+{"uuid": "552de5cb-2156-47ba-862e-81fd34230fd3", "sub_uri": "Q14905746", "obj_uri": "Q52618", "sub_label": "PS-05/A", "obj_label": "Ericsson", "predicate_id": "P176"}
+{"uuid": "90a2954c-64af-4c71-832c-661a3d8e4c7b", "sub_uri": "Q7830796", "obj_uri": "Q53268", "sub_label": "Mesin Toyota H", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "b785c090-7ac4-479e-bf1b-b8d9afc59eeb", "sub_uri": "Q579939", "obj_uri": "Q212268", "sub_label": "Antonov An-32", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "185a3140-255b-415a-8de9-42a1f924c75b", "sub_uri": "Q1993801", "obj_uri": "Q20165", "sub_label": "Nissan Pulsar", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "2585154c-ca25-4e55-8f1a-a25111123fcc", "sub_uri": "Q499738", "obj_uri": "Q66", "sub_label": "Boeing KC-46", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "6d2f0e24-2abd-42cf-bcad-d82c1853ecea", "sub_uri": "Q5464206", "obj_uri": "Q155896", "sub_label": "Fokker Universal", "obj_label": "Fokker", "predicate_id": "P176"}
+{"uuid": "0804af26-944d-4524-9cc5-d7abb1ee83ba", "sub_uri": "Q5241097", "obj_uri": "Q20165", "sub_label": "Lambda 4S", "obj_label": "Nissan", "predicate_id": "P176"}
+{"uuid": "6257ab3a-480c-4bf6-b462-52e148bee333", "sub_uri": "Q687440", "obj_uri": "Q463261", "sub_label": "Grumman XF10F Jaguar", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "3b1920cd-0d62-4957-8c88-606b84e46480", "sub_uri": "Q151465", "obj_uri": "Q541477", "sub_label": "Panzer I", "obj_label": "Daimler-Benz", "predicate_id": "P176"}
+{"uuid": "41c58d2f-2fbe-4fe4-9230-9a0d483e3c73", "sub_uri": "Q932329", "obj_uri": "Q181642", "sub_label": "Suzuki Ignis", "obj_label": "Suzuki", "predicate_id": "P176"}
+{"uuid": "66a57b44-f6f4-4067-8a58-f71a814cb57c", "sub_uri": "Q12479711", "obj_uri": "Q29041", "sub_label": "Lokomotif DD52", "obj_label": "Hanomag", "predicate_id": "P176"}
+{"uuid": "f3d8bcaa-3632-4ade-8c4d-0b1c04edb414", "sub_uri": "Q4937293", "obj_uri": "Q890353", "sub_label": "Bofors 152 mm", "obj_label": "Bofors", "predicate_id": "P176"}
+{"uuid": "baca4984-dcdd-4232-aa97-0198b36d318f", "sub_uri": "Q292553", "obj_uri": "Q156644", "sub_label": "AGM-65 Maverick", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "9b5f06a4-423f-4f41-a833-b160bcbb58f4", "sub_uri": "Q309258", "obj_uri": "Q6686", "sub_label": "Renault Clio", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "9f2cc459-fee8-43d3-98aa-35b4d483f253", "sub_uri": "Q938621", "obj_uri": "Q173778", "sub_label": "B\u00f6lkow Bo 46", "obj_label": "B\u00f6lkow", "predicate_id": "P176"}
+{"uuid": "b6ac5a3d-2cac-49ea-bd56-9c3c30e3a390", "sub_uri": "Q3866371", "obj_uri": "Q27511", "sub_label": "Mesin KR Toyota", "obj_label": "Daihatsu", "predicate_id": "P176"}
+{"uuid": "6341fcd4-d090-4f00-bdef-c8827f09530e", "sub_uri": "Q50215807", "obj_uri": "Q1418", "sub_label": "Nokia 1", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "0e1ee90f-0e6d-4fde-85d6-c8d5d9410a88", "sub_uri": "Q7830802", "obj_uri": "Q53268", "sub_label": "Mesin Toyota KD", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "f5b4f1de-9f1c-4dee-bfef-4a1b18f50e52", "sub_uri": "Q1429789", "obj_uri": "Q1418", "sub_label": "Nokia 7650", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "a559fbbe-b411-44e1-a92a-76c70f72abc7", "sub_uri": "Q4053521", "obj_uri": "Q1538336", "sub_label": "ZBD2000", "obj_label": "Norinco", "predicate_id": "P176"}
+{"uuid": "821b2bf2-03b5-415b-855d-23615620e0b3", "sub_uri": "Q337467", "obj_uri": "Q212268", "sub_label": "Antonov An-24", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "bbd089c9-bbd7-42a6-8025-a43bbb77bd58", "sub_uri": "Q3665639", "obj_uri": "Q308889", "sub_label": "Cessna C-106 Loadmaster", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "1ff39d3d-7c61-43b2-bcb2-d89de348024b", "sub_uri": "Q1139653", "obj_uri": "Q763052", "sub_label": "HMS King George V (41)", "obj_label": "Vickers-Armstrongs", "predicate_id": "P176"}
+{"uuid": "a3acf3c5-2ad0-47ee-bb8d-40aead4f7358", "sub_uri": "Q238579", "obj_uri": "Q161544", "sub_label": "5 cm FlaK 41", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "03e0ae3a-6237-4b79-a6fd-7ee250314fee", "sub_uri": "Q5065576", "obj_uri": "Q308889", "sub_label": "Cessna EC-2", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "602c0d20-bfd5-4e08-afd8-2ff89b8c0a35", "sub_uri": "Q49050", "obj_uri": "Q95", "sub_label": "Google Nexus", "obj_label": "Google", "predicate_id": "P176"}
+{"uuid": "005ca65c-4506-47b5-8e97-48ddf4c2bb0b", "sub_uri": "Q607758", "obj_uri": "Q212268", "sub_label": "Antonov An-8", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "c9a6e676-9ee0-4f02-a8a1-3998145e9c69", "sub_uri": "Q1550398", "obj_uri": "Q463261", "sub_label": "Grumman G-44 Widgeon", "obj_label": "Grumman", "predicate_id": "P176"}
+{"uuid": "f03de786-dd99-4b60-ad76-0d9da37ac64e", "sub_uri": "Q1463375", "obj_uri": "Q650639", "sub_label": "MILAN", "obj_label": "A\u00e9rospatiale", "predicate_id": "P176"}
+{"uuid": "271bdec9-433c-4f08-9421-3e35e7220f74", "sub_uri": "Q705254", "obj_uri": "Q2467921", "sub_label": "Roland (peluru kendali)", "obj_label": "Euromissile", "predicate_id": "P176"}
+{"uuid": "9a41d189-03d7-4579-b2de-1502fd9b4acb", "sub_uri": "Q7906583", "obj_uri": "Q6686", "sub_label": "VBC-90", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "d4b70cd9-ea07-4e5f-a480-feeeb8c4015a", "sub_uri": "Q130681", "obj_uri": "Q188508", "sub_label": "Mikoyan MiG-29", "obj_label": "Mikoyan", "predicate_id": "P176"}
+{"uuid": "8c294cfd-c18a-4ed7-98e3-2ba60b5b1509", "sub_uri": "Q637178", "obj_uri": "Q8093", "sub_label": "Nintendo DSi", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "7ab1bfa2-f51a-4110-ac35-cf70afdd126a", "sub_uri": "Q2020179", "obj_uri": "Q1418", "sub_label": "Nokia 2600", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "eeb7c983-8ec1-4993-a4b4-dce87836bccf", "sub_uri": "Q1125114", "obj_uri": "Q40993", "sub_label": "Porsche 944", "obj_label": "Porsche", "predicate_id": "P176"}
+{"uuid": "ec6fbee5-96cb-4aec-8c92-0f190ea313a7", "sub_uri": "Q1057241", "obj_uri": "Q308889", "sub_label": "Cessna 411", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "9e8fa228-eb5f-467a-be09-f09ccdceaa4a", "sub_uri": "Q158441", "obj_uri": "Q161544", "sub_label": "FG 42", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "edaece35-a646-4419-b488-7edab03b3904", "sub_uri": "Q159881", "obj_uri": "Q183275", "sub_label": "F-104 Starfighter", "obj_label": "Mitsubishi", "predicate_id": "P176"}
+{"uuid": "9bca4772-0f1c-444b-bce9-584adf3cb3b3", "sub_uri": "Q2580991", "obj_uri": "Q1418", "sub_label": "Nokia 6136", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "fe157c04-1de8-4b9d-95ea-3d0093b82b89", "sub_uri": "Q1617995", "obj_uri": "Q219203", "sub_label": "HALCA", "obj_label": "NEC", "predicate_id": "P176"}
+{"uuid": "45cffb28-9a76-4a7c-a591-ea52e5833ea4", "sub_uri": "Q1093728", "obj_uri": "Q6746", "sub_label": "Citro\u00ebn Xsara Picasso", "obj_label": "Citro\u00ebn", "predicate_id": "P176"}
+{"uuid": "3875e0a8-555e-4822-820a-dddb3a46a4de", "sub_uri": "Q833233", "obj_uri": "Q66", "sub_label": "Boeing Bird of Prey", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "bb5f25f2-183a-498e-882b-469b00c86fd0", "sub_uri": "Q44127", "obj_uri": "Q259011", "sub_label": "Peladen", "obj_label": "Motorola", "predicate_id": "P176"}
+{"uuid": "7ad7b3d6-4b12-4d14-98ab-f7ccf1758ea7", "sub_uri": "Q660357", "obj_uri": "Q1418", "sub_label": "Nokia 2760", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "82f82228-3339-4d65-8420-1270f7034bd7", "sub_uri": "Q2607886", "obj_uri": "Q1475312", "sub_label": "Tour Generali", "obj_label": "VINCI", "predicate_id": "P176"}
+{"uuid": "17c18ab6-ec11-4b68-9d29-37c7fabe1466", "sub_uri": "Q58725", "obj_uri": "Q96", "sub_label": "Lockheed T-33 Shooting Star", "obj_label": "Meksiko", "predicate_id": "P176"}
+{"uuid": "34a1e2e0-a8f1-4954-8b1b-31a627106782", "sub_uri": "Q4492531", "obj_uri": "Q194009", "sub_label": "Frigate Ecojet", "obj_label": "Tupolev", "predicate_id": "P176"}
+{"uuid": "6c29cc11-245f-4ae0-90b9-37fec927f1cb", "sub_uri": "Q223697", "obj_uri": "Q156644", "sub_label": "FIM-92 Stinger", "obj_label": "Raytheon", "predicate_id": "P176"}
+{"uuid": "09d3caaa-a087-4943-bf4c-52fce2e7e43f", "sub_uri": "Q1256040", "obj_uri": "Q53268", "sub_label": "Toyota Sienta", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "8a5a72b2-378d-47cf-a1ad-2ab3c84def26", "sub_uri": "Q1057233", "obj_uri": "Q308889", "sub_label": "Cessna 414", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "bd0468eb-8eee-455a-be72-12edc1058b99", "sub_uri": "Q746980", "obj_uri": "Q26678", "sub_label": "BMW X1", "obj_label": "BMW", "predicate_id": "P176"}
+{"uuid": "e079a80b-9491-49a7-bf7b-a6a214027151", "sub_uri": "Q1093728", "obj_uri": "Q6742", "sub_label": "Citro\u00ebn Xsara Picasso", "obj_label": "Peugeot", "predicate_id": "P176"}
+{"uuid": "d4bce323-40d7-47c3-ab3c-f7656a7e1604", "sub_uri": "Q495049", "obj_uri": "Q39949", "sub_label": "HUBO", "obj_label": "KAIST", "predicate_id": "P176"}
+{"uuid": "d8db8fb2-ac5b-41b4-a198-dea941f3bc40", "sub_uri": "Q97094785", "obj_uri": "Q53268", "sub_label": "Toyota Corolla Cross", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "077fcb91-2b72-4f5f-bdd9-184dbdae518f", "sub_uri": "Q1057193", "obj_uri": "Q308889", "sub_label": "Cessna 210", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "d112483d-9b14-449e-86ee-104064d15b5a", "sub_uri": "Q326850", "obj_uri": "Q3895", "sub_label": "Adidas Teamgeist", "obj_label": "Adidas", "predicate_id": "P176"}
+{"uuid": "b0739d3f-f627-48b4-ad3d-59a36616f8d7", "sub_uri": "Q13507141", "obj_uri": "Q398878", "sub_label": "AgustaWestland Project Zero", "obj_label": "AgustaWestland", "predicate_id": "P176"}
+{"uuid": "0a9e3e5f-e10e-48c6-8720-903f4153edfc", "sub_uri": "Q7830788", "obj_uri": "Q53268", "sub_label": "Mesin Toyota GR", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "6074db7e-c45d-4564-bef2-6c4d3070f8a0", "sub_uri": "Q1157582", "obj_uri": "Q27511", "sub_label": "Daihatsu Zebra Espass", "obj_label": "Daihatsu", "predicate_id": "P176"}
+{"uuid": "baa9a155-18fb-4ba6-bbab-7e42c44da5af", "sub_uri": "Q1421529", "obj_uri": "Q9584", "sub_label": "Honda CR-Z", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "71aea2d3-dfdc-4c4c-9a8d-b01d68d2671b", "sub_uri": "Q234069", "obj_uri": "Q188508", "sub_label": "Mikoyan MiG-27", "obj_label": "Mikoyan", "predicate_id": "P176"}
+{"uuid": "f38677b4-cdf1-4dc2-b3f5-58a5a3417fd8", "sub_uri": "Q173321", "obj_uri": "Q27586", "sub_label": "Ferrari 150\u00b0 Italia", "obj_label": "Ferrari", "predicate_id": "P176"}
+{"uuid": "e819165e-01cf-4dea-8f1f-31f285793383", "sub_uri": "Q1509972", "obj_uri": "Q53268", "sub_label": "Lexus LX", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "78ded3cc-c2d0-4fbb-96b9-6222f5ae763b", "sub_uri": "Q1263380", "obj_uri": "Q271812", "sub_label": "Ducati Desmosedici", "obj_label": "Ducati", "predicate_id": "P176"}
+{"uuid": "a8854925-e1a7-4185-8478-936eb7aa767e", "sub_uri": "Q844552", "obj_uri": "Q8093", "sub_label": "Nintendo DS Lite", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "b2a9bf60-8d46-41a8-b800-ba6e74c69ed1", "sub_uri": "Q604916", "obj_uri": "Q66", "sub_label": "Boeing E-6 Mercury", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "639b7574-bef7-4e01-bc8b-7458986ec02b", "sub_uri": "Q1051186", "obj_uri": "Q3704976", "sub_label": "9K34 Strela-3", "obj_label": "KBM", "predicate_id": "P176"}
+{"uuid": "e291f923-abfc-423a-ba5a-c49045b60848", "sub_uri": "Q170158", "obj_uri": "Q836947", "sub_label": "Convair XB-53", "obj_label": "Convair", "predicate_id": "P176"}
+{"uuid": "2cb3095d-e8d9-40aa-a4cd-a167f7351fc3", "sub_uri": "Q1129307", "obj_uri": "Q836947", "sub_label": "Convair F2Y Sea Dart", "obj_label": "Convair", "predicate_id": "P176"}
+{"uuid": "a99e65b3-1049-4fb9-a204-7ef280d322dd", "sub_uri": "Q1458281", "obj_uri": "Q53268", "sub_label": "Lexus GX", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "cc2a025c-261d-4d6c-b327-7d4396d901f8", "sub_uri": "Q186437", "obj_uri": "Q8093", "sub_label": "Game Boy", "obj_label": "Nintendo", "predicate_id": "P176"}
+{"uuid": "adbc7139-a6f1-4c9b-b129-53bab7476696", "sub_uri": "Q748126", "obj_uri": "Q9584", "sub_label": "Honda NSX", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "50be224a-962a-4e51-8f7c-afc171dd6c43", "sub_uri": "Q160327", "obj_uri": "Q181114", "sub_label": "M48 Patton", "obj_label": "Chrysler", "predicate_id": "P176"}
+{"uuid": "de79b9e6-8e71-43b4-bc7c-487ef01cb07a", "sub_uri": "Q781894", "obj_uri": "Q66", "sub_label": "CIM-10 Bomarc", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "59cef0b7-9a1f-4e31-b754-516c5831a7c0", "sub_uri": "Q187377", "obj_uri": "Q188508", "sub_label": "Mikoyan-Gurevich MiG-15", "obj_label": "Mikoyan", "predicate_id": "P176"}
+{"uuid": "d703029d-be89-4744-a1ad-616eb4c04055", "sub_uri": "Q191564", "obj_uri": "Q3895", "sub_label": "Adidas Jabulani", "obj_label": "Adidas", "predicate_id": "P176"}
+{"uuid": "2836e514-2725-40e1-b6ec-dda6a63a49e4", "sub_uri": "Q1658673", "obj_uri": "Q221419", "sub_label": "Ilyushin Il-103", "obj_label": "Ilyushin", "predicate_id": "P176"}
+{"uuid": "fad6bbe2-84ba-4978-9911-6fc3a07d3629", "sub_uri": "Q3533938", "obj_uri": "Q161544", "sub_label": "Nanuk Remotely Controlled Weapon Station", "obj_label": "Rheinmetall", "predicate_id": "P176"}
+{"uuid": "b5cd0509-d72e-40ee-a3a3-58394f907e78", "sub_uri": "Q398951", "obj_uri": "Q910379", "sub_label": "Agusta AW119", "obj_label": "Leonardo", "predicate_id": "P176"}
+{"uuid": "76f9ba84-0567-435e-97bb-0a82d21d4ea2", "sub_uri": "Q2856400", "obj_uri": "Q217338", "sub_label": "Casio SK-1", "obj_label": "Casio", "predicate_id": "P176"}
+{"uuid": "05ddd5b8-82d5-4bb2-a42a-be1874e1622a", "sub_uri": "Q3342811", "obj_uri": "Q1418", "sub_label": "Nokia 1650", "obj_label": "Nokia", "predicate_id": "P176"}
+{"uuid": "e741431b-3a2a-47ed-adf3-6c3dd4f827ec", "sub_uri": "Q429894", "obj_uri": "Q1115363", "sub_label": "Comac C919", "obj_label": "Comac", "predicate_id": "P176"}
+{"uuid": "5935dc19-20e6-40f5-bb9e-13098cffa1dc", "sub_uri": "Q267075", "obj_uri": "Q2465628", "sub_label": "AO-38", "obj_label": "TsNIITochMash", "predicate_id": "P176"}
+{"uuid": "5fa79659-3c56-4428-88e7-71ddee87440f", "sub_uri": "Q1057203", "obj_uri": "Q308889", "sub_label": "Cessna 402", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "f2298970-d421-4ce1-8db8-13344bcc69f7", "sub_uri": "Q2077995", "obj_uri": "Q6686", "sub_label": "Renault R23", "obj_label": "Renault", "predicate_id": "P176"}
+{"uuid": "aa201ce2-3c34-4624-b10a-ee11b52717e8", "sub_uri": "Q1410402", "obj_uri": "Q1302944", "sub_label": "Stadion Pierre-Mauroy", "obj_label": "Eiffage", "predicate_id": "P176"}
+{"uuid": "8d7a4801-4383-4ebb-a3ad-85cab36247cd", "sub_uri": "Q202821", "obj_uri": "Q8473", "sub_label": "Telepon lapangan", "obj_label": "Militer", "predicate_id": "P176"}
+{"uuid": "2376197f-7d1c-449a-9cff-c41463eb50ed", "sub_uri": "Q54375", "obj_uri": "Q49125", "sub_label": "Suzaku (satelit)", "obj_label": "Toshiba", "predicate_id": "P176"}
+{"uuid": "192c74a1-f8b0-48b1-9df2-d359c68cc052", "sub_uri": "Q56416444", "obj_uri": "Q2373726", "sub_label": "Lokomotif C52", "obj_label": "Werkspoor", "predicate_id": "P176"}
+{"uuid": "880d005d-2cc3-4769-98b5-21e32e76dabe", "sub_uri": "Q2726227", "obj_uri": "Q53268", "sub_label": "Toyota Corolla (E120)", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "47c7d200-411d-449d-a8fe-e330414e8d72", "sub_uri": "Q292538", "obj_uri": "Q181114", "sub_label": "AGM-80 Viper", "obj_label": "Chrysler", "predicate_id": "P176"}
+{"uuid": "6ced6f1d-2ebf-4791-8300-ac67c751473c", "sub_uri": "Q5630387", "obj_uri": "Q913741", "sub_label": "HMAS Jervis Bay (AKR 45)", "obj_label": "Incat", "predicate_id": "P176"}
+{"uuid": "d15735c6-9567-4256-9d8e-de696717a76e", "sub_uri": "Q5892627", "obj_uri": "Q9584", "sub_label": "Honda PCX", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "b881cd70-63e0-4213-b41b-d80c30f0e377", "sub_uri": "Q2262944", "obj_uri": "Q813639", "sub_label": "Reaktor A1B", "obj_label": "Bechtel", "predicate_id": "P176"}
+{"uuid": "11cd15a7-425f-40c4-86a1-1046a859df57", "sub_uri": "Q607444", "obj_uri": "Q212268", "sub_label": "Antonov An-22", "obj_label": "Antonov", "predicate_id": "P176"}
+{"uuid": "b8362e18-8af1-4230-acf1-62c9b20c8271", "sub_uri": "Q3770701", "obj_uri": "Q193701", "sub_label": "Falcon (keluarga roket)", "obj_label": "SpaceX", "predicate_id": "P176"}
+{"uuid": "a5043c8f-afa3-4c3c-bd80-375cffb05664", "sub_uri": "Q157586", "obj_uri": "Q166203", "sub_label": "Walther P38", "obj_label": "Mauser", "predicate_id": "P176"}
+{"uuid": "4a2fe4d5-4fe3-4a0d-8029-beb3031242b1", "sub_uri": "Q18125645", "obj_uri": "Q1538336", "sub_label": "HJ-12", "obj_label": "Norinco", "predicate_id": "P176"}
+{"uuid": "1c6c76a1-f42b-46d8-9c4b-0879061a4c30", "sub_uri": "Q1068992", "obj_uri": "Q53268", "sub_label": "Toyota Carina", "obj_label": "Toyota", "predicate_id": "P176"}
+{"uuid": "33905f52-245a-4807-bb5c-101bef00fdaf", "sub_uri": "Q344833", "obj_uri": "Q9584", "sub_label": "Acura ZDX", "obj_label": "Honda", "predicate_id": "P176"}
+{"uuid": "3d934a57-3990-4295-a7af-3073b77c0326", "sub_uri": "Q2558622", "obj_uri": "Q66", "sub_label": "Boeing Model 1", "obj_label": "Boeing", "predicate_id": "P176"}
+{"uuid": "793142b0-d843-45dc-875e-c618b4e36b24", "sub_uri": "Q1057100", "obj_uri": "Q308889", "sub_label": "Cessna 177 Cardinal", "obj_label": "Cessna", "predicate_id": "P176"}
+{"uuid": "13f82dc0-aafe-4229-a3b4-a36f17c725f3", "sub_uri": "Q218645", "obj_uri": "Q66", "sub_label": "Boeing WC-135 Constant Phoenix", "obj_label": "Boeing", "predicate_id": "P176"}

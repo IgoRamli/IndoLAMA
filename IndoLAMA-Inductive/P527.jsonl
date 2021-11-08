@@ -1,0 +1,13 @@
+{"uuid": "384e5ef5-19c4-4a97-94ce-37a6f1f3317e", "sub_uri": "Q19771", "obj_uri": "Q414", "sub_label": "G20", "obj_label": "Argentina", "predicate_id": "P527"}
+{"uuid": "246d28e1-095a-4973-a75a-0f46d32bbc3a", "sub_uri": "Q1156248", "obj_uri": "Q25", "sub_label": "Inggris dan Wales", "obj_label": "Wales", "predicate_id": "P527"}
+{"uuid": "579486bb-7b3f-41a6-a44a-b0321607336b", "sub_uri": "Q27509", "obj_uri": "Q36", "sub_label": "Eropa Tengah", "obj_label": "Polandia", "predicate_id": "P527"}
+{"uuid": "5fe37448-6e86-4561-bc9c-18e2da980f59", "sub_uri": "Q458", "obj_uri": "Q36", "sub_label": "Uni Eropa", "obj_label": "Polandia", "predicate_id": "P527"}
+{"uuid": "3f21292c-6503-4f8a-b7cc-ca191c8af3fc", "sub_uri": "Q19771", "obj_uri": "Q43", "sub_label": "G20", "obj_label": "Turki", "predicate_id": "P527"}
+{"uuid": "0bd1b46a-ceeb-4084-83c8-ec09084f2429", "sub_uri": "Q458", "obj_uri": "Q31", "sub_label": "Uni Eropa", "obj_label": "Belgia", "predicate_id": "P527"}
+{"uuid": "56e6b6d6-40eb-4fdc-8428-f13c86dc4aa5", "sub_uri": "Q290712", "obj_uri": "Q31", "sub_label": "Statuta Majelis Eropa", "obj_label": "Belgia", "predicate_id": "P527"}
+{"uuid": "8ff6c7f8-0549-4e2f-a709-1f0962354c79", "sub_uri": "Q458", "obj_uri": "Q29", "sub_label": "Uni Eropa", "obj_label": "Spanyol", "predicate_id": "P527"}
+{"uuid": "91695055-f531-4cf9-919b-a165d9c81537", "sub_uri": "Q27509", "obj_uri": "Q31", "sub_label": "Eropa Tengah", "obj_label": "Belgia", "predicate_id": "P527"}
+{"uuid": "fe7adda6-4d23-47b5-a25d-ae8adc756392", "sub_uri": "Q1156248", "obj_uri": "Q21", "sub_label": "Inggris dan Wales", "obj_label": "Inggris", "predicate_id": "P527"}
+{"uuid": "2910306e-e983-40e8-a7f6-957cc4b20923", "sub_uri": "Q458", "obj_uri": "Q233", "sub_label": "Uni Eropa", "obj_label": "Malta", "predicate_id": "P527"}
+{"uuid": "e76a2d1d-65c7-4bb4-9f85-2d34d198487b", "sub_uri": "Q27509", "obj_uri": "Q39", "sub_label": "Eropa Tengah", "obj_label": "Swiss", "predicate_id": "P527"}
+{"uuid": "f51df1ef-63e2-49fc-9862-4966015d4c31", "sub_uri": "Q458", "obj_uri": "Q219", "sub_label": "Uni Eropa", "obj_label": "Bulgaria", "predicate_id": "P527"}

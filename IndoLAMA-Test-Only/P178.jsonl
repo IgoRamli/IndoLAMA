@@ -1,0 +1,6 @@
+{"uuid": "e46e6fd2-bcb3-4b1b-8077-03be32c27c82", "sub_uri": "Q296957", "obj_uri": "Q41187", "sub_label": "ARccOS Protection", "obj_label": "Sony", "predicate_id": "P178"}
+{"uuid": "1ee5ca92-5672-4339-8695-0d0778a2d678", "sub_uri": "Q589680", "obj_uri": "Q2283", "sub_label": "Xenix", "obj_label": "Microsoft", "predicate_id": "P178"}
+{"uuid": "84eb0e42-2a9f-44fb-bf8a-f5eaf2e7526b", "sub_uri": "Q1340846", "obj_uri": "Q207922", "sub_label": "Tempest", "obj_label": "Atari", "predicate_id": "P178"}
+{"uuid": "3cdb5308-c934-47fb-ac95-e9c47370a4ed", "sub_uri": "Q740536", "obj_uri": "Q333780", "sub_label": "L-15", "obj_label": "Yakovlev", "predicate_id": "P178"}
+{"uuid": "d49ce20c-59f4-4a6f-ab46-e70a87605ae8", "sub_uri": "Q135288", "obj_uri": "Q2283", "sub_label": "Bursa Microsoft", "obj_label": "Microsoft", "predicate_id": "P178"}
+{"uuid": "941e9b2c-a40f-4f54-bccb-f21048c708d5", "sub_uri": "Q773424", "obj_uri": "Q2283", "sub_label": "Windows Essentials", "obj_label": "Microsoft", "predicate_id": "P178"}

@@ -1,0 +1,660 @@
+{"uuid": "b0120809-c9b2-40e3-a26e-0cf6a125e638", "sub_uri": "Q321206", "obj_uri": "Q642622", "sub_label": "Pavel Kutakhov", "obj_label": "Beriev", "predicate_id": "P108"}
+{"uuid": "774ca144-2ac3-4187-a640-466292796e06", "sub_uri": "Q232776", "obj_uri": "Q245343", "sub_label": "Anna Chapman", "obj_label": "Barclays", "predicate_id": "P108"}
+{"uuid": "854b2a98-0f90-46db-bb34-2552bfc9e0c1", "sub_uri": "Q231911", "obj_uri": "Q1113804", "sub_label": "Sof\u00eda Vergara", "obj_label": "Comcast", "predicate_id": "P108"}
+{"uuid": "4c6b8219-eee9-4bdd-aeb4-3e6da1582a8c", "sub_uri": "Q835558", "obj_uri": "Q174097", "sub_label": "Sybill Trelawney", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "96d1068a-9934-48f2-83c7-80c3f24dfdd0", "sub_uri": "Q146749", "obj_uri": "Q13717", "sub_label": "Daniel Schneidermann", "obj_label": "Lib\u00e9ration", "predicate_id": "P108"}
+{"uuid": "ff78806a-ea89-4327-8e40-06d99f891f94", "sub_uri": "Q657354", "obj_uri": "Q9531", "sub_label": "Richard Eyre", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "82df8a9b-b48f-42d5-a8c8-c7c8ad7189f8", "sub_uri": "Q17411321", "obj_uri": "Q5257843", "sub_label": "Senandung Nacita", "obj_label": "SCTV", "predicate_id": "P108"}
+{"uuid": "dbfbb7be-6f2c-4efc-9be6-ff805da6eff3", "sub_uri": "Q370299", "obj_uri": "Q95", "sub_label": "Chad Hurley", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "da112d93-6043-48c8-8620-85a42b18d589", "sub_uri": "Q103902", "obj_uri": "Q162684", "sub_label": "Rudolph Nissen", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "f677774c-89de-4907-8144-ac7fa665113c", "sub_uri": "Q43283459", "obj_uri": "Q15861362", "sub_label": "Erica Baker", "obj_label": "Patreon", "predicate_id": "P108"}
+{"uuid": "cb575f1b-743b-4d2c-9181-0b58b2763c35", "sub_uri": "Q214677", "obj_uri": "Q188413", "sub_label": "Nora Ephron", "obj_label": "Newsweek", "predicate_id": "P108"}
+{"uuid": "80acae96-6d29-4e13-ad3f-2d1e2b186a29", "sub_uri": "Q66245", "obj_uri": "Q179200", "sub_label": "Oskar Fischinger", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "a8ffd200-9be4-47f9-b7a8-cc54af1afa99", "sub_uri": "Q55174", "obj_uri": "Q80978", "sub_label": "Meg Whitman", "obj_label": "Hewlett-Packard", "predicate_id": "P108"}
+{"uuid": "0d382ec0-54ae-4d71-8d9b-b7843f959cac", "sub_uri": "Q182408", "obj_uri": "Q9531", "sub_label": "Glenda Jackson", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "87728146-5e74-402e-a8ec-acb9d4c9e58a", "sub_uri": "Q76751", "obj_uri": "Q3895", "sub_label": "Adolf Dassler", "obj_label": "Adidas", "predicate_id": "P108"}
+{"uuid": "6fa2bc0f-38c4-4970-b3e2-cf94241549c0", "sub_uri": "Q375641", "obj_uri": "Q2704796", "sub_label": "Akihiko Hoshide", "obj_label": "NASDA", "predicate_id": "P108"}
+{"uuid": "b71b6782-4479-471b-a2bb-624893d298d3", "sub_uri": "Q184592", "obj_uri": "Q42944", "sub_label": "Gerardus 't Hooft", "obj_label": "CERN", "predicate_id": "P108"}
+{"uuid": "43fa0a9c-3fb2-4f8e-aa01-f515e7f373e2", "sub_uri": "Q512266", "obj_uri": "Q48756", "sub_label": "Thomas Pesquet", "obj_label": "CNES", "predicate_id": "P108"}
+{"uuid": "3240d4f5-3375-4534-9e9d-0e045d8e1432", "sub_uri": "Q14786031", "obj_uri": "Q9531", "sub_label": "Komla Dumor", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "ed721690-5148-4d50-b6ac-f3d3f548e9f2", "sub_uri": "Q3369717", "obj_uri": "Q1153275", "sub_label": "Umetaro Suzuki", "obj_label": "Riken", "predicate_id": "P108"}
+{"uuid": "c6c288d6-d74a-4224-bf9c-fc9998076ebc", "sub_uri": "Q2660886", "obj_uri": "Q333705", "sub_label": "Uzi Landau", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "200895e9-06ee-41fe-8b0b-9665b7850666", "sub_uri": "Q694984", "obj_uri": "Q488048", "sub_label": "Seema Malhotra", "obj_label": "PricewaterhouseCoopers", "predicate_id": "P108"}
+{"uuid": "0a943049-91be-4d13-9742-ed1f5adfc252", "sub_uri": "Q55174", "obj_uri": "Q58024", "sub_label": "Meg Whitman", "obj_label": "EBay", "predicate_id": "P108"}
+{"uuid": "b8e6c3ef-bb0e-4e13-8403-d7e071035a9f", "sub_uri": "Q949196", "obj_uri": "Q1045210", "sub_label": "Ken Miles", "obj_label": "Shelby", "predicate_id": "P108"}
+{"uuid": "d134a5b1-2538-4e49-9415-be218ba6b98a", "sub_uri": "Q6306480", "obj_uri": "Q311249", "sub_label": "Julia Ioffe", "obj_label": "GQ", "predicate_id": "P108"}
+{"uuid": "1facde3e-73d2-4c3c-93a7-1409613d08c9", "sub_uri": "Q233153", "obj_uri": "Q903343", "sub_label": "Kagney Linn Karter", "obj_label": "Brazzers", "predicate_id": "P108"}
+{"uuid": "5733650d-072c-4009-855b-1a46ae8efa05", "sub_uri": "Q232302", "obj_uri": "Q333705", "sub_label": "Avram Hershko", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "2bc9167c-4519-430b-9a76-f29e6afe7676", "sub_uri": "Q3309344", "obj_uri": "Q1044328", "sub_label": "Michel Cournot", "obj_label": "L'Obs", "predicate_id": "P108"}
+{"uuid": "b5870db4-994d-4d7e-a41d-9cb9806810c0", "sub_uri": "Q555", "obj_uri": "Q13973", "sub_label": "Rachel Maddow", "obj_label": "MSNBC", "predicate_id": "P108"}
+{"uuid": "38cc650d-e873-4f8b-9dff-611402df390f", "sub_uri": "Q1196388", "obj_uri": "Q141336", "sub_label": "Nikolai Kryuchkov", "obj_label": "Mosfilm", "predicate_id": "P108"}
+{"uuid": "465241a8-7397-4c8b-877d-f9dc93aa1739", "sub_uri": "Q1764649", "obj_uri": "Q9584", "sub_label": "Takanobu Ito", "obj_label": "Honda", "predicate_id": "P108"}
+{"uuid": "00263628-23a9-485d-9bd3-c512ec32a0eb", "sub_uri": "Q1052709", "obj_uri": "Q152433", "sub_label": "Larry Tesler", "obj_label": "Xerox", "predicate_id": "P108"}
+{"uuid": "69c59930-7bd4-4323-b0da-41a22679ec62", "sub_uri": "Q3308576", "obj_uri": "Q9531", "sub_label": "Lee McKenzie", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "2874bd45-93b3-4846-935d-632a87628240", "sub_uri": "Q216160", "obj_uri": "Q9531", "sub_label": "Jeremy Clarkson", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "34a23404-145b-48e1-b064-226f6758ef53", "sub_uri": "Q526166", "obj_uri": "Q95", "sub_label": "Andy Hertzfeld", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "5327e56b-585d-4f9e-822f-fb2775e11519", "sub_uri": "Q949392", "obj_uri": "Q35339", "sub_label": "Brodus Clay", "obj_label": "WWE", "predicate_id": "P108"}
+{"uuid": "a0714534-48db-455e-b4c0-06e6354afc15", "sub_uri": "Q269214", "obj_uri": "Q242446", "sub_label": "John Lasseter", "obj_label": "Lucasfilm", "predicate_id": "P108"}
+{"uuid": "5b543624-18c3-4f44-9f29-be1b9315bce7", "sub_uri": "Q6193301", "obj_uri": "Q48340", "sub_label": "Jim Acosta", "obj_label": "CNN", "predicate_id": "P108"}
+{"uuid": "b31fd5e7-aa41-4d6b-8a56-07defac4e5fa", "sub_uri": "Q293260", "obj_uri": "Q13974", "sub_label": "Megyn Kelly", "obj_label": "NBC", "predicate_id": "P108"}
+{"uuid": "e45523fb-06c2-491b-82cf-5117919e483c", "sub_uri": "Q314043", "obj_uri": "Q188508", "sub_label": "Artem Mikoyan", "obj_label": "Mikoyan", "predicate_id": "P108"}
+{"uuid": "ce8638e1-d716-47d9-9ad5-2645c6194432", "sub_uri": "Q14086", "obj_uri": "Q95", "sub_label": "Marissa Mayer", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "226ac6c3-4b96-401a-9ebf-d589939f84cb", "sub_uri": "Q92883", "obj_uri": "Q2283", "sub_label": "Ric Weiland", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "8ae43aa1-8512-48b4-a3e8-ccca3bfdbd00", "sub_uri": "Q4204316", "obj_uri": "Q906927", "sub_label": "Roppa Furukawa", "obj_label": "Bungeishunj\u016b", "predicate_id": "P108"}
+{"uuid": "f3e7dc3f-c9f4-4166-861e-9b35bfafb4e6", "sub_uri": "Q14957120", "obj_uri": "Q310659", "sub_label": "Abby Martin", "obj_label": "Telesur", "predicate_id": "P108"}
+{"uuid": "abdcea6d-fc1f-4024-8dd0-e0eb23022df6", "sub_uri": "Q4272255", "obj_uri": "Q48340", "sub_label": "Ghida Fakhry", "obj_label": "CNN", "predicate_id": "P108"}
+{"uuid": "6197cd5c-3c05-48f2-9724-8450bf2eab1a", "sub_uri": "Q447847", "obj_uri": "Q179200", "sub_label": "Dorothy Arzner", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "4dc6b543-76a2-4004-ab83-ab94cf04781a", "sub_uri": "Q7175401", "obj_uri": "Q2283", "sub_label": "Peter Lee (ilmuwan komputer)", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "96c46329-fdb2-484a-98e0-d5047aa8c0e7", "sub_uri": "Q205303", "obj_uri": "Q419", "sub_label": "Pedro Sarmiento de Gamboa", "obj_label": "Peru", "predicate_id": "P108"}
+{"uuid": "60265842-729d-41a8-bedd-4ef98e86f3b7", "sub_uri": "Q6138984", "obj_uri": "Q9531", "sub_label": "James Martin (aktor)", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "e962a6c5-5176-4a54-9b32-a29f3bd29607", "sub_uri": "Q7786750", "obj_uri": "Q37156", "sub_label": "Thom Tillis", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "f57dc381-a8ac-43a7-bed0-1a71b3378d48", "sub_uri": "Q29544", "obj_uri": "Q9531", "sub_label": "Delia Derbyshire", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "951b2f9b-d720-48f2-b01e-bb3eb409b3d0", "sub_uri": "Q264913", "obj_uri": "Q259011", "sub_label": "Indra Nooyi", "obj_label": "Motorola", "predicate_id": "P108"}
+{"uuid": "5ddf414c-10c8-4cf9-8c9e-af8200fa0971", "sub_uri": "Q5110936", "obj_uri": "Q9531", "sub_label": "Christine Bleakley", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "35ef714b-59d3-4f49-9dfb-612c9f6c22bc", "sub_uri": "Q1254860", "obj_uri": "Q174097", "sub_label": "Pomona Sprout", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "81fae6d5-9b17-4c6d-9047-bdb854148f24", "sub_uri": "Q18421342", "obj_uri": "Q2857708", "sub_label": "Maria Goretti Limi", "obj_label": "Antv", "predicate_id": "P108"}
+{"uuid": "0aab394f-7bf9-4311-9e0a-887fabe84ece", "sub_uri": "Q677627", "obj_uri": "Q911971", "sub_label": "She-Hulk", "obj_label": "S.H.I.E.L.D.", "predicate_id": "P108"}
+{"uuid": "4e8ddf38-1fa1-415f-b4e8-a5ad5bf554e2", "sub_uri": "Q208582", "obj_uri": "Q844822", "sub_label": "Akira Toriyama", "obj_label": "Shueisha", "predicate_id": "P108"}
+{"uuid": "b9ca21df-885a-43e8-9c46-2e025bee70e0", "sub_uri": "Q3478100", "obj_uri": "Q48195", "sub_label": "Wasil bin Atha'", "obj_label": "Basra", "predicate_id": "P108"}
+{"uuid": "988e1434-93f9-4434-98af-15f5d1ba7f0f", "sub_uri": "Q207939", "obj_uri": "Q759210", "sub_label": "Alexander McQueen", "obj_label": "Givenchy", "predicate_id": "P108"}
+{"uuid": "2de6b473-0ae9-439e-813b-83d6f3bbfded", "sub_uri": "Q211098", "obj_uri": "Q483959", "sub_label": "Reid Hoffman", "obj_label": "PayPal", "predicate_id": "P108"}
+{"uuid": "aac7735a-8b9d-440d-914a-b0825384349a", "sub_uri": "Q80", "obj_uri": "Q42944", "sub_label": "Tim Berners-Lee", "obj_label": "CERN", "predicate_id": "P108"}
+{"uuid": "8c5b1a86-1bb6-427c-b710-7ec3893dff0c", "sub_uri": "Q370747", "obj_uri": "Q13974", "sub_label": "Tim Russert", "obj_label": "NBC", "predicate_id": "P108"}
+{"uuid": "4d176f1c-6b1c-4a3c-91ef-aa9350b97467", "sub_uri": "Q374834", "obj_uri": "Q210175", "sub_label": "H.L.A. Hart", "obj_label": "MI5", "predicate_id": "P108"}
+{"uuid": "93819e0e-41c8-4ac2-9b75-33770db82a50", "sub_uri": "Q317521", "obj_uri": "Q483959", "sub_label": "Elon Musk", "obj_label": "PayPal", "predicate_id": "P108"}
+{"uuid": "88e823e0-e511-4df3-b430-137e4ebb586f", "sub_uri": "Q55190", "obj_uri": "Q141336", "sub_label": "Sergei Bondarchuk", "obj_label": "Mosfilm", "predicate_id": "P108"}
+{"uuid": "c5ee7cd9-d21a-479e-ad8f-a68db7636cd0", "sub_uri": "Q298252", "obj_uri": "Q524757", "sub_label": "John Wayne Gacy", "obj_label": "KFC", "predicate_id": "P108"}
+{"uuid": "ba844845-ee6d-44af-913c-83e4bcacbf7c", "sub_uri": "Q7323368", "obj_uri": "Q95", "sub_label": "Rich Miner", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "7cac62a0-fe54-47ac-9931-50174a2fd269", "sub_uri": "Q7524", "obj_uri": "Q461761", "sub_label": "Sue Gardner", "obj_label": "CBC", "predicate_id": "P108"}
+{"uuid": "51c87dbd-c9ef-48f9-851a-7a26e1a6367d", "sub_uri": "Q404867", "obj_uri": "Q20165", "sub_label": "Yoshisuke Aikawa", "obj_label": "Nissan", "predicate_id": "P108"}
+{"uuid": "43b2df10-94c2-495c-8de3-888bcd2a44f2", "sub_uri": "Q2301314", "obj_uri": "Q1377855", "sub_label": "Larry Brilliant", "obj_label": "Google.org", "predicate_id": "P108"}
+{"uuid": "6df2e43a-96bf-4dea-81e4-d280c0635551", "sub_uri": "Q842506", "obj_uri": "Q174097", "sub_label": "Armando Dippet", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "968b6501-5cce-4ad5-a8f7-a91256a36926", "sub_uri": "Q34943", "obj_uri": "Q87", "sub_label": "Klaudius Ptolemaeus", "obj_label": "Iskandariyah", "predicate_id": "P108"}
+{"uuid": "4286af48-17bb-4809-8c94-4c75520369bf", "sub_uri": "Q561401", "obj_uri": "Q9531", "sub_label": "Spike Milligan", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "07f9f920-dad7-4a27-a417-da603e7099f1", "sub_uri": "Q16905622", "obj_uri": "Q2283", "sub_label": "Harry Shum", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "b03b435f-5e26-4007-a5cc-1330cb426a5a", "sub_uri": "Q449095", "obj_uri": "Q34216", "sub_label": "Meir Amit", "obj_label": "Mossad", "predicate_id": "P108"}
+{"uuid": "fd194196-bef3-49f5-9221-cfdaaaf139c7", "sub_uri": "Q133705", "obj_uri": "Q216393", "sub_label": "Gideon Levy", "obj_label": "Haaretz", "predicate_id": "P108"}
+{"uuid": "e3c1dc03-d1db-4d2d-88ca-916bf4d20257", "sub_uri": "Q13095097", "obj_uri": "Q4920542", "sub_label": "Meutya Hafid", "obj_label": "MetroTV", "predicate_id": "P108"}
+{"uuid": "2afb66c6-d298-45e8-beae-4e26da95055c", "sub_uri": "Q19285371", "obj_uri": "Q2765", "sub_label": "Henriette Reker", "obj_label": "Gelsenkirchen", "predicate_id": "P108"}
+{"uuid": "244f986b-d35d-4302-85bf-0b0640bb81ee", "sub_uri": "Q716830", "obj_uri": "Q463094", "sub_label": "Terry Gou", "obj_label": "Foxconn", "predicate_id": "P108"}
+{"uuid": "615ccfba-f774-4a52-8614-02b370f59e8c", "sub_uri": "Q9602", "obj_uri": "Q37156", "sub_label": "Frances E. Allen", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "ed186d16-b584-46fb-9d21-67203de5f829", "sub_uri": "Q17410", "obj_uri": "Q148", "sub_label": "Zhou Enlai", "obj_label": "Tiongkok", "predicate_id": "P108"}
+{"uuid": "b7eda3e0-2cb7-4876-a277-9e5fa6dcf86c", "sub_uri": "Q337024", "obj_uri": "Q334800", "sub_label": "John Sculley", "obj_label": "PepsiCo", "predicate_id": "P108"}
+{"uuid": "5dc161c0-b11b-487f-8259-68bf79acdbdf", "sub_uri": "Q235883", "obj_uri": "Q903343", "sub_label": "Gianna Michaels", "obj_label": "Brazzers", "predicate_id": "P108"}
+{"uuid": "1c98e372-aea5-477b-9591-1a6049dd197c", "sub_uri": "Q190148", "obj_uri": "Q148", "sub_label": "Renzo Piano", "obj_label": "Tiongkok", "predicate_id": "P108"}
+{"uuid": "8729d98f-aba6-40e8-a201-fb2dbc763b96", "sub_uri": "Q3223764", "obj_uri": "Q174097", "sub_label": "Argus Filch", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "e8ac0385-b11a-4eca-9f98-3abf39d8ca5e", "sub_uri": "Q104779", "obj_uri": "Q170416", "sub_label": "Simon van der Meer", "obj_label": "Philips", "predicate_id": "P108"}
+{"uuid": "726fe24d-30d6-4c98-86e0-fe18093b709b", "sub_uri": "Q92606", "obj_uri": "Q2283", "sub_label": "James N. Gray", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "131a6a93-2e26-4beb-94ec-1b6b080197c6", "sub_uri": "Q1637813", "obj_uri": "Q174097", "sub_label": "Horace Slughorn", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "3b13b5a6-0858-4f95-b46e-315f12fc8dfe", "sub_uri": "Q331401", "obj_uri": "Q156238", "sub_label": "Rex Tillerson", "obj_label": "ExxonMobil", "predicate_id": "P108"}
+{"uuid": "d34ed2cb-c474-4ebb-8973-b018cf6a4c99", "sub_uri": "Q177439", "obj_uri": "Q174097", "sub_label": "Rubeus Hagrid", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "6f477ce5-67a0-4366-a880-d5305bd7ce70", "sub_uri": "Q16177015", "obj_uri": "Q857063", "sub_label": "Felia Salim", "obj_label": "Citibank", "predicate_id": "P108"}
+{"uuid": "403ddf32-347f-4429-b05b-441c1a6d3bf9", "sub_uri": "Q5415555", "obj_uri": "Q188413", "sub_label": "Evan Thomas", "obj_label": "Newsweek", "predicate_id": "P108"}
+{"uuid": "2e802966-2bc2-479a-91b7-0a5b9fe295ad", "sub_uri": "Q18421334", "obj_uri": "Q81307", "sub_label": "Longgena Ginting", "obj_label": "Greenpeace", "predicate_id": "P108"}
+{"uuid": "2604463e-a68b-4959-a5e5-0fdbf42cfa5f", "sub_uri": "Q738978", "obj_uri": "Q170416", "sub_label": "Kees Schouhamer Immink", "obj_label": "Philips", "predicate_id": "P108"}
+{"uuid": "3a14d271-203b-4ec6-9846-14b7a80c0aec", "sub_uri": "Q299723", "obj_uri": "Q37156", "sub_label": "Howard Aiken", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "0be27c05-1bf2-4bd7-80b0-2d6773498a83", "sub_uri": "Q185", "obj_uri": "Q17458", "sub_label": "Larry Sanger", "obj_label": "Nupedia", "predicate_id": "P108"}
+{"uuid": "a43b6ffc-c222-485e-a6ee-eafc4b085711", "sub_uri": "Q47906", "obj_uri": "Q43250", "sub_label": "Hermann G\u00f6ring", "obj_label": "Gestapo", "predicate_id": "P108"}
+{"uuid": "08f59795-6498-4f63-baa9-ec865910b2b0", "sub_uri": "Q438848", "obj_uri": "Q34216", "sub_label": "Meir Dagan", "obj_label": "Mossad", "predicate_id": "P108"}
+{"uuid": "4e3ec2ea-11af-4961-beef-3bb27e962e7e", "sub_uri": "Q312799", "obj_uri": "Q497757", "sub_label": "Nikolai Kondratiev", "obj_label": "Gosplan", "predicate_id": "P108"}
+{"uuid": "c236ec64-60bd-4087-9e56-b5d98fd46bf1", "sub_uri": "Q192715", "obj_uri": "Q42944", "sub_label": "D\u012bng Zh\u00e0ozh\u014dng", "obj_label": "CERN", "predicate_id": "P108"}
+{"uuid": "e590a855-59a0-4a74-bdd3-427a8389be9a", "sub_uri": "Q313464", "obj_uri": "Q13974", "sub_label": "Willard Scott", "obj_label": "NBC", "predicate_id": "P108"}
+{"uuid": "abf4c5e8-3474-423f-b7fd-90d81d0df675", "sub_uri": "Q313607", "obj_uri": "Q542767", "sub_label": "John Galliano", "obj_label": "Dior", "predicate_id": "P108"}
+{"uuid": "a3887fd4-d000-4688-b9cd-ba5230e881da", "sub_uri": "Q4165460", "obj_uri": "Q35484", "sub_label": "Aban bin Utsman bin Affan", "obj_label": "Madinah", "predicate_id": "P108"}
+{"uuid": "9d124f8b-5770-41cc-945d-6636b51aa521", "sub_uri": "Q11142", "obj_uri": "Q207983", "sub_label": "Clarence Thomas", "obj_label": "Monsanto", "predicate_id": "P108"}
+{"uuid": "799b2e58-6f7e-4eb7-b0f0-35b7d7c97f21", "sub_uri": "Q5364724", "obj_uri": "Q37156", "sub_label": "Ellen Alemany", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "acb7af49-43c0-4d30-a1fc-bf8fed01d6f1", "sub_uri": "Q25007174", "obj_uri": "Q21190510", "sub_label": "Liu Qing", "obj_label": "DiDi", "predicate_id": "P108"}
+{"uuid": "9cb9b7d9-6e5e-4d4e-8216-d0a042a84bae", "sub_uri": "Q237890", "obj_uri": "Q9531", "sub_label": "Roxana Saberi", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "26052545-0006-44d3-89c3-cc4ae201158f", "sub_uri": "Q297935", "obj_uri": "Q728185", "sub_label": "Eiko Ishioka", "obj_label": "Shiseido", "predicate_id": "P108"}
+{"uuid": "79b5aeb6-212e-40d2-88c3-c8838cb4c0fe", "sub_uri": "Q694984", "obj_uri": "Q338825", "sub_label": "Seema Malhotra", "obj_label": "Accenture", "predicate_id": "P108"}
+{"uuid": "82dc98f6-758b-4f4f-a005-ac9a019ed172", "sub_uri": "Q6304537", "obj_uri": "Q16266700", "sub_label": "Judy Mikovits", "obj_label": "Upjohn", "predicate_id": "P108"}
+{"uuid": "37089249-0ec6-4da8-badc-31d13eec2db4", "sub_uri": "Q76432", "obj_uri": "Q162684", "sub_label": "Rudolf Virchow", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "b9efade8-1cfa-4284-a1e7-2d97051ea40c", "sub_uri": "Q58030", "obj_uri": "Q43250", "sub_label": "Heinrich M\u00fcller (Gestapo)", "obj_label": "Gestapo", "predicate_id": "P108"}
+{"uuid": "ab5d1ccd-5d46-4e78-aa51-c8bf92b0c34c", "sub_uri": "Q61800501", "obj_uri": "Q8093", "sub_label": "Doug Bowser", "obj_label": "Nintendo", "predicate_id": "P108"}
+{"uuid": "38466904-987f-40d1-8ed4-c6bcd0f3455d", "sub_uri": "Q333118", "obj_uri": "Q9531", "sub_label": "David Icke", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "787c0278-474d-4e14-978a-ff732d4427f3", "sub_uri": "Q61761", "obj_uri": "Q2564009", "sub_label": "Pascual Jordan", "obj_label": "Luftwaffe", "predicate_id": "P108"}
+{"uuid": "22b46b4d-dbbf-4806-9592-295906a64b0b", "sub_uri": "Q223311", "obj_uri": "Q34216", "sub_label": "Eli Cohen", "obj_label": "Mossad", "predicate_id": "P108"}
+{"uuid": "38bc1f33-e9e0-4cf1-8df4-db40558a8ea0", "sub_uri": "Q49826", "obj_uri": "Q95", "sub_label": "Andy Rubin", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "64fc2116-513c-481c-8077-e69682c149fe", "sub_uri": "Q16185339", "obj_uri": "Q188413", "sub_label": "Nikki Finke", "obj_label": "Newsweek", "predicate_id": "P108"}
+{"uuid": "ccf02ec4-061f-48b6-aa9a-b4da1550379a", "sub_uri": "Q358556", "obj_uri": "Q53268", "sub_label": "Kiichiro Toyoda", "obj_label": "Toyota", "predicate_id": "P108"}
+{"uuid": "df11088a-4ef9-4c60-8fd2-f54d429d7973", "sub_uri": "Q41508", "obj_uri": "Q124354", "sub_label": "Ludwig Mies van der Rohe", "obj_label": "Bauhaus", "predicate_id": "P108"}
+{"uuid": "0a005fcc-d629-4941-abc1-c16f88311d77", "sub_uri": "Q4210545", "obj_uri": "Q95", "sub_label": "Lars Rasmussen (pengembang perangkat lunak)", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "7ac1e178-3498-438e-8d09-7218f54423bf", "sub_uri": "Q62890", "obj_uri": "Q37156", "sub_label": "Gene Amdahl", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "e6369b62-5624-4486-adda-287899a1c78f", "sub_uri": "Q102804", "obj_uri": "Q214654", "sub_label": "Henri Moissan", "obj_label": "Sorbonne", "predicate_id": "P108"}
+{"uuid": "161fd7f3-a0dd-46b2-80cb-8cd2145cecec", "sub_uri": "Q328745", "obj_uri": "Q9531", "sub_label": "Harry Thompson", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "f39a681b-6d58-4e03-97ac-4d07308647ee", "sub_uri": "Q483382", "obj_uri": "Q80978", "sub_label": "Steve Wozniak", "obj_label": "Hewlett-Packard", "predicate_id": "P108"}
+{"uuid": "7ca242c5-cabd-4840-8f8e-b9453b5c171d", "sub_uri": "Q76570207", "obj_uri": "Q857063", "sub_label": "Kelly Loeffler", "obj_label": "Citibank", "predicate_id": "P108"}
+{"uuid": "ac26cdb3-9e98-4b40-945b-c4549b68b95a", "sub_uri": "Q265852", "obj_uri": "Q37156", "sub_label": "Tim Cook", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "3f21f5e3-2c23-4938-92b4-9f1ab46098da", "sub_uri": "Q449894", "obj_uri": "Q1251563", "sub_label": "Theodore Roosevelt Jr.", "obj_label": "Doubleday", "predicate_id": "P108"}
+{"uuid": "a104cdce-b07b-462a-b917-8de4b58f3c39", "sub_uri": "Q317521", "obj_uri": "Q193701", "sub_label": "Elon Musk", "obj_label": "SpaceX", "predicate_id": "P108"}
+{"uuid": "b43dfa21-7d96-468d-9664-d86cb8a9f85b", "sub_uri": "Q518012", "obj_uri": "Q398878", "sub_label": "Tim Peake", "obj_label": "AgustaWestland", "predicate_id": "P108"}
+{"uuid": "64dfb22c-75c4-4274-af1f-d9f740cc344f", "sub_uri": "Q462990", "obj_uri": "Q208980", "sub_label": "Ion Mihai Pacepa", "obj_label": "Securitate", "predicate_id": "P108"}
+{"uuid": "5fbf450e-8e30-4b13-8a9a-997aa73a197b", "sub_uri": "Q940131", "obj_uri": "Q214683", "sub_label": "Guy Lux", "obj_label": "TF1", "predicate_id": "P108"}
+{"uuid": "c01375d5-db03-4d90-819d-15b1b35c44d3", "sub_uri": "Q7034852", "obj_uri": "Q95", "sub_label": "Nikesh Arora", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "75a1d21f-505e-4f7d-96ce-92479f0cb938", "sub_uri": "Q69236", "obj_uri": "Q308720", "sub_label": "Theo Lingen", "obj_label": "Burgtheater", "predicate_id": "P108"}
+{"uuid": "a3a3e1bd-29e4-440b-aa9e-0b906e8a50b8", "sub_uri": "Q101740", "obj_uri": "Q37156", "sub_label": "Beno\u00eet Mandelbrot", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "b02264f8-4d59-4338-a80d-aa37a61e7ed1", "sub_uri": "Q944301", "obj_uri": "Q333705", "sub_label": "Markus Reiner", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "b3ebe8a7-51a2-4987-9f25-a68d861f4c71", "sub_uri": "Q259356", "obj_uri": "Q9531", "sub_label": "Ann Haydon-Jones", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "d69312b2-fa91-40a0-9f9f-1225c507d473", "sub_uri": "Q37628", "obj_uri": "Q542767", "sub_label": "Mila Kunis", "obj_label": "Dior", "predicate_id": "P108"}
+{"uuid": "0335ac0d-bb57-4c33-a2cc-a132cef9bea9", "sub_uri": "Q353552", "obj_uri": "Q188508", "sub_label": "Mikhail Gurevich (perancang pesawat)", "obj_label": "Mikoyan", "predicate_id": "P108"}
+{"uuid": "20856cfd-c64e-4248-a314-dcf24eaa23b0", "sub_uri": "Q298388", "obj_uri": "Q210175", "sub_label": "No\u00ebl Coward", "obj_label": "MI5", "predicate_id": "P108"}
+{"uuid": "3348d6eb-1bda-43c2-88d2-902c48bebfd0", "sub_uri": "Q173629", "obj_uri": "Q172030", "sub_label": "Nicholas Tombazis", "obj_label": "McLaren", "predicate_id": "P108"}
+{"uuid": "2c4404de-e216-48af-9809-b625888c5a75", "sub_uri": "Q708472", "obj_uri": "Q1873176", "sub_label": "Arthur Ashkin", "obj_label": "Lucent", "predicate_id": "P108"}
+{"uuid": "1a90f6d9-60aa-4491-aa36-648040a47c34", "sub_uri": "Q1204764", "obj_uri": "Q43297", "sub_label": "Whittaker Chambers", "obj_label": "Time", "predicate_id": "P108"}
+{"uuid": "7ae90a25-ba74-415c-9632-39349b9d8946", "sub_uri": "Q152208", "obj_uri": "Q1353013", "sub_label": "Gisele B\u00fcndchen", "obj_label": "Pantene", "predicate_id": "P108"}
+{"uuid": "0db67cb0-1c17-44a1-8ed3-3a172612a914", "sub_uri": "Q4208213", "obj_uri": "Q51711", "sub_label": "Adam D'Angelo", "obj_label": "Quora", "predicate_id": "P108"}
+{"uuid": "745a86c0-d3db-4b3f-8ab8-59e33725a57b", "sub_uri": "Q463877", "obj_uri": "Q2283", "sub_label": "Melinda Gates", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "a88dde4d-a846-4835-b359-d5eab71c684b", "sub_uri": "Q219734", "obj_uri": "Q194009", "sub_label": "Andrei Nikolayevich Tupolev", "obj_label": "Tupolev", "predicate_id": "P108"}
+{"uuid": "546ff465-4378-4bb1-a515-6a5701b04fd0", "sub_uri": "Q20116474", "obj_uri": "Q206921", "sub_label": "Christopher A. Lipinski", "obj_label": "Pfizer", "predicate_id": "P108"}
+{"uuid": "c5bd5423-0302-44cf-b6a9-1ecf8686967f", "sub_uri": "Q7477615", "obj_uri": "Q152051", "sub_label": "Frauke Petry", "obj_label": "Bayer", "predicate_id": "P108"}
+{"uuid": "257c749f-22b0-4a0f-8409-74592de27dcb", "sub_uri": "Q214586", "obj_uri": "Q162684", "sub_label": "Karl Ferdinand von Gr\u00e4fe", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "56fb7f06-b81e-44b1-87e1-cf6955abb895", "sub_uri": "Q5388723", "obj_uri": "Q2283", "sub_label": "Erik Meijer (ilmuwan komputer)", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "3a576a7a-5d88-4cda-8af0-dd3dc5cb7e40", "sub_uri": "Q372751", "obj_uri": "Q1457205", "sub_label": "Adrian Carmack", "obj_label": "Softdisk", "predicate_id": "P108"}
+{"uuid": "3225cbfd-fbb3-4006-aedf-53a4499999f3", "sub_uri": "Q3037377", "obj_uri": "Q1544011", "sub_label": "Dot Farley", "obj_label": "Path\u00e9", "predicate_id": "P108"}
+{"uuid": "fde698bc-b0db-48f1-a3d5-4a051dafafa9", "sub_uri": "Q2061371", "obj_uri": "Q333705", "sub_label": "Eri Jabotinsky", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "ba28253c-569a-4c31-a5b7-9ba461f0c291", "sub_uri": "Q240769", "obj_uri": "Q37156", "sub_label": "Julie Payette", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "4379e035-da94-4400-a0e6-357cd1ad8588", "sub_uri": "Q43293", "obj_uri": "Q37156", "sub_label": "John Maxwell Coetzee", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "6d594706-1f64-4a77-b207-1bc18608f082", "sub_uri": "Q403498", "obj_uri": "Q131350", "sub_label": "Ismail bin Hammad al-Jauhari", "obj_label": "Naisabur", "predicate_id": "P108"}
+{"uuid": "3b231740-ca32-4196-806b-bb8e70a2445e", "sub_uri": "Q337453", "obj_uri": "Q9531", "sub_label": "Chris Grayling", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "443bd7c4-a470-42dc-9feb-6d287de45490", "sub_uri": "Q296484", "obj_uri": "Q483551", "sub_label": "Cory Monteith", "obj_label": "Walmart", "predicate_id": "P108"}
+{"uuid": "5b0162b5-3ca0-4f4a-8ead-425fa3009802", "sub_uri": "Q310106", "obj_uri": "Q437", "sub_label": "Janko Prunk", "obj_label": "Ljubljana", "predicate_id": "P108"}
+{"uuid": "11ab6789-63ef-4197-b4eb-cb598bad5de6", "sub_uri": "Q919302", "obj_uri": "Q430107", "sub_label": "Lefter K\u00fc\u00e7\u00fckandonyadis", "obj_label": "Samsunspor", "predicate_id": "P108"}
+{"uuid": "4ea25e46-7ebb-4819-890f-f918dd8f1451", "sub_uri": "Q170419", "obj_uri": "Q1420164", "sub_label": "Carlos Slim Hel\u00fa", "obj_label": "Telmex", "predicate_id": "P108"}
+{"uuid": "b28a845d-16f6-48bd-9638-3467edc06cae", "sub_uri": "Q4166500", "obj_uri": "Q35484", "sub_label": "As'ad bin Zurarah", "obj_label": "Madinah", "predicate_id": "P108"}
+{"uuid": "eafbc616-049b-4a1b-a3d5-ac2d86ca675a", "sub_uri": "Q106193", "obj_uri": "Q15920", "sub_label": "Lars Ulrich", "obj_label": "Metallica", "predicate_id": "P108"}
+{"uuid": "edf71385-5c21-485d-95f2-b02ab4defff3", "sub_uri": "Q3352033", "obj_uri": "Q95", "sub_label": "Omid Kordestani", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "fd247a5c-2127-4bbf-9b83-da83912784f2", "sub_uri": "Q630446", "obj_uri": "Q4943246", "sub_label": "John Green (pengarang)", "obj_label": "Booklist", "predicate_id": "P108"}
+{"uuid": "14c8e032-4aa5-480b-9d64-1be279e73efa", "sub_uri": "Q7932718", "obj_uri": "Q1136829", "sub_label": "Vinod Aggarwal", "obj_label": "INSEAD", "predicate_id": "P108"}
+{"uuid": "4f96ed7f-729a-4e05-98fe-9fab46667f65", "sub_uri": "Q7175133", "obj_uri": "Q1470929", "sub_label": "Peter Kellner", "obj_label": "YouGov", "predicate_id": "P108"}
+{"uuid": "09f5bb0e-7d1d-49b0-bdf1-60164fdcc8f9", "sub_uri": "Q86789", "obj_uri": "Q262386", "sub_label": "Mirjam Weichselbraun", "obj_label": "ORF", "predicate_id": "P108"}
+{"uuid": "0c07e153-55bb-4b07-b982-69af42a64e80", "sub_uri": "Q17182285", "obj_uri": "Q95", "sub_label": "Hugo Barra", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "a4944439-c486-4b8c-95be-713f6d977f59", "sub_uri": "Q15970956", "obj_uri": "Q13717", "sub_label": "Philippe Honor\u00e9 (kartunis)", "obj_label": "Lib\u00e9ration", "predicate_id": "P108"}
+{"uuid": "78af2a81-d8e4-49c5-a02e-2248258f3058", "sub_uri": "Q755878", "obj_uri": "Q1033", "sub_label": "Atiku Abubakar", "obj_label": "Nigeria", "predicate_id": "P108"}
+{"uuid": "9074e082-6ba3-42bf-b22b-41ef9d0d0ff8", "sub_uri": "Q1282562", "obj_uri": "Q9531", "sub_label": "Mark Kermode", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "9b0f1d07-98e2-4ecc-98e4-3e9f915f24de", "sub_uri": "Q318622", "obj_uri": "Q2966", "sub_label": "Martin Bucer", "obj_label": "Heidelberg", "predicate_id": "P108"}
+{"uuid": "d7eda418-9be9-48cf-961b-90bc00116429", "sub_uri": "Q30863", "obj_uri": "Q125054", "sub_label": "Karl Albrecht", "obj_label": "Aldi", "predicate_id": "P108"}
+{"uuid": "1ef2d92c-8a4a-413f-a8c9-f6f68925827d", "sub_uri": "Q461887", "obj_uri": "Q2704796", "sub_label": "Takao Doi", "obj_label": "NASDA", "predicate_id": "P108"}
+{"uuid": "b5b86a38-2451-414b-922d-2b079021b344", "sub_uri": "Q76766", "obj_uri": "Q37156", "sub_label": "Gerd Binnig", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "910c89bc-ac5a-4e41-8609-bad252c71445", "sub_uri": "Q317521", "obj_uri": "Q29043471", "sub_label": "Elon Musk", "obj_label": "Neuralink", "predicate_id": "P108"}
+{"uuid": "e9f58863-6234-407a-b3a4-8811569cd6cb", "sub_uri": "Q7688294", "obj_uri": "Q8093", "sub_label": "Tatsumi Kimishima", "obj_label": "Nintendo", "predicate_id": "P108"}
+{"uuid": "870346c0-dd2e-4b31-914f-5029a0cd34a6", "sub_uri": "Q699605", "obj_uri": "Q2283", "sub_label": "Kai-Fu Lee", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "79c16a3d-fda3-4e30-8345-78c7639a78e3", "sub_uri": "Q333460", "obj_uri": "Q37156", "sub_label": "Ratan Tata", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "62bf074f-52aa-494a-bbb9-d276ab994636", "sub_uri": "Q977435", "obj_uri": "Q206238", "sub_label": "Gehazi", "obj_label": "Elisa", "predicate_id": "P108"}
+{"uuid": "f97a5256-3289-4ef2-825b-630717d8c1a5", "sub_uri": "Q4964404", "obj_uri": "Q1113804", "sub_label": "Brian L. Roberts", "obj_label": "Comcast", "predicate_id": "P108"}
+{"uuid": "cc99e06f-15c6-4153-b612-3997cdac9f1c", "sub_uri": "Q92622", "obj_uri": "Q95", "sub_label": "James Gosling", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "9bb743ae-25ed-40f6-a8b0-5ccf210592ce", "sub_uri": "Q89758", "obj_uri": "Q262386", "sub_label": "Arabella Kiesbauer", "obj_label": "ORF", "predicate_id": "P108"}
+{"uuid": "90f42619-9357-40b2-9693-8e60a1bc5365", "sub_uri": "Q365578", "obj_uri": "Q2283", "sub_label": "Nathan Myhrvold", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "9ba1d4f0-c95d-4604-843d-4863d9f735b7", "sub_uri": "Q316381", "obj_uri": "Q389458", "sub_label": "Carl Jonas Love Almqvist", "obj_label": "Aftonbladet", "predicate_id": "P108"}
+{"uuid": "dbc97f6b-b2a5-4f32-94c2-7ac5777e2a00", "sub_uri": "Q658774", "obj_uri": "Q1114200", "sub_label": "Mike Harrington", "obj_label": "Picnik", "predicate_id": "P108"}
+{"uuid": "4d51bddc-4346-4124-acf4-7319a9f45fa8", "sub_uri": "Q60095", "obj_uri": "Q1733", "sub_label": "Otto von Guericke", "obj_label": "Magdeburg", "predicate_id": "P108"}
+{"uuid": "644be9ad-9f48-4ffe-b9b8-605388f14da1", "sub_uri": "Q183337", "obj_uri": "Q9531", "sub_label": "David Attenborough", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "04bf690d-1431-438e-9e7a-4f22c7d6a3f4", "sub_uri": "Q207939", "obj_uri": "Q178516", "sub_label": "Alexander McQueen", "obj_label": "Gucci", "predicate_id": "P108"}
+{"uuid": "9189b5fb-aeeb-474a-80ce-69537c5d24b3", "sub_uri": "Q9195350", "obj_uri": "Q37156", "sub_label": "Chih-Kung Lee", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "c24d8864-6717-4a9f-aefd-e8b8a6959235", "sub_uri": "Q58054", "obj_uri": "Q162684", "sub_label": "Ernst Chain", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "ddb55f25-280c-47ce-bf37-8388eea81563", "sub_uri": "Q5364968", "obj_uri": "Q1168317", "sub_label": "Ellen Pao", "obj_label": "Flipboard", "predicate_id": "P108"}
+{"uuid": "dfe1c74a-8fd2-4aa7-9174-e3de1e315e09", "sub_uri": "Q152208", "obj_uri": "Q218115", "sub_label": "Gisele B\u00fcndchen", "obj_label": "Chanel", "predicate_id": "P108"}
+{"uuid": "73db4f3e-6057-40eb-8c84-ff52f3aae5b1", "sub_uri": "Q16182782", "obj_uri": "Q48966427", "sub_label": "Iman Usman", "obj_label": "Ruangguru", "predicate_id": "P108"}
+{"uuid": "e112a1fa-52c8-4e37-8d6b-139d6dad1c97", "sub_uri": "Q231417", "obj_uri": "Q13974", "sub_label": "Barbara Walters", "obj_label": "NBC", "predicate_id": "P108"}
+{"uuid": "2eda4273-2e08-4a68-a8f9-5b259e1e4b88", "sub_uri": "Q2514", "obj_uri": "Q64", "sub_label": "Willy Brandt", "obj_label": "Berlin", "predicate_id": "P108"}
+{"uuid": "8ef84fc2-2746-4778-bcf3-242fe81ec231", "sub_uri": "Q55023814", "obj_uri": "Q48966427", "sub_label": "Belva Devara", "obj_label": "Ruangguru", "predicate_id": "P108"}
+{"uuid": "a9b0ca2d-a425-4ac9-a6d2-0f69e3e714c0", "sub_uri": "Q2613034", "obj_uri": "Q333705", "sub_label": "Daniel Hershkowitz", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "e64e8132-7167-4b61-9564-d41b9ffb8d4c", "sub_uri": "Q92605", "obj_uri": "Q1457205", "sub_label": "John Carmack", "obj_label": "Softdisk", "predicate_id": "P108"}
+{"uuid": "e10aa8ea-8f23-4da3-b7b9-1cf36ac03489", "sub_uri": "Q1263791", "obj_uri": "Q174097", "sub_label": "Phineas Nigellus Black", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "af6aff14-966f-4306-9844-dc07531bd88b", "sub_uri": "Q1353861", "obj_uri": "Q1457205", "sub_label": "Tom Hall", "obj_label": "Softdisk", "predicate_id": "P108"}
+{"uuid": "97eb59c6-126d-49ab-b386-00cf25b67313", "sub_uri": "Q263324", "obj_uri": "Q179200", "sub_label": "William Hanna", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "c51b04dc-4454-43db-8277-cf5bdc6de099", "sub_uri": "Q232754", "obj_uri": "Q142", "sub_label": "Natalia Vodianova", "obj_label": "Prancis", "predicate_id": "P108"}
+{"uuid": "7e2e8301-26d8-4057-8af8-1a598c867b67", "sub_uri": "Q93092", "obj_uri": "Q242446", "sub_label": "William Reeves (animator)", "obj_label": "Lucasfilm", "predicate_id": "P108"}
+{"uuid": "728a603f-df59-4e39-871f-e387cad4e3eb", "sub_uri": "Q286469", "obj_uri": "Q40987", "sub_label": "Sergio Pininfarina", "obj_label": "Pininfarina", "predicate_id": "P108"}
+{"uuid": "fd1a2b5c-ab74-452a-8556-8309a97fd130", "sub_uri": "Q3503829", "obj_uri": "Q95", "sub_label": "Sundar Pichai", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "3bc303e7-e5d5-47dd-ab91-6ab054379319", "sub_uri": "Q766557", "obj_uri": "Q37158", "sub_label": "Zev Siegl", "obj_label": "Starbucks", "predicate_id": "P108"}
+{"uuid": "f898d297-b3ea-486f-bd91-d6ea6260c779", "sub_uri": "Q49079", "obj_uri": "Q130879", "sub_label": "Wolf Blitzer", "obj_label": "Reuters", "predicate_id": "P108"}
+{"uuid": "ce437332-c273-43a6-ad13-308b8c07239b", "sub_uri": "Q313607", "obj_uri": "Q759210", "sub_label": "John Galliano", "obj_label": "Givenchy", "predicate_id": "P108"}
+{"uuid": "804983dc-d107-4839-a136-a9184178ab9f", "sub_uri": "Q438472", "obj_uri": "Q179200", "sub_label": "Irving Thalberg", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "3a39df5d-9675-4f17-9f8f-ced17cd744e7", "sub_uri": "Q242342", "obj_uri": "Q193136", "sub_label": "Miuccia prada", "obj_label": "Prada", "predicate_id": "P108"}
+{"uuid": "9199e633-ca87-4267-ae3c-b86de342970f", "sub_uri": "Q64718", "obj_uri": "Q64545", "sub_label": "Victor Hasselblad", "obj_label": "Hasselblad", "predicate_id": "P108"}
+{"uuid": "236b14a8-3597-46f4-a6e7-c204b970a559", "sub_uri": "Q57586", "obj_uri": "Q43250", "sub_label": "Erich Priebke", "obj_label": "Gestapo", "predicate_id": "P108"}
+{"uuid": "19ccdc0d-3d77-4208-a819-65ef42196e4b", "sub_uri": "Q57070", "obj_uri": "Q170416", "sub_label": "Gustav Hertz", "obj_label": "Philips", "predicate_id": "P108"}
+{"uuid": "60fe044c-c365-49ef-b4b1-4ad1ca522116", "sub_uri": "Q131240", "obj_uri": "Q753932", "sub_label": "Anna Politkovskaya", "obj_label": "Izvestia", "predicate_id": "P108"}
+{"uuid": "4d4eb67c-9af6-45bc-aac6-b5ef919687a0", "sub_uri": "Q233205", "obj_uri": "Q333705", "sub_label": "Aaron Ciechanover", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "01c6e8c3-3aa5-4b72-86fc-5e9dd0c7cf7d", "sub_uri": "Q92743", "obj_uri": "Q37156", "sub_label": "Vinton G. Cerf", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "c9ea0a4f-4f6f-4115-8f12-be9077ffa749", "sub_uri": "Q254713", "obj_uri": "Q212128", "sub_label": "Iva Toguri D'Aquino", "obj_label": "NHK", "predicate_id": "P108"}
+{"uuid": "2c1c7c17-793c-40f1-8e50-3fd12c716441", "sub_uri": "Q155773", "obj_uri": "Q2165768", "sub_label": "Masatoshi Koshiba", "obj_label": "KEK", "predicate_id": "P108"}
+{"uuid": "0d4e587d-85c4-479c-8867-dcc8ef1a0846", "sub_uri": "Q8070360", "obj_uri": "Q219508", "sub_label": "Zhang Xin (pengusaha)", "obj_label": "Citigroup", "predicate_id": "P108"}
+{"uuid": "59faacea-15cf-4cae-b19f-3729278511e1", "sub_uri": "Q43179", "obj_uri": "Q190464", "sub_label": "Ellen Johnson Sirleaf", "obj_label": "HSBC", "predicate_id": "P108"}
+{"uuid": "a312e4d2-1201-423e-b4d2-e232995197cf", "sub_uri": "Q712802", "obj_uri": "Q160120", "sub_label": "Ren Zhengfei", "obj_label": "Huawei", "predicate_id": "P108"}
+{"uuid": "c578c3ec-bc95-4159-b478-ff13c4ce6d31", "sub_uri": "Q35155", "obj_uri": "Q66", "sub_label": "Thomas Pynchon", "obj_label": "Boeing", "predicate_id": "P108"}
+{"uuid": "111110aa-3ce0-4ad2-992c-0703f999bb93", "sub_uri": "Q19685096", "obj_uri": "Q155038", "sub_label": "Andreas Lubitz", "obj_label": "Germanwings", "predicate_id": "P108"}
+{"uuid": "91ad2af4-51c3-4682-8629-a962188ba8ba", "sub_uri": "Q220697", "obj_uri": "Q1530", "sub_label": "Abu Yusuf", "obj_label": "Bagdad", "predicate_id": "P108"}
+{"uuid": "cd47f3b6-68b9-4c3b-ac19-d1f646a90b8c", "sub_uri": "Q83331", "obj_uri": "Q214654", "sub_label": "Louis-Victor Pierre Raymond de Broglie", "obj_label": "Sorbonne", "predicate_id": "P108"}
+{"uuid": "90a2701f-3a81-4d08-ab4d-6e8dcd7fc5c4", "sub_uri": "Q362998", "obj_uri": "Q190795", "sub_label": "Gennady Padalka", "obj_label": "Roscosmos", "predicate_id": "P108"}
+{"uuid": "bacc2183-b497-42cc-905b-86b54c4a6e59", "sub_uri": "Q5221979", "obj_uri": "Q780442", "sub_label": "Dara Khosrowshahi", "obj_label": "Uber", "predicate_id": "P108"}
+{"uuid": "f6772944-d908-4ffa-a172-e3902922bc94", "sub_uri": "Q726119", "obj_uri": "Q122741", "sub_label": "Yuji Naka", "obj_label": "Sega", "predicate_id": "P108"}
+{"uuid": "c47986ad-08b2-436c-b2b0-4d746d26e57a", "sub_uri": "Q5973592", "obj_uri": "Q785697", "sub_label": "Shinobu Ohtaka", "obj_label": "Shogakukan", "predicate_id": "P108"}
+{"uuid": "3f444925-68a8-4fcf-8bfd-687e1168510e", "sub_uri": "Q35831601", "obj_uri": "Q903343", "sub_label": "Jordi El Ni\u00f1o Polla", "obj_label": "Brazzers", "predicate_id": "P108"}
+{"uuid": "8a588542-e123-48b2-ba9c-3b6bfc7614e3", "sub_uri": "Q42", "obj_uri": "Q9531", "sub_label": "Douglas Adams", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "c7931574-2caf-4265-bd2a-5a8032c4dfcd", "sub_uri": "Q92984", "obj_uri": "Q2918660", "sub_label": "Luis von Ahn", "obj_label": "Duolingo", "predicate_id": "P108"}
+{"uuid": "81038da8-4d62-44f3-bc13-e96b4af8e7f5", "sub_uri": "Q24238925", "obj_uri": "Q51711", "sub_label": "Tracy Chou", "obj_label": "Quora", "predicate_id": "P108"}
+{"uuid": "dfd5db81-f5d3-4c82-ab4a-b957a7ba75b0", "sub_uri": "Q7186", "obj_uri": "Q214654", "sub_label": "Marie Curie", "obj_label": "Sorbonne", "predicate_id": "P108"}
+{"uuid": "f7cc9dff-300e-47d8-99c8-b971e605701c", "sub_uri": "Q455043", "obj_uri": "Q461761", "sub_label": "Arthur Hiller", "obj_label": "CBC", "predicate_id": "P108"}
+{"uuid": "ad7b4e99-ea24-44f1-9b7a-e796d959dabc", "sub_uri": "Q1094245", "obj_uri": "Q159433", "sub_label": "Chase Elliott", "obj_label": "3M", "predicate_id": "P108"}
+{"uuid": "47ad9a71-be59-4fe5-943f-29340372ea90", "sub_uri": "Q12473895", "obj_uri": "Q3930665", "sub_label": "Bambang Subianto", "obj_label": "Indofood", "predicate_id": "P108"}
+{"uuid": "669a7cbc-9781-42d2-937a-e3715dcc6c67", "sub_uri": "Q76687", "obj_uri": "Q37156", "sub_label": "Johannes Georg Bednorz", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "12f2652d-d3b9-44a6-8953-20f466cc33e0", "sub_uri": "Q78765", "obj_uri": "Q43250", "sub_label": "Karl Silberbauer", "obj_label": "Gestapo", "predicate_id": "P108"}
+{"uuid": "ff638564-07a3-4552-8d41-037024bfaff6", "sub_uri": "Q353420", "obj_uri": "Q8093", "sub_label": "Reggie Fils-Aim\u00e9", "obj_label": "Nintendo", "predicate_id": "P108"}
+{"uuid": "fa3b91fc-996b-47ef-a1f9-0916e09529e9", "sub_uri": "Q442643", "obj_uri": "Q42944", "sub_label": "Simon Singh", "obj_label": "CERN", "predicate_id": "P108"}
+{"uuid": "eb103fb2-b559-4433-a750-43b778e5b78d", "sub_uri": "Q5733171", "obj_uri": "Q9531", "sub_label": "Herb Scannell", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "8a9ccc8b-4b4b-4bed-9420-297e03df8a30", "sub_uri": "Q3040082", "obj_uri": "Q2283", "sub_label": "James Allchin", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "32132562-c375-47e5-a47c-97133e3ee9c3", "sub_uri": "Q319723", "obj_uri": "Q179200", "sub_label": "Tex Avery", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "dc160b7e-5e62-4418-9b23-23d3c2309332", "sub_uri": "Q463346", "obj_uri": "Q726081", "sub_label": "Toru Fujisawa", "obj_label": "Kodansha", "predicate_id": "P108"}
+{"uuid": "2e0f7460-5b0e-45e8-8f83-d23403df4748", "sub_uri": "Q468805", "obj_uri": "Q37156", "sub_label": "Jorge Quiroga", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "160bfa83-b009-46a5-9be2-c0df169b19e7", "sub_uri": "Q4208540", "obj_uri": "Q213660", "sub_label": "Matt Cohler", "obj_label": "LinkedIn", "predicate_id": "P108"}
+{"uuid": "2c0a4eac-6889-4a93-b64a-f237267101a3", "sub_uri": "Q57344", "obj_uri": "Q40966", "sub_label": "Joschka Fischer", "obj_label": "Opel", "predicate_id": "P108"}
+{"uuid": "6d1d361f-5d05-4fec-8dc3-289b71ff3805", "sub_uri": "Q67559", "obj_uri": "Q162684", "sub_label": "Bernhard Zondek", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "e1b4f7f6-bcf4-44f6-8afc-e39c36080121", "sub_uri": "Q1113742", "obj_uri": "Q13717", "sub_label": "Clare Hollingworth", "obj_label": "Lib\u00e9ration", "predicate_id": "P108"}
+{"uuid": "a82e6496-1efa-49f2-ba9d-acf9c080772b", "sub_uri": "Q242329", "obj_uri": "Q907311", "sub_label": "Shonda Rhimes", "obj_label": "Netflix", "predicate_id": "P108"}
+{"uuid": "0599d50d-6ba1-42a0-8c40-f4663a7bc188", "sub_uri": "Q5364968", "obj_uri": "Q1136", "sub_label": "Ellen Pao", "obj_label": "Reddit", "predicate_id": "P108"}
+{"uuid": "69ebda8e-dc56-4789-a636-f1de76e6d5d5", "sub_uri": "Q4272255", "obj_uri": "Q18049522", "sub_label": "Ghida Fakhry", "obj_label": "HuffPost", "predicate_id": "P108"}
+{"uuid": "a6957d87-a3f6-4d3d-8f5a-f233f50aa32d", "sub_uri": "Q566257", "obj_uri": "Q219635", "sub_label": "Friedrich Merz", "obj_label": "BlackRock", "predicate_id": "P108"}
+{"uuid": "ebd2eace-47a5-4cf6-868b-c4650d7c8cda", "sub_uri": "Q19698029", "obj_uri": "Q179200", "sub_label": "Roger L. Mayer", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "3174ce9d-d7ed-43eb-9a18-414506d25ab7", "sub_uri": "Q18121649", "obj_uri": "Q212322", "sub_label": "Andrew Witty", "obj_label": "GlaxoSmithKline", "predicate_id": "P108"}
+{"uuid": "f6d1190a-3ad1-43a7-ae80-b61283d0cc34", "sub_uri": "Q311187", "obj_uri": "Q2044", "sub_label": "Francesco Redi", "obj_label": "Firenze", "predicate_id": "P108"}
+{"uuid": "7da1dedc-b6db-48ca-b3d6-b03eb4c5ac25", "sub_uri": "Q83855", "obj_uri": "Q182449", "sub_label": "Vasily Blokhin", "obj_label": "NKVD", "predicate_id": "P108"}
+{"uuid": "b2cdb688-07fa-4fc0-862b-a8e779871b13", "sub_uri": "Q4934", "obj_uri": "Q95", "sub_label": "Larry Page", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "fda3af8f-94c9-462b-8308-7999b31381e3", "sub_uri": "Q10070", "obj_uri": "Q359", "sub_label": "Jacob Appelbaum", "obj_label": "WikiLeaks", "predicate_id": "P108"}
+{"uuid": "77608f51-7395-4c1a-8284-9ead64dfc22e", "sub_uri": "Q57384", "obj_uri": "Q655369", "sub_label": "Wernher von Braun", "obj_label": "Waffenamt", "predicate_id": "P108"}
+{"uuid": "96418c80-3718-4f43-bae9-a9b704e556ae", "sub_uri": "Q506449", "obj_uri": "Q568077", "sub_label": "Jacques Tardi", "obj_label": "Casterman", "predicate_id": "P108"}
+{"uuid": "44a14b1c-5335-4320-bd82-d099b8c3b7db", "sub_uri": "Q6766943", "obj_uri": "Q9531", "sub_label": "Mark Burton (penulis)", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "9c7f4a71-82a1-4978-8072-ec384aefe1ab", "sub_uri": "Q57384", "obj_uri": "Q128781", "sub_label": "Wernher von Braun", "obj_label": "Wehrmacht", "predicate_id": "P108"}
+{"uuid": "ba8b8693-dfd7-4ca4-8d63-de94aa5b306e", "sub_uri": "Q3529173", "obj_uri": "Q37156", "sub_label": "Ting Chen", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "3872161f-c0b7-4693-b743-5971640ebe2f", "sub_uri": "Q75185", "obj_uri": "Q162684", "sub_label": "Max de Crinis", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "c31c39f0-9818-431e-b333-77d8bd98ed8c", "sub_uri": "Q85990660", "obj_uri": "Q857063", "sub_label": "Destry Damayanti", "obj_label": "Citibank", "predicate_id": "P108"}
+{"uuid": "c45e7fae-bf64-44b6-93e5-d01eb5938acb", "sub_uri": "Q20758232", "obj_uri": "Q470517", "sub_label": "Dena Grayson", "obj_label": "Amgen", "predicate_id": "P108"}
+{"uuid": "fe93d660-fb72-47f9-8491-87d8e70a78c5", "sub_uri": "Q310765", "obj_uri": "Q333705", "sub_label": "David Bohm", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "a9375cdc-d031-4d92-a32d-e96ddcb037da", "sub_uri": "Q356719", "obj_uri": "Q6686", "sub_label": "Carlos Ghosn", "obj_label": "Renault", "predicate_id": "P108"}
+{"uuid": "1128f643-4a3b-48fd-a008-29b9faa93e25", "sub_uri": "Q2010", "obj_uri": "Q844822", "sub_label": "Eiichiro Oda", "obj_label": "Shueisha", "predicate_id": "P108"}
+{"uuid": "69f2eac3-903e-4472-b1bd-9e7dc7c03fcc", "sub_uri": "Q285062", "obj_uri": "Q1425316", "sub_label": "M. Stanley Whittingham", "obj_label": "Schlumberger", "predicate_id": "P108"}
+{"uuid": "59c907e1-ff16-434c-b880-300dc6fe81e8", "sub_uri": "Q2004370", "obj_uri": "Q48195", "sub_label": "Yahya bin Ma'in", "obj_label": "Basra", "predicate_id": "P108"}
+{"uuid": "038fe122-7110-4378-a02e-d04aae0c23c4", "sub_uri": "Q3113502", "obj_uri": "Q875920", "sub_label": "Y\u016bz\u014d Kayama", "obj_label": "Toho", "predicate_id": "P108"}
+{"uuid": "63e72e80-401a-4167-b504-f2429ce9069e", "sub_uri": "Q4965386", "obj_uri": "Q48340", "sub_label": "Brian Stelter", "obj_label": "CNN", "predicate_id": "P108"}
+{"uuid": "5f5dae7e-90d7-4bdc-9a10-d2d532dabad4", "sub_uri": "Q45864", "obj_uri": "Q152433", "sub_label": "John McAfee", "obj_label": "Xerox", "predicate_id": "P108"}
+{"uuid": "e58c1088-b56f-42f1-abdc-40dc15416ca7", "sub_uri": "Q12476698", "obj_uri": "Q13974", "sub_label": "Bob Young (pembawa berita)", "obj_label": "NBC", "predicate_id": "P108"}
+{"uuid": "2a4ec520-a565-4631-a65d-788f0a68ae3b", "sub_uri": "Q356068", "obj_uri": "Q179200", "sub_label": "Kirk Kerkorian", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "96a684c5-9d35-45a3-9217-874e507c45b4", "sub_uri": "Q10314243", "obj_uri": "Q209330", "sub_label": "Kevin Systrom", "obj_label": "Instagram", "predicate_id": "P108"}
+{"uuid": "ca461404-4dc2-4c53-9135-39d4ccbf9939", "sub_uri": "Q983734", "obj_uri": "Q95", "sub_label": "Dick Costolo", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "7b916961-0ec2-4a7e-8dd3-dd01bc9d9b8f", "sub_uri": "Q2091892", "obj_uri": "Q2283", "sub_label": "Suzan DelBene", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "537ea0b3-16cf-44a1-88f2-9d2e3f97a472", "sub_uri": "Q435749", "obj_uri": "Q430107", "sub_label": "Alpay \u00d6zalan", "obj_label": "Samsunspor", "predicate_id": "P108"}
+{"uuid": "9e1d8167-adc7-42d2-8781-19714a9ec926", "sub_uri": "Q333425", "obj_uri": "Q188413", "sub_label": "Fareed Zakaria", "obj_label": "Newsweek", "predicate_id": "P108"}
+{"uuid": "10f6a44e-7e2b-4338-9c84-e61c9618cbe0", "sub_uri": "Q7301768", "obj_uri": "Q2283", "sub_label": "Rebecca Heineman", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "304d4af5-4e55-4fde-9845-ec96baee4be4", "sub_uri": "Q506379", "obj_uri": "Q188413", "sub_label": "Andrew Moravcsik", "obj_label": "Newsweek", "predicate_id": "P108"}
+{"uuid": "2d710d49-7dc3-45bc-9dd7-ddaa3e47e2c6", "sub_uri": "Q362240", "obj_uri": "Q9531", "sub_label": "Alan Johnston", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "27d800bf-a476-4b88-8aec-9cedf7bfd2fb", "sub_uri": "Q192179", "obj_uri": "Q174097", "sub_label": "Minerva McGonagall", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "92ebab1b-7d81-44c0-92fa-1aaf77e89749", "sub_uri": "Q191311", "obj_uri": "Q27893", "sub_label": "Lakshmi Mittal", "obj_label": "ArcelorMittal", "predicate_id": "P108"}
+{"uuid": "ec7f65e6-b5e7-4c6c-a985-2e787b69ea53", "sub_uri": "Q19285371", "obj_uri": "Q365", "sub_label": "Henriette Reker", "obj_label": "K\u00f6ln", "predicate_id": "P108"}
+{"uuid": "83ff78a6-1b3f-4c0a-945c-6c846781d552", "sub_uri": "Q92984", "obj_uri": "Q95", "sub_label": "Luis von Ahn", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "426ff712-2453-4c18-ac90-a4245d7cddb2", "sub_uri": "Q347688", "obj_uri": "Q29", "sub_label": "Gonzalo Jim\u00e9nez de Quesada", "obj_label": "Spanyol", "predicate_id": "P108"}
+{"uuid": "a6f259a0-242d-4b2c-8787-4ad0866fee1f", "sub_uri": "Q328906", "obj_uri": "Q3543891", "sub_label": "Isao Nakauchi", "obj_label": "Daiei", "predicate_id": "P108"}
+{"uuid": "4116b268-6275-4005-8bcf-247642e953c9", "sub_uri": "Q125731", "obj_uri": "Q34216", "sub_label": "Ehud Barak", "obj_label": "Mossad", "predicate_id": "P108"}
+{"uuid": "c8db94fd-fdac-47a0-84b1-d317252b2b0d", "sub_uri": "Q327888", "obj_uri": "Q179200", "sub_label": "Edgar Bronfman Sr.", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "35b5ddb9-c60a-4035-b60d-f7c5d55fa262", "sub_uri": "Q1375057", "obj_uri": "Q218115", "sub_label": "Kendall Jenner", "obj_label": "Chanel", "predicate_id": "P108"}
+{"uuid": "f3c5b363-8983-4efc-ba89-571f83ad2bf6", "sub_uri": "Q88965331", "obj_uri": "Q17081612", "sub_label": "Moncef Slaoui", "obj_label": "Moderna", "predicate_id": "P108"}
+{"uuid": "cddac353-eab9-4a22-bb5f-d9c7e0d1402e", "sub_uri": "Q263732", "obj_uri": "Q1061760", "sub_label": "Ko Yong-hui", "obj_label": "Kippumjo", "predicate_id": "P108"}
+{"uuid": "861393f3-5359-4887-a271-601badafc53f", "sub_uri": "Q208657", "obj_uri": "Q174097", "sub_label": "Remus Lupin", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "91b26369-214f-4145-a4a8-8ceb066cf877", "sub_uri": "Q460960", "obj_uri": "Q190464", "sub_label": "M\u00e1xima dari Belanda", "obj_label": "HSBC", "predicate_id": "P108"}
+{"uuid": "853851e4-7ce2-407c-992a-7a314b2d22b7", "sub_uri": "Q57089", "obj_uri": "Q162684", "sub_label": "Paul Ehrlich", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "a7c5bfd5-af95-468d-8533-e192b21d1ceb", "sub_uri": "Q80", "obj_uri": "Q42944", "sub_label": "Tim Berners-Lee", "obj_label": "CERN", "predicate_id": "P108"}
+{"uuid": "87e81015-210f-4a10-aa47-e522e5a14388", "sub_uri": "Q24238925", "obj_uri": "Q95", "sub_label": "Tracy Chou", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "32a82219-7bb4-4422-9bc9-dd4673f50093", "sub_uri": "Q55686689", "obj_uri": "Q156376", "sub_label": "Anjali Sud", "obj_label": "Vimeo", "predicate_id": "P108"}
+{"uuid": "88eb2ac6-a50e-46ac-924a-0951d48e47e9", "sub_uri": "Q29024", "obj_uri": "Q1418", "sub_label": "Esko Aho", "obj_label": "Nokia", "predicate_id": "P108"}
+{"uuid": "677ceed0-8e1d-40d4-abef-69e31515cd39", "sub_uri": "Q1650668", "obj_uri": "Q2283", "sub_label": "Sabeer Bhatia", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "8ebe8a97-2d0f-4e55-9f66-855929092586", "sub_uri": "Q5944264", "obj_uri": "Q23239", "sub_label": "Hunter Biden", "obj_label": "Amtrak", "predicate_id": "P108"}
+{"uuid": "0ada8c62-45ac-442a-9ee9-2710fc3e8681", "sub_uri": "Q920526", "obj_uri": "Q34216", "sub_label": "Gideon Ezra", "obj_label": "Mossad", "predicate_id": "P108"}
+{"uuid": "5a583ae7-c915-4be2-a73b-abacb848e880", "sub_uri": "Q361163", "obj_uri": "Q223799", "sub_label": "Yevgeny Khaldei", "obj_label": "TASS", "predicate_id": "P108"}
+{"uuid": "f4346237-8b3c-4224-b059-c1288bcb4dd7", "sub_uri": "Q16132912", "obj_uri": "Q333705", "sub_label": "Kira Radinsky", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "28e484d0-9144-4f92-a96a-e2aacac62d34", "sub_uri": "Q12524647", "obj_uri": "Q13322850", "sub_label": "Wishnutama", "obj_label": "NET.", "predicate_id": "P108"}
+{"uuid": "87355f96-a940-41b7-a983-a3833b87b33f", "sub_uri": "Q92602", "obj_uri": "Q2283", "sub_label": "C.A.R. Hoare", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "684b50cb-c254-4df8-ade4-910d78bca5ed", "sub_uri": "Q120085", "obj_uri": "Q1109549", "sub_label": "Martha Gellhorn", "obj_label": "Collier's", "predicate_id": "P108"}
+{"uuid": "1f71b801-8abe-460b-9243-134ff4ac2aa8", "sub_uri": "Q3398769", "obj_uri": "Q9531", "sub_label": "Jeremy Bowen", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "b83a0508-faa7-4d6a-9e4c-11413290d679", "sub_uri": "Q507469", "obj_uri": "Q95", "sub_label": "Guy Kawasaki", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "cd8ea8cc-7a51-48f1-ba91-02eaf3d002c7", "sub_uri": "Q153210", "obj_uri": "Q42944", "sub_label": "Jack Steinberger", "obj_label": "CERN", "predicate_id": "P108"}
+{"uuid": "f45a9c8b-9ae6-4efb-a96f-3f9682bc92a1", "sub_uri": "Q92743", "obj_uri": "Q207361", "sub_label": "Vinton G. Cerf", "obj_label": "DARPA", "predicate_id": "P108"}
+{"uuid": "a1888379-351d-484a-a636-73731bc32008", "sub_uri": "Q316997", "obj_uri": "Q48340", "sub_label": "Anderson Cooper", "obj_label": "CNN", "predicate_id": "P108"}
+{"uuid": "c871579e-9eed-49d9-801c-baccf0eabd38", "sub_uri": "Q605", "obj_uri": "Q13973", "sub_label": "Ezra Klein", "obj_label": "MSNBC", "predicate_id": "P108"}
+{"uuid": "2e487b89-6e53-453e-aba5-24a020e8bb2e", "sub_uri": "Q6541274", "obj_uri": "Q35484", "sub_label": "Aban bin Sa'id", "obj_label": "Madinah", "predicate_id": "P108"}
+{"uuid": "db955350-745f-4d3d-abcd-6223cec3b27e", "sub_uri": "Q467446", "obj_uri": "Q182449", "sub_label": "Nikolai Ivanovich Kuznetsov", "obj_label": "NKVD", "predicate_id": "P108"}
+{"uuid": "66e85772-0cd9-4796-9a40-3175f58bb4aa", "sub_uri": "Q57237", "obj_uri": "Q560183", "sub_label": "Walther Funk", "obj_label": "Reichsbank", "predicate_id": "P108"}
+{"uuid": "b32b43c0-4d5f-4bdc-be22-8a3325934696", "sub_uri": "Q49079", "obj_uri": "Q48340", "sub_label": "Wolf Blitzer", "obj_label": "CNN", "predicate_id": "P108"}
+{"uuid": "5785ea4c-7fe8-4613-8c4f-da447c764b44", "sub_uri": "Q30322608", "obj_uri": "Q46997916", "sub_label": "Laura Loomer", "obj_label": "InfoWars", "predicate_id": "P108"}
+{"uuid": "919dffcc-4624-43d4-ae8d-1faeb107354b", "sub_uri": "Q1329906", "obj_uri": "Q770328", "sub_label": "Marina Inoue", "obj_label": "Aniplex", "predicate_id": "P108"}
+{"uuid": "f03628b5-77f1-4864-8251-6d8020e0f6a8", "sub_uri": "Q28132520", "obj_uri": "Q903343", "sub_label": "Lana Rhoades", "obj_label": "Brazzers", "predicate_id": "P108"}
+{"uuid": "f4ef49c7-6f70-4cf4-a751-fd8369126a6e", "sub_uri": "Q319325", "obj_uri": "Q113215", "sub_label": "S.P.L. S\u00f8rensen", "obj_label": "Carlsberg", "predicate_id": "P108"}
+{"uuid": "eeee0261-48d0-46ff-ac67-3fef8ab21398", "sub_uri": "Q441791", "obj_uri": "Q81307", "sub_label": "Yannick Jadot", "obj_label": "Greenpeace", "predicate_id": "P108"}
+{"uuid": "e2cf81ac-21e3-4dfb-9156-25821b278ea8", "sub_uri": "Q185", "obj_uri": "Q935818", "sub_label": "Larry Sanger", "obj_label": "Bomis", "predicate_id": "P108"}
+{"uuid": "a580aae8-55df-4c7c-b3e2-69f8382d8f33", "sub_uri": "Q56200", "obj_uri": "Q2283", "sub_label": "Steve Coast", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "c03d8eb4-2b7a-45af-9506-a5d7cc93f162", "sub_uri": "Q271491", "obj_uri": "Q13973", "sub_label": "Greta Van Susteren", "obj_label": "MSNBC", "predicate_id": "P108"}
+{"uuid": "be9b86ca-2f65-4450-8d09-191d809019d6", "sub_uri": "Q447057", "obj_uri": "Q66", "sub_label": "Christopher Ferguson", "obj_label": "Boeing", "predicate_id": "P108"}
+{"uuid": "dfa9a7a4-9acc-43c8-a19a-81c8b9aa383c", "sub_uri": "Q173631", "obj_uri": "Q172030", "sub_label": "Pat Fry", "obj_label": "McLaren", "predicate_id": "P108"}
+{"uuid": "1b5a94ff-811b-4e37-afd5-cac389f0d86c", "sub_uri": "Q61064", "obj_uri": "Q124354", "sub_label": "Wassily Kandinsky", "obj_label": "Bauhaus", "predicate_id": "P108"}
+{"uuid": "5a4c3ab6-9b75-46ce-8112-a3382179dd2e", "sub_uri": "Q325487", "obj_uri": "Q43380", "sub_label": "Mike Wallace", "obj_label": "CBS", "predicate_id": "P108"}
+{"uuid": "037244d6-0e45-40fd-ade1-45f0b4c7bcc4", "sub_uri": "Q92847", "obj_uri": "Q333705", "sub_label": "Abraham Lempel", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "6b5a6f7b-9a81-4e11-b5a4-2c0bcd116063", "sub_uri": "Q19837", "obj_uri": "Q308993", "sub_label": "Steve Jobs", "obj_label": "NeXT", "predicate_id": "P108"}
+{"uuid": "cbd7250a-d676-4eb1-a5bd-ac46d4d00f1b", "sub_uri": "Q92644", "obj_uri": "Q2283", "sub_label": "Butler W. Lampson", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "b590a26b-7ef8-4b2e-ae3b-6e62cf28c926", "sub_uri": "Q3037377", "obj_uri": "Q1368540", "sub_label": "Dot Farley", "obj_label": "Essanay", "predicate_id": "P108"}
+{"uuid": "7e96a0b8-d2b1-44e9-824c-f8b47d059e74", "sub_uri": "Q20995", "obj_uri": "Q39949", "sub_label": "Ahn Cheol-soo", "obj_label": "KAIST", "predicate_id": "P108"}
+{"uuid": "db4b3542-ce19-4fdc-94f9-79d9d132b3c0", "sub_uri": "Q47778", "obj_uri": "Q9531", "sub_label": "Gary Lineker", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "a940d18a-737a-4be2-b04b-f3f7ef3a824c", "sub_uri": "Q1159747", "obj_uri": "Q34216", "sub_label": "Danny Yatom", "obj_label": "Mossad", "predicate_id": "P108"}
+{"uuid": "c4e10330-01fc-43d9-bcd1-058d4756e163", "sub_uri": "Q1973878", "obj_uri": "Q644289", "sub_label": "Ned Lamont", "obj_label": "Cablevision", "predicate_id": "P108"}
+{"uuid": "43089a82-281f-4f5f-b81b-6eb72795b982", "sub_uri": "Q59485866", "obj_uri": "Q160120", "sub_label": "Meng Wanzhou", "obj_label": "Huawei", "predicate_id": "P108"}
+{"uuid": "7bb118f8-4f55-4d29-94b5-e7fcdf527973", "sub_uri": "Q444106", "obj_uri": "Q37156", "sub_label": "Patricia Roberts Harris", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "c27b5ff8-8960-44b2-82a4-23d7eb23a599", "sub_uri": "Q298341", "obj_uri": "Q95", "sub_label": "Ray Kurzweil", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "c270609d-5bc1-4f2f-9ed5-49e62c857d44", "sub_uri": "Q741784", "obj_uri": "Q483551", "sub_label": "Jim Walton", "obj_label": "Walmart", "predicate_id": "P108"}
+{"uuid": "c69439af-b7a0-4031-b0a5-0e76fac902f3", "sub_uri": "Q110947", "obj_uri": "Q207983", "sub_label": "William S. Knowles", "obj_label": "Monsanto", "predicate_id": "P108"}
+{"uuid": "3b9b11a1-e202-451d-9e90-010bb93f9918", "sub_uri": "Q12485534", "obj_uri": "Q101243373", "sub_label": "Helvy Tiana Rosa", "obj_label": "Annida", "predicate_id": "P108"}
+{"uuid": "e9382293-c659-4222-9f15-e4febce8d571", "sub_uri": "Q360827", "obj_uri": "Q815527", "sub_label": "Kurt Westergaard", "obj_label": "Jyllands-Posten", "predicate_id": "P108"}
+{"uuid": "51cc97b5-a459-48ba-8d24-23cdf9cf344a", "sub_uri": "Q605", "obj_uri": "Q188413", "sub_label": "Ezra Klein", "obj_label": "Newsweek", "predicate_id": "P108"}
+{"uuid": "bececd4b-62f7-4553-a115-8c0bde1a4cb3", "sub_uri": "Q181", "obj_uri": "Q935818", "sub_label": "Jimmy Wales", "obj_label": "Bomis", "predicate_id": "P108"}
+{"uuid": "ea63e061-b637-4b9a-86b9-9115feedb1c4", "sub_uri": "Q9000717", "obj_uri": "Q1636958", "sub_label": "Lei Jun", "obj_label": "Xiaomi", "predicate_id": "P108"}
+{"uuid": "75560c6b-a0fd-475c-9d94-441c33374082", "sub_uri": "Q11557098", "obj_uri": "Q37156", "sub_label": "Chieko Asakawa", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "3adc8541-9d02-4f1f-86d6-2f815a497b4e", "sub_uri": "Q962900", "obj_uri": "Q141336", "sub_label": "Igor Talankin", "obj_label": "Mosfilm", "predicate_id": "P108"}
+{"uuid": "651c8186-95e3-4261-884d-0172991a51b7", "sub_uri": "Q314382", "obj_uri": "Q1140593", "sub_label": "Robert Christgau", "obj_label": "Newsday", "predicate_id": "P108"}
+{"uuid": "74522554-7cb7-4ea1-9997-57225d47f8d9", "sub_uri": "Q458816", "obj_uri": "Q124354", "sub_label": "Oskar Schlemmer", "obj_label": "Bauhaus", "predicate_id": "P108"}
+{"uuid": "bdeaf18d-46a4-4698-84be-1ea2fa1e1654", "sub_uri": "Q509121", "obj_uri": "Q8093", "sub_label": "Takashi Tezuka", "obj_label": "Nintendo", "predicate_id": "P108"}
+{"uuid": "05aa6e41-bb98-496e-8e27-90c7723c7e03", "sub_uri": "Q1557944", "obj_uri": "Q193701", "sub_label": "Gwynne Shotwell", "obj_label": "SpaceX", "predicate_id": "P108"}
+{"uuid": "c1b3767b-f398-4371-935a-8cf79dba2306", "sub_uri": "Q113393", "obj_uri": "Q26678", "sub_label": "Franz Josef Popp", "obj_label": "BMW", "predicate_id": "P108"}
+{"uuid": "525c344f-307c-48de-b96f-38e32b4b018c", "sub_uri": "Q356719", "obj_uri": "Q20165", "sub_label": "Carlos Ghosn", "obj_label": "Nissan", "predicate_id": "P108"}
+{"uuid": "b46805a3-fcba-4c8e-a9c8-3b4ddf8069eb", "sub_uri": "Q465937", "obj_uri": "Q54718", "sub_label": "Hella Wuolijoki", "obj_label": "Yle", "predicate_id": "P108"}
+{"uuid": "fac5a352-96a3-47ba-808a-ee824e39b652", "sub_uri": "Q1367305", "obj_uri": "Q333705", "sub_label": "Israel Eldad", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "31b72ab5-7a01-4ac5-989f-d5618b3b9cb7", "sub_uri": "Q84335", "obj_uri": "Q43250", "sub_label": "Alois Brunner", "obj_label": "Gestapo", "predicate_id": "P108"}
+{"uuid": "f78151a9-853b-4950-b9ca-5708a052b7db", "sub_uri": "Q750091", "obj_uri": "Q245343", "sub_label": "Andrea Leadsom", "obj_label": "Barclays", "predicate_id": "P108"}
+{"uuid": "c1be1e69-9194-4e1d-8b5c-db8c41c3dd07", "sub_uri": "Q920637", "obj_uri": "Q130879", "sub_label": "Morley Safer", "obj_label": "Reuters", "predicate_id": "P108"}
+{"uuid": "7592863a-d564-467b-ad4c-538735833718", "sub_uri": "Q92637", "obj_uri": "Q2283", "sub_label": "Ray Ozzie", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "aac8f8ca-3e75-46bd-affd-e960acbc1cab", "sub_uri": "Q93084", "obj_uri": "Q223407", "sub_label": "Greg Kroah-Hartman", "obj_label": "Novell", "predicate_id": "P108"}
+{"uuid": "d0102009-c1e2-460f-81b9-209e51108cf0", "sub_uri": "Q76716", "obj_uri": "Q218115", "sub_label": "Karl Lagerfeld", "obj_label": "Chanel", "predicate_id": "P108"}
+{"uuid": "fa46b493-8985-4ff2-a9f4-0df67ec7a4e8", "sub_uri": "Q6318086", "obj_uri": "Q95", "sub_label": "Justin Rosenstein", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "394a1f89-81f6-4903-a20a-42ba48ae7c4d", "sub_uri": "Q45521", "obj_uri": "Q48989", "sub_label": "Dieter Hildebrandt", "obj_label": "ZDF", "predicate_id": "P108"}
+{"uuid": "2188694d-6e3e-402c-bc61-7d3d8ea0f186", "sub_uri": "Q33637", "obj_uri": "Q48989", "sub_label": "Marcel Reich-Ranicki", "obj_label": "ZDF", "predicate_id": "P108"}
+{"uuid": "55aa904d-1c05-4479-903a-a7949aa98dee", "sub_uri": "Q43283459", "obj_uri": "Q2283", "sub_label": "Erica Baker", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "659359d1-88ed-4748-8f9e-f964b79c94c6", "sub_uri": "Q62271", "obj_uri": "Q325635", "sub_label": "Max Abraham", "obj_label": "Telefunken", "predicate_id": "P108"}
+{"uuid": "84552f4c-8c30-4932-a59d-c723c78864a1", "sub_uri": "Q450308", "obj_uri": "Q333705", "sub_label": "Joan Birman", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "6fc3695e-d891-410a-a6f7-d77f15f99111", "sub_uri": "Q4353730", "obj_uri": "Q8093", "sub_label": "Genyo Takeda", "obj_label": "Nintendo", "predicate_id": "P108"}
+{"uuid": "9645cd14-fc7a-43b4-91c0-f8de1e325314", "sub_uri": "Q320523", "obj_uri": "Q242446", "sub_label": "Grant Imahara", "obj_label": "Lucasfilm", "predicate_id": "P108"}
+{"uuid": "7ce714f8-6631-486b-8b53-889b178a0884", "sub_uri": "Q357965", "obj_uri": "Q333705", "sub_label": "Michael O. Rabin", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "957b1fde-4432-4eca-90c2-e901abe72627", "sub_uri": "Q699605", "obj_uri": "Q95", "sub_label": "Kai-Fu Lee", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "3ed51d9b-c942-4f5d-8af6-44f5ea6eadd2", "sub_uri": "Q173631", "obj_uri": "Q172030", "sub_label": "Pat Fry", "obj_label": "McLaren", "predicate_id": "P108"}
+{"uuid": "0836d504-6805-4265-8741-ba752dee5649", "sub_uri": "Q336520", "obj_uri": "Q478825", "sub_label": "Lord Sugar", "obj_label": "Amstrad", "predicate_id": "P108"}
+{"uuid": "2de16731-6325-4b4e-9936-c9fcf27882d8", "sub_uri": "Q1256952", "obj_uri": "Q174097", "sub_label": "Filius Flitwick", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "b6a16332-5211-4345-a979-889ee8b615d7", "sub_uri": "Q805511", "obj_uri": "Q9531", "sub_label": "Balraj Sahni", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "12c359ae-fa90-44c7-9cff-191840e063c0", "sub_uri": "Q123937", "obj_uri": "Q430107", "sub_label": "Vladimir Petkovi\u0107", "obj_label": "Samsunspor", "predicate_id": "P108"}
+{"uuid": "4247e602-7df9-4c8f-a80c-405201576b37", "sub_uri": "Q3296719", "obj_uri": "Q174097", "sub_label": "Firenze (Harry Potter)", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "06f6dfde-f4a5-41d3-bffc-611ba251dd48", "sub_uri": "Q35831601", "obj_uri": "Q936394", "sub_label": "Jordi El Ni\u00f1o Polla", "obj_label": "Pornhub", "predicate_id": "P108"}
+{"uuid": "7064e18f-79d6-4501-b945-fbced6b9d348", "sub_uri": "Q86437", "obj_uri": "Q308720", "sub_label": "Otto Tre\u00dfler", "obj_label": "Burgtheater", "predicate_id": "P108"}
+{"uuid": "a9e997c9-8b0f-48fc-8ad5-75008baae0ae", "sub_uri": "Q1092391", "obj_uri": "Q5017958", "sub_label": "Hu Shuli", "obj_label": "Caixin", "predicate_id": "P108"}
+{"uuid": "0b313086-3af8-4e19-9b1a-a14021357f7d", "sub_uri": "Q92600", "obj_uri": "Q2283", "sub_label": "Alexey Pajitnov", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "d86cb7e6-a7de-460e-8608-122483063643", "sub_uri": "Q1677579", "obj_uri": "Q219508", "sub_label": "Jack Lew", "obj_label": "Citigroup", "predicate_id": "P108"}
+{"uuid": "4bc69f5c-d876-4133-8d3d-48412a628e72", "sub_uri": "Q658734", "obj_uri": "Q170416", "sub_label": "Frits Philips", "obj_label": "Philips", "predicate_id": "P108"}
+{"uuid": "5714b86c-3dd5-460e-88c8-c62eaa0e54d4", "sub_uri": "Q5298411", "obj_uri": "Q179200", "sub_label": "Dorothy Farnum", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "7988b9ae-8797-43e1-877d-65d3465fa85d", "sub_uri": "Q160448", "obj_uri": "Q124354", "sub_label": "Laszlo Moholy-Nagy", "obj_label": "Bauhaus", "predicate_id": "P108"}
+{"uuid": "4d59eb81-9ef4-4a4e-8016-07f17b9d1984", "sub_uri": "Q1524618", "obj_uri": "Q9531", "sub_label": "Gary Anderson", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "5690dd19-6fc6-4a70-afa5-560c9d675d6a", "sub_uri": "Q173380", "obj_uri": "Q172030", "sub_label": "Adrian Newey", "obj_label": "McLaren", "predicate_id": "P108"}
+{"uuid": "f78594bc-f8cf-4c01-ae4f-0a8063826a6b", "sub_uri": "Q11575878", "obj_uri": "Q715139", "sub_label": "Tanakadate Aikitsu", "obj_label": "Kizokuin", "predicate_id": "P108"}
+{"uuid": "088621d8-30ba-4d81-9faa-a76d670aa461", "sub_uri": "Q92768", "obj_uri": "Q37093", "sub_label": "Rasmus Lerdorf", "obj_label": "Yahoo!", "predicate_id": "P108"}
+{"uuid": "2ef40f33-6f70-43fd-bf37-5de6092e0edc", "sub_uri": "Q5048547", "obj_uri": "Q48340", "sub_label": "Casey Neistat", "obj_label": "CNN", "predicate_id": "P108"}
+{"uuid": "555c1780-2ea6-4fa5-8e33-02bfce166686", "sub_uri": "Q1033303", "obj_uri": "Q149964", "sub_label": "Jeroen Dijsselbloem", "obj_label": "Eurogroup", "predicate_id": "P108"}
+{"uuid": "e9f3136c-2f5f-4b62-b94b-afc864ad53a7", "sub_uri": "Q701741", "obj_uri": "Q34216", "sub_label": "Wolfgang Lotz", "obj_label": "Mossad", "predicate_id": "P108"}
+{"uuid": "42dc4cff-913a-4d1b-94b3-5299abe8b02b", "sub_uri": "Q12524647", "obj_uri": "Q12481355", "sub_label": "Wishnutama", "obj_label": "Detik.com", "predicate_id": "P108"}
+{"uuid": "c95f9678-1d84-44d6-8bd0-ecae8db9b4f5", "sub_uri": "Q780842", "obj_uri": "Q25161472", "sub_label": "Steve Forbes", "obj_label": "Forbes", "predicate_id": "P108"}
+{"uuid": "b5340959-fef7-4e22-88a4-0d76c4c55eb1", "sub_uri": "Q313565", "obj_uri": "Q159433", "sub_label": "Jeff Gordon", "obj_label": "3M", "predicate_id": "P108"}
+{"uuid": "4863bf47-3c83-4f7e-bf0b-7756063f0f36", "sub_uri": "Q2337837", "obj_uri": "Q34", "sub_label": "Elsa Hosk", "obj_label": "Swedia", "predicate_id": "P108"}
+{"uuid": "e9d9ba9d-aedf-4c22-83fd-20861f83d0e9", "sub_uri": "Q62539", "obj_uri": "Q272969", "sub_label": "Gudrun Burwitz", "obj_label": "Bundesnachrichtendienst", "predicate_id": "P108"}
+{"uuid": "e818fc60-3f6c-4472-a061-c0962dd19727", "sub_uri": "Q181162", "obj_uri": "Q2283", "sub_label": "Steve Ballmer", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "ec8e8340-eb6d-4c46-bb42-48dbe3266506", "sub_uri": "Q712548", "obj_uri": "Q174097", "sub_label": "Albus Dumbledore", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "f2d3b3d1-7cc5-4175-992d-17ccf7496239", "sub_uri": "Q92879", "obj_uri": "Q170416", "sub_label": "Tony Fadell", "obj_label": "Philips", "predicate_id": "P108"}
+{"uuid": "31bcad8b-6291-4898-99e5-d9f7d78788b8", "sub_uri": "Q467109", "obj_uri": "Q333705", "sub_label": "Yaakov Dori", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "1a399777-f893-4d75-9f73-9547fe702a8c", "sub_uri": "Q13560796", "obj_uri": "Q142539", "sub_label": "Ruchi Sanghvi", "obj_label": "Dropbox", "predicate_id": "P108"}
+{"uuid": "3ce19345-b1d0-4f67-af5e-4aac1adbacfa", "sub_uri": "Q4054762", "obj_uri": "Q6686", "sub_label": "Cyril Abiteboul", "obj_label": "Renault", "predicate_id": "P108"}
+{"uuid": "95dd5de3-5e9e-4b26-a17f-14db604e5bd3", "sub_uri": "Q1673706", "obj_uri": "Q53247", "sub_label": "Isamu Akasaki", "obj_label": "Panasonic", "predicate_id": "P108"}
+{"uuid": "d2005418-8979-4455-906a-e7776f626296", "sub_uri": "Q5960883", "obj_uri": "Q95", "sub_label": "Roozbeh Pournader", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "f83973e5-e09e-4bd4-9ad4-596e98832268", "sub_uri": "Q76606", "obj_uri": "Q9401", "sub_label": "Carl Bosch", "obj_label": "BASF", "predicate_id": "P108"}
+{"uuid": "dd156d81-1d15-421f-ad4d-3368b7975186", "sub_uri": "Q540968", "obj_uri": "Q1544011", "sub_label": "Leah Baird", "obj_label": "Path\u00e9", "predicate_id": "P108"}
+{"uuid": "d0b8cad0-abff-45f4-a150-eebab38a85b6", "sub_uri": "Q151796", "obj_uri": "Q34216", "sub_label": "Tzipi Livni", "obj_label": "Mossad", "predicate_id": "P108"}
+{"uuid": "cbf704a2-0398-4ea3-a1e7-446bd740bb99", "sub_uri": "Q92985", "obj_uri": "Q14772", "sub_label": "Robin Li", "obj_label": "Baidu", "predicate_id": "P108"}
+{"uuid": "57485e7c-eda7-4128-9c2f-53b9d449bfc9", "sub_uri": "Q7932718", "obj_uri": "Q1136829", "sub_label": "Vinod Aggarwal", "obj_label": "INSEAD", "predicate_id": "P108"}
+{"uuid": "146a9533-0223-4662-8372-1cb1391b7e09", "sub_uri": "Q44733", "obj_uri": "Q131524", "sub_label": "Heinz-Christian Strache", "obj_label": "Wirausahawan", "predicate_id": "P108"}
+{"uuid": "c20f95f4-1080-4b4f-acc5-a2a3074f7c68", "sub_uri": "Q7932718", "obj_uri": "Q1136829", "sub_label": "Vinod Aggarwal", "obj_label": "INSEAD", "predicate_id": "P108"}
+{"uuid": "d9cebf26-479a-47c8-9cb6-b7686117b2e6", "sub_uri": "Q7637", "obj_uri": "Q2283", "sub_label": "Ward Cunningham", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "ab6de363-cb19-4272-b11f-eda5aa828a86", "sub_uri": "Q57792", "obj_uri": "Q157062", "sub_label": "Mark Rutte", "obj_label": "Unilever", "predicate_id": "P108"}
+{"uuid": "f09d1b49-741c-4d7f-a0ad-00e843969d02", "sub_uri": "Q192912", "obj_uri": "Q9531", "sub_label": "Stephen Fry", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "9492b2ff-cb9a-4041-9b40-ab105bc9a142", "sub_uri": "Q77242", "obj_uri": "Q162684", "sub_label": "Theodor Billroth", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "53cfcb68-13f6-4942-96fb-4ac592ca8c90", "sub_uri": "Q472330", "obj_uri": "Q152433", "sub_label": "Howard Schultz", "obj_label": "Xerox", "predicate_id": "P108"}
+{"uuid": "85a428a9-f766-418f-85be-0cf233bba17a", "sub_uri": "Q92379963", "obj_uri": "Q30256699", "sub_label": "\u00d6zlem T\u00fcreci", "obj_label": "BioNTech", "predicate_id": "P108"}
+{"uuid": "9bd8c0f4-527a-4ba4-8292-7860e6ae8b76", "sub_uri": "Q30942", "obj_uri": "Q2283", "sub_label": "Guido van Rossum", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "b213c05a-33dc-42cd-b9f8-7031782f8916", "sub_uri": "Q58735", "obj_uri": "Q9531", "sub_label": "Lily Allen", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "fee2901a-35b7-4d86-8f06-7865b8279798", "sub_uri": "Q106286501", "obj_uri": "Q130879", "sub_label": "Danish Siddiqui", "obj_label": "Reuters", "predicate_id": "P108"}
+{"uuid": "1bdf07ec-367b-4a1b-9792-1bb3fc574cd3", "sub_uri": "Q4371978", "obj_uri": "Q1425316", "sub_label": "Ilya Ponomarev", "obj_label": "Schlumberger", "predicate_id": "P108"}
+{"uuid": "6166cf86-5ff6-4f15-96e9-8dec34c860cf", "sub_uri": "Q981835", "obj_uri": "Q216393", "sub_label": "Yossi Melman", "obj_label": "Haaretz", "predicate_id": "P108"}
+{"uuid": "cdc9e10f-7ebc-46e1-bac2-dc81917862a9", "sub_uri": "Q449013", "obj_uri": "Q13973", "sub_label": "Mika Brzezinski", "obj_label": "MSNBC", "predicate_id": "P108"}
+{"uuid": "0d17884e-6eec-4703-8493-0b46b00ea990", "sub_uri": "Q651895", "obj_uri": "Q141336", "sub_label": "Eldar Shengelaya", "obj_label": "Mosfilm", "predicate_id": "P108"}
+{"uuid": "46f7c31d-8b71-4d70-bc71-4958d3ca8470", "sub_uri": "Q2908729", "obj_uri": "Q188413", "sub_label": "Ronen Bergman", "obj_label": "Newsweek", "predicate_id": "P108"}
+{"uuid": "73df21e7-b1d9-4c6c-bd4c-3db9477ac19e", "sub_uri": "Q155979", "obj_uri": "Q58707", "sub_label": "Alexei Navalny", "obj_label": "Aeroflot", "predicate_id": "P108"}
+{"uuid": "4405e88f-f316-4848-a0a9-9113a2cde209", "sub_uri": "Q234458", "obj_uri": "Q635484", "sub_label": "Irina Shayk", "obj_label": "Armani", "predicate_id": "P108"}
+{"uuid": "f4a26e94-9855-499f-b0a4-4cc81bf678a8", "sub_uri": "Q390690", "obj_uri": "Q9531", "sub_label": "Owen Smith", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "2bdc8ae0-eb62-441a-b95f-a1152c7c465b", "sub_uri": "Q180505", "obj_uri": "Q330375", "sub_label": "Loie Fuller", "obj_label": "Folies-Berg\u00e8re", "predicate_id": "P108"}
+{"uuid": "225c4f05-3f6f-41e6-8e0c-1f585eadd8cd", "sub_uri": "Q104779", "obj_uri": "Q42944", "sub_label": "Simon van der Meer", "obj_label": "CERN", "predicate_id": "P108"}
+{"uuid": "8f515db2-af25-4d35-938b-98e0a0e8ad49", "sub_uri": "Q853", "obj_uri": "Q141336", "sub_label": "Andrei Tarkovsky", "obj_label": "Mosfilm", "predicate_id": "P108"}
+{"uuid": "1018ae86-1c85-4d33-b012-bc90681728e7", "sub_uri": "Q55183", "obj_uri": "Q95", "sub_label": "Susan Wojcicki", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "9a66ce86-98c1-497e-ac04-dc45bd2e8140", "sub_uri": "Q49819", "obj_uri": "Q2283", "sub_label": "Charles Simonyi", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "5c7cb8bf-1437-4777-afb4-d9204f0224e4", "sub_uri": "Q658774", "obj_uri": "Q2283", "sub_label": "Mike Harrington", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "f52c301d-d4b6-402a-a8f0-46415f4aaf71", "sub_uri": "Q1079331", "obj_uri": "Q162684", "sub_label": "Christian Drosten", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "bcef7e5b-40bf-40e1-8c7d-14e00ae581d6", "sub_uri": "Q6776602", "obj_uri": "Q9531", "sub_label": "Martin Sixsmith", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "b35f1c69-f613-4db9-98e8-1f078df37887", "sub_uri": "Q1056425", "obj_uri": "Q174097", "sub_label": "Alastor Moody", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "ebebed19-f636-4c01-a235-8dfb2d978ca5", "sub_uri": "Q3231528", "obj_uri": "Q174097", "sub_label": "Barty Crouch Junior", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "3dbb6fca-babf-42bd-a214-ce5c154b37ac", "sub_uri": "Q205303", "obj_uri": "Q414", "sub_label": "Pedro Sarmiento de Gamboa", "obj_label": "Argentina", "predicate_id": "P108"}
+{"uuid": "ab06d372-9069-4b9a-832a-7859426e653f", "sub_uri": "Q12524647", "obj_uri": "Q3234878", "sub_label": "Wishnutama", "obj_label": "Trans7", "predicate_id": "P108"}
+{"uuid": "00facd57-04a2-4e3b-9897-34a012f7e109", "sub_uri": "Q3395525", "obj_uri": "Q9531", "sub_label": "Jo Brand", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "76799333-2af6-45f1-9645-d5d111e60acb", "sub_uri": "Q185", "obj_uri": "Q187801", "sub_label": "Larry Sanger", "obj_label": "Citizendium", "predicate_id": "P108"}
+{"uuid": "782f6b37-f243-469d-bce5-e7d982fe2387", "sub_uri": "Q1711790", "obj_uri": "Q141336", "sub_label": "Yuli Raizman", "obj_label": "Mosfilm", "predicate_id": "P108"}
+{"uuid": "83017373-1efd-4eec-a8d0-56f11db18c70", "sub_uri": "Q9000717", "obj_uri": "Q1439934", "sub_label": "Lei Jun", "obj_label": "Kingsoft", "predicate_id": "P108"}
+{"uuid": "a2e44a2d-b498-40ed-9415-22235e5190ba", "sub_uri": "Q43179", "obj_uri": "Q857063", "sub_label": "Ellen Johnson Sirleaf", "obj_label": "Citibank", "predicate_id": "P108"}
+{"uuid": "bdd95d77-81f9-4ae0-ba98-8ff1c51222ff", "sub_uri": "Q3135308", "obj_uri": "Q95", "sub_label": "Christopher Poole", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "3851783f-869b-43e2-9bac-ec0ead061ec9", "sub_uri": "Q153178", "obj_uri": "Q42944", "sub_label": "Georges Charpak", "obj_label": "CERN", "predicate_id": "P108"}
+{"uuid": "253027cd-1d9a-49e9-b6f0-981693320079", "sub_uri": "Q62849", "obj_uri": "Q223407", "sub_label": "Miguel de Icaza", "obj_label": "Novell", "predicate_id": "P108"}
+{"uuid": "5d684c17-c9cf-4ede-98d6-d1d17f93ced6", "sub_uri": "Q18421342", "obj_uri": "Q3476210", "sub_label": "Maria Goretti Limi", "obj_label": "TvOne", "predicate_id": "P108"}
+{"uuid": "2ef41d85-8a7b-4499-83cb-3d9ce99e6890", "sub_uri": "Q2067726", "obj_uri": "Q1544011", "sub_label": "Ouida Berg\u00e8re", "obj_label": "Path\u00e9", "predicate_id": "P108"}
+{"uuid": "02464a89-2722-441a-b559-ee47ac0576f0", "sub_uri": "Q162005", "obj_uri": "Q2283", "sub_label": "Paul Allen", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "f270f0b1-fc68-4cda-9c26-e41aecf8db63", "sub_uri": "Q336520", "obj_uri": "Q9531", "sub_label": "Lord Sugar", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "5a17dc6e-d7f9-40c6-8bfa-f8ddaf1c9d7f", "sub_uri": "Q974541", "obj_uri": "Q788500", "sub_label": "Craig Newmark", "obj_label": "Craigslist", "predicate_id": "P108"}
+{"uuid": "e738c34a-138f-4504-8d27-ad4086989300", "sub_uri": "Q176772", "obj_uri": "Q174097", "sub_label": "Severus Snape", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "cd979964-eec4-42e5-ad82-65122f241afb", "sub_uri": "Q123029", "obj_uri": "Q37156", "sub_label": "Heinrich Rohrer", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "88f89b56-8437-4433-9a6c-47f9d82cc388", "sub_uri": "Q155914", "obj_uri": "Q159", "sub_label": "Peter Simon Pallas", "obj_label": "Rusia", "predicate_id": "P108"}
+{"uuid": "22dc2b52-7b82-4ce7-b6d5-9f362e9c2aeb", "sub_uri": "Q153248", "obj_uri": "Q13717", "sub_label": "Marguerite Duras", "obj_label": "Lib\u00e9ration", "predicate_id": "P108"}
+{"uuid": "6594dbd9-75c9-48c3-a7c8-e312e0bbce76", "sub_uri": "Q15737800", "obj_uri": "Q37093", "sub_label": "Jan Koum", "obj_label": "Yahoo!", "predicate_id": "P108"}
+{"uuid": "13070338-0e7a-4a1c-afee-eebb654859df", "sub_uri": "Q44111", "obj_uri": "Q333705", "sub_label": "Dan Shechtman", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "db5bfe8f-b714-41f0-9a19-b1d2d20b7b37", "sub_uri": "Q855", "obj_uri": "Q183644", "sub_label": "Josef Stalin", "obj_label": "Pravda", "predicate_id": "P108"}
+{"uuid": "aaaccad3-6b78-4e80-8955-b2dca774d449", "sub_uri": "Q80", "obj_uri": "Q7204713", "sub_label": "Tim Berners-Lee", "obj_label": "Plessey", "predicate_id": "P108"}
+{"uuid": "6a52540b-dad8-4519-972d-5813b24c721f", "sub_uri": "Q271491", "obj_uri": "Q48340", "sub_label": "Greta Van Susteren", "obj_label": "CNN", "predicate_id": "P108"}
+{"uuid": "e4242ed9-f537-4141-b281-6e29c4838306", "sub_uri": "Q43283459", "obj_uri": "Q95", "sub_label": "Erica Baker", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "495d51b5-7bf9-48d1-b0e9-454c76f7c291", "sub_uri": "Q23261", "obj_uri": "Q834328", "sub_label": "Hideaki Anno", "obj_label": "Gainax", "predicate_id": "P108"}
+{"uuid": "b159379e-b1d2-4619-8aa7-fac5fa8f7ef7", "sub_uri": "Q92743", "obj_uri": "Q95", "sub_label": "Vinton G. Cerf", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "aa0ec496-5a88-4bb0-a750-024eae1ee6b8", "sub_uri": "Q312823", "obj_uri": "Q51711", "sub_label": "Wael Ghonim", "obj_label": "Quora", "predicate_id": "P108"}
+{"uuid": "be0af9c2-4a70-420d-9d31-4422fb49ec63", "sub_uri": "Q452246", "obj_uri": "Q844822", "sub_label": "Masakazu Katsura", "obj_label": "Shueisha", "predicate_id": "P108"}
+{"uuid": "d130b665-ff66-4ef7-9a5b-3790ca60f17a", "sub_uri": "Q16221210", "obj_uri": "Q219758", "sub_label": "Jillian Tamaki", "obj_label": "BioWare", "predicate_id": "P108"}
+{"uuid": "7e3cc95f-edf2-4550-9023-c6835fc96baf", "sub_uri": "Q7638609", "obj_uri": "Q160120", "sub_label": "Sun Yafang", "obj_label": "Huawei", "predicate_id": "P108"}
+{"uuid": "1a68a40c-7b15-4e53-a31c-24613ec68b46", "sub_uri": "Q184563", "obj_uri": "Q1153275", "sub_label": "Sin-Itiro Tomonaga", "obj_label": "Riken", "predicate_id": "P108"}
+{"uuid": "5ca5b5ce-0532-4bc0-b1f1-5cf890772077", "sub_uri": "Q92606", "obj_uri": "Q37156", "sub_label": "James N. Gray", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "4f4e41f6-128c-4cf4-bc7f-e8f6417fd0c7", "sub_uri": "Q2559261", "obj_uri": "Q242446", "sub_label": "Dave Filoni", "obj_label": "Lucasfilm", "predicate_id": "P108"}
+{"uuid": "96d8711f-8d2b-4fd0-8896-fd3c61b871c2", "sub_uri": "Q189947", "obj_uri": "Q355", "sub_label": "Nick Clegg", "obj_label": "Facebook", "predicate_id": "P108"}
+{"uuid": "25006419-280f-4f63-8a56-13897f557136", "sub_uri": "Q541638", "obj_uri": "Q219508", "sub_label": "Lubna Olayan", "obj_label": "Citigroup", "predicate_id": "P108"}
+{"uuid": "26a85963-6adb-46fe-a83f-7300b3732c86", "sub_uri": "Q13424289", "obj_uri": "Q30873", "sub_label": "Edward Snowden", "obj_label": "Dell", "predicate_id": "P108"}
+{"uuid": "41b7d28d-e0f0-4da2-8660-86a107f42e00", "sub_uri": "Q2916662", "obj_uri": "Q216393", "sub_label": "Nitzan Horowitz", "obj_label": "Haaretz", "predicate_id": "P108"}
+{"uuid": "44ecd789-643c-4b18-bb87-734df86dde63", "sub_uri": "Q7026367", "obj_uri": "Q180445", "sub_label": "Nicholas Wade", "obj_label": "Nature", "predicate_id": "P108"}
+{"uuid": "4effbcdb-d8ae-4e98-b6c2-bd386f3d8f8b", "sub_uri": "Q400825", "obj_uri": "Q141336", "sub_label": "Georgi Yumatov", "obj_label": "Mosfilm", "predicate_id": "P108"}
+{"uuid": "cadf96d3-86a5-4c9c-95d2-707936f51ad6", "sub_uri": "Q312657", "obj_uri": "Q179200", "sub_label": "Chuck Jones", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "e51e4f30-77b1-40d6-8b2f-0ee82c0f148e", "sub_uri": "Q1114418", "obj_uri": "Q174097", "sub_label": "Gilderoy Lockhart", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "f4efeb28-5bc0-4831-ba87-ba1fe4500b03", "sub_uri": "Q483325", "obj_uri": "Q23633", "sub_label": "Ellen DeGeneres", "obj_label": "HBO", "predicate_id": "P108"}
+{"uuid": "c1e06c66-4971-4e85-92d0-160cdff57897", "sub_uri": "Q12195668", "obj_uri": "Q214654", "sub_label": "Jean Joseph L\u00e9andre Barg\u00e8s", "obj_label": "Sorbonne", "predicate_id": "P108"}
+{"uuid": "58c15283-2917-43ec-ae74-a25ffe4f9edd", "sub_uri": "Q707533", "obj_uri": "Q1192939", "sub_label": "Kume Kunitake", "obj_label": "Daij\u014d-kan", "predicate_id": "P108"}
+{"uuid": "0c466015-f876-4650-9ab7-2fe9ed7a6020", "sub_uri": "Q55238", "obj_uri": "Q9531", "sub_label": "Ken Loach", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "ad0e30ad-5149-4989-88d6-7c98d6619a2b", "sub_uri": "Q519609", "obj_uri": "Q159433", "sub_label": "Greg Biffle", "obj_label": "3M", "predicate_id": "P108"}
+{"uuid": "c16edc62-2a63-4b0e-aff9-0809823c326f", "sub_uri": "Q72551", "obj_uri": "Q157033", "sub_label": "Jutta Limbach", "obj_label": "Goethe-Institut", "predicate_id": "P108"}
+{"uuid": "ed1b7642-1af1-4fdb-920e-c0c45d09f2a1", "sub_uri": "Q270138", "obj_uri": "Q994015", "sub_label": "Hitomi Tanaka", "obj_label": "Moodyz", "predicate_id": "P108"}
+{"uuid": "71caa439-1967-44e3-a79f-2293f6f585e5", "sub_uri": "Q1701254", "obj_uri": "Q23633", "sub_label": "John Oliver", "obj_label": "HBO", "predicate_id": "P108"}
+{"uuid": "6e009bd5-35a2-4e3b-82cf-07c6f06d42f0", "sub_uri": "Q379396", "obj_uri": "Q95", "sub_label": "Steve Chen", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "36b0f7a0-6aba-4ace-ae91-898364ce61f5", "sub_uri": "Q173168", "obj_uri": "Q35886", "sub_label": "Stefano Domenicali", "obj_label": "Lamborghini", "predicate_id": "P108"}
+{"uuid": "6ab08641-89fb-432a-9ddf-ace75d4dc674", "sub_uri": "Q92596", "obj_uri": "Q37156", "sub_label": "Edgar F. Codd", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "20e32593-c780-40e9-9378-f85090e9e3d7", "sub_uri": "Q60024", "obj_uri": "Q162684", "sub_label": "Hermann von Helmholtz", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "0583a223-2b67-4bf7-8f30-bc13f099b471", "sub_uri": "Q6369466", "obj_uri": "Q1641044", "sub_label": "Karen Agustiawan", "obj_label": "Pertamina", "predicate_id": "P108"}
+{"uuid": "9d958350-52ac-4609-b732-432f07ea6857", "sub_uri": "Q368328", "obj_uri": "Q37156", "sub_label": "Bruce Schneier", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "2f60cadc-91fd-4d6d-8f66-c439876acd38", "sub_uri": "Q73358", "obj_uri": "Q1189945", "sub_label": "Akie Abe", "obj_label": "Dentsu", "predicate_id": "P108"}
+{"uuid": "c6d0219f-a528-4a63-9fbc-12b7b3abac13", "sub_uri": "Q553254", "obj_uri": "Q37156", "sub_label": "Scott Walker (politikus)", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "0c3c147d-70e2-4124-9127-c32a8ea706a9", "sub_uri": "Q230744", "obj_uri": "Q332474", "sub_label": "Anna Wintour", "obj_label": "Harrods", "predicate_id": "P108"}
+{"uuid": "6612da7b-9910-4874-ba4d-104c0735f018", "sub_uri": "Q4715991", "obj_uri": "Q190795", "sub_label": "Aleksey Ovchinin", "obj_label": "Roscosmos", "predicate_id": "P108"}
+{"uuid": "f3c7dcb1-bd02-4815-a817-0ee66751b213", "sub_uri": "Q548185", "obj_uri": "Q333705", "sub_label": "Moshe Arens", "obj_label": "Technion", "predicate_id": "P108"}
+{"uuid": "f5924df8-7461-4d22-b22b-aca0ad4c0e30", "sub_uri": "Q738896", "obj_uri": "Q1457205", "sub_label": "Kevin Cloud", "obj_label": "Softdisk", "predicate_id": "P108"}
+{"uuid": "c7111871-f833-4372-930a-145a33e21fb3", "sub_uri": "Q234458", "obj_uri": "Q311249", "sub_label": "Irina Shayk", "obj_label": "GQ", "predicate_id": "P108"}
+{"uuid": "64c62505-3a73-418f-8f89-1e0794feb6c5", "sub_uri": "Q4721504", "obj_uri": "Q1136", "sub_label": "Alexis Ohanian", "obj_label": "Reddit", "predicate_id": "P108"}
+{"uuid": "021f146f-3796-435f-bd35-725a1dcb11b4", "sub_uri": "Q25464675", "obj_uri": "Q20426955", "sub_label": "Nadiem Makarim", "obj_label": "Gojek", "predicate_id": "P108"}
+{"uuid": "4ae52005-8033-4511-ab23-7d57d49452ea", "sub_uri": "Q7378115", "obj_uri": "Q207983", "sub_label": "Rufus Yerxa", "obj_label": "Monsanto", "predicate_id": "P108"}
+{"uuid": "9eb15c2c-c0a9-4669-a61a-04080d24a563", "sub_uri": "Q15778935", "obj_uri": "Q37093", "sub_label": "Brian Acton", "obj_label": "Yahoo!", "predicate_id": "P108"}
+{"uuid": "979772e7-3e08-4922-9caf-47d15c02e508", "sub_uri": "Q651763", "obj_uri": "Q1044328", "sub_label": "Pierre Assouline", "obj_label": "L'Obs", "predicate_id": "P108"}
+{"uuid": "029bef89-5106-499c-aeb5-e9625b9fa71b", "sub_uri": "Q88965331", "obj_uri": "Q212322", "sub_label": "Moncef Slaoui", "obj_label": "GlaxoSmithKline", "predicate_id": "P108"}
+{"uuid": "3fa000bb-0f43-4359-9be6-303dc5beb01b", "sub_uri": "Q699041", "obj_uri": "Q252", "sub_label": "Fuad Hassan", "obj_label": "Indonesia", "predicate_id": "P108"}
+{"uuid": "9f7b2c7f-0370-4db8-a162-3c6098ae9f22", "sub_uri": "Q317521", "obj_uri": "Q21708200", "sub_label": "Elon Musk", "obj_label": "OpenAI", "predicate_id": "P108"}
+{"uuid": "105acf08-6178-4928-a2b5-60d2992904d3", "sub_uri": "Q13716200", "obj_uri": "Q359", "sub_label": "Sarah Harrison (wartawan)", "obj_label": "WikiLeaks", "predicate_id": "P108"}
+{"uuid": "1190610f-d7d0-4dff-88bf-bfd36275056b", "sub_uri": "Q76425", "obj_uri": "Q162684", "sub_label": "Emil Adolf von Behring", "obj_label": "Charit\u00e9", "predicate_id": "P108"}
+{"uuid": "d431df31-0474-41ad-8390-c5b0ac16cac8", "sub_uri": "Q55174", "obj_uri": "Q501476", "sub_label": "Meg Whitman", "obj_label": "Hasbro", "predicate_id": "P108"}
+{"uuid": "3fd6eeb1-1b5b-49d8-8ffe-35dca5f232bb", "sub_uri": "Q61035", "obj_uri": "Q470997", "sub_label": "Paul Augustin Mayer", "obj_label": "Anselmianum", "predicate_id": "P108"}
+{"uuid": "19a1eab7-c142-4e04-bdc1-1a038def3d09", "sub_uri": "Q17182285", "obj_uri": "Q1636958", "sub_label": "Hugo Barra", "obj_label": "Xiaomi", "predicate_id": "P108"}
+{"uuid": "5c5c47ba-8e66-43c8-9f35-8138a7a4d0db", "sub_uri": "Q30234267", "obj_uri": "Q430526", "sub_label": "Linda Findley Kozlowski", "obj_label": "Evernote", "predicate_id": "P108"}
+{"uuid": "e42c37e1-a834-44ac-a52a-276ac6318778", "sub_uri": "Q12615050", "obj_uri": "Q39949", "sub_label": "Kilnam Chon", "obj_label": "KAIST", "predicate_id": "P108"}
+{"uuid": "016142bd-8d39-4b4b-97ad-a88657021094", "sub_uri": "Q231911", "obj_uri": "Q731824", "sub_label": "Sof\u00eda Vergara", "obj_label": "Univision", "predicate_id": "P108"}
+{"uuid": "6ba8ffeb-1af5-4d5f-a87d-a4242534ab3b", "sub_uri": "Q3101870", "obj_uri": "Q95", "sub_label": "George Reyes", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "44d0583f-a53c-4b19-acd5-93e6bb22c00d", "sub_uri": "Q173162", "obj_uri": "Q1032540", "sub_label": "Franck Montagny", "obj_label": "Canal+", "predicate_id": "P108"}
+{"uuid": "c8debb5c-ee8a-4aee-9587-700a87e22cfe", "sub_uri": "Q92597", "obj_uri": "Q788500", "sub_label": "Larry Wall", "obj_label": "Craigslist", "predicate_id": "P108"}
+{"uuid": "de2cd012-cada-4c68-8a10-dc7afb7049f6", "sub_uri": "Q552080", "obj_uri": "Q2283", "sub_label": "Gary Starkweather", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "08ba59b8-a570-4212-9f89-097258989bce", "sub_uri": "Q28085", "obj_uri": "Q152698", "sub_label": "Adolf Eichmann", "obj_label": "SS-Reichssicherheitshauptamt", "predicate_id": "P108"}
+{"uuid": "1c342d1d-0b66-4203-bc46-d64b95b95b98", "sub_uri": "Q57410", "obj_uri": "Q34216", "sub_label": "Shimon Peres", "obj_label": "Mossad", "predicate_id": "P108"}
+{"uuid": "eaa9da80-2215-4fc5-a07e-ea3e5198d457", "sub_uri": "Q3244570", "obj_uri": "Q9531", "sub_label": "Bob Holness", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "a08d3445-0107-49a3-822d-3f0c808335a8", "sub_uri": "Q3699443", "obj_uri": "Q903343", "sub_label": "Nicole Aniston", "obj_label": "Brazzers", "predicate_id": "P108"}
+{"uuid": "146afbe6-ec50-4fe7-98d6-091ad02b1acc", "sub_uri": "Q2196", "obj_uri": "Q214683", "sub_label": "Pierre Desproges", "obj_label": "TF1", "predicate_id": "P108"}
+{"uuid": "b16202c7-8685-41ad-9faf-95a1c6c2f191", "sub_uri": "Q1107006", "obj_uri": "Q95", "sub_label": "Ken Thompson", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "381236f0-9382-4cb3-ba96-02f2580c2999", "sub_uri": "Q122338", "obj_uri": "Q507154", "sub_label": "Albert Hofmann", "obj_label": "Novartis", "predicate_id": "P108"}
+{"uuid": "23d7fcb4-de00-4a01-91f0-88f18ee38565", "sub_uri": "Q78473", "obj_uri": "Q152698", "sub_label": "Ernst Kaltenbrunner", "obj_label": "SS-Reichssicherheitshauptamt", "predicate_id": "P108"}
+{"uuid": "fbf818b6-f5e1-4e90-854d-f1d71103522c", "sub_uri": "Q6831354", "obj_uri": "Q188413", "sub_label": "Michael Isikoff", "obj_label": "Newsweek", "predicate_id": "P108"}
+{"uuid": "f1e27dc5-8f44-4a83-b6bd-c4552cd27bfc", "sub_uri": "Q984663", "obj_uri": "Q1530", "sub_label": "Ibnu Qutaibah", "obj_label": "Bagdad", "predicate_id": "P108"}
+{"uuid": "b2d2a02b-79ca-43fa-b6c3-0b4515969d24", "sub_uri": "Q319682", "obj_uri": "Q179200", "sub_label": "Louis B. Mayer", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "7e005dd1-69ae-44ea-999a-1525d26d18d4", "sub_uri": "Q110294", "obj_uri": "Q727", "sub_label": "Jan Pieterszoon Sweelinck", "obj_label": "Amsterdam", "predicate_id": "P108"}
+{"uuid": "c18bf8fd-1243-4167-826c-e23a31257194", "sub_uri": "Q360", "obj_uri": "Q359", "sub_label": "Julian Assange", "obj_label": "WikiLeaks", "predicate_id": "P108"}
+{"uuid": "b6d9291e-42c8-40b1-8561-b20f5bdeea70", "sub_uri": "Q172832", "obj_uri": "Q9531", "sub_label": "David Coulthard", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "79872163-aa92-4831-b2e8-de4600ebe00b", "sub_uri": "Q32295", "obj_uri": "Q37156", "sub_label": "Mike Massimino", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "f48fea65-1e80-403a-9eda-e44280ccc386", "sub_uri": "Q4998602", "obj_uri": "Q259011", "sub_label": "Burgess Owens", "obj_label": "Motorola", "predicate_id": "P108"}
+{"uuid": "b50c5573-f683-47db-b5db-f76987c1c759", "sub_uri": "Q44546", "obj_uri": "Q35339", "sub_label": "Ric Flair", "obj_label": "WWE", "predicate_id": "P108"}
+{"uuid": "ee3f6ec0-3413-4520-be6c-77b36ef57717", "sub_uri": "Q316013", "obj_uri": "Q8093", "sub_label": "Satoru Iwata", "obj_label": "Nintendo", "predicate_id": "P108"}
+{"uuid": "75024200-3b30-44b7-83fb-0d6394186b7c", "sub_uri": "Q454927", "obj_uri": "Q895795", "sub_label": "Kenz\u014d Takada", "obj_label": "Kenzo", "predicate_id": "P108"}
+{"uuid": "82cfbb85-30cc-49bf-a825-13189f0e6313", "sub_uri": "Q15516012", "obj_uri": "Q37156", "sub_label": "Edith Windsor", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "922f6b13-4897-42d5-836e-a64ae12908a5", "sub_uri": "Q42291468", "obj_uri": "Q1461799", "sub_label": "Marina Granovskaia", "obj_label": "Sibneft", "predicate_id": "P108"}
+{"uuid": "02724cfd-619b-48ae-b3b0-ba4d93b6de42", "sub_uri": "Q220697", "obj_uri": "Q186234", "sub_label": "Abu Yusuf", "obj_label": "Kufah", "predicate_id": "P108"}
+{"uuid": "d45ef5f3-e377-43c5-bf8d-9a15b969eb7d", "sub_uri": "Q55174", "obj_uri": "Q192557", "sub_label": "Meg Whitman", "obj_label": "DreamWorks", "predicate_id": "P108"}
+{"uuid": "9182f8ad-fcde-4f98-8775-459659aa5245", "sub_uri": "Q6306480", "obj_uri": "Q3109740", "sub_label": "Julia Ioffe", "obj_label": "Politico", "predicate_id": "P108"}
+{"uuid": "b32a55c7-fcba-40cb-b663-b0b4bf85ac88", "sub_uri": "Q3169294", "obj_uri": "Q214683", "sub_label": "Jean-Pierre Foucault", "obj_label": "TF1", "predicate_id": "P108"}
+{"uuid": "100ef388-1158-410d-8c71-99c0ae70ea99", "sub_uri": "Q2044233", "obj_uri": "Q9531", "sub_label": "Rageh Omaar", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "95e1edf5-0b34-46f6-a151-1c559a551d76", "sub_uri": "Q234458", "obj_uri": "Q309031", "sub_label": "Irina Shayk", "obj_label": "Lacoste", "predicate_id": "P108"}
+{"uuid": "01432c5b-afd0-4821-8d9b-c15a406c9efb", "sub_uri": "Q12382", "obj_uri": "Q8093", "sub_label": "Shigeru Miyamoto", "obj_label": "Nintendo", "predicate_id": "P108"}
+{"uuid": "ee666fce-40d6-4cf9-ab18-2eb550e83d5b", "sub_uri": "Q18235069", "obj_uri": "Q15907772", "sub_label": "Wang Xing", "obj_label": "Meituan-Dianping", "predicate_id": "P108"}
+{"uuid": "196b79fa-6f79-423e-9986-6ceaea121615", "sub_uri": "Q6845279", "obj_uri": "Q9531", "sub_label": "Mihir Bose", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "3ae4fe81-d9ad-477e-92c4-2819094d2dfa", "sub_uri": "Q249197", "obj_uri": "Q130879", "sub_label": "Frederick Forsyth", "obj_label": "Reuters", "predicate_id": "P108"}
+{"uuid": "8f2a34b0-8d4c-4778-8972-0637fec4d03b", "sub_uri": "Q14086", "obj_uri": "Q37093", "sub_label": "Marissa Mayer", "obj_label": "Yahoo!", "predicate_id": "P108"}
+{"uuid": "6051a1a5-6c8e-4ec8-83c7-d10bd9487fac", "sub_uri": "Q11869065", "obj_uri": "Q217799", "sub_label": "Kaja Kallas", "obj_label": "Riigikogu", "predicate_id": "P108"}
+{"uuid": "ce4e5714-2805-4140-bb71-adffe586bb5c", "sub_uri": "Q6778717", "obj_uri": "Q688613", "sub_label": "Mary-Dell Chilton", "obj_label": "Syngenta", "predicate_id": "P108"}
+{"uuid": "78c43ead-fa6b-42bf-8098-71c7958ad976", "sub_uri": "Q128933", "obj_uri": "Q461761", "sub_label": "Micha\u00eblle Jean", "obj_label": "CBC", "predicate_id": "P108"}
+{"uuid": "10b8cde8-a84e-44b4-a9c9-4c3fd512aad0", "sub_uri": "Q43393", "obj_uri": "Q84", "sub_label": "Robert Boyle", "obj_label": "London", "predicate_id": "P108"}
+{"uuid": "7a016847-8462-40b8-80e0-149f78f4a99b", "sub_uri": "Q12014326", "obj_uri": "Q483551", "sub_label": "Sylvia Mathews Burwell", "obj_label": "Walmart", "predicate_id": "P108"}
+{"uuid": "75badb65-e717-44d1-8788-a843d1d5708a", "sub_uri": "Q5891705", "obj_uri": "Q135325", "sub_label": "J. Erik Jonsson", "obj_label": "Alcoa", "predicate_id": "P108"}
+{"uuid": "1302fb03-2784-4ea2-91e3-6b17c2cd7e7b", "sub_uri": "Q107223526", "obj_uri": "Q5257843", "sub_label": "Azizah Hanum", "obj_label": "SCTV", "predicate_id": "P108"}
+{"uuid": "3b5a7773-7a4b-4859-9396-fd608702c780", "sub_uri": "Q153454", "obj_uri": "Q9531", "sub_label": "Diane Abbott", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "55f7e12e-8bb7-4e1b-8505-7da87d683885", "sub_uri": "Q60940", "obj_uri": "Q43250", "sub_label": "Rudolf Diels", "obj_label": "Gestapo", "predicate_id": "P108"}
+{"uuid": "d493d0d4-06f1-4afa-81c6-23b1f39bd225", "sub_uri": "Q18187112", "obj_uri": "Q1033", "sub_label": "Oluremi Oyo", "obj_label": "Nigeria", "predicate_id": "P108"}
+{"uuid": "8a22ee5c-ceef-4e63-bc46-d87e39a3c656", "sub_uri": "Q215447", "obj_uri": "Q35339", "sub_label": "CM Punk", "obj_label": "WWE", "predicate_id": "P108"}
+{"uuid": "a5bba710-f406-431f-b05f-a715bd1bc249", "sub_uri": "Q44567", "obj_uri": "Q35339", "sub_label": "Triple H", "obj_label": "WWE", "predicate_id": "P108"}
+{"uuid": "cd1a3174-2b8d-4a8d-b36f-82aede614cf6", "sub_uri": "Q76716", "obj_uri": "Q926575", "sub_label": "Karl Lagerfeld", "obj_label": "Fendi", "predicate_id": "P108"}
+{"uuid": "89c55027-7c38-48b0-a63c-0234b40b8ac5", "sub_uri": "Q313210", "obj_uri": "Q2306052", "sub_label": "Vladimir Shukhov", "obj_label": "Branobel", "predicate_id": "P108"}
+{"uuid": "e4ae8205-913f-494d-8041-e30961d98e2b", "sub_uri": "Q23368", "obj_uri": "Q9531", "sub_label": "Chris Patten", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "0e88e650-6e29-4de2-84e2-4bc94b9c7dff", "sub_uri": "Q2094347", "obj_uri": "Q9531", "sub_label": "Alistair Cooke", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "274ce946-04f1-42f4-bef5-48c38be135b4", "sub_uri": "Q658774", "obj_uri": "Q95", "sub_label": "Mike Harrington", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "5946502f-5a4a-4306-90af-95a49f17f909", "sub_uri": "Q312799", "obj_uri": "Q4371665", "sub_label": "Nikolai Kondratiev", "obj_label": "Pomgol", "predicate_id": "P108"}
+{"uuid": "ed5809de-1422-4f0b-ab54-e103fbf7e129", "sub_uri": "Q462207", "obj_uri": "Q182449", "sub_label": "Pavel Sudoplatov", "obj_label": "NKVD", "predicate_id": "P108"}
+{"uuid": "23701a19-5afd-403d-be6d-1a6efc7f41f9", "sub_uri": "Q234653", "obj_uri": "Q355", "sub_label": "Sheryl Sandberg", "obj_label": "Facebook", "predicate_id": "P108"}
+{"uuid": "640f57c2-e0de-472f-a7da-c05c8df4d532", "sub_uri": "Q77088", "obj_uri": "Q43250", "sub_label": "Klaus Barbie", "obj_label": "Gestapo", "predicate_id": "P108"}
+{"uuid": "322e8896-695f-4435-b3e5-7e359a324efb", "sub_uri": "Q7426870", "obj_uri": "Q2283", "sub_label": "Satya Nadella", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "8798b217-6aa1-4017-b1d9-d66f3e410902", "sub_uri": "Q24238925", "obj_uri": "Q255381", "sub_label": "Tracy Chou", "obj_label": "Pinterest", "predicate_id": "P108"}
+{"uuid": "91a348eb-a7a5-4ff7-8b8b-79859468d965", "sub_uri": "Q231911", "obj_uri": "Q334800", "sub_label": "Sof\u00eda Vergara", "obj_label": "PepsiCo", "predicate_id": "P108"}
+{"uuid": "a7e84bb5-1f01-4a9c-8053-c76a6366a4bb", "sub_uri": "Q80069", "obj_uri": "Q635484", "sub_label": "Megan Fox", "obj_label": "Armani", "predicate_id": "P108"}
+{"uuid": "ec15558b-ba7b-403f-b8d6-5eb3bcaf5483", "sub_uri": "Q45864", "obj_uri": "Q267313", "sub_label": "John McAfee", "obj_label": "McAfee", "predicate_id": "P108"}
+{"uuid": "577a5906-5cea-45fa-88c8-3898dce71051", "sub_uri": "Q4281880", "obj_uri": "Q907311", "sub_label": "Bruna Markuezine", "obj_label": "Netflix", "predicate_id": "P108"}
+{"uuid": "e6bfd498-6d4d-4de0-aad9-acc7a2ebe3ae", "sub_uri": "Q15838695", "obj_uri": "Q37156", "sub_label": "Gunawan Susanto", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "c01b5017-3fd5-4d48-9f1c-cd31244ed9a2", "sub_uri": "Q2530", "obj_uri": "Q1141123", "sub_label": "Gerhard Schr\u00f6der", "obj_label": "Rosneft", "predicate_id": "P108"}
+{"uuid": "0395a14a-0239-4352-bed7-c1252ac04477", "sub_uri": "Q5092367", "obj_uri": "Q9531", "sub_label": "Cherry Healey", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "c6bb5d1b-b753-492d-adc4-287bde923933", "sub_uri": "Q7645343", "obj_uri": "Q2283", "sub_label": "Surajit Chaudhuri", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "06a8ebfb-f279-4e13-8003-f08104782426", "sub_uri": "Q4208165", "obj_uri": "Q95", "sub_label": "Gideon Yu", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "7d285851-9677-4a81-b5f7-94c6a45a311c", "sub_uri": "Q317521", "obj_uri": "Q7555824", "sub_label": "Elon Musk", "obj_label": "SolarCity", "predicate_id": "P108"}
+{"uuid": "b968e37a-a9ca-4bbb-94a7-64ac56e15dac", "sub_uri": "Q280045", "obj_uri": "Q1457205", "sub_label": "John Romero", "obj_label": "Softdisk", "predicate_id": "P108"}
+{"uuid": "3383240e-e91c-46f2-ad7f-58f04ada35f1", "sub_uri": "Q983734", "obj_uri": "Q918", "sub_label": "Dick Costolo", "obj_label": "Twitter", "predicate_id": "P108"}
+{"uuid": "6282d2d2-ffd3-4e88-ac22-f0d085a40dde", "sub_uri": "Q157054", "obj_uri": "Q635484", "sub_label": "Giorgio Armani", "obj_label": "Armani", "predicate_id": "P108"}
+{"uuid": "738e9b9f-0357-4b69-a5b6-a145468fe590", "sub_uri": "Q62849", "obj_uri": "Q2283", "sub_label": "Miguel de Icaza", "obj_label": "Microsoft", "predicate_id": "P108"}
+{"uuid": "441a8df0-5043-4a15-916e-01a99959581a", "sub_uri": "Q28006858", "obj_uri": "Q911971", "sub_label": "Bucky Barnes", "obj_label": "S.H.I.E.L.D.", "predicate_id": "P108"}
+{"uuid": "73d75584-87f0-47a4-8e40-44c492984cc4", "sub_uri": "Q67172756", "obj_uri": "Q22662523", "sub_label": "Emil Reif", "obj_label": "Astralis", "predicate_id": "P108"}
+{"uuid": "95ad7364-3a6e-49b9-a879-5982888086dc", "sub_uri": "Q92609", "obj_uri": "Q37156", "sub_label": "Frederick P. Brooks", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "08172c97-85a0-472c-be8e-5b431192ae66", "sub_uri": "Q83807", "obj_uri": "Q43380", "sub_label": "Ed Sullivan", "obj_label": "CBS", "predicate_id": "P108"}
+{"uuid": "8b96c170-dc26-4e8f-a25f-d82872dfc760", "sub_uri": "Q12524647", "obj_uri": "Q2484603", "sub_label": "Wishnutama", "obj_label": "Indosiar", "predicate_id": "P108"}
+{"uuid": "2d7821fd-6217-493e-85e9-de8065fb7992", "sub_uri": "Q465663", "obj_uri": "Q152433", "sub_label": "Ursula Burns", "obj_label": "Xerox", "predicate_id": "P108"}
+{"uuid": "8afcce36-5578-43a3-be5e-ee68b500de7f", "sub_uri": "Q76694", "obj_uri": "Q95", "sub_label": "Jawed Karim", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "d9a49980-952a-47a0-8cc0-5a61e87ac93f", "sub_uri": "Q380484", "obj_uri": "Q80978", "sub_label": "David Packard", "obj_label": "Hewlett-Packard", "predicate_id": "P108"}
+{"uuid": "efa43ae6-bcdf-4aef-ac18-8e71479ce420", "sub_uri": "Q716941", "obj_uri": "Q174097", "sub_label": "Dolores Umbridge", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "31ebf20b-efe1-4372-941b-f8924dccafbc", "sub_uri": "Q1373662", "obj_uri": "Q179200", "sub_label": "Marcus Loew", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "3997593c-b1ff-46fa-aa5e-a55ef08ebfd9", "sub_uri": "Q84186", "obj_uri": "Q273894", "sub_label": "Ivan Illich", "obj_label": "Piaris", "predicate_id": "P108"}
+{"uuid": "8d59a7ed-2bd7-4d87-8220-ad0f3f549590", "sub_uri": "Q554127", "obj_uri": "Q493751", "sub_label": "Wouter Bos", "obj_label": "KPMG", "predicate_id": "P108"}
+{"uuid": "4552150c-c133-4ab8-8062-0b56457d9ad0", "sub_uri": "Q3999811", "obj_uri": "Q9531", "sub_label": "James Allen", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "b094bbf7-3ee5-4aec-be57-9df7f9f3ee67", "sub_uri": "Q1679623", "obj_uri": "Q836763", "sub_label": "Yakov Grigorevich Blumkin", "obj_label": "GPU", "predicate_id": "P108"}
+{"uuid": "c1b54cd9-ac72-4d5a-9954-33d993e68bf5", "sub_uri": "Q861110", "obj_uri": "Q35339", "sub_label": "Shane McMahon", "obj_label": "WWE", "predicate_id": "P108"}
+{"uuid": "05e72c3a-0444-4c4b-b577-68085bba1019", "sub_uri": "Q6761526", "obj_uri": "Q14903716", "sub_label": "Maria Ressa", "obj_label": "Rappler", "predicate_id": "P108"}
+{"uuid": "044b17ba-8e6d-496a-974a-08ed5f93f461", "sub_uri": "Q390690", "obj_uri": "Q206921", "sub_label": "Owen Smith", "obj_label": "Pfizer", "predicate_id": "P108"}
+{"uuid": "e6304552-2b5b-4c14-acdf-10ea0196406c", "sub_uri": "Q264913", "obj_uri": "Q334800", "sub_label": "Indra Nooyi", "obj_label": "PepsiCo", "predicate_id": "P108"}
+{"uuid": "d44836d6-c558-47d7-b51d-55b62bda6967", "sub_uri": "Q3341932", "obj_uri": "Q192557", "sub_label": "Nina Jacobson", "obj_label": "DreamWorks", "predicate_id": "P108"}
+{"uuid": "7cd059d6-4437-4694-8a04-d79e35b492b1", "sub_uri": "Q1280288", "obj_uri": "Q13973", "sub_label": "Joe Scarborough", "obj_label": "MSNBC", "predicate_id": "P108"}
+{"uuid": "4ecb03b7-ecd4-44f7-8998-6732cb386764", "sub_uri": "Q7183570", "obj_uri": "Q9531", "sub_label": "Philip French", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "67e01cd1-b773-4346-acec-7e075214a927", "sub_uri": "Q173175", "obj_uri": "Q9531", "sub_label": "Eddie Jordan", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "87a68335-ca38-4353-a02c-70beb37ba453", "sub_uri": "Q34424", "obj_uri": "Q334800", "sub_label": "Shakira", "obj_label": "PepsiCo", "predicate_id": "P108"}
+{"uuid": "65749fbe-27d1-42ae-8c57-477c8865583e", "sub_uri": "Q920637", "obj_uri": "Q461761", "sub_label": "Morley Safer", "obj_label": "CBC", "predicate_id": "P108"}
+{"uuid": "933154f0-950c-4b9f-92e5-6ff7430e273f", "sub_uri": "Q219734", "obj_uri": "Q190414", "sub_label": "Andrei Nikolayevich Tupolev", "obj_label": "TsAGI", "predicate_id": "P108"}
+{"uuid": "f9116827-2109-4d15-af7c-324b74cc6076", "sub_uri": "Q2505089", "obj_uri": "Q30256699", "sub_label": "U\u011fur \u015eahin", "obj_label": "BioNTech", "predicate_id": "P108"}
+{"uuid": "2055263a-47ef-41e2-894a-93f1206e52de", "sub_uri": "Q160902", "obj_uri": "Q56010", "sub_label": "Sigmar Gabriel", "obj_label": "Bundeswehr", "predicate_id": "P108"}
+{"uuid": "a74249a7-2d69-4086-8582-6a7664cbd9c7", "sub_uri": "Q186042", "obj_uri": "Q372989", "sub_label": "John Kenneth Galbraith", "obj_label": "Fortune", "predicate_id": "P108"}
+{"uuid": "3c495f1c-d8da-4a13-938c-bd0238e9bba5", "sub_uri": "Q64910", "obj_uri": "Q43250", "sub_label": "Josef Albert Meisinger", "obj_label": "Gestapo", "predicate_id": "P108"}
+{"uuid": "1987e307-ada5-4176-bd01-32df6588e9f5", "sub_uri": "Q319648", "obj_uri": "Q38076", "sub_label": "Ray Kroc", "obj_label": "McDonald's", "predicate_id": "P108"}
+{"uuid": "38556002-1593-4cc3-8f14-8a1cd41824e9", "sub_uri": "Q1679623", "obj_uri": "Q203023", "sub_label": "Yakov Grigorevich Blumkin", "obj_label": "Cheka", "predicate_id": "P108"}
+{"uuid": "8f5bb625-6516-4f34-afd0-caa4bbf10e71", "sub_uri": "Q463784", "obj_uri": "Q182449", "sub_label": "Melita Norwood", "obj_label": "NKVD", "predicate_id": "P108"}
+{"uuid": "e1a0faf0-734a-4d58-a488-37b614e4d9cb", "sub_uri": "Q193368", "obj_uri": "Q179200", "sub_label": "Ted Turner", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "976468ac-3e91-4b73-ae50-64c4d5306df0", "sub_uri": "Q313697", "obj_uri": "Q37156", "sub_label": "Ross Perot", "obj_label": "IBM", "predicate_id": "P108"}
+{"uuid": "426f66a3-0d2d-4dcf-9b7c-87d770193c7e", "sub_uri": "Q16204167", "obj_uri": "Q13974", "sub_label": "Kristen Welker", "obj_label": "NBC", "predicate_id": "P108"}
+{"uuid": "68ce86a0-63c9-4d29-82f1-ce4f9a02a940", "sub_uri": "Q22803", "obj_uri": "Q8684", "sub_label": "Park Won-soon", "obj_label": "Seoul", "predicate_id": "P108"}
+{"uuid": "62e93718-f149-4aa7-847c-7aba750b106a", "sub_uri": "Q92878", "obj_uri": "Q355", "sub_label": "Andrei Alexandrescu", "obj_label": "Facebook", "predicate_id": "P108"}
+{"uuid": "d8515b8e-9d3b-441f-93fd-c42d10a30e69", "sub_uri": "Q3278733", "obj_uri": "Q174097", "sub_label": "Poppy Pomfrey", "obj_label": "Hogwarts", "predicate_id": "P108"}
+{"uuid": "aba3a69a-481e-4c38-8097-3ffa63e0ead6", "sub_uri": "Q642196", "obj_uri": "Q179200", "sub_label": "William A. Horning", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "6d7566a5-a68f-4112-a6f8-f8096f44e4df", "sub_uri": "Q27058352", "obj_uri": "Q156077", "sub_label": "Emma Walmsley", "obj_label": "L'Or\u00e9al", "predicate_id": "P108"}
+{"uuid": "f81087dd-92fd-468d-8bfc-82d9157776c8", "sub_uri": "Q127454", "obj_uri": "Q408", "sub_label": "Miranda Kerr", "obj_label": "Australia", "predicate_id": "P108"}
+{"uuid": "c9e221fa-8a44-4544-b8b3-dca00e5435a9", "sub_uri": "Q16128741", "obj_uri": "Q216393", "sub_label": "Avi Issacharoff", "obj_label": "Haaretz", "predicate_id": "P108"}
+{"uuid": "c84dfca9-cdb3-4280-bcaa-db6983c44f3a", "sub_uri": "Q318471", "obj_uri": "Q571156", "sub_label": "Nigel Farage", "obj_label": "Natixis", "predicate_id": "P108"}
+{"uuid": "c68a0065-05e2-4212-bf57-a45de38ae027", "sub_uri": "Q27058352", "obj_uri": "Q212322", "sub_label": "Emma Walmsley", "obj_label": "GlaxoSmithKline", "predicate_id": "P108"}
+{"uuid": "03a14200-2b5b-4763-a78f-2b7519fd64a3", "sub_uri": "Q2856679", "obj_uri": "Q9531", "sub_label": "Jake Humphrey", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "75e62587-1b58-4c21-a16f-a8bb1ccf7187", "sub_uri": "Q1351469", "obj_uri": "Q9531", "sub_label": "Eric Maschwitz", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "ced52efe-e1a0-487a-9eb9-0fe4c639c4b0", "sub_uri": "Q5787781", "obj_uri": "Q95", "sub_label": "John Hanke", "obj_label": "Google", "predicate_id": "P108"}
+{"uuid": "502bf16f-1b28-4655-97bd-180c39b92018", "sub_uri": "Q937", "obj_uri": "Q70", "sub_label": "Albert Einstein", "obj_label": "Bern", "predicate_id": "P108"}
+{"uuid": "d6c36ffa-4150-4d4b-87fa-2bbca938f0b9", "sub_uri": "Q7175133", "obj_uri": "Q9531", "sub_label": "Peter Kellner", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "50cd4650-d840-4e8a-9000-9130c2fc54fa", "sub_uri": "Q555301", "obj_uri": "Q34216", "sub_label": "Mosab Hassan Yousef", "obj_label": "Mossad", "predicate_id": "P108"}
+{"uuid": "3ade0d40-f846-4465-abbc-28148908153e", "sub_uri": "Q472330", "obj_uri": "Q37158", "sub_label": "Howard Schultz", "obj_label": "Starbucks", "predicate_id": "P108"}
+{"uuid": "de41671b-86c0-408c-a699-4e5298b3c53d", "sub_uri": "Q5891705", "obj_uri": "Q135325", "sub_label": "J. Erik Jonsson", "obj_label": "Alcoa", "predicate_id": "P108"}
+{"uuid": "b3b6160a-b3d6-41b7-aefc-ffb91624dbad", "sub_uri": "Q281847", "obj_uri": "Q181114", "sub_label": "Lee Iacocca", "obj_label": "Chrysler", "predicate_id": "P108"}
+{"uuid": "3bfc52a5-8065-4f1d-9c1d-7fdf485065aa", "sub_uri": "Q205303", "obj_uri": "Q298", "sub_label": "Pedro Sarmiento de Gamboa", "obj_label": "Chili", "predicate_id": "P108"}
+{"uuid": "b7372ef1-1db0-440c-b4ae-376d4b87da8a", "sub_uri": "Q58035", "obj_uri": "Q23317", "sub_label": "August Horch", "obj_label": "Audi", "predicate_id": "P108"}
+{"uuid": "d88fcabf-8225-4511-adb8-54396a8ce643", "sub_uri": "Q374189", "obj_uri": "Q9531", "sub_label": "Alan Hansen", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "cff869d1-6a17-49e8-931d-304605b0cc82", "sub_uri": "Q3572799", "obj_uri": "Q1090717", "sub_label": "Youcef Yousfi", "obj_label": "Sonatrach", "predicate_id": "P108"}
+{"uuid": "03726dd2-7eb9-46af-8cf2-370a005cdaf5", "sub_uri": "Q6780480", "obj_uri": "Q179200", "sub_label": "Mary Parent", "obj_label": "Metro-Goldwyn-Mayer", "predicate_id": "P108"}
+{"uuid": "887d3312-7a5a-4224-ac51-50a94a807488", "sub_uri": "Q334128", "obj_uri": "Q9531", "sub_label": "Helen Liddell", "obj_label": "BBC", "predicate_id": "P108"}

@@ -1,0 +1,618 @@
+{"uuid": "5b223309-f9b1-4eae-aa36-5bb82b714f20", "sub_uri": "Q956697", "obj_uri": "Q192641", "sub_label": "Hrvoje \u010cale", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "3f0431b1-0899-4d41-933b-bd911dc71149", "sub_uri": "Q310981", "obj_uri": "Q16320", "sub_label": "El\u00edas Figueroa", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "51c45a97-c18f-46a0-8911-36bec16c62ca", "sub_uri": "Q862909", "obj_uri": "Q24689", "sub_label": "Bryan Linssen", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "f2653296-4483-4640-9d10-7675025ccf1e", "sub_uri": "Q4963738", "obj_uri": "Q214978", "sub_label": "Brian Fereira", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "5e66d690-3365-4fc7-a9ad-e30867a26c0c", "sub_uri": "Q173123", "obj_uri": "Q173103", "sub_label": "Jacky Ickx", "obj_label": "Brabham", "predicate_id": "P54"}
+{"uuid": "bd0e3fc0-a12d-44c5-9da9-3e10b8488b03", "sub_uri": "Q193221", "obj_uri": "Q214978", "sub_label": "Gabriel Milito", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "f0a64303-aa98-4722-8b02-d9afd112c240", "sub_uri": "Q1030343", "obj_uri": "Q24689", "sub_label": "Danny Wintjens", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "bedd0aaf-3aaf-4685-817c-a6780164a099", "sub_uri": "Q386876", "obj_uri": "Q608122", "sub_label": "Emmanuel Adebayor", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "bdf5a730-b155-421b-a963-3bd1c316e069", "sub_uri": "Q314376", "obj_uri": "Q214978", "sub_label": "Cristian Rodr\u00edguez", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "062a3a52-1c7d-4bff-80a1-b8ffb854549d", "sub_uri": "Q192035", "obj_uri": "Q207373", "sub_label": "Iv\u00e1n Zamorano", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "37b3eeed-5824-47ed-8253-5268cbbfe4b2", "sub_uri": "Q462530", "obj_uri": "Q207373", "sub_label": "Ismael Fuentes", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "b6e7a38c-66c1-4cc1-aa61-5582acf0b363", "sub_uri": "Q10514", "obj_uri": "Q172030", "sub_label": "Fernando Alonso", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "1248e58d-9afe-4b71-8171-4d7af3e64dc7", "sub_uri": "Q172843", "obj_uri": "Q171335", "sub_label": "Jacques Villeneuve", "obj_label": "Sauber", "predicate_id": "P54"}
+{"uuid": "05ebf54e-6b22-48cc-87b2-f83b68e04e2b", "sub_uri": "Q365965", "obj_uri": "Q1877396", "sub_label": "Amr Zaky", "obj_label": "ENPPI", "predicate_id": "P54"}
+{"uuid": "be1c073c-46ea-4243-8a99-23f344a73e2f", "sub_uri": "Q3547772", "obj_uri": "Q43710", "sub_label": "Ufuk Talay", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "7bade5f9-75e9-4cd3-adab-a62ee1da8ab3", "sub_uri": "Q295512", "obj_uri": "Q214978", "sub_label": "Carlos Gamarra", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "9673b021-4ccd-44ca-a5d8-3ae1d7bf5ee9", "sub_uri": "Q11994721", "obj_uri": "Q556570", "sub_label": "Badou Ndiaye", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "14679ccb-807a-4a49-8897-f70845db08c0", "sub_uri": "Q161038", "obj_uri": "Q643107", "sub_label": "Neven Suboti\u0107", "obj_label": "Denizlispor", "predicate_id": "P54"}
+{"uuid": "3f15439b-a580-4dfc-800e-77ab9bbee667", "sub_uri": "Q60540", "obj_uri": "Q608122", "sub_label": "Ali Ahamada", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "2ad24ce3-ffa0-447b-8ee3-39fb6a9862dd", "sub_uri": "Q3806614", "obj_uri": "Q291716", "sub_label": "James Hurst", "obj_label": "\u00cdBV", "predicate_id": "P54"}
+{"uuid": "4467518e-dbb9-4f0b-8a80-f9dcf2040ea8", "sub_uri": "Q355687", "obj_uri": "Q430107", "sub_label": "Adem Sar\u0131", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "d7c4f354-08df-4c94-8760-e1f6d2b58954", "sub_uri": "Q1100878", "obj_uri": "Q1543501", "sub_label": "Cleyton Coelho dos Santos", "obj_label": "Giresunspor", "predicate_id": "P54"}
+{"uuid": "6058582a-e024-42ab-8bc7-57e87c31e8ae", "sub_uri": "Q554567", "obj_uri": "Q16320", "sub_label": "Danilo Turcios", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "d34eb8cd-f60f-46bb-88b8-5e7a090960a4", "sub_uri": "Q820948", "obj_uri": "Q24689", "sub_label": "Jos Luhukay", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "89b1d1cc-0eec-4e2b-9bbb-c5149575ad07", "sub_uri": "Q530286", "obj_uri": "Q604589", "sub_label": "Richart B\u00e1ez", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "e0c3efbb-8836-466b-a08e-6bb93d3ab8fc", "sub_uri": "Q862782", "obj_uri": "Q24689", "sub_label": "Ismo Vorstermans", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "942d4a0c-d763-4d41-916a-e8be44ed6c4c", "sub_uri": "Q2343895", "obj_uri": "Q392310", "sub_label": "Stephan St\u00fcckler", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "da44a075-5996-47ff-a6c8-f213c10a11cd", "sub_uri": "Q3166", "obj_uri": "Q172030", "sub_label": "Denny Hulme", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "56fc0efe-2bd2-4c67-a6d1-44dab44e1f55", "sub_uri": "Q248141", "obj_uri": "Q24689", "sub_label": "Maya Yoshida", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "4a64bc03-457d-43d0-b781-50a758c1d1e4", "sub_uri": "Q533712", "obj_uri": "Q604589", "sub_label": "Carlos Humberto Paredes", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "2a2ef59e-255d-4422-a379-d2edbc9ca860", "sub_uri": "Q21011188", "obj_uri": "Q392310", "sub_label": "Almoez Ali", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "621fda28-f6f4-4d4e-9fa1-155e9f9d2c0e", "sub_uri": "Q154623", "obj_uri": "Q207373", "sub_label": "Lucas Barrios", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "4a0da63c-8de7-4fb5-9ec7-dbce7b6b438d", "sub_uri": "Q510225", "obj_uri": "Q513840", "sub_label": "Ezechiel N'Douassel", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "6717e323-c487-4e4b-bab0-8fa7dd85c3ee", "sub_uri": "Q531248", "obj_uri": "Q24689", "sub_label": "Melvin Platje", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "1276d113-c57f-43de-9af3-3d9486aeffad", "sub_uri": "Q276402", "obj_uri": "Q608122", "sub_label": "Silvestre Varela", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "ebad7163-8073-4a71-9c97-7dc1ad006f65", "sub_uri": "Q201885", "obj_uri": "Q430107", "sub_label": "Theofanis Gekas", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "3920affb-f167-4403-bc3a-1fad4f8be024", "sub_uri": "Q113377", "obj_uri": "Q142381", "sub_label": "Gustav Brunner", "obj_label": "Minardi", "predicate_id": "P54"}
+{"uuid": "1be23e5d-5d49-41f7-b61e-205a4879b944", "sub_uri": "Q342493", "obj_uri": "Q604589", "sub_label": "Diego Barreto", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "d667a420-1073-4e34-911d-e1d0b761cd18", "sub_uri": "Q2248973", "obj_uri": "Q214978", "sub_label": "Leonel Nunez", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "170002f3-3522-4bd1-821a-3b92a68520d3", "sub_uri": "Q312928", "obj_uri": "Q192641", "sub_label": "St\u00e9phane Mbia", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "1d00e644-015e-4f92-957c-453314b4ae3c", "sub_uri": "Q17308148", "obj_uri": "Q16320", "sub_label": "Nahitan N\u00e1ndez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "cf3611d5-3083-4458-bbbe-f36e6e0d5247", "sub_uri": "Q182216", "obj_uri": "Q24689", "sub_label": "Danny Holla", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "d84d681a-cdd0-4b6b-a692-a797be9f45c4", "sub_uri": "Q2063672", "obj_uri": "Q31821", "sub_label": "Juan Antonio", "obj_label": "FeralpiSal\u00f2", "predicate_id": "P54"}
+{"uuid": "4b450fa5-adf6-448f-ba43-47d7c2b8d639", "sub_uri": "Q1493831", "obj_uri": "Q13385", "sub_label": "Thiago Cionek", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "192b6890-834a-42d9-8a6d-886512ed7518", "sub_uri": "Q315689", "obj_uri": "Q207373", "sub_label": "Andr\u00e9s Scotti", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "5f3e3949-864d-4d2b-aa7a-b34161561aca", "sub_uri": "Q293420", "obj_uri": "Q841014", "sub_label": "\u00d3scar Pujol Mu\u00f1oz", "obj_label": "Lotto-Soudal", "predicate_id": "P54"}
+{"uuid": "599ab698-b654-4336-837e-c83a3221279c", "sub_uri": "Q794993", "obj_uri": "Q16320", "sub_label": "Claudio Biaggio", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "eee0f876-3eae-47f4-8fa0-a8659e066167", "sub_uri": "Q166710", "obj_uri": "Q392310", "sub_label": "Michael Baur", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "36d5dfad-f232-4b2b-82f3-16c5d97e9824", "sub_uri": "Q674036", "obj_uri": "Q392310", "sub_label": "Georg Margreitter", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "ca73ffe9-f375-43e0-91f1-7c6f050d323f", "sub_uri": "Q207397", "obj_uri": "Q192641", "sub_label": "Didier Zokora", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "683efdb6-65ec-4fac-a9f1-6a887ab99b3e", "sub_uri": "Q795537", "obj_uri": "Q1636019", "sub_label": "Leroy Fer", "obj_label": "Alanyaspor", "predicate_id": "P54"}
+{"uuid": "ce8267ee-4fb2-4468-8759-ec0fbce87807", "sub_uri": "Q166984", "obj_uri": "Q192641", "sub_label": "John Obi Mikel", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "417339ce-ce30-43e6-aa58-6feef1b945f9", "sub_uri": "Q15506789", "obj_uri": "Q8851", "sub_label": "Kelechi Iheanacho", "obj_label": "M\u00e1laga", "predicate_id": "P54"}
+{"uuid": "4be4f6f1-72e8-444f-8ab9-ce1c436c94cd", "sub_uri": "Q815471", "obj_uri": "Q392310", "sub_label": "Ralph Spirk", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "5e4bcff4-6684-4414-8f1b-804d74c6a418", "sub_uri": "Q386876", "obj_uri": "Q604589", "sub_label": "Emmanuel Adebayor", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "1f07cbe3-d31a-4587-aedf-34fe026ee5f1", "sub_uri": "Q47731", "obj_uri": "Q604589", "sub_label": "Ra\u00fal Vicente Amarilla", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "c867a53f-61e6-45b1-b74c-5c8628440cdf", "sub_uri": "Q2723503", "obj_uri": "Q604589", "sub_label": "Mat\u00edas Donnet", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "04085163-c23a-402c-89c4-5e6acd65003b", "sub_uri": "Q58000986", "obj_uri": "Q22662523", "sub_label": "Lukas Rossander", "obj_label": "Astralis", "predicate_id": "P54"}
+{"uuid": "59de2b6c-b6c1-4830-a751-8935fce878f5", "sub_uri": "Q2071920", "obj_uri": "Q24689", "sub_label": "Jerry Taihuttu", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "b25def24-c73f-4981-afaa-f71fb7739fa5", "sub_uri": "Q909070", "obj_uri": "Q643107", "sub_label": "Dorge Kouemaha", "obj_label": "Denizlispor", "predicate_id": "P54"}
+{"uuid": "8b0bda34-b4f2-456f-974f-e87a83785899", "sub_uri": "Q152791", "obj_uri": "Q192641", "sub_label": "Esteban Alvarado", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "4202f59a-68d0-4344-9cba-a7fadab17dc4", "sub_uri": "Q314376", "obj_uri": "Q16320", "sub_label": "Cristian Rodr\u00edguez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "ee63926e-ba21-4ba5-ad06-08fae3e2f8a1", "sub_uri": "Q989340", "obj_uri": "Q214978", "sub_label": "Emiliano Armenteros", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "e7f2b6c1-2692-4e3e-81be-830db41478a6", "sub_uri": "Q692565", "obj_uri": "Q24689", "sub_label": "Ricky van Haaren", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "d788d811-4f67-4cb2-874e-882e4aa99eee", "sub_uri": "Q543710", "obj_uri": "Q192641", "sub_label": "Aykut Akg\u00fcn", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "9db7a395-2d00-4d64-9fa1-bec8299a459c", "sub_uri": "Q2505360", "obj_uri": "Q430107", "sub_label": "U\u011fur Boral", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "22cfb5ca-2703-42c8-8d97-488fe533d6fa", "sub_uri": "Q349106", "obj_uri": "Q24689", "sub_label": "Dario Vuji\u010devi\u0107", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "c5270d31-86e7-4a00-b63b-b857d2a74ece", "sub_uri": "Q912274", "obj_uri": "Q853508", "sub_label": "Brian Greenhoff", "obj_label": "RoPS", "predicate_id": "P54"}
+{"uuid": "6b688624-bb00-4577-9844-0fe43002b0eb", "sub_uri": "Q795044", "obj_uri": "Q214978", "sub_label": "Mart\u00edn Vilallonga", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "01ac4f81-f2f6-4c61-84cb-3c766b7b918b", "sub_uri": "Q2055879", "obj_uri": "Q513237", "sub_label": "Faruk Yi\u011fit", "obj_label": "Kocaelispor", "predicate_id": "P54"}
+{"uuid": "30f05389-5783-4c8e-a938-6da4bb6601e4", "sub_uri": "Q285111", "obj_uri": "Q214978", "sub_label": "Mauricio Victorino", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "b7426a3c-e525-42ab-aa81-3d3dc69b2ab8", "sub_uri": "Q5042636", "obj_uri": "Q214978", "sub_label": "Carlos Sciucatti", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "6a51fd3a-e95a-407a-bd05-ba464c4b4b5a", "sub_uri": "Q44513", "obj_uri": "Q230", "sub_label": "Willy Sagnol", "obj_label": "Georgia", "predicate_id": "P54"}
+{"uuid": "31e10599-05ea-4190-baab-c813df63fcfd", "sub_uri": "Q299403", "obj_uri": "Q513840", "sub_label": "Charles Itandje", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "a83738f9-2977-4bb1-a717-f030e4e2cb72", "sub_uri": "Q797945", "obj_uri": "Q207373", "sub_label": "Charles Ar\u00e1nguiz", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "2c814be4-c2c3-474c-b8a7-5db1788e15dd", "sub_uri": "Q17541912", "obj_uri": "Q171335", "sub_label": "Charles Leclerc", "obj_label": "Sauber", "predicate_id": "P54"}
+{"uuid": "29b43c7b-3587-4b3d-a4f1-f79922404dc0", "sub_uri": "Q2779128", "obj_uri": "Q372599", "sub_label": "Pieter Mbemba", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "9d06d1ba-3309-4a9a-85d2-482e387db582", "sub_uri": "Q1081510", "obj_uri": "Q392310", "sub_label": "Christian Ramsebner", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "534597a0-bd14-4649-b667-67b8ded42e52", "sub_uri": "Q183391", "obj_uri": "Q392310", "sub_label": "Thomas Fr\u00f6schl", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "92d455a3-a426-470e-b1df-770fea6fc98c", "sub_uri": "Q182455", "obj_uri": "Q928", "sub_label": "Wilt Chamberlain", "obj_label": "Filipina", "predicate_id": "P54"}
+{"uuid": "abe5887b-fbfd-4268-91c5-3c0eb405658e", "sub_uri": "Q862834", "obj_uri": "Q24689", "sub_label": "Robert Cullen", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "3ef8d568-0f46-4108-a937-274993914cb4", "sub_uri": "Q463146", "obj_uri": "Q604589", "sub_label": "Diego Gavil\u00e1n", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "80976a45-a753-4c0b-9bfa-f67b5cd04494", "sub_uri": "Q7145406", "obj_uri": "Q513237", "sub_label": "Patrice Nzekou Nguenheu", "obj_label": "Kocaelispor", "predicate_id": "P54"}
+{"uuid": "413dfb95-0663-4508-a701-a0821a0c36b0", "sub_uri": "Q3704833", "obj_uri": "Q43710", "sub_label": "Dejan Lazarevi\u0107", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "9c0c7aa5-e394-4d90-a7b0-72ce1f086cc9", "sub_uri": "Q1920", "obj_uri": "Q43710", "sub_label": "Samir Nasri", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "aba4c44f-4878-4993-805d-ab111e6b2a39", "sub_uri": "Q188542", "obj_uri": "Q513840", "sub_label": "Aliaksandr Hleb", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "1f6a0e4a-bd8b-4474-b87a-64da68ce0476", "sub_uri": "Q347603", "obj_uri": "Q13385", "sub_label": "Matteo Ferrari", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "4c77d73c-6349-4038-816d-33304a0ad792", "sub_uri": "Q892163", "obj_uri": "Q207373", "sub_label": "Crist\u00f3bal Jorquera", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "c283bb7e-8765-40ae-8659-2c8bf268a7b6", "sub_uri": "Q1255625", "obj_uri": "Q43710", "sub_label": "Samuel Eto'o", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "3453ba63-80c5-497a-8eeb-9b8829561444", "sub_uri": "Q350326", "obj_uri": "Q16320", "sub_label": "Juan Guillermo Castillo", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "94c997d7-e525-44be-9c6e-81d9cd0475a9", "sub_uri": "Q717580", "obj_uri": "Q16320", "sub_label": "Jonathan Urretaviscaya", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "7d520027-8338-47b2-b9b0-394896ab4583", "sub_uri": "Q2095625", "obj_uri": "Q604589", "sub_label": "Casiano Delvalle", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "56150b1f-847b-41ea-87e7-791a4ff12cbc", "sub_uri": "Q1098258", "obj_uri": "Q179658", "sub_label": "Claudiu R\u0103ducanu", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "15f5b3ec-f1e8-4744-ba2c-8123b9855da2", "sub_uri": "Q678622", "obj_uri": "Q214978", "sub_label": "David Abraham", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "7e7e66be-61bb-41d9-8a70-cd52821130eb", "sub_uri": "Q5340511", "obj_uri": "Q604589", "sub_label": "Eduardo Aranda", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "891b24f0-a99e-4a54-a67c-6dca83507bbe", "sub_uri": "Q2164290", "obj_uri": "Q214978", "sub_label": "Eduardo Bustos Montoya", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "2b3b1d7a-8086-436f-b653-149d2db4b880", "sub_uri": "Q27508", "obj_uri": "Q207373", "sub_label": "Lucas Daniel Wilchez", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "e6f73166-e566-415e-8034-a22a3a7de5ac", "sub_uri": "Q321642", "obj_uri": "Q179658", "sub_label": "Pantelis Kapetanos", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "285b75a4-b4e9-47e4-a13a-e05c5c83b28e", "sub_uri": "Q316728", "obj_uri": "Q604589", "sub_label": "Julio C\u00e9sar C\u00e1ceres", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "42b06116-04fa-4ecf-a90f-ab58897cb5c1", "sub_uri": "Q321330", "obj_uri": "Q43710", "sub_label": "Mile Jedinak", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "f6e78259-bf68-4e4b-b689-9979bd1137f8", "sub_uri": "Q463492", "obj_uri": "Q214978", "sub_label": "Ren\u00e9 Houseman", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "80a6bd8a-4b35-481a-b796-d557f98ecbce", "sub_uri": "Q2323723", "obj_uri": "Q214978", "sub_label": "Guillermo Daniel Rodr\u00edguez", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "0ec88be2-308e-4461-9434-5dff9331a11d", "sub_uri": "Q1828808", "obj_uri": "Q1345161", "sub_label": "Alex Neil", "obj_label": "Airdrieonians", "predicate_id": "P54"}
+{"uuid": "5b3b3b41-cc62-4628-b813-a04ab24cf092", "sub_uri": "Q1185682", "obj_uri": "Q1368064", "sub_label": "Alex Sandro Santana de Oliveira", "obj_label": "Malatyaspor", "predicate_id": "P54"}
+{"uuid": "7db47f68-6660-4b99-857c-0a4184472e39", "sub_uri": "Q776925", "obj_uri": "Q1877396", "sub_label": "Mohamed Abdel-Shafy", "obj_label": "ENPPI", "predicate_id": "P54"}
+{"uuid": "55a5397f-dde8-4039-85a7-027d8798e168", "sub_uri": "Q3128", "obj_uri": "Q173103", "sub_label": "Graham Hill", "obj_label": "Brabham", "predicate_id": "P54"}
+{"uuid": "5094c2ec-8610-46e3-9015-763a304af1e8", "sub_uri": "Q350326", "obj_uri": "Q16320", "sub_label": "Juan Guillermo Castillo", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "568092e6-8a5f-440f-b4f3-4ade793d236b", "sub_uri": "Q211996", "obj_uri": "Q192641", "sub_label": "Jos\u00e9 Bosingwa", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "27700434-148f-401b-a165-fe5f852a4e0d", "sub_uri": "Q134976", "obj_uri": "Q43710", "sub_label": "Lukas Podolski", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "be9f8979-4c5a-4dbd-93c6-c85576f8809c", "sub_uri": "Q310981", "obj_uri": "Q207373", "sub_label": "El\u00edas Figueroa", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "13baf352-8adc-42d0-acf3-264decc78f86", "sub_uri": "Q443113", "obj_uri": "Q192641", "sub_label": "K\u00e9vin Constant", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "2544bd59-a1bf-4878-94c7-0ac027be6c36", "sub_uri": "Q10557534", "obj_uri": "Q1877396", "sub_label": "Mahmoud Kahraba", "obj_label": "ENPPI", "predicate_id": "P54"}
+{"uuid": "edc5b266-4cac-4c1f-8c48-5b4f707a7761", "sub_uri": "Q1255625", "obj_uri": "Q513840", "sub_label": "Samuel Eto'o", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "3dcffcd4-5c2d-4032-9143-1cc2293be46e", "sub_uri": "Q58441", "obj_uri": "Q372599", "sub_label": "Robinho", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "95e8a842-3b4d-4bcd-9497-1a82782adad8", "sub_uri": "Q718871", "obj_uri": "Q430107", "sub_label": "Adalto Batista da Silva", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "6a56fbda-cc93-4765-90a9-da345d5634a5", "sub_uri": "Q401781", "obj_uri": "Q372599", "sub_label": "Ahmet Berman", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "5ce49b67-66b1-4ee3-bc7c-b21219052b98", "sub_uri": "Q219879", "obj_uri": "Q16320", "sub_label": "Rub\u00e9n Olivera", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "f8f5157d-e9e5-45b5-bef7-605720ee369e", "sub_uri": "Q448937", "obj_uri": "Q286490", "sub_label": "Hossam Hassan", "obj_label": "Al-Masry", "predicate_id": "P54"}
+{"uuid": "aafd4001-1763-42e0-a5a5-faa954518b30", "sub_uri": "Q216312", "obj_uri": "Q16320", "sub_label": "Jos\u00e9 Luis Chilavert", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "fd615241-30bb-45be-88d6-ec53d442102c", "sub_uri": "Q381075", "obj_uri": "Q291716", "sub_label": "Hermann Hrei\u00f0arsson", "obj_label": "\u00cdBV", "predicate_id": "P54"}
+{"uuid": "41f527bc-093b-479b-9703-afd82817a763", "sub_uri": "Q533669", "obj_uri": "Q207373", "sub_label": "Jaime Vald\u00e9s", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "2b1a4112-90f9-4c80-b697-a1397265eeee", "sub_uri": "Q438616", "obj_uri": "Q608122", "sub_label": "Alain Traor\u00e9", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "edff335e-3078-47e6-a613-5ec0e5742532", "sub_uri": "Q325975", "obj_uri": "Q16320", "sub_label": "Hugo Fern\u00e1ndez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "7574c919-591f-4a0e-86af-0f5434a4de63", "sub_uri": "Q213085", "obj_uri": "Q392310", "sub_label": "Milivoje Novakovi\u010d", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "3b794252-049d-4d0f-9df5-76c8bb1fb8a8", "sub_uri": "Q78489", "obj_uri": "Q172030", "sub_label": "Niki Lauda", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "9267bdf8-0f0b-410e-9b28-90afc4560d42", "sub_uri": "Q465603", "obj_uri": "Q318698", "sub_label": "Brent Sancho", "obj_label": "MyPa", "predicate_id": "P54"}
+{"uuid": "c9ddea84-d80c-4975-b708-8e0a47daecdc", "sub_uri": "Q171481", "obj_uri": "Q173093", "sub_label": "Tony Brooks", "obj_label": "Vanwall", "predicate_id": "P54"}
+{"uuid": "35b5a768-272a-47cb-a9c2-ae7baa55b651", "sub_uri": "Q377864", "obj_uri": "Q214978", "sub_label": "Adri\u00e1n Calello", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "5bed77c9-afb9-44b2-b9ad-70131d0399d2", "sub_uri": "Q316551", "obj_uri": "Q608122", "sub_label": "Marcelo Zalayeta", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "67342450-8a5c-4db3-b943-57afd67af669", "sub_uri": "Q4715337", "obj_uri": "Q185068", "sub_label": "Aleksandr Nikolayevich Radchenko", "obj_label": "Urartu", "predicate_id": "P54"}
+{"uuid": "796c08e5-a6c7-4f1c-aa44-535c2ba3632b", "sub_uri": "Q326452", "obj_uri": "Q608122", "sub_label": "Miguel Lopes", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "465bf1fb-c879-4994-ae15-269602dd22da", "sub_uri": "Q329496", "obj_uri": "Q207373", "sub_label": "Rodrigo Millar", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "22326946-2f55-4ee4-a619-d695b90e0ec9", "sub_uri": "Q50296396", "obj_uri": "Q22662523", "sub_label": "Andreas H\u00f8jsleth", "obj_label": "Astralis", "predicate_id": "P54"}
+{"uuid": "2dd24b8b-07d0-4c02-a7c7-947a503b2230", "sub_uri": "Q3275904", "obj_uri": "Q214978", "sub_label": "Emiliano Mart\u00ednez", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "61a2d535-34eb-4ade-9b52-f20a47f5ef8b", "sub_uri": "Q2638130", "obj_uri": "Q556570", "sub_label": "Tiago Miguel Ba\u00eda Pinto", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "b4047519-250b-4823-a4f6-f61f0f94ed33", "sub_uri": "Q1178484", "obj_uri": "Q318698", "sub_label": "Dawda Bah", "obj_label": "MyPa", "predicate_id": "P54"}
+{"uuid": "b0b378e6-f72c-428b-8c89-c8800ada2046", "sub_uri": "Q3949436", "obj_uri": "Q604589", "sub_label": "Santiago Vergini", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "09a29249-218f-47d5-a17d-b3b1d75a02d2", "sub_uri": "Q265697", "obj_uri": "Q214978", "sub_label": "Raimundo Orsi", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "7ae2a52a-0f68-4ff4-8235-ab4f7ef145f8", "sub_uri": "Q347327", "obj_uri": "Q372599", "sub_label": "Servet \u00c7etin", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "e8c97764-f030-4ea6-adc9-9ad4e823ffb5", "sub_uri": "Q201900", "obj_uri": "Q43710", "sub_label": "R\u00fc\u015ft\u00fc Re\u00e7ber", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "f61bf90b-0057-4a1f-b120-f1ddedd2e883", "sub_uri": "Q18599504", "obj_uri": "Q192641", "sub_label": "Majid Hosseini", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "26196e4c-4215-4641-88e0-277876712335", "sub_uri": "Q332742", "obj_uri": "Q13385", "sub_label": "Luigi Delneri", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "3d064b6a-c952-46f2-a67e-e83f9b563c0c", "sub_uri": "Q13422031", "obj_uri": "Q16320", "sub_label": "Guillermo Varela", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "ae9b63b2-4b3e-4d6e-8f1a-30ff94140592", "sub_uri": "Q716118", "obj_uri": "Q372599", "sub_label": "John Boye", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "6ff116cf-e88e-4cee-bb63-4a95746265b2", "sub_uri": "Q1910910", "obj_uri": "Q392310", "sub_label": "Mat\u00edas Rodr\u00edguez", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "b657fd17-c8c9-461e-8735-04d4fbbcd5ae", "sub_uri": "Q1563415", "obj_uri": "Q1636019", "sub_label": "Josef \u0160ural", "obj_label": "Alanyaspor", "predicate_id": "P54"}
+{"uuid": "7a0b095d-adc0-48d2-8464-550de1899427", "sub_uri": "Q3266344", "obj_uri": "Q16320", "sub_label": "Alejandro Gonz\u00e1lez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "67ebd6fe-908c-4483-8096-cb20416f7eb1", "sub_uri": "Q202404", "obj_uri": "Q430107", "sub_label": "Georgios Samaras", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "1a1d02ab-bbb9-4332-a2b6-5924be7e36cd", "sub_uri": "Q1318700", "obj_uri": "Q13385", "sub_label": "Massimo Battara", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "f00abbda-cf1d-40c9-b85d-ce761ce0c8a3", "sub_uri": "Q47503", "obj_uri": "Q214978", "sub_label": "Leonardo Noeren Franco", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "78c79e9d-0097-4a36-b1e5-ca48b9ea85ae", "sub_uri": "Q314241", "obj_uri": "Q192641", "sub_label": "Jos\u00e9 Ernesto Sosa", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "3c214ea8-53e6-4373-8a10-3b6d8f31894c", "sub_uri": "Q2443461", "obj_uri": "Q604589", "sub_label": "Daniel Sanabria", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "fe1075c2-b9d4-4966-b150-49a1d8a76cbb", "sub_uri": "Q310623", "obj_uri": "Q1492", "sub_label": "Brendan Rodgers", "obj_label": "Barcelona", "predicate_id": "P54"}
+{"uuid": "9eeb60fc-c2b8-4bda-9f94-6472a4cd2f04", "sub_uri": "Q114598", "obj_uri": "Q513237", "sub_label": "Tomislav Erceg", "obj_label": "Kocaelispor", "predicate_id": "P54"}
+{"uuid": "57c9d7c3-9dcd-46e9-8406-d62895348039", "sub_uri": "Q3610092", "obj_uri": "Q31821", "sub_label": "Alessandro Longhi", "obj_label": "FeralpiSal\u00f2", "predicate_id": "P54"}
+{"uuid": "3520f752-2cee-4125-99ba-0d8d87569e64", "sub_uri": "Q18765", "obj_uri": "Q192641", "sub_label": "Burak Y\u0131lmaz", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "ef47e8d2-9559-4181-9646-372a50a4046a", "sub_uri": "Q10514", "obj_uri": "Q172030", "sub_label": "Fernando Alonso", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "0dba3a55-6e93-4dd1-ae05-24abe72be47d", "sub_uri": "Q717580", "obj_uri": "Q16320", "sub_label": "Jonathan Urretaviscaya", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "cf8bf9ca-44c9-4efc-8269-3e6a2357f803", "sub_uri": "Q557329", "obj_uri": "Q608122", "sub_label": "James Troisi", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "1c73b950-ac16-44b4-aad5-d0d8066fc660", "sub_uri": "Q346718", "obj_uri": "Q604589", "sub_label": "Denis Caniza", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "385aa6ba-1b53-4343-a6b3-5e376489562f", "sub_uri": "Q3704833", "obj_uri": "Q43710", "sub_label": "Dejan Lazarevi\u0107", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "76e1ec50-40ea-4274-b192-9e37821758e0", "sub_uri": "Q6710078", "obj_uri": "Q13385", "sub_label": "Lys Gomis", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "a9514731-20b0-404c-a15d-15725e75331c", "sub_uri": "Q504393", "obj_uri": "Q192641", "sub_label": "Tony Sylva", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "75788d16-6611-459b-8bfc-63d72d707ad8", "sub_uri": "Q316614", "obj_uri": "Q16320", "sub_label": "Pablo Cavallero", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "77a168b2-3e87-44c6-8020-916ac918f54c", "sub_uri": "Q2454824", "obj_uri": "Q24689", "sub_label": "Jason Oost", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "c19fdb4e-8e6c-44a3-b937-e21303049e1f", "sub_uri": "Q571631", "obj_uri": "Q179658", "sub_label": "Ante Vuku\u0161i\u0107", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "c2038b2a-c680-411c-b2c0-4f006f039136", "sub_uri": "Q344107", "obj_uri": "Q192641", "sub_label": "Marc Janko", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "94bf0c82-9fa1-43f4-bbc0-4d6cbf6784e3", "sub_uri": "Q3544338", "obj_uri": "Q604589", "sub_label": "Jorge Salinas", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "57a78cfc-d14c-4857-9d6d-b0fa76583d53", "sub_uri": "Q314365", "obj_uri": "Q192641", "sub_label": "Shota Arveladze", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "c47d07a3-21b7-47b4-9fc1-86e021fc35e2", "sub_uri": "Q155065", "obj_uri": "Q192641", "sub_label": "Jean-Marie Pfaff", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "577b44b3-38e8-4c7e-9908-76c0d8da5c6c", "sub_uri": "Q2700168", "obj_uri": "Q556570", "sub_label": "Sloan Privat", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "32f285e9-3d48-4a5a-aacd-8f9b0fa5b25d", "sub_uri": "Q643858", "obj_uri": "Q286490", "sub_label": "Aristide Banc\u00e9", "obj_label": "Al-Masry", "predicate_id": "P54"}
+{"uuid": "e995c318-5b4d-4d32-86d8-55630ffd0aaf", "sub_uri": "Q1522911", "obj_uri": "Q286490", "sub_label": "Saad Samir", "obj_label": "Al-Masry", "predicate_id": "P54"}
+{"uuid": "3747681f-48bc-4233-8759-6ed1c3727a83", "sub_uri": "Q946154", "obj_uri": "Q207373", "sub_label": "Jos\u00e9 Pedro Fuenzalida", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "18d56751-d40c-40fe-a08b-3efa8fdb0199", "sub_uri": "Q4716335", "obj_uri": "Q13385", "sub_label": "Alessandro De Vitis", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "fbe7e372-7e71-4f00-9239-5ae6f33d8717", "sub_uri": "Q731260", "obj_uri": "Q1368064", "sub_label": "Serginho Chulapa", "obj_label": "Malatyaspor", "predicate_id": "P54"}
+{"uuid": "e9ae3504-cf2b-4b49-b49f-1c8dd9829e2d", "sub_uri": "Q378275", "obj_uri": "Q43710", "sub_label": "Semih \u015eent\u00fcrk", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "cd0d53b7-0185-4678-8e68-81b93caa2e8e", "sub_uri": "Q201885", "obj_uri": "Q513840", "sub_label": "Theofanis Gekas", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "ff0a339f-69b3-4c30-8ebc-90738a7043ba", "sub_uri": "Q1092283", "obj_uri": "Q207373", "sub_label": "Frank Lobos", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "9c78dbe1-20fb-48be-bcb3-2b5f2308dfe0", "sub_uri": "Q39746", "obj_uri": "Q1636019", "sub_label": "Jonathan Ayit\u00e9", "obj_label": "Alanyaspor", "predicate_id": "P54"}
+{"uuid": "32d43b5a-533b-4957-b790-6e4354e5489c", "sub_uri": "Q923884", "obj_uri": "Q513840", "sub_label": "Vid Belec", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "39b150a0-a647-4a71-bafb-343f500c02d5", "sub_uri": "Q1523030", "obj_uri": "Q13385", "sub_label": "Etrit Berisha", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "4ff13d16-8c97-4364-bec6-f45ea97c0b7a", "sub_uri": "Q206664", "obj_uri": "Q1543501", "sub_label": "Onur \u00c7enik", "obj_label": "Giresunspor", "predicate_id": "P54"}
+{"uuid": "f0855737-67bc-4b45-8a98-6c2a78256e21", "sub_uri": "Q898247", "obj_uri": "Q24689", "sub_label": "Jeroen Boere", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "a0d2e5d7-7b51-4bec-86be-77f76d1f1797", "sub_uri": "Q1092276", "obj_uri": "Q207373", "sub_label": "Francisco Fern\u00e1ndez", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "15a84284-16d1-48b0-baea-864912b952bc", "sub_uri": "Q1740212", "obj_uri": "Q172030", "sub_label": "Kevin Magnussen", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "e988187e-bb34-4fbe-ba67-f91cd06af925", "sub_uri": "Q180553", "obj_uri": "Q207373", "sub_label": "Alexis S\u00e1nchez", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "19bc75f9-9375-479e-bd0e-d00ebe9d3cbc", "sub_uri": "Q795044", "obj_uri": "Q214978", "sub_label": "Mart\u00edn Vilallonga", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "705eccf2-f65e-4c49-90c2-eec4024d42f7", "sub_uri": "Q265697", "obj_uri": "Q16320", "sub_label": "Raimundo Orsi", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "fe9401ea-d762-409a-a81c-5ccdd9df49a5", "sub_uri": "Q172832", "obj_uri": "Q172030", "sub_label": "David Coulthard", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "2d14f762-91e5-4364-b360-a03c0c632351", "sub_uri": "Q3876530", "obj_uri": "Q214978", "sub_label": "Nicol\u00e1s Tagliafico", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "d29dc759-8a44-4f12-9978-55e831839479", "sub_uri": "Q15983756", "obj_uri": "Q286490", "sub_label": "Tareq Khattab", "obj_label": "Al-Masry", "predicate_id": "P54"}
+{"uuid": "a4e11b38-c5be-4305-b629-0e948d89d413", "sub_uri": "Q313544", "obj_uri": "Q608122", "sub_label": "Alexandros Tziolis", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "dcd8d006-ccc3-41ec-9626-3a1bee0c3b2e", "sub_uri": "Q463992", "obj_uri": "Q430107", "sub_label": "Oliver Kova\u010devi\u0107", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "29ab1781-a4b1-48ed-81f5-fa6df69c02c9", "sub_uri": "Q707797", "obj_uri": "Q286490", "sub_label": "Razak Pimpong", "obj_label": "Al-Masry", "predicate_id": "P54"}
+{"uuid": "27c6c9d6-3281-485f-a565-bdb5b70d8a76", "sub_uri": "Q207403", "obj_uri": "Q192641", "sub_label": "R\u00f3bert Vittek", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "cd138535-9c58-4e17-ba6e-87e87fc432a7", "sub_uri": "Q78489", "obj_uri": "Q173103", "sub_label": "Niki Lauda", "obj_label": "Brabham", "predicate_id": "P54"}
+{"uuid": "e14c54fb-7abf-4922-9c88-12f45a510fb2", "sub_uri": "Q4205620", "obj_uri": "Q128049", "sub_label": "Pedro Vel\u00e1zquez", "obj_label": "Guabir\u00e1", "predicate_id": "P54"}
+{"uuid": "71981f60-06f5-4abc-94da-dd8cb43b3086", "sub_uri": "Q722889", "obj_uri": "Q214978", "sub_label": "Carlos Matheu", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "9b4d9f12-5a7f-4a59-9b73-5d5fe1a83976", "sub_uri": "Q78502", "obj_uri": "Q172030", "sub_label": "Gerhard Berger", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "2b63ec75-fee2-462e-a42e-5daa010b4382", "sub_uri": "Q862883", "obj_uri": "Q24689", "sub_label": "Marcel Seip", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "174640a3-e3b6-4f6f-8cb9-c1f514a206df", "sub_uri": "Q384504", "obj_uri": "Q24689", "sub_label": "Youssef El Akchaoui", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "b4624f3b-5b34-4dab-99fd-472cedbbfbfa", "sub_uri": "Q18765", "obj_uri": "Q43710", "sub_label": "Burak Y\u0131lmaz", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "e3e960ba-2db7-4d18-8a08-65eb521fb578", "sub_uri": "Q2520707", "obj_uri": "Q179658", "sub_label": "Maicon Pereira de Oliveira", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "67e369ac-79b2-4301-921c-deee52b38a66", "sub_uri": "Q1824433", "obj_uri": "Q16320", "sub_label": "Marcos Antonio Garc\u00eda Nascimento", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "0540482c-c013-4e0c-8c3d-8c7265992bbc", "sub_uri": "Q898247", "obj_uri": "Q24689", "sub_label": "Jeroen Boere", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "5f902a89-f4c5-4303-9fd4-9ec8dc558715", "sub_uri": "Q313544", "obj_uri": "Q608122", "sub_label": "Alexandros Tziolis", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "60fbf4ca-439e-47e1-87a1-3b533a8eed42", "sub_uri": "Q3506741", "obj_uri": "Q643107", "sub_label": "Syam Ben Youssef", "obj_label": "Denizlispor", "predicate_id": "P54"}
+{"uuid": "7a783f6c-23ad-42ff-814c-a4843dd74c30", "sub_uri": "Q318533", "obj_uri": "Q513840", "sub_label": "Samuel Holm\u00e9n", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "c1dd8c69-a3b7-42b2-a57f-1d25bef5b932", "sub_uri": "Q47731", "obj_uri": "Q604589", "sub_label": "Ra\u00fal Vicente Amarilla", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "b79bedc8-fe8c-42ea-9ba3-479e451857a2", "sub_uri": "Q1159726", "obj_uri": "Q372599", "sub_label": "Daniel Abalo Paulos", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "94169922-0d0e-422d-a528-e4f7ade697bf", "sub_uri": "Q319884", "obj_uri": "Q372599", "sub_label": "Kamil Grosicki", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "78f94aaf-c2ea-4a66-8620-0c2169c8cb1d", "sub_uri": "Q2323723", "obj_uri": "Q16320", "sub_label": "Guillermo Daniel Rodr\u00edguez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "4726b5c1-bb5a-47c9-9d74-66697f71cd8a", "sub_uri": "Q634268", "obj_uri": "Q513840", "sub_label": "Thierry Fidjeu", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "24647538-9a5c-4bf3-bd5f-021a43277bf2", "sub_uri": "Q380326", "obj_uri": "Q622062", "sub_label": "Toni El\u00edas", "obj_label": "Aprilia", "predicate_id": "P54"}
+{"uuid": "f1ac385e-913e-4bf9-848b-a891912f7cb0", "sub_uri": "Q315814", "obj_uri": "Q16320", "sub_label": "Jos\u00e9 Leandro Andrade", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "c55ae9b6-c27e-4046-a86d-86ed8497ee08", "sub_uri": "Q217095", "obj_uri": "Q207373", "sub_label": "Justo Villar", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "cf300177-ac61-4b3b-94df-2bd61e5a8a55", "sub_uri": "Q15831178", "obj_uri": "Q392310", "sub_label": "Silvio Jos\u00e9 Cardoso Reis Junior", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "11332456-4a75-477a-9109-51f86b8dd9f4", "sub_uri": "Q1764177", "obj_uri": "Q179658", "sub_label": "Cyril Th\u00e9r\u00e9au", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "e39ac69d-863d-40b5-b581-0a84224cc7d1", "sub_uri": "Q1913", "obj_uri": "Q192641", "sub_label": "Florent Malouda", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "47c70dfc-8756-4a34-ba1f-07d60bac7041", "sub_uri": "Q656298", "obj_uri": "Q604589", "sub_label": "Julio Manzur", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "55aa5f0e-c3a3-4b38-82be-d8149d8d0337", "sub_uri": "Q16605653", "obj_uri": "Q214978", "sub_label": "Maximiliano Meza", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "cf77d78d-3f03-4549-add2-3ad8cd46be5d", "sub_uri": "Q316205", "obj_uri": "Q604589", "sub_label": "Sergio Goycochea", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "813589b8-aa0f-4f56-82b4-2348ebaa592a", "sub_uri": "Q347327", "obj_uri": "Q643107", "sub_label": "Servet \u00c7etin", "obj_label": "Denizlispor", "predicate_id": "P54"}
+{"uuid": "bef98ac8-632f-4745-9dd2-2fa9c2df7596", "sub_uri": "Q10514", "obj_uri": "Q142381", "sub_label": "Fernando Alonso", "obj_label": "Minardi", "predicate_id": "P54"}
+{"uuid": "2b26c378-359c-4270-be8e-bb748b5a681c", "sub_uri": "Q820948", "obj_uri": "Q24689", "sub_label": "Jos Luhukay", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "636689da-5a47-4666-ba26-ffec6c914424", "sub_uri": "Q727531", "obj_uri": "Q608122", "sub_label": "M\u00e1rcio Nobre", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "0383b17a-20e5-4af9-a5c3-8281e0af0f36", "sub_uri": "Q401418", "obj_uri": "Q24689", "sub_label": "Ahmed Musa", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "ec21efd9-3137-4bdd-b888-3ede374f76c7", "sub_uri": "Q982447", "obj_uri": "Q391789", "sub_label": "Mervan \u00c7elik", "obj_label": "GAIS", "predicate_id": "P54"}
+{"uuid": "ff46ba77-3767-4410-bbc0-c8da06622a43", "sub_uri": "Q27572", "obj_uri": "Q3004", "sub_label": "Patrick Ebert", "obj_label": "Ingolstadt", "predicate_id": "P54"}
+{"uuid": "869e2a12-1c3c-4b36-90dc-f2edef352268", "sub_uri": "Q639803", "obj_uri": "Q24689", "sub_label": "Willem Janssen", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "ee4bb87f-0b4f-4b74-b883-9aa7de23fddb", "sub_uri": "Q862777", "obj_uri": "Q24689", "sub_label": "Guus Joppen", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "9489906f-5e72-4336-86c0-5ecd5443b264", "sub_uri": "Q537032", "obj_uri": "Q16320", "sub_label": "Emilio MacEachen", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "61f62dce-a9bd-4ff2-b0e3-5e1e53cf0b9a", "sub_uri": "Q193221", "obj_uri": "Q214978", "sub_label": "Gabriel Milito", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "37e7e8a6-6aa0-4762-912d-46badf938d55", "sub_uri": "Q463492", "obj_uri": "Q207373", "sub_label": "Ren\u00e9 Houseman", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "8cb8eff2-6b2a-42f2-813d-de2279d3da98", "sub_uri": "Q44097", "obj_uri": "Q13385", "sub_label": "Marco Borriello", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "1da9e100-5fc9-4de2-840e-ee766a152225", "sub_uri": "Q213437", "obj_uri": "Q192641", "sub_label": "\u00d3scar Cardozo", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "478b9f43-1174-4093-8c5a-a70a0af5e743", "sub_uri": "Q384227", "obj_uri": "Q43710", "sub_label": "Ond\u0159ej \u010cel\u016fstka", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "f92b6015-074c-43a5-b291-b0a21b0ff87e", "sub_uri": "Q7555159", "obj_uri": "Q513840", "sub_label": "Sokol Cikalleshi", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "dcd39680-f684-43c3-bcb4-32d3820ad45c", "sub_uri": "Q314511", "obj_uri": "Q391789", "sub_label": "Gunnar Gren", "obj_label": "GAIS", "predicate_id": "P54"}
+{"uuid": "682d4723-1195-4ea8-ba4b-eed7a5e49d5c", "sub_uri": "Q222231", "obj_uri": "Q192641", "sub_label": "Daniel Sturridge", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "fd8b7a5e-646d-41a1-9fcf-37ef632c6376", "sub_uri": "Q862756", "obj_uri": "Q24689", "sub_label": "Niki M\u00e4enp\u00e4\u00e4", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "7961f093-8cda-4986-9018-5a8fa568cad9", "sub_uri": "Q862878", "obj_uri": "Q24689", "sub_label": "Jeffrey Altheer", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "2603e4e6-ed06-45d9-a413-c5971350d11e", "sub_uri": "Q1026721", "obj_uri": "Q13385", "sub_label": "Daniele Cacia", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "ae056603-5751-4ba8-ab84-5a47a2c2c311", "sub_uri": "Q219879", "obj_uri": "Q16320", "sub_label": "Rub\u00e9n Olivera", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "f4fe1dae-66c4-4950-9012-b866248ef8b4", "sub_uri": "Q328749", "obj_uri": "Q392310", "sub_label": "Mario Reiter (pemain sepak bola Austria)", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "16931d00-f686-4e6c-99d2-8a465e9e5b13", "sub_uri": "Q533472", "obj_uri": "Q513840", "sub_label": "Cyrille Domoraud", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "433c3e97-acda-45b7-9340-742668634b6c", "sub_uri": "Q495081", "obj_uri": "Q604589", "sub_label": "Mauricio Molina", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "cec8feda-c6fe-4d62-ba10-1f1a7de71e2e", "sub_uri": "Q2323723", "obj_uri": "Q16320", "sub_label": "Guillermo Daniel Rodr\u00edguez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "dc0a605b-7fce-4ccc-9d48-fc4c4fdcfcd5", "sub_uri": "Q374523", "obj_uri": "Q608122", "sub_label": "Nordin Amrabat", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "a5278d2a-80cb-4147-8294-1a776681b9e4", "sub_uri": "Q379532", "obj_uri": "Q1345161", "sub_label": "Owen Coyle", "obj_label": "Airdrieonians", "predicate_id": "P54"}
+{"uuid": "d4934f2d-d849-4c4f-a385-6859e77dae3d", "sub_uri": "Q2505360", "obj_uri": "Q513237", "sub_label": "U\u011fur Boral", "obj_label": "Kocaelispor", "predicate_id": "P54"}
+{"uuid": "b66230ae-bc9d-4046-abc2-8e556027f3c7", "sub_uri": "Q217097", "obj_uri": "Q556570", "sub_label": "Richard Kingson", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "98afe010-3adc-472d-980e-6d6848e01f1f", "sub_uri": "Q216312", "obj_uri": "Q16320", "sub_label": "Jos\u00e9 Luis Chilavert", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "cb5a482a-5b08-4d1d-b200-8ecff120bd80", "sub_uri": "Q16208704", "obj_uri": "Q5254106", "sub_label": "Ebrahim Enguio Lopez", "obj_label": "Aspac", "predicate_id": "P54"}
+{"uuid": "f91c7bde-a500-4c0b-8e7a-9f081c8cb9c3", "sub_uri": "Q368416", "obj_uri": "Q192641", "sub_label": "Carl Medjani", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "4f884572-8a37-4b44-90e3-a95c53109486", "sub_uri": "Q5396060", "obj_uri": "Q853508", "sub_label": "Eero Markkanen", "obj_label": "RoPS", "predicate_id": "P54"}
+{"uuid": "e506a0ec-9c7e-40dc-af5e-30833d361978", "sub_uri": "Q471507", "obj_uri": "Q24689", "sub_label": "Vit\u0101lijs Maksimenko", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "c44bdbd4-55c4-4b9b-93d7-49fb865ae1a9", "sub_uri": "Q483762", "obj_uri": "Q392310", "sub_label": "Choi Sung-yong", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "510f0d6a-ddb8-4cc7-81b0-321fcd36655b", "sub_uri": "Q16145022", "obj_uri": "Q214978", "sub_label": "Lucas Albertengo", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "bfc301a6-707b-4658-be56-3ec113b30f96", "sub_uri": "Q463746", "obj_uri": "Q16320", "sub_label": "\u00c1lvaro Gestido", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "cdbe83dd-d2b7-4eea-a5a5-e1465082873b", "sub_uri": "Q213119", "obj_uri": "Q43710", "sub_label": "Jean Makoun", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "2558b8bc-dee2-409b-b100-8c35bc140dcc", "sub_uri": "Q2125", "obj_uri": "Q173103", "sub_label": "Jack Brabham", "obj_label": "Brabham", "predicate_id": "P54"}
+{"uuid": "11100bdf-1ec3-4899-a657-9907f174709d", "sub_uri": "Q715466", "obj_uri": "Q214978", "sub_label": "Juan Evaristo", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "2676ccd0-b187-410d-9ce3-1f2308a2fe8d", "sub_uri": "Q18637370", "obj_uri": "Q13385", "sub_label": "Andrea Fulignati", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "797921e3-f54e-4aa6-8848-5f26823c0600", "sub_uri": "Q871736", "obj_uri": "Q392310", "sub_label": "Mark Prettenthaler", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "cf97d6fd-c464-42e9-927b-c0e90adc5772", "sub_uri": "Q439914", "obj_uri": "Q207373", "sub_label": "Esteban Paredes", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "983b7746-0a78-4102-9581-b90865ede92b", "sub_uri": "Q76866", "obj_uri": "Q286490", "sub_label": "Mohamed Zidan", "obj_label": "Al-Masry", "predicate_id": "P54"}
+{"uuid": "bc8f8a4b-3733-44fa-bdec-4821d0a4558c", "sub_uri": "Q537032", "obj_uri": "Q16320", "sub_label": "Emilio MacEachen", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "5f865b96-ceac-446e-a294-c206f34dca7a", "sub_uri": "Q316751", "obj_uri": "Q556570", "sub_label": "Dragoslav Jevri\u0107", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "4a73bc67-381a-4ffb-a7fd-06b92faadce0", "sub_uri": "Q156638", "obj_uri": "Q192641", "sub_label": "Halil Altintop", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "bbd020b3-2817-43c8-a8cb-5d72a0497c8b", "sub_uri": "Q437673", "obj_uri": "Q16320", "sub_label": "Gast\u00f3n Ram\u00edrez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "6fbbef12-addb-4799-b427-44f14001835d", "sub_uri": "Q113383", "obj_uri": "Q1543501", "sub_label": "Serkan \u00c7ift\u00e7i", "obj_label": "Giresunspor", "predicate_id": "P54"}
+{"uuid": "382a5bb3-0f26-491f-9ce5-671214cd3a14", "sub_uri": "Q715466", "obj_uri": "Q214978", "sub_label": "Juan Evaristo", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "cbdf9d89-9495-4bb3-b5d0-3ce3264630e5", "sub_uri": "Q862983", "obj_uri": "Q24689", "sub_label": "Roland Bergkamp", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "d5536502-f73c-46f6-8540-3bb8bcf81ce3", "sub_uri": "Q2633057", "obj_uri": "Q16320", "sub_label": "Pablo Ceppelini", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "d74fe2f5-56ce-47ca-bbf3-f2493963f89e", "sub_uri": "Q170031", "obj_uri": "Q24689", "sub_label": "Ruud Boymans", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "8e899f82-25fc-4414-b4ec-da56cab21ece", "sub_uri": "Q128721", "obj_uri": "Q24689", "sub_label": "Steven Berghuis", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "45214070-1be4-4f63-b251-dd0166746491", "sub_uri": "Q701524", "obj_uri": "Q392310", "sub_label": "Markus Hammerer", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "d3180cca-80bd-4eb8-bfc4-a6d5ea5af0c4", "sub_uri": "Q171381", "obj_uri": "Q172030", "sub_label": "Keke Rosberg", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "93343023-25b4-4b76-98e6-bdf77c134f69", "sub_uri": "Q197583", "obj_uri": "Q643107", "sub_label": "Alessandro Cambalhota", "obj_label": "Denizlispor", "predicate_id": "P54"}
+{"uuid": "42e587f5-ab2d-437b-8df8-2586c091f287", "sub_uri": "Q60841", "obj_uri": "Q192641", "sub_label": "Mehmet Ekici", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "bbff6d0b-1594-4202-9bbb-90d85e238e51", "sub_uri": "Q3943230", "obj_uri": "Q13385", "sub_label": "Eug\u00eanio R\u00f4mulo Togni", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "be7e5304-acd5-476d-9add-6374b35c804a", "sub_uri": "Q314241", "obj_uri": "Q192641", "sub_label": "Jos\u00e9 Ernesto Sosa", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "f3928525-5a44-43dd-830d-97df7f179736", "sub_uri": "Q316551", "obj_uri": "Q16320", "sub_label": "Marcelo Zalayeta", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "edc77c2d-7f93-4262-a105-6e129a98ad2f", "sub_uri": "Q309662", "obj_uri": "Q16320", "sub_label": "Diego P\u00e9rez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "63712332-b680-476f-9e21-2661a4c68154", "sub_uri": "Q26132262", "obj_uri": "Q179658", "sub_label": "Iulian Cristea", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "ccfbeeff-96fa-45cc-9aad-f7eb20a8e9be", "sub_uri": "Q371243", "obj_uri": "Q192641", "sub_label": "Michael Petkovic", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "e7ce6c59-7c77-465c-897e-10e461806c07", "sub_uri": "Q315674", "obj_uri": "Q16320", "sub_label": "Egidio Ar\u00e9valo R\u00edos", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "1079a1b9-8611-4860-903b-2e4cc24f5734", "sub_uri": "Q862977", "obj_uri": "Q24689", "sub_label": "Uche Nwofor", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "5719b7f9-13f3-4eb8-9181-05fd306e930c", "sub_uri": "Q172979", "obj_uri": "Q1157975", "sub_label": "JJ Lehto", "obj_label": "Dallara", "predicate_id": "P54"}
+{"uuid": "92d7d904-7ad8-46d0-8b52-55aedf9c83a7", "sub_uri": "Q315309", "obj_uri": "Q430107", "sub_label": "\u0130lhan Mans\u0131z", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "3a396171-4f00-49eb-a9b1-4283371fbcf3", "sub_uri": "Q351049", "obj_uri": "Q13385", "sub_label": "Gianmarco Zigoni", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "c0dbbaa2-da29-4f93-9196-67b2cb4f5c8f", "sub_uri": "Q516898", "obj_uri": "Q430107", "sub_label": "Andr\u00e9 Bahia", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "c7254d80-4695-4cff-b95c-199e6eb2022c", "sub_uri": "Q465201", "obj_uri": "Q36008", "sub_label": "Scott Dixon", "obj_label": "Mercedes-Benz", "predicate_id": "P54"}
+{"uuid": "6020f158-58b1-483d-9ef9-8267cc9a43b4", "sub_uri": "Q346676", "obj_uri": "Q392310", "sub_label": "J\u00fcrgen Macho", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "25d837ac-4cf4-4185-ad5f-695460d65d36", "sub_uri": "Q540961", "obj_uri": "Q372599", "sub_label": "Manuel da Costa", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "b130422b-1a75-4705-95c5-016710dd28e6", "sub_uri": "Q795328", "obj_uri": "Q24689", "sub_label": "Yanic Wildschut", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "c3962a55-606c-4d24-a05a-e5f07b0fc296", "sub_uri": "Q261534", "obj_uri": "Q214978", "sub_label": "Diego Forl\u00e1n", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "13b3b156-0d1a-4082-8738-ee652934eef8", "sub_uri": "Q23497441", "obj_uri": "Q22662523", "sub_label": "Nicolai Reedtz", "obj_label": "Astralis", "predicate_id": "P54"}
+{"uuid": "397fca33-7cd2-4c9d-91f7-021bfd106b25", "sub_uri": "Q608126", "obj_uri": "Q16320", "sub_label": "Ladislao Mazurkiewicz", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "f01dc1b1-2db0-4494-a9b2-3bcb057262e7", "sub_uri": "Q9068063", "obj_uri": "Q1022933", "sub_label": "Renzo Lopez", "obj_label": "Rentistas", "predicate_id": "P54"}
+{"uuid": "243371ef-6e13-424d-8b29-13530831a17d", "sub_uri": "Q361352", "obj_uri": "Q192641", "sub_label": "Mehmet Aur\u00e9lio", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "e6c0cc0e-ce9e-41d9-88d4-5d955b2ea91d", "sub_uri": "Q378972", "obj_uri": "Q392310", "sub_label": "Daniel Wolf", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "45eb572f-282a-4761-8865-ea63dac1662b", "sub_uri": "Q701297", "obj_uri": "Q392310", "sub_label": "Mateo Kova\u010di\u0107", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "662ad9d8-2232-4299-af55-9d39589a3ff7", "sub_uri": "Q350168", "obj_uri": "Q43710", "sub_label": "Samuel Inkoom", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "23ff4a95-e1bc-4440-9f1b-091d9c57f643", "sub_uri": "Q362534", "obj_uri": "Q430107", "sub_label": "T\u00fcmer Metin", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "9e33a4f7-7ded-437c-af9f-47e98045076e", "sub_uri": "Q18719399", "obj_uri": "Q13385", "sub_label": "Mohamed Fares", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "bf9dcc0d-333d-4a8d-8655-71302443bf3b", "sub_uri": "Q516898", "obj_uri": "Q430107", "sub_label": "Andr\u00e9 Bahia", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "60db3af0-d213-493b-aa10-6e8d2005254f", "sub_uri": "Q352215", "obj_uri": "Q214978", "sub_label": "Faryd Mondrag\u00f3n", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "adb426e2-311c-4254-8d86-4bd9c4039b37", "sub_uri": "Q1422367", "obj_uri": "Q372599", "sub_label": "Hakan Arslan", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "c03c04f3-2ca1-4949-9672-88c7303e226d", "sub_uri": "Q2511522", "obj_uri": "Q604589", "sub_label": "Derlis Gonz\u00e1lez", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "a75f3d5a-4e7c-4beb-ab29-4bf83eff554a", "sub_uri": "Q261534", "obj_uri": "Q16320", "sub_label": "Diego Forl\u00e1n", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "bd732d6c-fea7-484b-80c9-0c9ecd8f7c09", "sub_uri": "Q516417", "obj_uri": "Q16320", "sub_label": "Pedro Rocha", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "f94d25db-5e5c-488a-91ef-7c644e6243ae", "sub_uri": "Q379532", "obj_uri": "Q1345161", "sub_label": "Owen Coyle", "obj_label": "Airdrieonians", "predicate_id": "P54"}
+{"uuid": "716ff214-6f9a-44c0-b25d-4ec3d3bc3e6a", "sub_uri": "Q140393", "obj_uri": "Q172030", "sub_label": "James Hunt", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "1eca4f27-92c0-4f96-b5aa-3ecc9c9fe7bc", "sub_uri": "Q562202", "obj_uri": "Q179658", "sub_label": "Pawe\u0142 Gola\u0144ski", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "d9095a26-b64c-43ba-b640-241283f6e1bd", "sub_uri": "Q2475704", "obj_uri": "Q556570", "sub_label": "Adrien Regattin", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "8c13d5b3-7809-40e3-b965-3be0e04c4fca", "sub_uri": "Q648744", "obj_uri": "Q209034", "sub_label": "Christian Cueva", "obj_label": "Toluca", "predicate_id": "P54"}
+{"uuid": "7b283544-2300-4aab-ac3f-7d32722af07c", "sub_uri": "Q722889", "obj_uri": "Q214978", "sub_label": "Carlos Matheu", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "95d8fd27-87f6-4346-9968-f400ef767870", "sub_uri": "Q353234", "obj_uri": "Q214978", "sub_label": "Roberto Miguel Acu\u00f1a", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "5429a201-fb7e-491c-b64c-3c66db831035", "sub_uri": "Q675802", "obj_uri": "Q318698", "sub_label": "Kuami Agboh", "obj_label": "MyPa", "predicate_id": "P54"}
+{"uuid": "e7e45895-4b03-4352-a4c7-61e685cbd142", "sub_uri": "Q862773", "obj_uri": "Q24689", "sub_label": "O\u011fuzhan T\u00fcrk", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "2d2d61db-6acd-45a2-9caf-273679c2a4f4", "sub_uri": "Q544856", "obj_uri": "Q172030", "sub_label": "Carlos Sainz, Jr.", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "2972d711-f90d-42ce-86f9-4c4c57b2d561", "sub_uri": "Q44665", "obj_uri": "Q372599", "sub_label": "Djakaridja Kon\u00e9", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "68933a59-b908-47e6-bcb8-cc5d639be53e", "sub_uri": "Q217097", "obj_uri": "Q43710", "sub_label": "Richard Kingson", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "19b023ae-149a-486f-966e-7f5b91b6f983", "sub_uri": "Q2262505", "obj_uri": "Q13385", "sub_label": "Davide Succi", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "3a39e907-569f-46e8-92b4-8c1f087f571c", "sub_uri": "Q385235", "obj_uri": "Q372599", "sub_label": "Karim Saidi", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "b7e6a647-b03e-436d-a7ca-a58e83319174", "sub_uri": "Q716336", "obj_uri": "Q608122", "sub_label": "Henrique Sereno", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "c4581b59-9809-4f76-8304-0639a0e01deb", "sub_uri": "Q152492", "obj_uri": "Q604589", "sub_label": "Roque Santa Cruz", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "f25e1e1f-df51-4720-98c1-bfe0cb328018", "sub_uri": "Q318722", "obj_uri": "Q608122", "sub_label": "Zurab Khizanishvili", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "ad7738a6-f695-4872-bf8d-93603e311e27", "sub_uri": "Q259179", "obj_uri": "Q1110567", "sub_label": "G\u00f6khan Zan", "obj_label": "Hatayspor", "predicate_id": "P54"}
+{"uuid": "4784d2c4-3411-49e1-a0d9-03ed6d02fe0b", "sub_uri": "Q543686", "obj_uri": "Q192641", "sub_label": "Miros\u0142aw Szymkowiak", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "20131b8e-f300-4167-84e0-6c43485553ba", "sub_uri": "Q47091", "obj_uri": "Q192641", "sub_label": "Adrian Mierzejewski", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "bae68526-983b-447c-8cbd-1f77d3e2d962", "sub_uri": "Q1988686", "obj_uri": "Q372599", "sub_label": "Douglas Pereira dos Santos", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "b352bc09-ce51-4b5b-bad7-2d82b4895b9f", "sub_uri": "Q299498", "obj_uri": "Q179658", "sub_label": "Ciprian Marica", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "2f948f67-e9c1-431d-8f14-7c3cdad5e6de", "sub_uri": "Q384227", "obj_uri": "Q192641", "sub_label": "Ond\u0159ej \u010cel\u016fstka", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "4ba5de1d-ec6a-43ad-bd9a-a36d8d682032", "sub_uri": "Q1092283", "obj_uri": "Q207373", "sub_label": "Frank Lobos", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "5fa789b3-e4ec-495e-bcd0-13a89cb67da3", "sub_uri": "Q349181", "obj_uri": "Q43710", "sub_label": "Eyong Enoh", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "65dc332f-6d84-41b2-99e1-92c6241a5089", "sub_uri": "Q192565", "obj_uri": "Q192641", "sub_label": "Jo\u00e3o Pereira", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "0f88255f-5124-4e00-8c3d-a9af7be01e56", "sub_uri": "Q2533061", "obj_uri": "Q16320", "sub_label": "Diego Ifr\u00e1n", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "6d4c5867-d941-4628-8c04-63efbd457e7a", "sub_uri": "Q2014963", "obj_uri": "Q207373", "sub_label": "Mario Paglialunga", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "e85c7c05-685e-4eb7-adfb-73d75f2ea144", "sub_uri": "Q24004814", "obj_uri": "Q22662523", "sub_label": "Peter Rothmann Rasmussen", "obj_label": "Astralis", "predicate_id": "P54"}
+{"uuid": "1948a955-6ff6-4851-a137-0e4cf4d4ecda", "sub_uri": "Q2006606", "obj_uri": "Q16320", "sub_label": "N\u00e9stor Gon\u00e7alves", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "d3dc85d5-26b8-4b8f-9b19-3d8e639d3b84", "sub_uri": "Q10510", "obj_uri": "Q172030", "sub_label": "Jenson Button", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "2e9e8010-dd6b-4f76-af22-53f5b3f1f402", "sub_uri": "Q321642", "obj_uri": "Q179658", "sub_label": "Pantelis Kapetanos", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "63440799-7724-4bec-a592-fa32a64e8df3", "sub_uri": "Q39726", "obj_uri": "Q214978", "sub_label": "Jhon Jairo Culma", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "e670af6c-0f67-4803-8cb5-2ad6b15a1019", "sub_uri": "Q530286", "obj_uri": "Q604589", "sub_label": "Richart B\u00e1ez", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "e2ccd110-394e-479b-b877-13b52b546294", "sub_uri": "Q350502", "obj_uri": "Q1127498", "sub_label": "Pascal Feindouno", "obj_label": "Elaz\u0131\u011fspor", "predicate_id": "P54"}
+{"uuid": "cb16bbd3-4872-4a65-afb5-64f5c516d83e", "sub_uri": "Q349162", "obj_uri": "Q207373", "sub_label": "Carlos Carmona", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "b8312e06-9a3c-4595-a751-42145c012b73", "sub_uri": "Q27655591", "obj_uri": "Q13385", "sub_label": "Alessandro Murgia", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "84169c30-f37e-45db-9b7d-49b3f193781e", "sub_uri": "Q314719", "obj_uri": "Q207373", "sub_label": "Humberto Suazo", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "5b83110a-24c0-4696-8dd1-ef1d7f4db780", "sub_uri": "Q936842", "obj_uri": "Q192641", "sub_label": "Eren Albayrak", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "c48c3d8f-7e72-4b3b-a56c-cf2fea9a5dca", "sub_uri": "Q876013", "obj_uri": "Q392310", "sub_label": "Sandro Zakany", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "0b88c010-4a5e-4f9e-9119-43dc00afdcf5", "sub_uri": "Q1339366", "obj_uri": "Q430107", "sub_label": "Rafael Marques Mariano", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "49e5e8ac-0d0b-46d5-8b2a-8495c41114fb", "sub_uri": "Q60597", "obj_uri": "Q608122", "sub_label": "Aymen Abdennour", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "262e498e-8312-4e58-90aa-8266d925c2a5", "sub_uri": "Q315814", "obj_uri": "Q16320", "sub_label": "Jos\u00e9 Leandro Andrade", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "c07df127-22bf-4368-a201-ee121e31defb", "sub_uri": "Q208025", "obj_uri": "Q192641", "sub_label": "Gervais Yao Kouassi", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "41e99ec3-87aa-4b08-89f4-ef946508161f", "sub_uri": "Q441580", "obj_uri": "Q43710", "sub_label": "Emre G\u00fcng\u00f6r", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "5eb222f2-4755-4d79-9e39-c46b3ecc8668", "sub_uri": "Q463358", "obj_uri": "Q556570", "sub_label": "Emre A\u015f\u0131k", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "bf240159-a08a-4efc-b6fb-4212c4510c30", "sub_uri": "Q16162451", "obj_uri": "Q16320", "sub_label": "Abdul Rahman Lestaluhu", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "cb883fb1-ee66-4302-a6af-dcf8e5918a22", "sub_uri": "Q295002", "obj_uri": "Q192641", "sub_label": "Avraam Papadopoulos", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "0528832c-c0fd-4799-aa00-c67bd7a48e35", "sub_uri": "Q2626107", "obj_uri": "Q16320", "sub_label": "Jo\u00e3o Pedro", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "3350daf0-fdf7-4fa6-9542-c02a61e43eec", "sub_uri": "Q798294", "obj_uri": "Q214978", "sub_label": "Facundo Parra", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "44e46e97-2459-41ab-8f27-884fb47e7f79", "sub_uri": "Q314719", "obj_uri": "Q207373", "sub_label": "Humberto Suazo", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "2da3b837-995b-4dac-a86c-76aec45de403", "sub_uri": "Q643858", "obj_uri": "Q430107", "sub_label": "Aristide Banc\u00e9", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "b1e153cd-dcaf-461b-b566-7471ad04f9ea", "sub_uri": "Q217097", "obj_uri": "Q556570", "sub_label": "Richard Kingson", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "2a982943-b093-4cfd-95da-de756be41c0e", "sub_uri": "Q310657", "obj_uri": "Q207373", "sub_label": "Mat\u00edas Fern\u00e1ndez", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "56a797d0-acf8-4c67-aa82-1ba6f448bc61", "sub_uri": "Q61395", "obj_uri": "Q23317", "sub_label": "Andr\u00e9 Lotterer", "obj_label": "Audi", "predicate_id": "P54"}
+{"uuid": "df1556ec-7429-445c-972e-1939ab311b3b", "sub_uri": "Q608126", "obj_uri": "Q16320", "sub_label": "Ladislao Mazurkiewicz", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "50b4c3de-11d5-450f-9687-8053152b2d56", "sub_uri": "Q67172756", "obj_uri": "Q22662523", "sub_label": "Emil Reif", "obj_label": "Astralis", "predicate_id": "P54"}
+{"uuid": "97266cf0-c827-4626-9d42-0d84249abc6f", "sub_uri": "Q2629575", "obj_uri": "Q16320", "sub_label": "Federico Rodr\u00edguez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "cacc85a4-4b39-4e57-9935-81876285ccb0", "sub_uri": "Q381075", "obj_uri": "Q291716", "sub_label": "Hermann Hrei\u00f0arsson", "obj_label": "\u00cdBV", "predicate_id": "P54"}
+{"uuid": "c92ef7bb-f309-4580-9c35-6389a4794ad0", "sub_uri": "Q14824665", "obj_uri": "Q24689", "sub_label": "Gedion Zelalem", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "f4632dee-a33f-47ac-a8e0-926982d610a2", "sub_uri": "Q1910910", "obj_uri": "Q392310", "sub_label": "Mat\u00edas Rodr\u00edguez", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "97d71bf5-e3a0-4226-8f78-c32bd86768f2", "sub_uri": "Q193876", "obj_uri": "Q766949", "sub_label": "Bradley Wiggins", "obj_label": "FDJ.fr", "predicate_id": "P54"}
+{"uuid": "d1afc48f-4b68-42e7-926b-3e98c410f59a", "sub_uri": "Q745370", "obj_uri": "Q513840", "sub_label": "\u00c9der Ceccon", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "06b94101-64cc-47bd-ae7c-a8cec6918c53", "sub_uri": "Q369056", "obj_uri": "Q192641", "sub_label": "Te\u00f3filo Guti\u00e9rrez", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "559809d0-1eea-4460-a992-65b5ae623025", "sub_uri": "Q1923", "obj_uri": "Q43710", "sub_label": "J\u00e9r\u00e9my Menez", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "f551d498-45be-488f-bca1-44e8d42b26ef", "sub_uri": "Q192122", "obj_uri": "Q214978", "sub_label": "Esteban Cambiasso", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "b7150d1a-13e1-4d10-b32f-36db9fbae016", "sub_uri": "Q2573479", "obj_uri": "Q214978", "sub_label": "Lucas Mareque", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "31d6b8c4-04ef-401b-b4a2-8c59742ec4b3", "sub_uri": "Q150921", "obj_uri": "Q192641", "sub_label": "Marko Marin", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "bb4d1340-e9e5-44b0-906c-a67a65f02074", "sub_uri": "Q15506789", "obj_uri": "Q8851", "sub_label": "Kelechi Iheanacho", "obj_label": "M\u00e1laga", "predicate_id": "P54"}
+{"uuid": "8bec41ed-076c-4a77-9fca-471ebb00222f", "sub_uri": "Q456647", "obj_uri": "Q1877396", "sub_label": "Ahmed Elmohamady", "obj_label": "ENPPI", "predicate_id": "P54"}
+{"uuid": "9052a27a-4507-4810-8596-cec31b1b116a", "sub_uri": "Q979650", "obj_uri": "Q24689", "sub_label": "Michael Timisela", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "6f1641ae-3e66-41a9-8ab7-d57d34d05f61", "sub_uri": "Q178195", "obj_uri": "Q1127498", "sub_label": "Luke Moore", "obj_label": "Elaz\u0131\u011fspor", "predicate_id": "P54"}
+{"uuid": "b55aad33-86fe-4eab-80d4-eb916361635a", "sub_uri": "Q359419", "obj_uri": "Q214978", "sub_label": "Germ\u00e1n Denis", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "66d95e4a-ec0d-46b9-a374-5fde42f8a6fd", "sub_uri": "Q309662", "obj_uri": "Q16320", "sub_label": "Diego P\u00e9rez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "437edbdb-dff3-4524-ad75-8a2a1ff1be84", "sub_uri": "Q694924", "obj_uri": "Q392310", "sub_label": "Florian Klein", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "c07ae8d7-9577-4b61-84ea-229d5f952b9a", "sub_uri": "Q1030343", "obj_uri": "Q24689", "sub_label": "Danny Wintjens", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "419a3b31-b813-4bd7-898d-b018a13d4992", "sub_uri": "Q195482", "obj_uri": "Q16320", "sub_label": "Yoshika Matsubara", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "270f7b6f-52fc-489d-bc06-de8c0b93ef2a", "sub_uri": "Q215454", "obj_uri": "Q608122", "sub_label": "Cristian Riveros", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "53400d02-4de4-4bfb-b5a8-0a1a549fa81b", "sub_uri": "Q533712", "obj_uri": "Q604589", "sub_label": "Carlos Humberto Paredes", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "18b359fa-3001-4364-b8f0-bd9ffd2b1072", "sub_uri": "Q2127364", "obj_uri": "Q24689", "sub_label": "Jerome Sinclair", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "b0604151-9eae-4402-a758-02479646df1f", "sub_uri": "Q465699", "obj_uri": "Q13385", "sub_label": "Sergio Pellissier", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "95d50d57-8a21-41f2-a88a-26e378963b0f", "sub_uri": "Q514252", "obj_uri": "Q513840", "sub_label": "Jefferson de Oliveira Galv\u00e3o", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "cc6b16bb-7ddc-4895-b825-24e6296a82a2", "sub_uri": "Q509079", "obj_uri": "Q24689", "sub_label": "Y\u016bki \u014ctsu", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "7dc8b171-6482-483f-8caf-ef8066ddacd5", "sub_uri": "Q487155", "obj_uri": "Q392310", "sub_label": "Hugo S\u00e1nchez", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "a3f312bc-dba3-4a39-9c44-6b711edf6b57", "sub_uri": "Q10490", "obj_uri": "Q172030", "sub_label": "Ayrton Senna", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "c9a77960-05f2-43b8-8632-0b45ee59cbd4", "sub_uri": "Q1765916", "obj_uri": "Q214978", "sub_label": "Mart\u00edn Campa\u00f1a", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "c9000e43-c344-4826-9017-beb9dc03d676", "sub_uri": "Q24347", "obj_uri": "Q16320", "sub_label": "\u00d3scar M\u00edguez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "3d0d400b-e354-4234-b375-f0850f7ed558", "sub_uri": "Q298330", "obj_uri": "Q43710", "sub_label": "Anton Ferdinand", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "0df205c9-9e56-4aaa-8313-5e782d0007d4", "sub_uri": "Q1344021", "obj_uri": "Q286490", "sub_label": "George Owu", "obj_label": "Al-Masry", "predicate_id": "P54"}
+{"uuid": "d6dc2f22-d81d-45e5-9ee2-3ae086264f06", "sub_uri": "Q334554", "obj_uri": "Q192641", "sub_label": "Christopher Samba", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "0081fda5-794c-4839-a397-8e1bda1f04ba", "sub_uri": "Q78495", "obj_uri": "Q172976", "sub_label": "Roland Ratzenberger", "obj_label": "Simtek", "predicate_id": "P54"}
+{"uuid": "7eb88396-85e6-429b-943a-07cf4129c906", "sub_uri": "Q2629835", "obj_uri": "Q13385", "sub_label": "Lorenzo Squizzi", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "807b0e68-8b29-4cde-a2a7-a46463f44c0c", "sub_uri": "Q2255298", "obj_uri": "Q372599", "sub_label": "Edson Ara\u00fajo", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "27ae3f4e-0f24-4a10-88ff-3c36ba6ac0ae", "sub_uri": "Q318456", "obj_uri": "Q16320", "sub_label": "Abel Hern\u00e1ndez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "42f9a838-5cb4-45cc-85f2-8e1258b25914", "sub_uri": "Q21011188", "obj_uri": "Q392310", "sub_label": "Almoez Ali", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "7215f820-5cfe-4e7a-8186-e175d10a9f0e", "sub_uri": "Q318795", "obj_uri": "Q608122", "sub_label": "Jonathan Santana", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "3ef3b1d9-a65f-4c11-954b-064ae84214c0", "sub_uri": "Q325975", "obj_uri": "Q16320", "sub_label": "Hugo Fern\u00e1ndez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "29962fc9-5b81-43d8-9ec9-618388312a3c", "sub_uri": "Q379786", "obj_uri": "Q192641", "sub_label": "Arkadiusz G\u0142owacki", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "bef73a83-9c3b-41b0-b606-1341592738fd", "sub_uri": "Q316551", "obj_uri": "Q16320", "sub_label": "Marcelo Zalayeta", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "9d11c588-57fa-4a3b-a86f-785374a15b79", "sub_uri": "Q293503", "obj_uri": "Q214978", "sub_label": "\u00d3scar Ustari", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "219ce059-c498-47e7-9d98-928bf232a460", "sub_uri": "Q946154", "obj_uri": "Q207373", "sub_label": "Jos\u00e9 Pedro Fuenzalida", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "2cdb0eec-2b3d-46e4-8511-d1daa4695ec5", "sub_uri": "Q197553", "obj_uri": "Q214978", "sub_label": "S\u00e9rgio Manoel", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "89cf47e8-b0f3-406c-b52a-c16f3380ba41", "sub_uri": "Q730563", "obj_uri": "Q372599", "sub_label": "Jan Rajnoch", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "691c9993-a581-4cfe-af9c-d715d82ca47f", "sub_uri": "Q147111", "obj_uri": "Q372599", "sub_label": "John Utaka", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "3e1fa5fb-e67e-417f-8f15-50c155dbf507", "sub_uri": "Q6765019", "obj_uri": "Q5254106", "sub_label": "Mario Wuysang", "obj_label": "Aspac", "predicate_id": "P54"}
+{"uuid": "5cc09968-9741-4359-9b4d-810c593b47cf", "sub_uri": "Q21207938", "obj_uri": "Q3579", "sub_label": "Hamdou Elhouni", "obj_label": "Tripoli", "predicate_id": "P54"}
+{"uuid": "555d2d92-b099-43ac-89c5-59fa6fc7a71e", "sub_uri": "Q316747", "obj_uri": "Q604589", "sub_label": "Carlos Bonet", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "8efee753-7855-40d9-9fbf-b84eb17e25fc", "sub_uri": "Q310657", "obj_uri": "Q207373", "sub_label": "Mat\u00edas Fern\u00e1ndez", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "34c365ae-ca6b-499c-87da-f88898ff1d55", "sub_uri": "Q356840", "obj_uri": "Q179658", "sub_label": "Adi Rocha", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "611c2ce2-b4e5-4495-bd25-234d098ce07a", "sub_uri": "Q314250", "obj_uri": "Q214978", "sub_label": "Fernando Amorebieta", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "c2c14909-007f-4809-9166-ff7508d9ada5", "sub_uri": "Q1353173", "obj_uri": "Q13666", "sub_label": "Stefano Colantuono", "obj_label": "Messina", "predicate_id": "P54"}
+{"uuid": "336c8bcc-19c5-42c5-a170-eef320dfc822", "sub_uri": "Q10494", "obj_uri": "Q172030", "sub_label": "Alain Prost", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "e5d31fbe-32cc-45ba-81b2-bab860f1365b", "sub_uri": "Q2095625", "obj_uri": "Q604589", "sub_label": "Casiano Delvalle", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "69542260-9d62-4d7f-b1ab-5bd22a290485", "sub_uri": "Q862759", "obj_uri": "Q24689", "sub_label": "Niels Fleuren", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "1e77184b-908a-4112-b1ea-229f296b5fc9", "sub_uri": "Q665400", "obj_uri": "Q372599", "sub_label": "Simon Colosimo", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "b769e871-89c3-44a5-bd3c-0013c0e743f0", "sub_uri": "Q523871", "obj_uri": "Q372599", "sub_label": "U\u011fur Y\u0131ld\u0131r\u0131m", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "c910263b-9449-4ec2-9308-af2e98dbf421", "sub_uri": "Q183108", "obj_uri": "Q13385", "sub_label": "Fabio Capello", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "9e43df57-b846-4dfb-96d1-cba66d94d820", "sub_uri": "Q265697", "obj_uri": "Q214978", "sub_label": "Raimundo Orsi", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "30525de4-9b25-4819-bd84-1f69e1296583", "sub_uri": "Q316992", "obj_uri": "Q214978", "sub_label": "Mariano Andr\u00e9s Pern\u00eda", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "b3fa51d8-474d-4ab5-b88e-77e3b4dbf82f", "sub_uri": "Q321552", "obj_uri": "Q43710", "sub_label": "Ra\u00efs M'Bolhi", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "46c9a4ce-ac23-4b4b-9cb5-e2d53f587eb3", "sub_uri": "Q2181064", "obj_uri": "Q24689", "sub_label": "G\u00e8ne Hanssen", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "b0e996e0-f2ce-42c6-8570-1edf301e1dd8", "sub_uri": "Q353234", "obj_uri": "Q604589", "sub_label": "Roberto Miguel Acu\u00f1a", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "0e69c6df-6cd6-48ea-87a2-a15d7b664882", "sub_uri": "Q650243", "obj_uri": "Q13385", "sub_label": "Thomas Manfredini", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "d30c399f-f46f-4f79-869e-4c536c829052", "sub_uri": "Q159045", "obj_uri": "Q18125", "sub_label": "Andreas Brehme", "obj_label": "Manchester", "predicate_id": "P54"}
+{"uuid": "3bebc53c-7d7b-4d83-b39e-9749efc18096", "sub_uri": "Q311739", "obj_uri": "Q16320", "sub_label": "Le\u00f4nidas da Silva", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "b96b9bd0-44bb-43f5-ad0d-9c407004eb06", "sub_uri": "Q798294", "obj_uri": "Q214978", "sub_label": "Facundo Parra", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "e83ac88e-fa7d-4f44-bcf9-2c2914d0a7bd", "sub_uri": "Q318795", "obj_uri": "Q214978", "sub_label": "Jonathan Santana", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "07d57d29-1998-463c-a232-8e5a40bfd273", "sub_uri": "Q23063190", "obj_uri": "Q192641", "sub_label": "Yusuf Yaz\u0131c\u0131", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "7b0a8c37-61d3-46ee-b5b2-a26e0ac1bbd2", "sub_uri": "Q169814", "obj_uri": "Q271812", "sub_label": "Valentino Rossi", "obj_label": "Ducati", "predicate_id": "P54"}
+{"uuid": "aeb91b6b-95d3-453c-b3bb-1d668f63c439", "sub_uri": "Q266410", "obj_uri": "Q1492", "sub_label": "Pedro Geromel", "obj_label": "Barcelona", "predicate_id": "P54"}
+{"uuid": "35eb3e04-0411-46df-b074-4eb08c4984f6", "sub_uri": "Q310981", "obj_uri": "Q207373", "sub_label": "El\u00edas Figueroa", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "5bbce89c-5f65-4d5c-9871-2a467dbd7340", "sub_uri": "Q2616111", "obj_uri": "Q214978", "sub_label": "Diego Mart\u00edn Rodr\u00edguez", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "3fae35ff-f005-4b80-b422-882d3211a96f", "sub_uri": "Q699422", "obj_uri": "Q392310", "sub_label": "Emin Sulimani", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "581b9309-c117-40e5-9631-522139b4ae34", "sub_uri": "Q528926", "obj_uri": "Q31821", "sub_label": "Elvis Abbruscato", "obj_label": "FeralpiSal\u00f2", "predicate_id": "P54"}
+{"uuid": "82e90d82-1980-4e7e-aa61-f4d50a90eab4", "sub_uri": "Q2113669", "obj_uri": "Q192641", "sub_label": "Essa\u00efd Belkalem", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "7b8c43d4-a8d3-47be-b604-3865961ed217", "sub_uri": "Q514252", "obj_uri": "Q192641", "sub_label": "Jefferson de Oliveira Galv\u00e3o", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "26be021b-8f42-4181-be80-3c015d2da904", "sub_uri": "Q795143", "obj_uri": "Q214978", "sub_label": "Marcelo Morales", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "08c047d8-5933-4f7d-a01f-7f602c262ffe", "sub_uri": "Q22007193", "obj_uri": "Q172030", "sub_label": "Lando Norris", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "71442137-ba21-4ac1-9a08-95a1f3754c27", "sub_uri": "Q218786", "obj_uri": "Q24689", "sub_label": "Ruben Schaken", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "434acafb-8e18-453c-86ea-bea7c6686c2a", "sub_uri": "Q314740", "obj_uri": "Q556570", "sub_label": "Pierre Web\u00f3", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "2c877eda-11fe-4faf-97c1-90c93edb7d43", "sub_uri": "Q1523030", "obj_uri": "Q13385", "sub_label": "Etrit Berisha", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "1aede7fe-82ac-49c8-abae-1dd913aeb3da", "sub_uri": "Q184277", "obj_uri": "Q179658", "sub_label": "Yaya Tour\u00e9", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "e32c94db-0ce1-48f5-a33d-ca459f912d86", "sub_uri": "Q365965", "obj_uri": "Q1127498", "sub_label": "Amr Zaky", "obj_label": "Elaz\u0131\u011fspor", "predicate_id": "P54"}
+{"uuid": "3a16610e-8e08-4bd3-9a58-06c49aae3e3f", "sub_uri": "Q352815", "obj_uri": "Q192641", "sub_label": "G\u00f6kdeniz Karadeniz", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "52cfb16c-6ee2-4c68-bb76-03b78ed75f83", "sub_uri": "Q380326", "obj_uri": "Q9584", "sub_label": "Toni El\u00edas", "obj_label": "Honda", "predicate_id": "P54"}
+{"uuid": "5032b84c-552c-4c72-a66c-c06b0b341c8b", "sub_uri": "Q374523", "obj_uri": "Q24689", "sub_label": "Nordin Amrabat", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "7a4620bb-578f-436d-8629-dca0be05bc91", "sub_uri": "Q888032", "obj_uri": "Q1022933", "sub_label": "Renato Carlos Martins J\u00fanior", "obj_label": "Rentistas", "predicate_id": "P54"}
+{"uuid": "2bf1295f-1cf1-463e-aa56-5e6ec5deacf8", "sub_uri": "Q316728", "obj_uri": "Q604589", "sub_label": "Julio C\u00e9sar C\u00e1ceres", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "e1a91ad2-7567-43ca-861e-68c45a4be602", "sub_uri": "Q62733", "obj_uri": "Q16320", "sub_label": "Leandro Dami\u00e3o", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "67d50e6c-edfd-4485-92c0-9d8bb49bd686", "sub_uri": "Q355816", "obj_uri": "Q608122", "sub_label": "Oleksandr Kucher", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "ecced10a-b7bb-4560-b41d-18bd49ebb58b", "sub_uri": "Q786864", "obj_uri": "Q604589", "sub_label": "Alexis Rol\u00edn", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "b8416725-83fe-42de-b7c1-cce46b1f7685", "sub_uri": "Q313161", "obj_uri": "Q207373", "sub_label": "Claudio Bravo", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "c7e447a2-3be4-46e0-b251-a60489dc4be6", "sub_uri": "Q1690771", "obj_uri": "Q372599", "sub_label": "Joan Oumari", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "b607a580-82eb-41b7-acbc-081a51ee8275", "sub_uri": "Q316778", "obj_uri": "Q16320", "sub_label": "Walter Pandiani", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "5cafb6c1-fb31-45bf-a47a-e3ae65f6c69b", "sub_uri": "Q3016737", "obj_uri": "Q372599", "sub_label": "Isaac Cofie", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "456349c6-3553-4815-9ead-f3a84b9a94c9", "sub_uri": "Q173123", "obj_uri": "Q172030", "sub_label": "Jacky Ickx", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "f47028d0-6954-4b10-ace7-7c0e7fe09e3b", "sub_uri": "Q7145406", "obj_uri": "Q513237", "sub_label": "Patrice Nzekou Nguenheu", "obj_label": "Kocaelispor", "predicate_id": "P54"}
+{"uuid": "b4a5e54b-68a7-484c-af49-995ba7942462", "sub_uri": "Q26315", "obj_uri": "Q392310", "sub_label": "\u017deljko Milinovi\u010d", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "76b6f48b-cf12-43cf-8a38-2f1bc6c00da5", "sub_uri": "Q9068063", "obj_uri": "Q1022933", "sub_label": "Renzo Lopez", "obj_label": "Rentistas", "predicate_id": "P54"}
+{"uuid": "7cfe57c6-3cce-46c5-8e19-69afced3a78c", "sub_uri": "Q315674", "obj_uri": "Q16320", "sub_label": "Egidio Ar\u00e9valo R\u00edos", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "85616616-18e8-49e8-8381-af0d086e05f8", "sub_uri": "Q217097", "obj_uri": "Q1127498", "sub_label": "Richard Kingson", "obj_label": "Elaz\u0131\u011fspor", "predicate_id": "P54"}
+{"uuid": "1cee74af-1ef9-4483-9db7-83475a1fcea8", "sub_uri": "Q813518", "obj_uri": "Q24689", "sub_label": "Beb Bakhuys", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "f76d4dba-be9a-4f1c-b682-ded09ce6cfbc", "sub_uri": "Q975207", "obj_uri": "Q171335", "sub_label": "Marcus Ericsson", "obj_label": "Sauber", "predicate_id": "P54"}
+{"uuid": "b37081e0-6848-4233-b2e2-ea64aeeea605", "sub_uri": "Q314376", "obj_uri": "Q16320", "sub_label": "Cristian Rodr\u00edguez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "e243bbfd-3330-4a30-975f-41bfb24ab0d8", "sub_uri": "Q355687", "obj_uri": "Q643107", "sub_label": "Adem Sar\u0131", "obj_label": "Denizlispor", "predicate_id": "P54"}
+{"uuid": "07758c8e-1c22-40dd-bf36-24c8354e50c2", "sub_uri": "Q15960510", "obj_uri": "Q207373", "sub_label": "\u00c1ngel Romero", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "2316454c-2985-40d3-ac24-b57bb87ad887", "sub_uri": "Q439914", "obj_uri": "Q207373", "sub_label": "Esteban Paredes", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "1f2a6628-4976-43a3-b8bf-d55e7392a9fa", "sub_uri": "Q520695", "obj_uri": "Q81033", "sub_label": "Dorlan Pab\u00f3n", "obj_label": "Monterrey", "predicate_id": "P54"}
+{"uuid": "987adde8-06c6-4cb9-ad6c-1509fdd91668", "sub_uri": "Q144161", "obj_uri": "Q608122", "sub_label": "Julius Aghahowa", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "305b3c6c-88bc-4038-ad8b-b3727c4d0f8c", "sub_uri": "Q251071", "obj_uri": "Q513840", "sub_label": "Alvaro Mejia", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "072389a1-80e0-485d-8c8e-334d6f056aa3", "sub_uri": "Q10494", "obj_uri": "Q172030", "sub_label": "Alain Prost", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "a61f4839-6a68-40cb-a216-a1f4e4c4d1fa", "sub_uri": "Q972226", "obj_uri": "Q16320", "sub_label": "Julio C\u00e9sar Britos", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "9eef4b6a-3be3-4886-8cef-2c57fe3d5198", "sub_uri": "Q249447", "obj_uri": "Q1199957", "sub_label": "\u00c0lex Crivill\u00e9", "obj_label": "Derbi", "predicate_id": "P54"}
+{"uuid": "208024b2-1bf9-4043-b709-3fa0bf880666", "sub_uri": "Q29654851", "obj_uri": "Q147756", "sub_label": "Zaur Uguev", "obj_label": "Khasavyurt", "predicate_id": "P54"}
+{"uuid": "bf10b289-d9cf-42ae-adfb-9132d2d86e13", "sub_uri": "Q543710", "obj_uri": "Q1543501", "sub_label": "Aykut Akg\u00fcn", "obj_label": "Giresunspor", "predicate_id": "P54"}
+{"uuid": "35573f81-5f21-4f05-9e32-fffb15efd0a9", "sub_uri": "Q211996", "obj_uri": "Q192641", "sub_label": "Jos\u00e9 Bosingwa", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "f4e397d7-ab90-4ba9-8577-022a46e49a0b", "sub_uri": "Q954283", "obj_uri": "Q430107", "sub_label": "Anis Ayari", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "37821671-fcf2-4075-b557-fe1331fc95a5", "sub_uri": "Q1891580", "obj_uri": "Q392310", "sub_label": "Manuel Kerhe", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "e5adc0fc-e620-45b6-ae23-60bd9894eaa1", "sub_uri": "Q968361", "obj_uri": "Q604589", "sub_label": "Juan Iturbe", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "1e81a5c1-6118-4087-9316-96bf5382d615", "sub_uri": "Q342354", "obj_uri": "Q13385", "sub_label": "Andy Selva", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "b9a55e7a-1f08-4634-8beb-33d3e1b7c2ed", "sub_uri": "Q533712", "obj_uri": "Q604589", "sub_label": "Carlos Humberto Paredes", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "72c3045e-f894-4354-a338-372985b86126", "sub_uri": "Q328886", "obj_uri": "Q214978", "sub_label": "Claudio Morel Rodr\u00edguez", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "59139f0e-99a4-4972-894b-930a431d5f70", "sub_uri": "Q113377", "obj_uri": "Q144823", "sub_label": "Gustav Brunner", "obj_label": "Zakspeed", "predicate_id": "P54"}
+{"uuid": "f4e66015-be92-4081-b03e-ef67247add76", "sub_uri": "Q329545", "obj_uri": "Q604589", "sub_label": "Mart\u00edn Silva", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "a72176be-4d7a-42bd-bdfc-ea25235c8d63", "sub_uri": "Q371717", "obj_uri": "Q16320", "sub_label": "Enrique Ballestrero", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "a3747279-1270-45dc-9de8-a1491a4a05ad", "sub_uri": "Q2095625", "obj_uri": "Q604589", "sub_label": "Casiano Delvalle", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "634b32b8-9426-4e4a-b7f8-5968e2bf4f4b", "sub_uri": "Q356840", "obj_uri": "Q392310", "sub_label": "Adi Rocha", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "19b471ef-1727-433f-aae8-d5559b3a3554", "sub_uri": "Q1422367", "obj_uri": "Q430107", "sub_label": "Hakan Arslan", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "b2a59c62-1d63-4084-8d42-112f0470afc8", "sub_uri": "Q215454", "obj_uri": "Q604589", "sub_label": "Cristian Riveros", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "4c10566e-b645-4d7c-96cb-04abb7840efd", "sub_uri": "Q1079676", "obj_uri": "Q24689", "sub_label": "Jeffrey Leiwakabessy", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "c295ef46-48d8-4002-94c7-bb4205ea4917", "sub_uri": "Q2248973", "obj_uri": "Q214978", "sub_label": "Leonel Nunez", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "66af6cce-1402-4dcf-aaa2-9eeefa54c933", "sub_uri": "Q315674", "obj_uri": "Q16320", "sub_label": "Egidio Ar\u00e9valo R\u00edos", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "1b77288b-ae2a-46f4-b4db-946ba4f30a84", "sub_uri": "Q888032", "obj_uri": "Q1022933", "sub_label": "Renato Carlos Martins J\u00fanior", "obj_label": "Rentistas", "predicate_id": "P54"}
+{"uuid": "3024e87d-87f8-4f11-b595-973448c9e53f", "sub_uri": "Q350721", "obj_uri": "Q179658", "sub_label": "Houssine Kharja", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "df5f4b74-cf52-4fdd-a65e-d666fbce849c", "sub_uri": "Q819552", "obj_uri": "Q24689", "sub_label": "Robin Udegbe", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "8f3e3081-abd6-43dd-b192-29117b0966dd", "sub_uri": "Q389766", "obj_uri": "Q31821", "sub_label": "Vincenzo Camilleri", "obj_label": "FeralpiSal\u00f2", "predicate_id": "P54"}
+{"uuid": "d5e29824-3bfe-4d69-a29b-8fa93c6d2a66", "sub_uri": "Q2629575", "obj_uri": "Q16320", "sub_label": "Federico Rodr\u00edguez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "15228376-3d3b-4b3d-8ccb-2931fa81779b", "sub_uri": "Q795093", "obj_uri": "Q214978", "sub_label": "Pedro Massacessi", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "8be789ae-1756-4e86-b399-08d0ac503f7b", "sub_uri": "Q721584", "obj_uri": "Q24689", "sub_label": "Henrico Drost", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "28d12542-c135-4b6a-ba45-e388dcb03ab5", "sub_uri": "Q180581", "obj_uri": "Q43710", "sub_label": "Milan Baro\u0161", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "539abcb9-ac44-4947-a970-b6ac8f1f4012", "sub_uri": "Q463146", "obj_uri": "Q214978", "sub_label": "Diego Gavil\u00e1n", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "e0245993-1307-4efe-96c4-c38a4fd31360", "sub_uri": "Q31744", "obj_uri": "Q556570", "sub_label": "Cheick Diabat\u00e9 (pemain sepak bola)", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "c6764a46-2076-4338-9dc1-919f06fd5146", "sub_uri": "Q342501", "obj_uri": "Q192641", "sub_label": "Dame N'Doye", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "2ee0a738-a3d0-4673-a4dc-12b639e0d8d8", "sub_uri": "Q82816", "obj_uri": "Q172030", "sub_label": "Daniel Ricciardo", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "5d2dae50-c597-4b92-8204-39e19faf87f9", "sub_uri": "Q1031999", "obj_uri": "Q1022933", "sub_label": "Thiago Ribeiro", "obj_label": "Rentistas", "predicate_id": "P54"}
+{"uuid": "dc085615-dc1b-4838-8a3a-06c67289a38f", "sub_uri": "Q20672037", "obj_uri": "Q945632", "sub_label": "Olof Kajbjer Gustafsson", "obj_label": "Fnatic", "predicate_id": "P54"}
+{"uuid": "366b3554-cb94-410a-9a0b-98f7abaac8fe", "sub_uri": "Q1254334", "obj_uri": "Q513840", "sub_label": "Washington Luiz Mascarenhas Silva", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "5ce553eb-cf30-4c03-994f-564b1246abf0", "sub_uri": "Q316635", "obj_uri": "Q608122", "sub_label": "Gr\u00e9tar Steinsson", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "d57464f8-1c60-4b87-bbad-d7fdb96e2fe1", "sub_uri": "Q3166", "obj_uri": "Q173103", "sub_label": "Denny Hulme", "obj_label": "Brabham", "predicate_id": "P54"}
+{"uuid": "0ef3175e-781e-446c-b377-21b189d7215b", "sub_uri": "Q2443461", "obj_uri": "Q207373", "sub_label": "Daniel Sanabria", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "0deabb89-b0e7-42d5-a973-a62e4f13644b", "sub_uri": "Q2553835", "obj_uri": "Q214978", "sub_label": "Ricardo Gareca", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "d14d6008-2a23-4fb4-a166-4796a0e11fcf", "sub_uri": "Q371243", "obj_uri": "Q372599", "sub_label": "Michael Petkovic", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "fa4c3d05-b172-4ef2-ad12-f1450321e561", "sub_uri": "Q1574987", "obj_uri": "Q43710", "sub_label": "Sammy N'Djock", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "3d2cb406-e50b-4259-b509-ed0ba8778bc9", "sub_uri": "Q310559", "obj_uri": "Q192641", "sub_label": "Marek \u010cech", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "b3f3b415-f375-4717-b5a4-c3a50be7a429", "sub_uri": "Q315471", "obj_uri": "Q16320", "sub_label": "Santiago Solari", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "7927f300-e6d4-4263-9130-8edb2da926a8", "sub_uri": "Q315814", "obj_uri": "Q16320", "sub_label": "Jos\u00e9 Leandro Andrade", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "e5840354-1251-4fae-a7a1-66d839b84252", "sub_uri": "Q942164", "obj_uri": "Q513840", "sub_label": "Danny Vukovic", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "3476a805-62d5-4eed-a110-cfbad31d04a5", "sub_uri": "Q2505360", "obj_uri": "Q556570", "sub_label": "U\u011fur Boral", "obj_label": "Osmanl\u0131spor", "predicate_id": "P54"}
+{"uuid": "c2335be7-d3a9-45ed-a942-7a2b97bb19ef", "sub_uri": "Q1178296", "obj_uri": "Q392310", "sub_label": "Davorin Kablar", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "dfe678f6-fc57-4d65-8e5d-032a5ac061e0", "sub_uri": "Q533472", "obj_uri": "Q513840", "sub_label": "Cyrille Domoraud", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "30cd5356-6b6e-4642-901a-ec0e3c8d61fe", "sub_uri": "Q295512", "obj_uri": "Q604589", "sub_label": "Carlos Gamarra", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "07b52bb5-b009-4458-b237-912a31f25fea", "sub_uri": "Q352611", "obj_uri": "Q16320", "sub_label": "Alcides Ghiggia", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "1df5f455-7535-49f3-bc30-cbd49b3c9a83", "sub_uri": "Q4831487", "obj_uri": "Q179658", "sub_label": "Aymen Tahar", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "a211d1b4-6bad-406b-988a-3e9c14e3bd0b", "sub_uri": "Q332006", "obj_uri": "Q604589", "sub_label": "Julio C\u00e9sar Romero", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "ad1c2eea-62d5-49b0-81f3-49cb29e8741b", "sub_uri": "Q530286", "obj_uri": "Q604589", "sub_label": "Richart B\u00e1ez", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "e757b699-f89f-458f-b7ae-1007160b09fb", "sub_uri": "Q365965", "obj_uri": "Q1877396", "sub_label": "Amr Zaky", "obj_label": "ENPPI", "predicate_id": "P54"}
+{"uuid": "b9feb16f-4588-40d5-ba82-e4ff9077bf80", "sub_uri": "Q330052", "obj_uri": "Q392310", "sub_label": "Hans-Peter Berger", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "680ec942-42f8-4acc-aaf5-9e55bc9ec012", "sub_uri": "Q265697", "obj_uri": "Q16320", "sub_label": "Raimundo Orsi", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "d5788c04-cddf-4357-af20-e29e12bf82e8", "sub_uri": "Q10490", "obj_uri": "Q172987", "sub_label": "Ayrton Senna", "obj_label": "Toleman", "predicate_id": "P54"}
+{"uuid": "3d74a5bb-134d-4c89-aafd-a34708f0f753", "sub_uri": "Q192840", "obj_uri": "Q318698", "sub_label": "Sami Hyypi\u00e4", "obj_label": "MyPa", "predicate_id": "P54"}
+{"uuid": "e1d86936-3168-46bc-9d56-3bd5ef4dccd7", "sub_uri": "Q312733", "obj_uri": "Q192641", "sub_label": "Pawe\u0142 Bro\u017cek", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "96972b62-1de4-47db-b926-fe10e5107f97", "sub_uri": "Q197567", "obj_uri": "Q604589", "sub_label": "Guido Alvarenga", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "0a6736ac-2141-4a09-b71b-5c5f4d841a35", "sub_uri": "Q1824697", "obj_uri": "Q604589", "sub_label": "\u00c1ngel Ortiz", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "1822de8f-da98-4533-8c07-dbf4c92c0ed7", "sub_uri": "Q2637408", "obj_uri": "Q13385", "sub_label": "Bartosz Salamon", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "6a996c0e-69c8-4232-bf65-3929e367834b", "sub_uri": "Q2065564", "obj_uri": "Q16320", "sub_label": "Paolo Hurtado", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "fc82ab11-1f69-4f87-b8d9-851914a6d52b", "sub_uri": "Q1754991", "obj_uri": "Q16320", "sub_label": "Marcelo Andr\u00e9s Silva Fern\u00e1ndez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "d63b054c-91e0-4e24-bf7a-f8879aea14d0", "sub_uri": "Q295065", "obj_uri": "Q392310", "sub_label": "Ivica Vasti\u0107", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "90c18a74-7476-44ab-87f7-c373256917a4", "sub_uri": "Q721619", "obj_uri": "Q13385", "sub_label": "Matteo Contini", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "7abad803-4af6-4dff-a1a6-3c9176384836", "sub_uri": "Q875699", "obj_uri": "Q392310", "sub_label": "Emanuel Schreiner", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "b946bbb2-2844-453a-a414-4726e53e2e75", "sub_uri": "Q553564", "obj_uri": "Q214978", "sub_label": "Mario Evaristo", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "558afa05-8beb-4774-8a8d-d715f45b2997", "sub_uri": "Q898247", "obj_uri": "Q24689", "sub_label": "Jeroen Boere", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "f266b8a3-7082-4362-b4bc-abbd28870b12", "sub_uri": "Q288910", "obj_uri": "Q372599", "sub_label": "Hamed Namouchi", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "d5a0a28f-2d3a-4983-8d0a-b46538140831", "sub_uri": "Q210848", "obj_uri": "Q24689", "sub_label": "Kaj Ramsteijn", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "32288cf0-6b41-4751-9450-22f0128cbcb2", "sub_uri": "Q350107", "obj_uri": "Q192641", "sub_label": "Sol Bamba", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "74e084f6-22d1-4815-aa09-de646ec3436d", "sub_uri": "Q656298", "obj_uri": "Q604589", "sub_label": "Julio Manzur", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "f1ab0098-0b75-48ae-a0c5-fc777e32afe2", "sub_uri": "Q15229580", "obj_uri": "Q291716", "sub_label": "Heimir Hallgr\u00edmsson", "obj_label": "\u00cdBV", "predicate_id": "P54"}
+{"uuid": "57a8961d-cfee-4fee-ae58-722ab35c79d3", "sub_uri": "Q9673", "obj_uri": "Q172030", "sub_label": "Lewis Hamilton", "obj_label": "McLaren", "predicate_id": "P54"}
+{"uuid": "f6530b17-0f90-4bbf-b08b-2838fb1439f3", "sub_uri": "Q2327467", "obj_uri": "Q13385", "sub_label": "Edoardo Reja", "obj_label": "S.P.A.L.", "predicate_id": "P54"}
+{"uuid": "c35af3b3-b29b-4b34-86a2-cc98e305fca6", "sub_uri": "Q717580", "obj_uri": "Q16320", "sub_label": "Jonathan Urretaviscaya", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "41428228-ba41-46b0-ad07-c74b6db67683", "sub_uri": "Q1641871", "obj_uri": "Q179658", "sub_label": "Adrian Stoian", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "d688d018-f8ea-4f78-8581-86304cb44aa0", "sub_uri": "Q3083891", "obj_uri": "Q604589", "sub_label": "Juan Carlos Villamayor", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "a90e8ff2-5bf0-471b-be74-f53b06f8f904", "sub_uri": "Q926318", "obj_uri": "Q1368064", "sub_label": "Macaba Johnson", "obj_label": "Malatyaspor", "predicate_id": "P54"}
+{"uuid": "5d920194-09d4-47cc-a399-f9b38187a040", "sub_uri": "Q10598", "obj_uri": "Q291716", "sub_label": "David James", "obj_label": "\u00cdBV", "predicate_id": "P54"}
+{"uuid": "b647c9bb-934b-47ed-a51b-b92cb652b6df", "sub_uri": "Q5806372", "obj_uri": "Q214978", "sub_label": "Diego Mat\u00edas Rodr\u00edguez", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "8e8f33db-3220-4ba6-9fda-351ad9e2f2b8", "sub_uri": "Q202054", "obj_uri": "Q24689", "sub_label": "Keisuke Honda", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "06a21a81-1408-4cbc-9f14-d8509e77998d", "sub_uri": "Q4284229", "obj_uri": "Q214978", "sub_label": "Osvaldo Escudero", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "9aff5dae-7b37-461c-8357-221f055011db", "sub_uri": "Q4262874", "obj_uri": "Q207373", "sub_label": "Patricio Morales", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "50479079-c395-4142-90c0-f2fde4606e96", "sub_uri": "Q249250", "obj_uri": "Q372599", "sub_label": "David Texeira", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "510e7e8d-fa72-4ab7-b3c5-e1b74f737214", "sub_uri": "Q441696", "obj_uri": "Q24689", "sub_label": "Niclas Heimann", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "c9d7bc3f-1029-4593-bd2b-f14c01c8551d", "sub_uri": "Q61395", "obj_uri": "Q40993", "sub_label": "Andr\u00e9 Lotterer", "obj_label": "Porsche", "predicate_id": "P54"}
+{"uuid": "87cf7356-8573-4233-88cf-6b85b79e3f01", "sub_uri": "Q189892", "obj_uri": "Q179658", "sub_label": "Gheorghe Hagi", "obj_label": "FCSB", "predicate_id": "P54"}
+{"uuid": "776e9b65-a8c0-4c49-9452-5e3ee652dab4", "sub_uri": "Q359419", "obj_uri": "Q214978", "sub_label": "Germ\u00e1n Denis", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "4d0811c2-ef8a-4657-99a4-9b7254f242f4", "sub_uri": "Q709488", "obj_uri": "Q513840", "sub_label": "Kaies Ghodhbane", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "19bd9510-16c5-4cde-8ce3-ac0644e4aa09", "sub_uri": "Q20743436", "obj_uri": "Q29", "sub_label": "Giovani Lo Celso", "obj_label": "Spanyol", "predicate_id": "P54"}
+{"uuid": "e20e6c6a-8de2-4310-b748-84293d1fc2da", "sub_uri": "Q350326", "obj_uri": "Q207373", "sub_label": "Juan Guillermo Castillo", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "a52f73f9-c1d5-4f9b-abed-701e23fd7bed", "sub_uri": "Q11949", "obj_uri": "Q24689", "sub_label": "Dick Advocaat", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "b1fac76d-65f5-42e8-9641-0a428d736c18", "sub_uri": "Q3186498", "obj_uri": "Q235", "sub_label": "Rachid Ghezzal", "obj_label": "Monako", "predicate_id": "P54"}
+{"uuid": "62cec36b-c157-4ce2-b7e9-8a86112eb132", "sub_uri": "Q562705", "obj_uri": "Q513237", "sub_label": "Carlos Alberto de Oliveira", "obj_label": "Kocaelispor", "predicate_id": "P54"}
+{"uuid": "814dec26-bbd4-4872-a932-1b02dad1c363", "sub_uri": "Q543710", "obj_uri": "Q192641", "sub_label": "Aykut Akg\u00fcn", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "b1d683f8-686f-4751-a396-bd7636825dd9", "sub_uri": "Q436230", "obj_uri": "Q214978", "sub_label": "Lucas Biglia", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "b67abaa6-c7ab-4d66-b203-d2fea25e1fb0", "sub_uri": "Q221798", "obj_uri": "Q372599", "sub_label": "Cicinho", "obj_label": "Sivasspor", "predicate_id": "P54"}
+{"uuid": "8685690e-24f1-488d-a9be-019ed6b22410", "sub_uri": "Q1765916", "obj_uri": "Q214978", "sub_label": "Mart\u00edn Campa\u00f1a", "obj_label": "Independiente", "predicate_id": "P54"}
+{"uuid": "c9fb5ea6-553b-481c-9a35-c64b3d8229ac", "sub_uri": "Q2744475", "obj_uri": "Q43710", "sub_label": "Natxo Insa", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "f9c086eb-69e2-4812-a349-340ea9f922bc", "sub_uri": "Q202410", "obj_uri": "Q608122", "sub_label": "Aiyegbeni Yakubu", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "afd8b396-a624-4cb2-bf1f-895d910275d8", "sub_uri": "Q277568", "obj_uri": "Q192641", "sub_label": "Tolga Zengin", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "7e38965e-c8fa-4dbb-95ed-57d589731e00", "sub_uri": "Q26315", "obj_uri": "Q392310", "sub_label": "\u017deljko Milinovi\u010d", "obj_label": "LASK", "predicate_id": "P54"}
+{"uuid": "764febcb-f464-4b5b-85ef-a1492b0c3c45", "sub_uri": "Q3266344", "obj_uri": "Q16320", "sub_label": "Alejandro Gonz\u00e1lez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "aaaf2409-c0cc-48a2-b222-76ccfcc806a3", "sub_uri": "Q982447", "obj_uri": "Q391789", "sub_label": "Mervan \u00c7elik", "obj_label": "GAIS", "predicate_id": "P54"}
+{"uuid": "473b320f-95df-4110-b08e-93daff867201", "sub_uri": "Q795605", "obj_uri": "Q391789", "sub_label": "Johan M\u00e5rtensson", "obj_label": "GAIS", "predicate_id": "P54"}
+{"uuid": "463854e3-e6d2-4328-a790-9be67ddd2135", "sub_uri": "Q346718", "obj_uri": "Q604589", "sub_label": "Denis Caniza", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "be405588-7502-4e8d-971d-9d2fcecd9463", "sub_uri": "Q6695847", "obj_uri": "Q31821", "sub_label": "Luca Berardocco", "obj_label": "FeralpiSal\u00f2", "predicate_id": "P54"}
+{"uuid": "760084d2-3071-4cd5-9c9b-e5e24012ceb0", "sub_uri": "Q795528", "obj_uri": "Q24689", "sub_label": "Barry Maguire", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "c1c83c86-d61d-4b26-9759-b258c70d8e84", "sub_uri": "Q380326", "obj_uri": "Q9584", "sub_label": "Toni El\u00edas", "obj_label": "Honda", "predicate_id": "P54"}
+{"uuid": "8d8e63a6-95df-4a04-a235-b77f4cc90f1e", "sub_uri": "Q5479889", "obj_uri": "Q207373", "sub_label": "Yashir Pinto", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "a6208162-616e-4e80-abd3-76f58d8c448f", "sub_uri": "Q965725", "obj_uri": "Q43710", "sub_label": "Ivan Radelji\u0107", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "f2205657-d5a3-4843-b625-9f5d2913c884", "sub_uri": "Q5340511", "obj_uri": "Q604589", "sub_label": "Eduardo Aranda", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "623bc598-d4f3-4f44-8628-c77d8201ea1d", "sub_uri": "Q709488", "obj_uri": "Q430107", "sub_label": "Kaies Ghodhbane", "obj_label": "Samsunspor", "predicate_id": "P54"}
+{"uuid": "9507115a-1ad5-4b42-9909-db93dd3accfa", "sub_uri": "Q299498", "obj_uri": "Q513840", "sub_label": "Ciprian Marica", "obj_label": "Konyaspor", "predicate_id": "P54"}
+{"uuid": "22988276-2e22-41b3-911e-fe4c14ac7859", "sub_uri": "Q862998", "obj_uri": "Q24689", "sub_label": "Jules Reimerink", "obj_label": "VVV-Venlo", "predicate_id": "P54"}
+{"uuid": "6a505b2d-b180-4987-bccd-a0180e16c334", "sub_uri": "Q295512", "obj_uri": "Q604589", "sub_label": "Carlos Gamarra", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "088edf91-4a5d-4f25-8ae1-34cfe4d0110e", "sub_uri": "Q5340511", "obj_uri": "Q604589", "sub_label": "Eduardo Aranda", "obj_label": "Olimpia", "predicate_id": "P54"}
+{"uuid": "48529026-1c08-44ee-8054-76fc3bc3eac0", "sub_uri": "Q15229580", "obj_uri": "Q291716", "sub_label": "Heimir Hallgr\u00edmsson", "obj_label": "\u00cdBV", "predicate_id": "P54"}
+{"uuid": "e176d115-f4bd-443f-a8da-6e58e3afeca6", "sub_uri": "Q15506789", "obj_uri": "Q8851", "sub_label": "Kelechi Iheanacho", "obj_label": "M\u00e1laga", "predicate_id": "P54"}
+{"uuid": "a2590e7f-a8de-4c9c-a74b-85c3457bd78b", "sub_uri": "Q673450", "obj_uri": "Q192641", "sub_label": "Douglas Franco Teixeira", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "b6e9825c-9718-4679-944b-ae5dbc6d2fc0", "sub_uri": "Q215454", "obj_uri": "Q608122", "sub_label": "Cristian Riveros", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "0ff0e1b7-a6df-4b7a-8d0d-8ac9450bf86e", "sub_uri": "Q209650", "obj_uri": "Q318698", "sub_label": "Jari Litmanen", "obj_label": "MyPa", "predicate_id": "P54"}
+{"uuid": "0e794490-276b-4844-a526-0170b482cd10", "sub_uri": "Q462340", "obj_uri": "Q192641", "sub_label": "Kiki Musampa", "obj_label": "Trabzonspor", "predicate_id": "P54"}
+{"uuid": "0bcb1042-90e8-4611-b52e-70ecd9381a9c", "sub_uri": "Q513580", "obj_uri": "Q608122", "sub_label": "Ariza Makukula", "obj_label": "Kayserispor", "predicate_id": "P54"}
+{"uuid": "61560fa6-7722-444f-bd0c-29a17fa36ad3", "sub_uri": "Q2268402", "obj_uri": "Q43710", "sub_label": "Miodrag An\u0111elkovi\u0107", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "637c6943-41f8-450d-86b1-8a4a9282c115", "sub_uri": "Q552066", "obj_uri": "Q16320", "sub_label": "Alberto Junior Rodr\u00edguez", "obj_label": "Pe\u00f1arol", "predicate_id": "P54"}
+{"uuid": "49833959-ef7b-404c-806c-b4ed622b03b8", "sub_uri": "Q2704062", "obj_uri": "Q286490", "sub_label": "Abdulrahman Fawzi", "obj_label": "Al-Masry", "predicate_id": "P54"}
+{"uuid": "7255787e-9c90-4be0-839c-a72c4a73c9fc", "sub_uri": "Q201900", "obj_uri": "Q43710", "sub_label": "R\u00fc\u015ft\u00fc Re\u00e7ber", "obj_label": "Antalyaspor", "predicate_id": "P54"}
+{"uuid": "58b2f570-14a0-4c34-84db-a9067f29c574", "sub_uri": "Q349172", "obj_uri": "Q207373", "sub_label": "Gonzalo Jara", "obj_label": "Colo-Colo", "predicate_id": "P54"}
+{"uuid": "074ff844-a059-45b7-b86a-7996defe2911", "sub_uri": "Q172979", "obj_uri": "Q171335", "sub_label": "JJ Lehto", "obj_label": "Sauber", "predicate_id": "P54"}

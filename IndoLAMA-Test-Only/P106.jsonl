@@ -1,0 +1,511 @@
+{"uuid": "8dfd67c1-69f4-4444-9a5d-295afad5a429", "sub_uri": "Q3574603", "obj_uri": "Q33999", "sub_label": "Zahia Dehar", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "a0bce485-0656-4d6c-8cb5-f0a906043213", "sub_uri": "Q312525", "obj_uri": "Q482980", "sub_label": "Hironobu Sakaguchi", "obj_label": "Pengarang", "predicate_id": "P106"}
+{"uuid": "16240313-ba62-42f3-9237-6e429c5007ed", "sub_uri": "Q2218019", "obj_uri": "Q82955", "sub_label": "Samuel Blatchford", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "5f16c632-7fcd-4b29-aec7-1bd3333cd547", "sub_uri": "Q92879", "obj_uri": "Q5322166", "sub_label": "Tony Fadell", "obj_label": "Perancang", "predicate_id": "P106"}
+{"uuid": "f7b480a0-afd3-4537-b7da-4744dd95fe90", "sub_uri": "Q3756759", "obj_uri": "Q33999", "sub_label": "Gabriella Pallotta", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "13687fc7-bb0d-4cd5-a2ba-1ee6a5e04378", "sub_uri": "Q7992749", "obj_uri": "Q33999", "sub_label": "Ricky Jo", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "09d7a5a8-52b0-4b15-a8b7-41bafa8aadbf", "sub_uri": "Q47455355", "obj_uri": "Q33999", "sub_label": "Maureen Daryanani", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "e12407fb-3073-4e83-9677-9c4319e30857", "sub_uri": "Q25468511", "obj_uri": "Q33999", "sub_label": "Nadya Shakira Tuzahra", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "5a47c1fe-8869-4080-bb38-a4ec9996ec1e", "sub_uri": "Q1248990", "obj_uri": "Q177220", "sub_label": "Mayer Hawthorne", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "39fbc6ba-22ee-4993-a966-42e4e666558e", "sub_uri": "Q376859", "obj_uri": "Q1930187", "sub_label": "Cyril M. Kornbluth", "obj_label": "Wartawan", "predicate_id": "P106"}
+{"uuid": "edfc0653-c264-4175-9353-f40e211108de", "sub_uri": "Q65212122", "obj_uri": "Q49757", "sub_label": "Weni Suryandari", "obj_label": "Penyair", "predicate_id": "P106"}
+{"uuid": "40188c66-0351-45c2-b8a7-c8e4e63cb320", "sub_uri": "Q3543461", "obj_uri": "Q639669", "sub_label": "Jyongri", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "e3425004-b45a-4f18-93c7-3e2c452c2041", "sub_uri": "Q3188455", "obj_uri": "Q33999", "sub_label": "Jules Brasseur", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "922d8b90-402e-4839-aa99-2d379597a5cc", "sub_uri": "Q8004119", "obj_uri": "Q189290", "sub_label": "William A. Mann", "obj_label": "Perwira", "predicate_id": "P106"}
+{"uuid": "0bdfc78e-2fbb-4fb4-a0e9-3dcccb49216f", "sub_uri": "Q97193039", "obj_uri": "Q83307", "sub_label": "Yeni Fatmawati", "obj_label": "Menteri", "predicate_id": "P106"}
+{"uuid": "f71c956a-242f-457f-ad67-1ef3116aa95b", "sub_uri": "Q376549", "obj_uri": "Q131524", "sub_label": "Juan Carlos Wasmosy Monti", "obj_label": "Wirausahawan", "predicate_id": "P106"}
+{"uuid": "a1e5d2b6-1bdb-4214-b30b-2ee52c9fe7f3", "sub_uri": "Q2395959", "obj_uri": "Q855091", "sub_label": "Buddy Miller", "obj_label": "Gitaris", "predicate_id": "P106"}
+{"uuid": "c4057512-4b0b-4420-aee1-26c57e440987", "sub_uri": "Q314640", "obj_uri": "Q33999", "sub_label": "Andy Samberg", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "11c7d541-0d7d-41b4-a622-1fd9ebe41bbc", "sub_uri": "Q87567", "obj_uri": "Q158852", "sub_label": "Anton Grigorevitch Rubinstein", "obj_label": "Dirigen", "predicate_id": "P106"}
+{"uuid": "524f98c9-0424-453f-84d0-72ebb6c6e372", "sub_uri": "Q12908", "obj_uri": "Q188094", "sub_label": "George Soros", "obj_label": "Ekonom", "predicate_id": "P106"}
+{"uuid": "436ede99-05d1-4341-a90f-3d772f232f24", "sub_uri": "Q955183", "obj_uri": "Q33999", "sub_label": "Sz\u0151ke Szak\u00e1ll", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "55b8198a-041e-4cb5-9a2d-9d6c0adaac05", "sub_uri": "Q1206951", "obj_uri": "Q188094", "sub_label": "Devlet Bah\u00e7eli", "obj_label": "Ekonom", "predicate_id": "P106"}
+{"uuid": "dcb193d7-2028-40fa-87ca-b62a8d216b5d", "sub_uri": "Q1052494", "obj_uri": "Q855091", "sub_label": "Sayaka Yamamoto", "obj_label": "Gitaris", "predicate_id": "P106"}
+{"uuid": "776aaf20-6bca-47ec-a9b9-964d08504c1d", "sub_uri": "Q3192787", "obj_uri": "Q483501", "sub_label": "Kan\u014d Naonobu", "obj_label": "Seniman", "predicate_id": "P106"}
+{"uuid": "a0a1b45e-74da-4b8f-93ae-59d27ab63e11", "sub_uri": "Q465350", "obj_uri": "Q222344", "sub_label": "William Kennedy Dickson", "obj_label": "Sinematografer", "predicate_id": "P106"}
+{"uuid": "c6a6a130-3c9f-4d12-ba76-4948385d823a", "sub_uri": "Q219519", "obj_uri": "Q33999", "sub_label": "Phillip Phillips", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "f770f9ba-2262-4ee8-aa42-9f6e6e985e5b", "sub_uri": "Q6893973", "obj_uri": "Q82955", "sub_label": "Mohd Johari Baharum", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "a3bd24c3-a933-42c5-b286-dae4609e92e6", "sub_uri": "Q19724073", "obj_uri": "Q33999", "sub_label": "Inong Ayu", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "bdfbe31a-d041-4305-a594-6e944cff3a82", "sub_uri": "Q1963493", "obj_uri": "Q36180", "sub_label": "Petrus Josephus Zoetmulder", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "ae499a70-3421-47c7-91a5-ad5be0f3cded", "sub_uri": "Q60874071", "obj_uri": "Q177220", "sub_label": "Kato Kokoro", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "998f374b-2b23-4c7e-875b-de77979e1cd0", "sub_uri": "Q7838625", "obj_uri": "Q33999", "sub_label": "Trenyce", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "74ec938c-1bdf-4246-93b3-962f6be1da57", "sub_uri": "Q1717996", "obj_uri": "Q33231", "sub_label": "Nicol\u00e1s Echevarr\u00eda", "obj_label": "Fotografer", "predicate_id": "P106"}
+{"uuid": "70fa3642-ad45-47bc-9a8a-a1bed358b596", "sub_uri": "Q7416", "obj_uri": "Q593644", "sub_label": "Margaret Thatcher", "obj_label": "Kimiawan", "predicate_id": "P106"}
+{"uuid": "16d6cf6c-9220-4f0e-9927-30178fc38b9e", "sub_uri": "Q494665", "obj_uri": "Q36180", "sub_label": "Pieter Jelles Troelstra", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "45f3d61b-ea6f-486f-bdb9-5e630da6da4b", "sub_uri": "Q371390", "obj_uri": "Q82955", "sub_label": "Konrad II dari Bohemia", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "fd8cfd51-8d86-4f1f-97c7-815cadf72863", "sub_uri": "Q2676008", "obj_uri": "Q4610556", "sub_label": "Gwen Lee", "obj_label": "Peragawan", "predicate_id": "P106"}
+{"uuid": "0acd8977-75a1-495d-a7bb-a5b766fe2055", "sub_uri": "Q73136", "obj_uri": "Q2526255", "sub_label": "Stanley Kramer", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "2538a5a7-1b73-43c4-b5e1-dcbec456e2d7", "sub_uri": "Q18421283", "obj_uri": "Q140686", "sub_label": "Firli Bahuri", "obj_label": "Ketua", "predicate_id": "P106"}
+{"uuid": "e5965a4b-484b-47d7-a891-63ac6eefc91e", "sub_uri": "Q10282358", "obj_uri": "Q33999", "sub_label": "Filomena Cautela", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "5349f67d-cf10-41fd-a9b4-1cf48e1258bd", "sub_uri": "Q441334", "obj_uri": "Q33999", "sub_label": "Cyrielle Clair", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "3409a2ae-d779-4aae-b696-2eff4f7f7d10", "sub_uri": "Q7531891", "obj_uri": "Q82955", "sub_label": "Siti Wan Kembang", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "97fa783c-8097-4c1f-93ec-d5390889154c", "sub_uri": "Q7048121", "obj_uri": "Q43845", "sub_label": "Jay Gatsby", "obj_label": "Pebisnis", "predicate_id": "P106"}
+{"uuid": "6dea5337-4650-4ba5-8e22-1b674f78bee2", "sub_uri": "Q3372646", "obj_uri": "Q33999", "sub_label": "Paulette Noizeux", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "24d6b727-6b25-418c-9fb8-178832ba9332", "sub_uri": "Q2965946", "obj_uri": "Q2526255", "sub_label": "Christine Lipinska", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "9d7ac4d0-e573-4f5d-b64a-6a16983092d3", "sub_uri": "Q2960106", "obj_uri": "Q2526255", "sub_label": "Charles Reisner", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "be901e04-a3db-4c3d-aa5e-0128e4d69b20", "sub_uri": "Q24276432", "obj_uri": "Q82955", "sub_label": "Yulia Malinovsky", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "5807528f-0548-4cca-b291-cbbf9551d809", "sub_uri": "Q3346924", "obj_uri": "Q2526255", "sub_label": "Tarun Majumdar", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "e914e70d-9c4e-40ab-96bc-c43076d144ca", "sub_uri": "Q43378375", "obj_uri": "Q82955", "sub_label": "Joey Gibson (aktivis politik)", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "2f1cea8a-aecf-4d64-af57-dfb2a0450fe1", "sub_uri": "Q174930", "obj_uri": "Q33999", "sub_label": "Olive Borden", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "d85a0143-00a1-418b-a5fa-10f3a5257596", "sub_uri": "Q79003", "obj_uri": "Q2526255", "sub_label": "Jessica Hausner", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "87330717-e112-4e8a-a0e7-2dda7ac469b7", "sub_uri": "Q6078", "obj_uri": "Q131524", "sub_label": "Dr. Dre", "obj_label": "Wirausahawan", "predicate_id": "P106"}
+{"uuid": "dc0595ad-16b8-4306-b351-65e54cb3e5be", "sub_uri": "Q8292447", "obj_uri": "Q82955", "sub_label": "Hu Heping", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "c6b313dd-120a-40cb-bd79-1e8aa1c715c0", "sub_uri": "Q1415206", "obj_uri": "Q177220", "sub_label": "\u00c5ke Gr\u00f6nberg", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "c2456132-320f-422f-907e-7a21eec14224", "sub_uri": "Q5120540", "obj_uri": "Q82955", "sub_label": "Cindy Hyde-Smith", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "4b3bd101-37e3-4739-873a-659dbcff0f69", "sub_uri": "Q448205", "obj_uri": "Q715301", "sub_label": "Frank Frazetta", "obj_label": "Komikus", "predicate_id": "P106"}
+{"uuid": "3caee6b3-d7c7-4e9e-ab6f-8ea17b11b415", "sub_uri": "Q20466482", "obj_uri": "Q2526255", "sub_label": "Yana Samsudin", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "94a9172c-4d57-455f-9d21-7caf92b62b48", "sub_uri": "Q2420084", "obj_uri": "Q1930187", "sub_label": "Sachchidananda Vatsyayan", "obj_label": "Wartawan", "predicate_id": "P106"}
+{"uuid": "b1fff03a-e7d6-4e5f-b35f-890b80ac9a1a", "sub_uri": "Q710131", "obj_uri": "Q36180", "sub_label": "Mike Figgis", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "67462c4a-3631-4df2-a9ee-e36820313534", "sub_uri": "Q6216844", "obj_uri": "Q33999", "sub_label": "Johannes Marott", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "637cb12a-93e3-4a1f-a179-c988dd1cc4b1", "sub_uri": "Q57277", "obj_uri": "Q39631", "sub_label": "Gottfried Benn", "obj_label": "Dokter", "predicate_id": "P106"}
+{"uuid": "3c536f37-e27b-480c-8aa2-e17f8b511ab3", "sub_uri": "Q1921926", "obj_uri": "Q82955", "sub_label": "Antoine Christophe Merlin", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "a8e5a369-6a64-43b6-88af-ae5dfacaa9e3", "sub_uri": "Q6250211", "obj_uri": "Q82955", "sub_label": "John Kennedy (politikus Louisiana)", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "10a66789-26b0-462f-b39c-561b729a9307", "sub_uri": "Q4714505", "obj_uri": "Q33999", "sub_label": "Alejandro Ciangherotti", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "e7779f03-6d6b-47c2-b147-1519aa3d94eb", "sub_uri": "Q2442472", "obj_uri": "Q2526255", "sub_label": "Tony Ayres", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "9f8c524b-aebb-4076-b0a5-e5a741d58334", "sub_uri": "Q717864", "obj_uri": "Q33999", "sub_label": "Albee Huang", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "c278e9b1-99a5-4ea0-b5eb-3837400ce85f", "sub_uri": "Q1264625", "obj_uri": "Q245068", "sub_label": "Ted Healy", "obj_label": "Pelawak", "predicate_id": "P106"}
+{"uuid": "ea6eabb5-29ba-4661-888d-c70624cec0da", "sub_uri": "Q4263381", "obj_uri": "Q177220", "sub_label": "Eddie Ng", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "7b516b16-fbaa-40cc-8a9a-3fc5d59ae52f", "sub_uri": "Q22084400", "obj_uri": "Q82955", "sub_label": "L\u0151rinc M\u00e9sz\u00e1ros", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "3384eeb9-6cc0-481b-bfcb-c9db7ecc66bd", "sub_uri": "Q318542", "obj_uri": "Q189290", "sub_label": "Michael Phillip Anderson", "obj_label": "Perwira", "predicate_id": "P106"}
+{"uuid": "26c0a3f3-5d2c-4bd7-8446-987285c1e5b5", "sub_uri": "Q258700", "obj_uri": "Q177220", "sub_label": "Aline Lahoud", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "5454961e-ab85-4392-b796-c30f18340083", "sub_uri": "Q6344020", "obj_uri": "Q482980", "sub_label": "Kabeer Kaushik", "obj_label": "Pengarang", "predicate_id": "P106"}
+{"uuid": "02561c50-88c1-42f9-b8fc-d4b41c3c7ba4", "sub_uri": "Q85995328", "obj_uri": "Q82955", "sub_label": "Yulius Maulana", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "d174103c-5e43-427c-b02d-3a6d405b0254", "sub_uri": "Q151872", "obj_uri": "Q482980", "sub_label": "Amos Oz", "obj_label": "Pengarang", "predicate_id": "P106"}
+{"uuid": "2d16d124-1f99-480a-866a-8da716c51730", "sub_uri": "Q19944155", "obj_uri": "Q33999", "sub_label": "Ria Winata", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "4a63590e-398e-4b43-accd-d49cce587483", "sub_uri": "Q19745535", "obj_uri": "Q901", "sub_label": "Armi Susandi", "obj_label": "Ilmuwan", "predicate_id": "P106"}
+{"uuid": "5d452230-086b-4f66-be09-5176a3d68be5", "sub_uri": "Q12017218", "obj_uri": "Q33999", "sub_label": "Franti\u0161ek Kreuzmann", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "a14e02f6-df13-464d-a949-2139fbbc2041", "sub_uri": "Q28930020", "obj_uri": "Q177220", "sub_label": "Aleksander Walmann", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "e6399e0c-b634-42c6-9c7d-1e95de8df18e", "sub_uri": "Q478450", "obj_uri": "Q82955", "sub_label": "James Weldon Johnson", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "ab46a757-76dc-49af-9c61-213ebc6c6792", "sub_uri": "Q1376233", "obj_uri": "Q2526255", "sub_label": "Janez Lapajne", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "afb1d271-4209-46be-937d-99b646270e12", "sub_uri": "Q11124", "obj_uri": "Q185351", "sub_label": "Stephen Breyer", "obj_label": "Yuris", "predicate_id": "P106"}
+{"uuid": "fa364143-2aa3-4a9c-8276-286b65fd3391", "sub_uri": "Q548914", "obj_uri": "Q1028181", "sub_label": "Philipp Veit", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "89e2c014-ed36-4909-9e9e-1c75912c86a7", "sub_uri": "Q484523", "obj_uri": "Q855091", "sub_label": "Jared Leto", "obj_label": "Gitaris", "predicate_id": "P106"}
+{"uuid": "406d0af5-1667-4cbb-bc9e-34c4ce2d7c6e", "sub_uri": "Q4409470", "obj_uri": "Q222344", "sub_label": "Alik Sakharov", "obj_label": "Sinematografer", "predicate_id": "P106"}
+{"uuid": "203e8d25-7532-4957-9e4c-9670b38ba364", "sub_uri": "Q157970", "obj_uri": "Q483501", "sub_label": "Bo\u017eena N\u011bmcov\u00e1", "obj_label": "Seniman", "predicate_id": "P106"}
+{"uuid": "18daa35c-36bd-4a4a-8ec6-e1eab510ae06", "sub_uri": "Q11109806", "obj_uri": "Q33999", "sub_label": "Bokir", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "fb7fe3c9-496b-4ff8-8cb3-3805dd2df11b", "sub_uri": "Q1152539", "obj_uri": "Q639669", "sub_label": "Noriaki Sugiyama", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "7c7e367d-2812-4dcb-b7cd-fc9389a01f9c", "sub_uri": "Q21597772", "obj_uri": "Q222344", "sub_label": "Howard A. Anderson, Jr.", "obj_label": "Sinematografer", "predicate_id": "P106"}
+{"uuid": "7ba295b5-7d41-4076-b13e-b436486a9ec2", "sub_uri": "Q233380", "obj_uri": "Q33999", "sub_label": "Ikue \u014ctani", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "96960bae-f92c-406c-8bfd-ccdd4052399e", "sub_uri": "Q19199", "obj_uri": "Q855091", "sub_label": "Brad Delson", "obj_label": "Gitaris", "predicate_id": "P106"}
+{"uuid": "e57050ba-c82b-444b-ab22-35afdb644463", "sub_uri": "Q981307", "obj_uri": "Q33999", "sub_label": "Tatyana Arntgolts", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "c51ef1ff-127e-46f0-821e-28d67cba3990", "sub_uri": "Q306122", "obj_uri": "Q36834", "sub_label": "Hyde", "obj_label": "Komponis", "predicate_id": "P106"}
+{"uuid": "09410f6c-7145-4d9d-bae1-3aa782747aa2", "sub_uri": "Q2277866", "obj_uri": "Q81096", "sub_label": "Sheldon Roberts", "obj_label": "Rekayasawan", "predicate_id": "P106"}
+{"uuid": "8ee66274-ac81-4896-8e1b-5830d4e647e8", "sub_uri": "Q363949", "obj_uri": "Q36180", "sub_label": "Jonas Basanavi\u010dius", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "f09d8c5c-f5a6-4c0d-91f6-f4198f71a94d", "sub_uri": "Q539385", "obj_uri": "Q189290", "sub_label": "Alfred Worden", "obj_label": "Perwira", "predicate_id": "P106"}
+{"uuid": "952522c8-3aa3-4078-b3c3-720e06322ebe", "sub_uri": "Q5511585", "obj_uri": "Q33999", "sub_label": "F\u00e9lix Dafauce", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "f05adf6b-9d05-4dcc-93a0-b08c9752d852", "sub_uri": "Q7747", "obj_uri": "Q185351", "sub_label": "Vladimir Putin", "obj_label": "Yuris", "predicate_id": "P106"}
+{"uuid": "dbd5e653-7156-428f-8a3e-bddf2c341115", "sub_uri": "Q319664", "obj_uri": "Q38142", "sub_label": "Tokugawa Yoshimune", "obj_label": "Samurai", "predicate_id": "P106"}
+{"uuid": "a05e8a64-c25f-4639-a8ba-6c6f786b077a", "sub_uri": "Q189758", "obj_uri": "Q639669", "sub_label": "Marvin Gaye", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "83241cbd-9e92-4a43-979f-90fe82716d5e", "sub_uri": "Q4209439", "obj_uri": "Q201788", "sub_label": "Hastings Rashdall", "obj_label": "Sejarawan", "predicate_id": "P106"}
+{"uuid": "77b2e86d-1ac7-4cb5-9b95-af8fde0acc1a", "sub_uri": "Q86034", "obj_uri": "Q33999", "sub_label": "Hermann Thimig", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "c209dd97-b11d-4ae7-8e73-d87931f9857f", "sub_uri": "Q2576347", "obj_uri": "Q36180", "sub_label": "Jo Boer (1907-1993)", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "ad84f86c-8837-4e3c-b632-c1fba50261ed", "sub_uri": "Q159552", "obj_uri": "Q1155838", "sub_label": "Johannes Vilhelm Jensen", "obj_label": "Koresponden", "predicate_id": "P106"}
+{"uuid": "ccff81c9-2db4-4360-835e-42ca14acbc57", "sub_uri": "Q10822003", "obj_uri": "Q33999", "sub_label": "Suho", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "352709e5-467d-4a1a-8b3a-bdd79d9b770a", "sub_uri": "Q5121104", "obj_uri": "Q177220", "sub_label": "Cinta Laura", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "37f39fdc-81f2-49ac-8dd5-702ee41ba3d3", "sub_uri": "Q2964885", "obj_uri": "Q1930187", "sub_label": "Chris Wallace", "obj_label": "Wartawan", "predicate_id": "P106"}
+{"uuid": "634f9f2d-99f7-4a4e-aee2-1bcce0d05755", "sub_uri": "Q2673694", "obj_uri": "Q177220", "sub_label": "Vivian Chow", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "3255c004-e4bb-4c1c-96bc-3e62f462bc38", "sub_uri": "Q4943736", "obj_uri": "Q2526255", "sub_label": "Boopathy Pandian", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "48b507c7-fb6d-4809-92f0-42a39bf8cf50", "sub_uri": "Q200812", "obj_uri": "Q82955", "sub_label": "Deodoro da Fonseca", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "1d031b74-6443-42c5-8af4-69eb378689d5", "sub_uri": "Q1489164", "obj_uri": "Q82955", "sub_label": "Gabriel Duval", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "d3c5ea78-2547-4e4a-9806-38c6b5714120", "sub_uri": "Q739062", "obj_uri": "Q245068", "sub_label": "Ike Barinholtz", "obj_label": "Pelawak", "predicate_id": "P106"}
+{"uuid": "2664f768-2bc9-48bf-b580-77cf6a256b66", "sub_uri": "Q560930", "obj_uri": "Q82955", "sub_label": "Paavo V\u00e4yrynen", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "18b4752f-6127-430e-8042-02a9ab2b25da", "sub_uri": "Q540597", "obj_uri": "Q4610556", "sub_label": "Asia Carrera", "obj_label": "Peragawan", "predicate_id": "P106"}
+{"uuid": "f994b747-059f-4213-a647-3c03dcc934f3", "sub_uri": "Q3431327", "obj_uri": "Q189290", "sub_label": "Bruce P. Crandall", "obj_label": "Perwira", "predicate_id": "P106"}
+{"uuid": "3ba9399e-468f-481e-af6d-ae9be1c23e52", "sub_uri": "Q22338290", "obj_uri": "Q33999", "sub_label": "Zhang Tian'ai", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "9271eba8-3379-4f42-a691-52fd0b802092", "sub_uri": "Q6241291", "obj_uri": "Q40348", "sub_label": "John J. Sullivan (diplomat)", "obj_label": "Pengacara", "predicate_id": "P106"}
+{"uuid": "f765f04a-86e3-4162-9ec6-cd0856b71002", "sub_uri": "Q3355", "obj_uri": "Q2095549", "sub_label": "Amelia Earhart", "obj_label": "Penerbang", "predicate_id": "P106"}
+{"uuid": "87548906-79d4-443f-bcd4-20cd17e5b527", "sub_uri": "Q1298519", "obj_uri": "Q82955", "sub_label": "L\u00e1szl\u00f3 Szil\u00e1gyi", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "381c18b8-6801-457e-84af-b64d7fa9056a", "sub_uri": "Q12004862", "obj_uri": "Q37226", "sub_label": "S\u00f8ren Pape Poulsen", "obj_label": "Guru", "predicate_id": "P106"}
+{"uuid": "faa9307a-3233-4ed8-bf96-1804aa0591dd", "sub_uri": "Q31173561", "obj_uri": "Q2526255", "sub_label": "German Mintapradja", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "17925973-2acc-4e8a-a478-87717f2da0e1", "sub_uri": "Q3182344", "obj_uri": "Q2526255", "sub_label": "John Rawlins (sutradara)", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "0d2f977a-f66e-48b9-a1cc-6c25619078bc", "sub_uri": "Q464924", "obj_uri": "Q82955", "sub_label": "Maryam Namazie", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "191f1759-2715-4926-a5bb-a6fe8f62e612", "sub_uri": "Q348287", "obj_uri": "Q36180", "sub_label": "Kalonymus ben Kalonymus", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "00661f9f-3d5e-4524-abea-c8394d7567c1", "sub_uri": "Q61943304", "obj_uri": "Q177220", "sub_label": "Conan Os\u00edris", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "72dda842-2425-46e6-bb69-7cc7a123429b", "sub_uri": "Q76959", "obj_uri": "Q82955", "sub_label": "Ralf Dahrendorf", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "e6b72ab9-8514-45fa-b9c8-390b9d5b29b4", "sub_uri": "Q2142823", "obj_uri": "Q131524", "sub_label": "Thierry Breton", "obj_label": "Wirausahawan", "predicate_id": "P106"}
+{"uuid": "9dc85236-a9bd-4cea-9f7e-df2d644fdbe6", "sub_uri": "Q159178", "obj_uri": "Q4610556", "sub_label": "Deepika Padukone", "obj_label": "Peragawan", "predicate_id": "P106"}
+{"uuid": "bfc2ec02-bc73-481e-8f6a-442de2555986", "sub_uri": "Q491768", "obj_uri": "Q82955", "sub_label": "Permaisuri Kim Sunwon", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "dfdd4e7f-3b34-4163-b58f-478dbea99172", "sub_uri": "Q380925", "obj_uri": "Q1930187", "sub_label": "Matth\u00edas Jochumsson", "obj_label": "Wartawan", "predicate_id": "P106"}
+{"uuid": "25711dcf-d81a-4ec6-a51e-538b0041dfd9", "sub_uri": "Q236482", "obj_uri": "Q36180", "sub_label": "Adrienne Louise Clarkson", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "4932b247-109c-4a40-983e-b8d8917bc80d", "sub_uri": "Q7035270", "obj_uri": "Q33999", "sub_label": "Nikki Valdez", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "aae6f125-24a4-4d05-be68-4bbdcc7f2d03", "sub_uri": "Q204999", "obj_uri": "Q33231", "sub_label": "Edward Emerson Barnard", "obj_label": "Fotografer", "predicate_id": "P106"}
+{"uuid": "9ecaad46-b370-4d0d-9f4b-3126f8984948", "sub_uri": "Q80046", "obj_uri": "Q33999", "sub_label": "Charlize Theron", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "281b3932-1fcc-45fc-885a-632dd4bbeda7", "sub_uri": "Q360798", "obj_uri": "Q36180", "sub_label": "Eligius", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "56c4528b-1ce6-4046-b09a-1b6df51b9029", "sub_uri": "Q192990", "obj_uri": "Q2526255", "sub_label": "Guy Ritchie", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "7b6f5e83-7a62-4c9e-a8e4-6ee77c7cc975", "sub_uri": "Q192145", "obj_uri": "Q81096", "sub_label": "Herman Hollerith", "obj_label": "Rekayasawan", "predicate_id": "P106"}
+{"uuid": "4cd0c12b-2b03-4822-9586-c5d8ae76bc18", "sub_uri": "Q1586143", "obj_uri": "Q169470", "sub_label": "Harrie Massey", "obj_label": "Fisikawan", "predicate_id": "P106"}
+{"uuid": "12e3677e-3188-49c2-b859-9a09c6b4d716", "sub_uri": "Q892", "obj_uri": "Q36180", "sub_label": "J.R.R. Tolkien", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "128e9a09-42d1-4d1c-a981-030d471e5b8c", "sub_uri": "Q12523868", "obj_uri": "Q33999", "sub_label": "Wahyu Sihombing", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "268f6b53-1db0-4bee-b52d-5a4d138e528a", "sub_uri": "Q686597", "obj_uri": "Q1028181", "sub_label": "Charles Andr\u00e9 van Loo", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "b96150d4-c5e8-4399-8bbe-290da595c447", "sub_uri": "Q206191", "obj_uri": "Q82955", "sub_label": "Abigail Adams", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "72f115d4-62ba-43e5-8396-ad6c740a99ed", "sub_uri": "Q22984318", "obj_uri": "Q33999", "sub_label": "Natasha Liu Bordizzo", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "cbc8928d-b04b-4e49-b72f-18fc4db8e79d", "sub_uri": "Q15220926", "obj_uri": "Q33999", "sub_label": "Jackson Nicoll", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "4f63d4be-5725-4c14-bf10-346aa0c0438c", "sub_uri": "Q985049", "obj_uri": "Q11631", "sub_label": "Sherwood C. Spring", "obj_label": "Antariksawan", "predicate_id": "P106"}
+{"uuid": "623343cf-2523-40a3-a376-81ed2b56d17c", "sub_uri": "Q7917300", "obj_uri": "Q16533", "sub_label": "Vaughan Lowe", "obj_label": "Hakim", "predicate_id": "P106"}
+{"uuid": "b7de7135-5fa1-43de-8f5c-e08a9992e91f", "sub_uri": "Q736237", "obj_uri": "Q82955", "sub_label": "Avraham Burg", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "c559cf20-2660-49bd-89c8-db8ad09bc380", "sub_uri": "Q19745329", "obj_uri": "Q33999", "sub_label": "Dhawiya Zaida", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "7940c487-273c-45b5-8861-5bcf8215daac", "sub_uri": "Q1520898", "obj_uri": "Q121594", "sub_label": "Eugene Lanceray", "obj_label": "Profesor", "predicate_id": "P106"}
+{"uuid": "f3a4a230-2c75-49fa-91c9-b9312bbd147c", "sub_uri": "Q216050", "obj_uri": "Q188094", "sub_label": "Giora Yoseftal", "obj_label": "Ekonom", "predicate_id": "P106"}
+{"uuid": "ede11e33-6733-4f08-a014-62ca9361a8d6", "sub_uri": "Q63972", "obj_uri": "Q2526255", "sub_label": "Frank Beyer", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "f88933f6-406f-40ae-a281-d06a11667d0d", "sub_uri": "Q20278383", "obj_uri": "Q82955", "sub_label": "Diaz Hendropriyono", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "5bb74e2c-cd94-494c-80b1-d56cb35d358b", "sub_uri": "Q61147", "obj_uri": "Q520549", "sub_label": "Carl Reichenbach", "obj_label": "Geolog", "predicate_id": "P106"}
+{"uuid": "70add77c-b007-437b-a64c-a69d463ac908", "sub_uri": "Q3595285", "obj_uri": "Q33999", "sub_label": "T. V. Chandran", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "20641d42-1f91-48bb-9d84-ec0a5714b4ac", "sub_uri": "Q4208129", "obj_uri": "Q82955", "sub_label": "Muhammad Nazaruddin", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "96da8b31-067b-4ac0-b107-33cd1e828e22", "sub_uri": "Q1375265", "obj_uri": "Q36180", "sub_label": "Georges Wolinski", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "89a6d32f-b58e-4892-9fb5-56fdd1af0764", "sub_uri": "Q4694559", "obj_uri": "Q82955", "sub_label": "Aguinaldo Jaime", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "9df6044f-71e2-47de-aea2-6b8dd778db71", "sub_uri": "Q277952", "obj_uri": "Q40348", "sub_label": "Sardon Jubir", "obj_label": "Pengacara", "predicate_id": "P106"}
+{"uuid": "c9e768dc-ccc2-437a-89c0-ff7cc034500e", "sub_uri": "Q2411736", "obj_uri": "Q33999", "sub_label": "Yannick Renier", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "ce9f975e-b3dc-41ce-8def-7eafd1893947", "sub_uri": "Q59821", "obj_uri": "Q2526255", "sub_label": "Robert Wise", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "a6fbc144-52fe-412f-bd4b-ed59abc9a193", "sub_uri": "Q310566", "obj_uri": "Q126236", "sub_label": "Diego Vel\u00e1zquez de Cu\u00e9llar", "obj_label": "Conquistador", "predicate_id": "P106"}
+{"uuid": "3a0b0f1d-2c2c-4ad2-88d2-fa027fe0bfca", "sub_uri": "Q11680334", "obj_uri": "Q82955", "sub_label": "Muhammad Ali dari Brunei", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "eb847977-4b0b-423f-9372-ba13325702f1", "sub_uri": "Q2460318", "obj_uri": "Q644687", "sub_label": "Edmund C. Tarbell", "obj_label": "Ilustrator", "predicate_id": "P106"}
+{"uuid": "16114e6b-b3f3-49d1-86ee-f0f2589cc0c6", "sub_uri": "Q321234", "obj_uri": "Q486748", "sub_label": "Herbert Fandel", "obj_label": "Pianis", "predicate_id": "P106"}
+{"uuid": "7d7b053a-cbc9-4a76-95cf-e71f9789a866", "sub_uri": "Q7676902", "obj_uri": "Q82955", "sub_label": "Tajuddin Abdul Rahman", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "533da5cb-6c4e-4082-b855-06faf5f5debc", "sub_uri": "Q9312", "obj_uri": "Q36180", "sub_label": "Immanuel Kant", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "cc1f4b2d-a184-4961-91d2-ada826c811fd", "sub_uri": "Q215359", "obj_uri": "Q177220", "sub_label": "Dean Martin", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "5a4ea54f-a3b3-4a04-8f2d-25137a749a17", "sub_uri": "Q12481264", "obj_uri": "Q33999", "sub_label": "Denny Sakrie", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "63ba5de1-8e24-4664-8fdd-7c252d147c19", "sub_uri": "Q451005", "obj_uri": "Q37226", "sub_label": "Ovide Decroly", "obj_label": "Guru", "predicate_id": "P106"}
+{"uuid": "66f89b96-a4cf-41e3-8d62-3cc63a91296b", "sub_uri": "Q1563836", "obj_uri": "Q36180", "sub_label": "Keido Fukushima", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "73e70143-9a49-4c69-84c3-4251846bff3c", "sub_uri": "Q7929136", "obj_uri": "Q46961", "sub_label": "Vijay Deenanath Chauhan", "obj_label": "Gangster", "predicate_id": "P106"}
+{"uuid": "802a3764-31f3-42b6-aa0d-6b03ebe557f5", "sub_uri": "Q5594", "obj_uri": "Q1028181", "sub_label": "Antonello da Messina", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "b7d4edf3-51a6-49ed-b37d-fdf216af146b", "sub_uri": "Q624588", "obj_uri": "Q177220", "sub_label": "Luna Haruna", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "e99b4a8d-289a-44b9-8f0e-faff51a3a576", "sub_uri": "Q1226264", "obj_uri": "Q82955", "sub_label": "Dinand Woesthoff", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "a214d1c1-9678-4090-9d6f-bd34b86132a9", "sub_uri": "Q316901", "obj_uri": "Q1028181", "sub_label": "Edi Rama", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "55f957c3-cc56-4845-aaab-1070dc87bbd1", "sub_uri": "Q18404", "obj_uri": "Q82955", "sub_label": "Henri Barbusse", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "27ecd2b8-20b4-4b25-b643-0727389607be", "sub_uri": "Q190231", "obj_uri": "Q639669", "sub_label": "Adam Lambert", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "b1e1c14a-51bd-4c37-854c-34f73b4bb73d", "sub_uri": "Q311436", "obj_uri": "Q4991371", "sub_label": "Juan Manuel de Rosas", "obj_label": "Prajurit", "predicate_id": "P106"}
+{"uuid": "1fbcc97d-5e18-4262-9803-9fd1f939c1aa", "sub_uri": "Q12508607", "obj_uri": "Q177220", "sub_label": "Rida Farida", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "768b8c34-d4d8-4000-884c-c205e9518c19", "sub_uri": "Q12470732", "obj_uri": "Q33999", "sub_label": "Dindalova", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "e1bab269-3a39-47f4-b580-62e602965b11", "sub_uri": "Q85991644", "obj_uri": "Q212071", "sub_label": "Ibrahim Hosen", "obj_label": "Rektor", "predicate_id": "P106"}
+{"uuid": "54a7d3e0-6d25-4f16-84b2-270ea5bb9c17", "sub_uri": "Q497530", "obj_uri": "Q2095549", "sub_label": "Brewster H. Shaw", "obj_label": "Penerbang", "predicate_id": "P106"}
+{"uuid": "23bd4748-52dc-4206-854f-ec207d12fdc8", "sub_uri": "Q927550", "obj_uri": "Q1930187", "sub_label": "Malcolm Turnbull", "obj_label": "Wartawan", "predicate_id": "P106"}
+{"uuid": "9d11924a-1238-4e0d-a7e6-fe939d31b310", "sub_uri": "Q3610765", "obj_uri": "Q16533", "sub_label": "Alexander Mackenzie Stuart", "obj_label": "Hakim", "predicate_id": "P106"}
+{"uuid": "a7b753b5-206f-498f-9ddb-e5132a6ac1d1", "sub_uri": "Q19967707", "obj_uri": "Q43845", "sub_label": "Whitney Wolfe Herd", "obj_label": "Pebisnis", "predicate_id": "P106"}
+{"uuid": "667534f1-09d3-43bd-b57b-b7667fa0373c", "sub_uri": "Q363827", "obj_uri": "Q49757", "sub_label": "Konstantius dari Lyon", "obj_label": "Penyair", "predicate_id": "P106"}
+{"uuid": "2635b081-3af7-43b9-811f-af1e830a12b9", "sub_uri": "Q3930660", "obj_uri": "Q82955", "sub_label": "Rana Jang Pande", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "2b528c3a-2c0a-41ea-bd19-b9721c4d910a", "sub_uri": "Q5331374", "obj_uri": "Q49757", "sub_label": "Eaton Stannard Barrett", "obj_label": "Penyair", "predicate_id": "P106"}
+{"uuid": "8b49c37f-c240-4684-aa4b-49fbf4340eff", "sub_uri": "Q2704776", "obj_uri": "Q36834", "sub_label": "Peppino Gagliardi", "obj_label": "Komponis", "predicate_id": "P106"}
+{"uuid": "616d318b-62a7-407d-b58b-542af66b22b7", "sub_uri": "Q1358714", "obj_uri": "Q16533", "sub_label": "Ernst Hirsch Ballin", "obj_label": "Hakim", "predicate_id": "P106"}
+{"uuid": "8c38ff69-60e6-4dee-b3d5-c086c06f1191", "sub_uri": "Q65214055", "obj_uri": "Q36180", "sub_label": "Aan Merdeka Permana", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "01189c05-1fc1-44f1-b5f3-0dfcea171523", "sub_uri": "Q362930", "obj_uri": "Q1440873", "sub_label": "John Ridley", "obj_label": "Showrunner", "predicate_id": "P106"}
+{"uuid": "01392d00-833d-4d44-a269-c84599267d12", "sub_uri": "Q1995603", "obj_uri": "Q36180", "sub_label": "Ikhwan As-Shafa", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "3e14dfbb-458e-4f6a-938d-29153aa6c376", "sub_uri": "Q630736", "obj_uri": "Q2526255", "sub_label": "Goutam Ghose", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "34d426b3-cc94-4f87-bfd7-66fb89cdf226", "sub_uri": "Q185302", "obj_uri": "Q1028181", "sub_label": "Franz Ittenbach", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "7bd55113-67d3-4093-9c29-995903e1fc81", "sub_uri": "Q613944", "obj_uri": "Q854979", "sub_label": "Mahapajapati Gotami", "obj_label": "Biksuni", "predicate_id": "P106"}
+{"uuid": "35315d7c-5c0f-4868-ba2c-9efee1a7aebc", "sub_uri": "Q15935", "obj_uri": "Q483501", "sub_label": "Kanye West", "obj_label": "Seniman", "predicate_id": "P106"}
+{"uuid": "057e6278-71df-4a74-a711-b40a76d9fdc2", "sub_uri": "Q730869", "obj_uri": "Q82955", "sub_label": "Hideo Higashikokubaru", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "8925ac10-a293-42e9-8d78-60094724608f", "sub_uri": "Q2483662", "obj_uri": "Q191633", "sub_label": "Gengoroh Tagame", "obj_label": "Mangaka", "predicate_id": "P106"}
+{"uuid": "907a9714-e746-44ca-850e-8881dcaeec9b", "sub_uri": "Q154145", "obj_uri": "Q639669", "sub_label": "Gabriel Marcel", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "679e1484-b967-4e4b-8d99-23d863198a3c", "sub_uri": "Q5735121", "obj_uri": "Q2526255", "sub_label": "Herbert Moulton", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "8ea47577-b416-44ca-bf3e-effe16f60d4e", "sub_uri": "Q61118921", "obj_uri": "Q4610556", "sub_label": "Aditya Novika", "obj_label": "Peragawan", "predicate_id": "P106"}
+{"uuid": "8793eef4-c5ba-46f9-bd0f-95ca2683c3b8", "sub_uri": "Q1896702", "obj_uri": "Q82955", "sub_label": "Jagannath Pahadia", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "64f080bc-a5a4-48b2-a040-494f1264b0e5", "sub_uri": "Q707608", "obj_uri": "Q49757", "sub_label": "Hyecho", "obj_label": "Penyair", "predicate_id": "P106"}
+{"uuid": "a04026d0-4389-4935-bfd2-cf85f51957b1", "sub_uri": "Q1388990", "obj_uri": "Q1930187", "sub_label": "Pedro Figari", "obj_label": "Wartawan", "predicate_id": "P106"}
+{"uuid": "de1b3fcc-4f09-4009-9105-6363adb4daad", "sub_uri": "Q464485", "obj_uri": "Q1028181", "sub_label": "Sin Saimdang", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "b176e5c0-2293-485d-a0dd-18a0c22ea941", "sub_uri": "Q314295", "obj_uri": "Q82955", "sub_label": "Milan Babi\u0107", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "599dd340-484b-4db5-8424-e22889697224", "sub_uri": "Q16843706", "obj_uri": "Q4610556", "sub_label": "Gigi Hadid", "obj_label": "Peragawan", "predicate_id": "P106"}
+{"uuid": "fa2e1a5a-0545-4b1a-bd1d-a4baa64eeb8e", "sub_uri": "Q1189540", "obj_uri": "Q36180", "sub_label": "Hitoshi Igarashi", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "5e401769-ee1a-44f8-aa0c-e15c61cebddf", "sub_uri": "Q2813872", "obj_uri": "Q170790", "sub_label": "Arai Ikunosuke", "obj_label": "Matematikawan", "predicate_id": "P106"}
+{"uuid": "8e1c4d23-f599-4f6d-b9cb-5432e0fec161", "sub_uri": "Q699541", "obj_uri": "Q170790", "sub_label": "G. I. Taylor", "obj_label": "Matematikawan", "predicate_id": "P106"}
+{"uuid": "1207dbd5-b37b-4a54-8513-3fb5dba193f6", "sub_uri": "Q12182638", "obj_uri": "Q82955", "sub_label": "Iyad bin Amin Madani", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "3651c250-c63b-4d33-a789-a5c4a737b905", "sub_uri": "Q353983", "obj_uri": "Q2914170", "sub_label": "David Blaine", "obj_label": "Pengamen", "predicate_id": "P106"}
+{"uuid": "15b3a1e0-dfd2-42c0-bf33-34ec8588bfab", "sub_uri": "Q4356820", "obj_uri": "Q2526255", "sub_label": "William Markus", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "c9fdf76b-6f56-42f4-9564-11f229f9366c", "sub_uri": "Q3639959", "obj_uri": "Q33999", "sub_label": "Bill Camp", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "a8b58735-9864-469d-8455-e9db56c71266", "sub_uri": "Q22802921", "obj_uri": "Q17010072", "sub_label": "Zethu Matebeni", "obj_label": "Militan", "predicate_id": "P106"}
+{"uuid": "9d4d0ef4-096c-4d91-8fd9-59d09200f350", "sub_uri": "Q56678033", "obj_uri": "Q177220", "sub_label": "Jo Yu-ri", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "58a7c748-2648-485a-b64c-b504b021284c", "sub_uri": "Q485854", "obj_uri": "Q82955", "sub_label": "Ananias (Imam Besar)", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "da44ca9b-5c22-4537-b798-43c5426e33a3", "sub_uri": "Q12518378", "obj_uri": "Q33999", "sub_label": "Sylvia Fully", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "7c88adc3-cb56-4533-98ee-2aa566030c75", "sub_uri": "Q12959", "obj_uri": "Q188094", "sub_label": "\u00c9douard Balladur", "obj_label": "Ekonom", "predicate_id": "P106"}
+{"uuid": "eaf010c2-133d-4fd9-a0e3-af3e3316a21f", "sub_uri": "Q437435", "obj_uri": "Q82955", "sub_label": "Rodolphe dari Bourgogne", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "cbaca38f-715c-438d-be08-dcccff53b21f", "sub_uri": "Q592161", "obj_uri": "Q622807", "sub_label": "Tomoko Kawakami", "obj_label": "Seiyu", "predicate_id": "P106"}
+{"uuid": "58187caa-70eb-4b72-a482-53b3d2ea0560", "sub_uri": "Q76521", "obj_uri": "Q2306091", "sub_label": "Max Scheler", "obj_label": "Sosiolog", "predicate_id": "P106"}
+{"uuid": "865b7441-3b03-4c86-b589-3a77487661a6", "sub_uri": "Q261965", "obj_uri": "Q82955", "sub_label": "Nikolai Yudenich", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "70f93ab2-3594-4fab-95e1-282835956129", "sub_uri": "Q237426", "obj_uri": "Q33999", "sub_label": "B\u00e1rbara Mori", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "ae6c0ff3-6546-456b-a639-d61ac36cc91a", "sub_uri": "Q389624", "obj_uri": "Q842782", "sub_label": "Charlie Chan", "obj_label": "Detektif", "predicate_id": "P106"}
+{"uuid": "80e6f125-a326-45f5-aaf8-51372dc48519", "sub_uri": "Q4116632", "obj_uri": "Q3242115", "sub_label": "Akram Yari", "obj_label": "Revolusioner", "predicate_id": "P106"}
+{"uuid": "c0b25cae-b7ff-4d55-b415-db7b35fd9ddd", "sub_uri": "Q7273", "obj_uri": "Q188094", "sub_label": "Ellen Swallow Richards", "obj_label": "Ekonom", "predicate_id": "P106"}
+{"uuid": "d869a21c-a03d-4749-8a12-2aa3a828bb9c", "sub_uri": "Q2626060", "obj_uri": "Q1930187", "sub_label": "Nina Garc\u00eda", "obj_label": "Wartawan", "predicate_id": "P106"}
+{"uuid": "fb491c22-976a-452a-b3cc-e98f04d1a655", "sub_uri": "Q12614205", "obj_uri": "Q177220", "sub_label": "Zion.T", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "aa2b8ba0-ba46-4576-a91f-01348ab82a73", "sub_uri": "Q1660317", "obj_uri": "Q81096", "sub_label": "Hana Sweid", "obj_label": "Rekayasawan", "predicate_id": "P106"}
+{"uuid": "d7f3db12-18ed-40c0-9237-2316dab13e95", "sub_uri": "Q741873", "obj_uri": "Q36180", "sub_label": "Christmas Humphreys", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "59ce7c15-4caa-477f-98aa-38d51efac8d2", "sub_uri": "Q2469151", "obj_uri": "Q733786", "sub_label": "Herman dari Alaska", "obj_label": "Rahib", "predicate_id": "P106"}
+{"uuid": "028547fa-68f3-49d3-920f-9f92ea8ef249", "sub_uri": "Q233085", "obj_uri": "Q33999", "sub_label": "Sarah Hyland", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "748e2a97-5ef9-42bf-860b-24e7a91e5b22", "sub_uri": "Q1139714", "obj_uri": "Q177220", "sub_label": "Kiichi Nakai", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "113716b1-dabf-42e4-9204-8f3d828b1ce8", "sub_uri": "Q4724", "obj_uri": "Q36180", "sub_label": "Le Corbusier", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "e4265d6d-b086-43da-8904-fd2440315696", "sub_uri": "Q3383457", "obj_uri": "Q2526255", "sub_label": "Pierre-Paul Renders", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "1ab3f66f-dc84-42c6-a7d9-d1755dce64bd", "sub_uri": "Q19743809", "obj_uri": "Q4610556", "sub_label": "Tara Basro", "obj_label": "Peragawan", "predicate_id": "P106"}
+{"uuid": "129a1967-1c4a-4d70-b17b-6d824bed7a7c", "sub_uri": "Q17887", "obj_uri": "Q2526255", "sub_label": "Jack Clayton", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "512a1e1f-436c-462f-989f-d142e775a5ce", "sub_uri": "Q705251", "obj_uri": "Q201788", "sub_label": "Ars\u00e8ne Tchakarian", "obj_label": "Sejarawan", "predicate_id": "P106"}
+{"uuid": "fbcad365-4e3c-43e1-9b40-23a93bb2a68c", "sub_uri": "Q541680", "obj_uri": "Q82955", "sub_label": "Gulnara Karimova", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "657a11d9-34f5-45e8-942a-bf736defb826", "sub_uri": "Q76516", "obj_uri": "Q36180", "sub_label": "Richard Avenarius", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "84acc1d4-7793-407d-bfe6-3ab67ee54df0", "sub_uri": "Q3030934", "obj_uri": "Q11631", "sub_label": "Michael S. Hopkins", "obj_label": "Antariksawan", "predicate_id": "P106"}
+{"uuid": "15061d2b-85bd-48bb-9feb-91482442f80d", "sub_uri": "Q176413", "obj_uri": "Q82955", "sub_label": "Carlos Correia", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "11d0fd77-cf6d-4a5b-b75e-e29cd7cb4616", "sub_uri": "Q279131", "obj_uri": "Q482980", "sub_label": "A. S. A. Sami", "obj_label": "Pengarang", "predicate_id": "P106"}
+{"uuid": "11fd049d-a519-48c0-a64d-f18418ed3762", "sub_uri": "Q484523", "obj_uri": "Q33231", "sub_label": "Jared Leto", "obj_label": "Fotografer", "predicate_id": "P106"}
+{"uuid": "ab494d9f-d9b7-49c9-8293-174e215ad19e", "sub_uri": "Q3181904", "obj_uri": "Q4610556", "sub_label": "Milind Soman", "obj_label": "Peragawan", "predicate_id": "P106"}
+{"uuid": "b7070e6c-358f-4322-92a4-6a2fec02afd8", "sub_uri": "Q857180", "obj_uri": "Q901", "sub_label": "Daftar ahli ekonomi", "obj_label": "Ilmuwan", "predicate_id": "P106"}
+{"uuid": "2b173a38-0d42-4636-9781-82a156ef1608", "sub_uri": "Q253607", "obj_uri": "Q33999", "sub_label": "Tata Young", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "fad00282-f2be-47c3-a472-47c48321f1b5", "sub_uri": "Q981315", "obj_uri": "Q33999", "sub_label": "Michel Bouquet", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "dde1c18d-90fd-4df8-84ce-e03ab8c6a8b6", "sub_uri": "Q61983", "obj_uri": "Q177220", "sub_label": "Jessica Sanchez", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "ad81e253-072d-4d56-90f8-cab46f74c4f9", "sub_uri": "Q233207", "obj_uri": "Q1028181", "sub_label": "Leonora Carrington", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "ca5ae735-bda9-4fb4-9624-345178528a9f", "sub_uri": "Q359325", "obj_uri": "Q33999", "sub_label": "Cliff Curtis", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "a4ab603e-560f-4eb5-b750-f26199204d73", "sub_uri": "Q1281084", "obj_uri": "Q40348", "sub_label": "Alan Grayson", "obj_label": "Pengacara", "predicate_id": "P106"}
+{"uuid": "303e8837-260e-4ce7-a4fc-5f518edf6199", "sub_uri": "Q2666954", "obj_uri": "Q2526255", "sub_label": "Arne Skouen", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "66b25e33-4f77-4e35-9b8e-bfff09c49a33", "sub_uri": "Q18421416", "obj_uri": "Q82955", "sub_label": "Sarwo Handayani", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "1a0e824e-896c-440d-8449-444477f7c1ea", "sub_uri": "Q443672", "obj_uri": "Q177220", "sub_label": "Vanessa Lengies", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "800c88a8-69ab-44d2-a665-f6fb56f3553e", "sub_uri": "Q2782350", "obj_uri": "Q33999", "sub_label": "Tatyana Kosmacheva", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "8b3f88a5-4e8a-4282-911b-b6071352ad0a", "sub_uri": "Q3807508", "obj_uri": "Q2526255", "sub_label": "Jay Hunt (sutradara)", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "933c1c07-292f-470e-b578-e51096a57472", "sub_uri": "Q12497947", "obj_uri": "Q1028181", "sub_label": "Mella Jaarsma", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "65a382cf-46cd-42be-aaf5-b76587607702", "sub_uri": "Q1139886", "obj_uri": "Q622807", "sub_label": "Yoshimasa Hosoya", "obj_label": "Seiyu", "predicate_id": "P106"}
+{"uuid": "6754c24c-eea4-4076-a1c0-b5370b30d4ce", "sub_uri": "Q1645953", "obj_uri": "Q254651", "sub_label": "Thomas Dale", "obj_label": "Navigator", "predicate_id": "P106"}
+{"uuid": "07807eca-7ff9-4032-bc46-0749644235b5", "sub_uri": "Q850663", "obj_uri": "Q33999", "sub_label": "Asahi Uchida", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "e89127f2-2632-49db-8f76-0f7c472b31a7", "sub_uri": "Q49847", "obj_uri": "Q33999", "sub_label": "Ray William Johnson", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "4260b0f5-4381-4698-b1b8-4409b3ce7823", "sub_uri": "Q861482", "obj_uri": "Q36180", "sub_label": "Christopher Moore (pengarang)", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "fbf88704-9bfd-46c0-af8d-61148ca25377", "sub_uri": "Q455166", "obj_uri": "Q205375", "sub_label": "Edmund Cartwright", "obj_label": "Penemu", "predicate_id": "P106"}
+{"uuid": "988f6f70-147a-4357-b316-bd4158c9809c", "sub_uri": "Q867346", "obj_uri": "Q3242115", "sub_label": "Alexandra Kim", "obj_label": "Revolusioner", "predicate_id": "P106"}
+{"uuid": "ec699455-61fb-463b-94a5-f4ae121aca2e", "sub_uri": "Q10864315", "obj_uri": "Q82955", "sub_label": "Ding Laihang", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "f1031ca3-6045-4272-a90a-5989d4f46b99", "sub_uri": "Q157107", "obj_uri": "Q273108", "sub_label": "Don Juan de Austria", "obj_label": "Condottiero", "predicate_id": "P106"}
+{"uuid": "4da2a12a-c62d-45b0-9ff1-42e6c322142c", "sub_uri": "Q4820093", "obj_uri": "Q177220", "sub_label": "Audrey Assad", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "91188fdb-9f95-44b4-afb6-b2c7e67b0b98", "sub_uri": "Q4149878", "obj_uri": "Q82955", "sub_label": "Ivan Grishin", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "5db01acc-27d3-4aad-8d8d-ef04ade0d797", "sub_uri": "Q49496", "obj_uri": "Q40348", "sub_label": "Jean de La Fontaine", "obj_label": "Pengacara", "predicate_id": "P106"}
+{"uuid": "1c0e656a-189d-4f17-a933-c1c55824c923", "sub_uri": "Q342370", "obj_uri": "Q33999", "sub_label": "Corey Haim", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "674b391e-4d36-422f-845e-59ed6ab3b653", "sub_uri": "Q24150", "obj_uri": "Q1028181", "sub_label": "Anthon van Rappard", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "70884acc-0e7b-4e43-965d-bc8fa5dc24f9", "sub_uri": "Q240701", "obj_uri": "Q11631", "sub_label": "K. Megan McArthur", "obj_label": "Antariksawan", "predicate_id": "P106"}
+{"uuid": "0c806a4b-bcb5-488a-ad5d-231352857659", "sub_uri": "Q219377", "obj_uri": "Q36180", "sub_label": "Nicholas Sparks", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "6d912c0c-545d-4019-8ed1-79031ef271bc", "sub_uri": "Q12498504", "obj_uri": "Q33999", "sub_label": "Miqdad Addausy", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "04d27540-42af-460d-908b-f3712729a289", "sub_uri": "Q107432", "obj_uri": "Q639669", "sub_label": "Charles Mingus", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "5b94465c-0218-4ca0-9ef3-1c5ff5b483d4", "sub_uri": "Q16211162", "obj_uri": "Q855091", "sub_label": "Melanie Martinez", "obj_label": "Gitaris", "predicate_id": "P106"}
+{"uuid": "fbc48ecb-a8d0-499a-a1ee-0a58a087ed3b", "sub_uri": "Q63047", "obj_uri": "Q4991371", "sub_label": "Josef Oberhauser", "obj_label": "Prajurit", "predicate_id": "P106"}
+{"uuid": "42e4555d-648f-4d70-8001-6b0f778095c7", "sub_uri": "Q231015", "obj_uri": "Q639669", "sub_label": "Orianthi", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "fc6ad9dd-7b3e-4acc-b563-0702682e2b30", "sub_uri": "Q469886", "obj_uri": "Q33999", "sub_label": "Jayam Ravi", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "6d3dc463-5b66-4f5c-b349-503957fbdc23", "sub_uri": "Q4935864", "obj_uri": "Q82955", "sub_label": "Li Andersson", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "66a31fb8-aa55-4afe-9a49-91ebb89e27e0", "sub_uri": "Q15127699", "obj_uri": "Q188094", "sub_label": "Ali Sharif Al Emadi", "obj_label": "Ekonom", "predicate_id": "P106"}
+{"uuid": "69c1ae75-44d4-4204-b656-9561d42cb304", "sub_uri": "Q317539", "obj_uri": "Q4610556", "sub_label": "Jonathan Brandis", "obj_label": "Peragawan", "predicate_id": "P106"}
+{"uuid": "93fe531c-b2c2-4da8-a096-2b8e25233046", "sub_uri": "Q552630", "obj_uri": "Q189290", "sub_label": "Mervyn S. Bennion", "obj_label": "Perwira", "predicate_id": "P106"}
+{"uuid": "2135f25c-36dc-430d-9c3e-bfe202cca8af", "sub_uri": "Q5627437", "obj_uri": "Q33999", "sub_label": "Lars Edstr\u00f6m", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "f590bb58-de38-4a4a-9a9b-2b7f5def3bdb", "sub_uri": "Q467100", "obj_uri": "Q82955", "sub_label": "Pierre Gemayel", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "ee6c0b03-85f6-44be-afe0-d86e2efe8819", "sub_uri": "Q1340385", "obj_uri": "Q855091", "sub_label": "Zac Farro", "obj_label": "Gitaris", "predicate_id": "P106"}
+{"uuid": "fe50238c-fc2e-4c64-9a11-f5970bb61e47", "sub_uri": "Q315756", "obj_uri": "Q482980", "sub_label": "Mike Leigh", "obj_label": "Pengarang", "predicate_id": "P106"}
+{"uuid": "38c7b296-f236-49d1-b436-afd1c6bce9e5", "sub_uri": "Q336070", "obj_uri": "Q201788", "sub_label": "Menandros Protektor", "obj_label": "Sejarawan", "predicate_id": "P106"}
+{"uuid": "64dce595-096c-4561-b131-61c70718df24", "sub_uri": "Q369416", "obj_uri": "Q1028181", "sub_label": "Jan Toorop", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "09ca6af6-d73c-404b-be41-75feb10c6251", "sub_uri": "Q315199", "obj_uri": "Q639669", "sub_label": "Mick Thomson", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "5a3ff5a2-bec9-445e-b193-2e49bdd9c6e0", "sub_uri": "Q12501396", "obj_uri": "Q33999", "sub_label": "Ony Syahrial", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "e2e054c3-2751-4eab-b07d-de6d893949eb", "sub_uri": "Q4794421", "obj_uri": "Q1650915", "sub_label": "Fiona Wood", "obj_label": "Peneliti", "predicate_id": "P106"}
+{"uuid": "2c68c01d-b37b-4d9a-ab16-e5f964c97edf", "sub_uri": "Q2112764", "obj_uri": "Q82955", "sub_label": "Nicos Anastasiades", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "db131b7e-f5c8-4421-9956-c72f835ff928", "sub_uri": "Q355416", "obj_uri": "Q82955", "sub_label": "Michel Aflaq", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "4edba808-21fd-4bda-915a-d93e9554bef1", "sub_uri": "Q552913", "obj_uri": "Q157195", "sub_label": "Chris Gueffroy", "obj_label": "Pelayan", "predicate_id": "P106"}
+{"uuid": "ddf2883a-cb27-4ce8-a844-9fdaa5d75857", "sub_uri": "Q699344", "obj_uri": "Q82955", "sub_label": "Liu Chih", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "6f3a3325-0a9c-42a9-ab6b-954f5dfc778b", "sub_uri": "Q491515", "obj_uri": "Q33999", "sub_label": "Nana (penyanyi)", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "cb4e5f78-30c2-4c54-8fcc-61816da08554", "sub_uri": "Q2737847", "obj_uri": "Q82955", "sub_label": "Gebran Bassil", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "f94f4d25-feb6-44dc-bb90-b1be4534d7c2", "sub_uri": "Q92882", "obj_uri": "Q170790", "sub_label": "Edward F. Moore", "obj_label": "Matematikawan", "predicate_id": "P106"}
+{"uuid": "60bfecac-9eaa-490e-9825-fe3b0b38219d", "sub_uri": "Q12481472", "obj_uri": "Q33999", "sub_label": "Dian Ariesrya", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "5e0fdd60-f692-474c-949a-d3b9e962b5fd", "sub_uri": "Q312252", "obj_uri": "Q177220", "sub_label": "Andy Griffith", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "e083b5db-5582-45a8-8779-88723735be67", "sub_uri": "Q554171", "obj_uri": "Q82955", "sub_label": "S. Nijalingappa", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "40143fd3-a861-4d5b-9f3a-7ff2df2c4710", "sub_uri": "Q455661", "obj_uri": "Q82955", "sub_label": "Luis Herrera Campins", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "5c9519bc-a73e-4f8f-84c1-20e293afdaec", "sub_uri": "Q6383540", "obj_uri": "Q82955", "sub_label": "Philip Magnus", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "67be7a05-db9c-48d0-9635-7bdceceba783", "sub_uri": "Q12497067", "obj_uri": "Q33999", "sub_label": "Marini", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "9314a4d7-832f-4220-91d6-d90319624364", "sub_uri": "Q3930583", "obj_uri": "Q2526255", "sub_label": "Ravi K. Chandran", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "55453223-0725-4036-9a32-2281ec712c1a", "sub_uri": "Q12475782", "obj_uri": "Q639669", "sub_label": "Benny Soebardja", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "880ae9c8-c17a-4bf9-a8f8-3124bec96bb0", "sub_uri": "Q60669", "obj_uri": "Q2526255", "sub_label": "Wolfgang Becker", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "eb418ca9-2b4c-4023-91db-e7186a45905b", "sub_uri": "Q272069", "obj_uri": "Q36834", "sub_label": "Damon Albarn", "obj_label": "Komponis", "predicate_id": "P106"}
+{"uuid": "0acf55db-4b97-4543-9684-9ace0129778a", "sub_uri": "Q213163", "obj_uri": "Q36180", "sub_label": "\u00c9lisabeth Vig\u00e9e Le Brun", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "fdf1f506-c1cc-4b63-a1ac-946089a9f0b9", "sub_uri": "Q197615", "obj_uri": "Q82955", "sub_label": "Koxinga", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "47031d74-5001-4e2b-91d7-a85cccb91d10", "sub_uri": "Q977918", "obj_uri": "Q2526255", "sub_label": "Gleb Panfilov", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "719fa37c-ba85-4a31-9e1b-62a9059d45dc", "sub_uri": "Q333620", "obj_uri": "Q42857", "sub_label": "Thomas S. Monson", "obj_label": "Nabi", "predicate_id": "P106"}
+{"uuid": "c6b9991e-d4f2-42b6-936d-a5266e928da5", "sub_uri": "Q11545442", "obj_uri": "Q33999", "sub_label": "Kunio Masaoka (aktor)", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "d32b6e70-a165-4995-9ea2-58b8c8b2f535", "sub_uri": "Q1822266", "obj_uri": "Q82955", "sub_label": "Trey Gowdy", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "6efd83d4-6621-4e28-a7a1-b5b48d9a19b8", "sub_uri": "Q2276825", "obj_uri": "Q33999", "sub_label": "Phil Keoghan", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "6efd02b2-4e5f-455e-87d3-b18a80a09d76", "sub_uri": "Q3196775", "obj_uri": "Q33999", "sub_label": "Rakhee Gulzar", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "6e1f2448-11ef-486f-b03f-4ec0009a603e", "sub_uri": "Q438444", "obj_uri": "Q82955", "sub_label": "Esther Herlitz", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "3114d427-3e95-4835-91eb-0bc53860551e", "sub_uri": "Q106878555", "obj_uri": "Q82955", "sub_label": "Nina Agustina", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "2d40d391-3e3b-4645-a76f-bbfe1f13c2ed", "sub_uri": "Q49255672", "obj_uri": "Q177220", "sub_label": "Song Yushan", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "647f772a-f8cc-42ff-aaf6-0f4a571fcdaf", "sub_uri": "Q3271000", "obj_uri": "Q1028181", "sub_label": "L\u00e9on Girardet", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "a6cd533a-f9b3-4a8d-9b1b-b24b39683b60", "sub_uri": "Q311132", "obj_uri": "Q36180", "sub_label": "Desmond Morris", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "7cfabbb0-8ab2-4e92-bf38-0aca61590f75", "sub_uri": "Q471965", "obj_uri": "Q189290", "sub_label": "Yuval Ne'eman", "obj_label": "Perwira", "predicate_id": "P106"}
+{"uuid": "23e54564-5690-4364-8217-fde23ceb18df", "sub_uri": "Q468394", "obj_uri": "Q82955", "sub_label": "Nir Barkat", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "44731e79-5ce6-4178-a2a5-783d8a21cf16", "sub_uri": "Q2610764", "obj_uri": "Q189290", "sub_label": "Willem Hendrik Johan Everhardus van Daalen", "obj_label": "Perwira", "predicate_id": "P106"}
+{"uuid": "64308013-fda2-4dcb-8cc1-5d04a0a05bd1", "sub_uri": "Q12515521", "obj_uri": "Q177220", "sub_label": "Siti Liza", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "a0fe0dfc-2f2c-41b1-8700-46b89d3cfeeb", "sub_uri": "Q152452", "obj_uri": "Q82955", "sub_label": "Gunnar Myrdal", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "e74fd1ec-30e7-4116-95c2-db9e22daf090", "sub_uri": "Q148659", "obj_uri": "Q4991371", "sub_label": "Indiana Jones", "obj_label": "Prajurit", "predicate_id": "P106"}
+{"uuid": "cb3e3851-0398-463c-876b-5427a0c2f708", "sub_uri": "Q401893", "obj_uri": "Q49757", "sub_label": "Ahmet Kaya", "obj_label": "Penyair", "predicate_id": "P106"}
+{"uuid": "46544afb-d66f-456c-bae1-7f722d4b79fc", "sub_uri": "Q266521", "obj_uri": "Q2526255", "sub_label": "James Wong Howe", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "a1aa95de-fd82-4204-914c-05d4d7ba9ad2", "sub_uri": "Q662344", "obj_uri": "Q16533", "sub_label": "Jakob St\u00e4mpfli", "obj_label": "Hakim", "predicate_id": "P106"}
+{"uuid": "ec9f63a7-400b-445e-9f52-069653f507a7", "sub_uri": "Q115841", "obj_uri": "Q82955", "sub_label": "Samuel Schmid", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "d40cb3ae-91df-4195-9d0a-29d1c6039fe6", "sub_uri": "Q3161126", "obj_uri": "Q644687", "sub_label": "James Gurney", "obj_label": "Ilustrator", "predicate_id": "P106"}
+{"uuid": "308b2d31-b2cc-40df-8eab-9d1d5190fe95", "sub_uri": "Q488925", "obj_uri": "Q222344", "sub_label": "Tak Fujimoto", "obj_label": "Sinematografer", "predicate_id": "P106"}
+{"uuid": "2f0089a9-0d21-4f50-933d-ea83968dc94f", "sub_uri": "Q3179479", "obj_uri": "Q2526255", "sub_label": "Joachim Lafosse", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "bd9bd094-7344-4bd0-8ad0-83a94b7bb8f4", "sub_uri": "Q3524779", "obj_uri": "Q33999", "sub_label": "Udhayanidhi Stalin", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "c75c79e8-291e-41cd-9b43-f839df4279a7", "sub_uri": "Q28724300", "obj_uri": "Q33999", "sub_label": "Fendy Sukowati", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "3d4d9328-8e27-434e-b255-d6b133717725", "sub_uri": "Q231479", "obj_uri": "Q36834", "sub_label": "Ai Otsuka", "obj_label": "Komponis", "predicate_id": "P106"}
+{"uuid": "4752f832-e7ce-47c4-a3be-5e90db7efecd", "sub_uri": "Q26406018", "obj_uri": "Q36834", "sub_label": "Ookay", "obj_label": "Komponis", "predicate_id": "P106"}
+{"uuid": "db609597-bd96-4ddd-90ab-33d7f4321532", "sub_uri": "Q2425979", "obj_uri": "Q82955", "sub_label": "Hafsa Sultan", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "a00ce54d-be68-4fc6-9e24-d7898cfedc94", "sub_uri": "Q366307", "obj_uri": "Q36180", "sub_label": "Fan Noli", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "15ab90cc-f191-484e-a2f1-64a2537fea45", "sub_uri": "Q3280576", "obj_uri": "Q81096", "sub_label": "Peter Prodromou", "obj_label": "Rekayasawan", "predicate_id": "P106"}
+{"uuid": "d5494750-028e-45e4-9b48-107c32e1520d", "sub_uri": "Q208665", "obj_uri": "Q82955", "sub_label": "Arthur Henderson", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "91d6f0e2-6a60-4cf9-a57c-f47132cd57fe", "sub_uri": "Q97308839", "obj_uri": "Q82955", "sub_label": "Eti Herawati", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "10a92f3b-3343-4d0d-b35f-16613db9c9f6", "sub_uri": "Q23261", "obj_uri": "Q33999", "sub_label": "Hideaki Anno", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "66b3da47-cd98-459f-b553-3653a486a109", "sub_uri": "Q335230", "obj_uri": "Q82955", "sub_label": "James Bruce, 8th Earl of Elgin", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "e8c9df77-625f-45ca-a617-5f0a239581d6", "sub_uri": "Q472330", "obj_uri": "Q36180", "sub_label": "Howard Schultz", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "2fa30076-3430-4508-8042-9c2ddd3630a6", "sub_uri": "Q298419", "obj_uri": "Q189290", "sub_label": "Sokollu Mehmet Pa\u015fa", "obj_label": "Perwira", "predicate_id": "P106"}
+{"uuid": "9e3e31c2-bad5-42ad-940c-323c1db0c8c9", "sub_uri": "Q271918", "obj_uri": "Q33231", "sub_label": "Gertrude K\u00e4sebier", "obj_label": "Fotografer", "predicate_id": "P106"}
+{"uuid": "164a35b1-cd2a-439b-aa24-f347d5e935b6", "sub_uri": "Q142988", "obj_uri": "Q201788", "sub_label": "Alfred Thayer Mahan", "obj_label": "Sejarawan", "predicate_id": "P106"}
+{"uuid": "77d6ca86-56d9-48f7-82c5-35eaf60ebd84", "sub_uri": "Q163102", "obj_uri": "Q49757", "sub_label": "Heinrich VII dari Jerman", "obj_label": "Penyair", "predicate_id": "P106"}
+{"uuid": "b4846c6b-a3cb-415e-b735-77bbd1175982", "sub_uri": "Q15975", "obj_uri": "Q16533", "sub_label": "Montesquieu", "obj_label": "Hakim", "predicate_id": "P106"}
+{"uuid": "088c9df1-5ef9-4b8b-831d-4a9b6ff41b6e", "sub_uri": "Q217442", "obj_uri": "Q49757", "sub_label": "Yazid bin Muawiyah", "obj_label": "Penyair", "predicate_id": "P106"}
+{"uuid": "276342bd-7f3d-477b-a467-99a0029d4135", "sub_uri": "Q105186968", "obj_uri": "Q177220", "sub_label": "Chacha Sherly", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "39bf85f2-b537-4f85-8655-578bb13efb96", "sub_uri": "Q189006", "obj_uri": "Q121594", "sub_label": "Alphonse Laveran", "obj_label": "Profesor", "predicate_id": "P106"}
+{"uuid": "b60e94e6-05d3-4009-a548-a7480ae93b64", "sub_uri": "Q375813", "obj_uri": "Q158852", "sub_label": "Tony Britten", "obj_label": "Dirigen", "predicate_id": "P106"}
+{"uuid": "06d108f8-8097-4177-bd15-d4f84dadbef3", "sub_uri": "Q39402268", "obj_uri": "Q82955", "sub_label": "Burmalis Ilyas", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "413da702-dffd-49ab-adaa-7b4f1f1a1ef4", "sub_uri": "Q12472205", "obj_uri": "Q177220", "sub_label": "Anna Lagerweij", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "5392d4e3-c20c-4d56-943c-1abd7a529daa", "sub_uri": "Q178344", "obj_uri": "Q205375", "sub_label": "Luis Walter Alvarez", "obj_label": "Penemu", "predicate_id": "P106"}
+{"uuid": "1cd5489f-8909-419e-916f-af3ac4d41d40", "sub_uri": "Q1459658", "obj_uri": "Q82955", "sub_label": "Viktor Yanukovich", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "8ccdb5bb-79c0-43b5-b73b-f4745fa63aa5", "sub_uri": "Q475703", "obj_uri": "Q33999", "sub_label": "Oliver Parker", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "b31bbe9d-3fbc-4d3c-ad39-5300b66c62c2", "sub_uri": "Q313546", "obj_uri": "Q4610556", "sub_label": "William Baldwin", "obj_label": "Peragawan", "predicate_id": "P106"}
+{"uuid": "49cd4c4c-88f7-4e14-b65f-f466cd65d860", "sub_uri": "Q163543", "obj_uri": "Q82955", "sub_label": "Fran\u00e7ois G\u00e9rard", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "8e941684-e17d-4a09-93ab-262261281c2c", "sub_uri": "Q312560", "obj_uri": "Q2732142", "sub_label": "Daniel Little McFadden", "obj_label": "Statistikawan", "predicate_id": "P106"}
+{"uuid": "f7531f58-b0e5-43b5-ace7-11f0ec3f0fa0", "sub_uri": "Q17107059", "obj_uri": "Q1930187", "sub_label": "Fakhra Salimi", "obj_label": "Wartawan", "predicate_id": "P106"}
+{"uuid": "bf1b3a0c-e6fb-4ad5-800e-ed4964421a74", "sub_uri": "Q9299473", "obj_uri": "Q622807", "sub_label": "Takumi Tsutsui", "obj_label": "Seiyu", "predicate_id": "P106"}
+{"uuid": "07e0cff1-47b5-4a75-b0de-5131cb33dcfa", "sub_uri": "Q11281190", "obj_uri": "Q177220", "sub_label": "Toru Yonaha", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "3be33ab9-0a37-46d5-aa92-df3c137d69d4", "sub_uri": "Q19725635", "obj_uri": "Q33999", "sub_label": "Ery Makmur", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "8991159b-163a-4270-a8c8-bbaf3faae012", "sub_uri": "Q498723", "obj_uri": "Q36834", "sub_label": "Tommy Flanagan", "obj_label": "Komponis", "predicate_id": "P106"}
+{"uuid": "c23ee756-4efc-4faf-a133-2ff6ae871151", "sub_uri": "Q6734478", "obj_uri": "Q82955", "sub_label": "Mahmud II (mansa)", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "480c1684-f89d-4f81-95ec-91809cd178aa", "sub_uri": "Q188697", "obj_uri": "Q49757", "sub_label": "Alphonse de Lamartine", "obj_label": "Penyair", "predicate_id": "P106"}
+{"uuid": "ec365afb-425b-4dea-b12d-38842e56fe88", "sub_uri": "Q40946", "obj_uri": "Q36180", "sub_label": "Daniel Defoe", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "a5548a22-82a7-4bde-97a5-a1c2f5624ca1", "sub_uri": "Q467423", "obj_uri": "Q486748", "sub_label": "Robin Thicke", "obj_label": "Pianis", "predicate_id": "P106"}
+{"uuid": "adf1520d-eeea-4691-8473-eab885cf1ade", "sub_uri": "Q41239", "obj_uri": "Q11063", "sub_label": "Konstantin Eduardovich Tsiolkovskii", "obj_label": "Astronom", "predicate_id": "P106"}
+{"uuid": "65e97823-815e-4456-bc2b-41cc643420a9", "sub_uri": "Q12498952", "obj_uri": "Q33999", "sub_label": "Monica Oemardi", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "00d2b9ef-3d58-4f31-9ff9-d98a5cbc168d", "sub_uri": "Q3810202", "obj_uri": "Q1569495", "sub_label": "Zakiah Daradjat", "obj_label": "Dosen", "predicate_id": "P106"}
+{"uuid": "9b98f1ef-b723-4ea0-90ee-0f04b830a5c0", "sub_uri": "Q310295", "obj_uri": "Q36180", "sub_label": "Dick Van Dyke", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "8d0e7540-abc0-4eff-8ffe-132f3832e047", "sub_uri": "Q488031", "obj_uri": "Q33999", "sub_label": "Gang Dong-won", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "35d9af64-8c08-4ad5-92dc-1a26c4fb8b51", "sub_uri": "Q723765", "obj_uri": "Q82955", "sub_label": "Mark Foley", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "db86ddab-0836-4fc0-b54c-c8e771f6bb12", "sub_uri": "Q216594", "obj_uri": "Q82955", "sub_label": "Ed Miliband", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "0b2d18ed-11db-47ea-b3b3-38e7251b02a3", "sub_uri": "Q100146617", "obj_uri": "Q43845", "sub_label": "Esther Morales", "obj_label": "Pebisnis", "predicate_id": "P106"}
+{"uuid": "789e9b4b-0a0d-446e-a179-d7b90bd6539e", "sub_uri": "Q5110039", "obj_uri": "Q82955", "sub_label": "Christian Porter", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "740e1659-8359-47bc-abdb-bf761d1fdba4", "sub_uri": "Q8297460", "obj_uri": "Q82955", "sub_label": "Wu Renbao", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "c8e855cb-1120-45d8-ad13-32852620f4a2", "sub_uri": "Q1251466", "obj_uri": "Q486748", "sub_label": "Dino Jelusi\u0107", "obj_label": "Pianis", "predicate_id": "P106"}
+{"uuid": "f062085a-4f73-437b-bf83-f0c6c471812b", "sub_uri": "Q57070", "obj_uri": "Q169470", "sub_label": "Gustav Hertz", "obj_label": "Fisikawan", "predicate_id": "P106"}
+{"uuid": "d81b2d7e-cde0-4388-abb7-532f0f987e03", "sub_uri": "Q2599", "obj_uri": "Q486748", "sub_label": "Paul McCartney", "obj_label": "Pianis", "predicate_id": "P106"}
+{"uuid": "4bfca726-dc8c-4616-8b30-e913754b8b2a", "sub_uri": "Q255315", "obj_uri": "Q2095549", "sub_label": "Raymonde de Laroche", "obj_label": "Penerbang", "predicate_id": "P106"}
+{"uuid": "b9c325e1-e3bf-43a0-9739-0682e6253281", "sub_uri": "Q144746", "obj_uri": "Q639669", "sub_label": "Zakk Wylde", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "9fac4ea0-615f-4e26-8858-2046e5beaa8f", "sub_uri": "Q706296", "obj_uri": "Q82955", "sub_label": "T\u014dru Hashimoto", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "a2621cc2-073d-4363-b0da-efe93b2c3152", "sub_uri": "Q7285471", "obj_uri": "Q81096", "sub_label": "Raja Krishnamoorthi", "obj_label": "Rekayasawan", "predicate_id": "P106"}
+{"uuid": "a68b5e95-03df-47f0-bef3-461d6adb31cc", "sub_uri": "Q1064240", "obj_uri": "Q33999", "sub_label": "Kaori Nazuka", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "9c3cd1f1-4a61-4680-9855-dffb35d95a0c", "sub_uri": "Q62766", "obj_uri": "Q131524", "sub_label": "Jay-Z", "obj_label": "Wirausahawan", "predicate_id": "P106"}
+{"uuid": "827f49c6-1b2e-46f8-976f-087b102b4a91", "sub_uri": "Q3100592", "obj_uri": "Q644687", "sub_label": "Jenny Nystr\u00f6m", "obj_label": "Ilustrator", "predicate_id": "P106"}
+{"uuid": "baacfbd9-f3d4-479b-86d9-045074aab682", "sub_uri": "Q363117", "obj_uri": "Q33999", "sub_label": "Martin Brest", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "9df4e4c2-78e3-4767-a4e6-c4036bcb10f1", "sub_uri": "Q354654", "obj_uri": "Q177220", "sub_label": "Glenn Danzig", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "f85f5cc5-3531-41b2-bb07-2020a664ae91", "sub_uri": "Q2165590", "obj_uri": "Q33999", "sub_label": "Spencer Treat Clark", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "db741f5e-b51c-4b3b-beb3-9593a4aff9eb", "sub_uri": "Q112332", "obj_uri": "Q37226", "sub_label": "Sariamin Ismail", "obj_label": "Guru", "predicate_id": "P106"}
+{"uuid": "25bbaa1f-fb9b-42db-a828-6db1d42c7401", "sub_uri": "Q30528115", "obj_uri": "Q82955", "sub_label": "Gilles Le Gendre", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "6e5c0120-abed-471f-99e3-60e4b4c1a123", "sub_uri": "Q237918", "obj_uri": "Q82955", "sub_label": "Ann Richards", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "92880585-dfb2-423a-9d36-4bcde5148590", "sub_uri": "Q941489", "obj_uri": "Q43845", "sub_label": "Genichi Kawakami", "obj_label": "Pebisnis", "predicate_id": "P106"}
+{"uuid": "5cd830b5-0d38-4efc-bfc7-65b53e148cd1", "sub_uri": "Q206391", "obj_uri": "Q81096", "sub_label": "\u00c9douard Estauni\u00e9", "obj_label": "Rekayasawan", "predicate_id": "P106"}
+{"uuid": "2a1c6e9b-e70e-40bc-a63b-d6dd82e6c0e2", "sub_uri": "Q16832136", "obj_uri": "Q33999", "sub_label": "Ali Wong", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "72e53091-5d76-495a-93fb-8d18fb3f71c5", "sub_uri": "Q2893018", "obj_uri": "Q2526255", "sub_label": "Payman Maadi", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "e38964b0-2483-4bae-acf8-d4511da1ed03", "sub_uri": "Q45889", "obj_uri": "Q33999", "sub_label": "Antara Mali", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "3d3d90ca-f18d-437b-9ec9-b62842ec80d1", "sub_uri": "Q40235449", "obj_uri": "Q82955", "sub_label": "Ibrahim Hijazi", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "3d6a07c1-f4e5-49da-afee-2a8d1e11496a", "sub_uri": "Q271895", "obj_uri": "Q33999", "sub_label": "Miliyah Kato", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "163f8761-5fcf-412b-ba5b-755144dc6b8b", "sub_uri": "Q61359071", "obj_uri": "Q189459", "sub_label": "Mahfuzul Haque", "obj_label": "Ulama", "predicate_id": "P106"}
+{"uuid": "ce8de51f-7c84-4cae-b086-7a81a420d732", "sub_uri": "Q320922", "obj_uri": "Q82955", "sub_label": "Sidney Sonnino", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "91d48e5a-5468-4ba4-b842-addec25ddf60", "sub_uri": "Q19729638", "obj_uri": "Q483501", "sub_label": "Nasir (seniman lenong)", "obj_label": "Seniman", "predicate_id": "P106"}
+{"uuid": "412efac8-365e-4985-9676-6ee0a615f430", "sub_uri": "Q193628", "obj_uri": "Q2526255", "sub_label": "Sofia Coppola", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "6e42adf2-b30e-4d31-902c-0f3930621818", "sub_uri": "Q3564545", "obj_uri": "Q33999", "sub_label": "W. E. Lawrence", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "d3a41233-cc86-4dde-b6c0-5c80d0088528", "sub_uri": "Q28925129", "obj_uri": "Q82955", "sub_label": "Enrique Manalo", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "c686e52f-4bed-4dd6-a6bb-9ffaa77325e5", "sub_uri": "Q45546", "obj_uri": "Q49757", "sub_label": "William Wordsworth", "obj_label": "Penyair", "predicate_id": "P106"}
+{"uuid": "d799f523-2886-4d5a-bff2-0d9a11160d54", "sub_uri": "Q31173541", "obj_uri": "Q82955", "sub_label": "Isa Subagja", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "81e0f4cf-f949-40f5-9210-b1a665fb5d90", "sub_uri": "Q218532", "obj_uri": "Q33999", "sub_label": "John Candy", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "c529fa48-59bb-4113-8488-3c1e7e91ba64", "sub_uri": "Q15385412", "obj_uri": "Q49757", "sub_label": "Sitok Srengenge", "obj_label": "Penyair", "predicate_id": "P106"}
+{"uuid": "79c231c2-7381-400e-aa14-bf6c439e67c6", "sub_uri": "Q487979", "obj_uri": "Q2526255", "sub_label": "Haha (entertainer)", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "b02eb8c8-4cde-4fb2-b66a-01d528b73817", "sub_uri": "Q3122210", "obj_uri": "Q82955", "sub_label": "Carel Sirardus Willem van Hogendorp", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "92e7b3d7-a94f-42e9-8626-eea7199ad7c6", "sub_uri": "Q34982", "obj_uri": "Q40348", "sub_label": "Joao Goulart", "obj_label": "Pengacara", "predicate_id": "P106"}
+{"uuid": "8a786cf9-f921-41fc-a0b1-cf25dfa5aacf", "sub_uri": "Q368363", "obj_uri": "Q36180", "sub_label": "Michael Behe", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "ba87295a-c1b3-40ff-a383-d55144bdc5c5", "sub_uri": "Q372951", "obj_uri": "Q16533", "sub_label": "Adrian Fulford", "obj_label": "Hakim", "predicate_id": "P106"}
+{"uuid": "921b1c45-b1a9-49e3-998b-ad757d67565e", "sub_uri": "Q28723935", "obj_uri": "Q33999", "sub_label": "Caitlin Halderman", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "62257044-b0c4-44ee-bc4a-4d2c34069ef1", "sub_uri": "Q447542", "obj_uri": "Q37226", "sub_label": "Maria Larsson", "obj_label": "Guru", "predicate_id": "P106"}
+{"uuid": "4846685b-4cab-4ee1-9d16-50bc2eda3f5b", "sub_uri": "Q149127", "obj_uri": "Q1086863", "sub_label": "Pat Buchanan", "obj_label": "Kolomnis", "predicate_id": "P106"}
+{"uuid": "88a7bdee-c5c9-4ec8-8c5c-f4bcf7cfa007", "sub_uri": "Q203223", "obj_uri": "Q639669", "sub_label": "Ciara", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "29178c86-f80a-4e02-9d2b-36a689cd623b", "sub_uri": "Q7931759", "obj_uri": "Q483501", "sub_label": "Vincent Di Fate", "obj_label": "Seniman", "predicate_id": "P106"}
+{"uuid": "b8742cd6-114e-43ba-924c-8f80863d6fd8", "sub_uri": "Q17410937", "obj_uri": "Q82955", "sub_label": "Muhammad Prananda Prabowo", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "50c99941-471e-4492-a452-85fadbbd57f8", "sub_uri": "Q3046959", "obj_uri": "Q33999", "sub_label": "Zarine Khan", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "6e4c7c6e-7556-4578-aa8d-90a9619f602f", "sub_uri": "Q172377", "obj_uri": "Q36180", "sub_label": "Paus Hilarius", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "6da67a01-6274-4a99-a5bf-5ebbb4ffeb89", "sub_uri": "Q82445", "obj_uri": "Q483501", "sub_label": "Henri de Toulouse-Lautrec", "obj_label": "Seniman", "predicate_id": "P106"}
+{"uuid": "5b1c445f-0c18-4e81-b9eb-9da6c0726d84", "sub_uri": "Q433039", "obj_uri": "Q639669", "sub_label": "Natalia Gordienko", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "53ec7701-7063-4064-87c4-4e143162b12d", "sub_uri": "Q12482641", "obj_uri": "Q33999", "sub_label": "Eva Asmarani", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "b812b6c8-cce3-4ed8-ab9b-90aec90e7732", "sub_uri": "Q805511", "obj_uri": "Q36180", "sub_label": "Balraj Sahni", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "693c2143-ee4d-4079-90a3-ee98d994c5bc", "sub_uri": "Q464941", "obj_uri": "Q185351", "sub_label": "Hadia Tajik", "obj_label": "Yuris", "predicate_id": "P106"}
+{"uuid": "67b7e1b2-a3d6-4ba5-b40c-90b0f0320665", "sub_uri": "Q926069", "obj_uri": "Q40348", "sub_label": "Rob Portman", "obj_label": "Pengacara", "predicate_id": "P106"}
+{"uuid": "e5370c08-f0cf-4b7e-9efe-b6c2f8a9a6c3", "sub_uri": "Q62082748", "obj_uri": "Q177220", "sub_label": "Lin Hui", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "30aaaf70-f6e3-4978-a42b-e7ced517f790", "sub_uri": "Q318151", "obj_uri": "Q82955", "sub_label": "Abe Isoo", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "38db4563-838e-46c3-9d22-ab7a5d51c2dd", "sub_uri": "Q11225457", "obj_uri": "Q33999", "sub_label": "Inneke Koesherawati", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "dfe340fc-93c5-46d5-bea6-311360ba17a3", "sub_uri": "Q557584", "obj_uri": "Q205375", "sub_label": "Mister Freeze", "obj_label": "Penemu", "predicate_id": "P106"}
+{"uuid": "6edbecc7-0ee9-4642-8cab-12fb1a190b89", "sub_uri": "Q39859866", "obj_uri": "Q185351", "sub_label": "Marie Th\u00e9r\u00e8se Mukamulisa", "obj_label": "Yuris", "predicate_id": "P106"}
+{"uuid": "8e69978b-204e-4cca-a414-b7c43c0ee5ec", "sub_uri": "Q99522765", "obj_uri": "Q33999", "sub_label": "Tracy Trinita", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "54f2daa0-1e24-4454-8775-7c4117de3c95", "sub_uri": "Q980143", "obj_uri": "Q2526255", "sub_label": "Ken Marino", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "d13badb2-8b31-4e2a-b5a0-917ede31c853", "sub_uri": "Q12525397", "obj_uri": "Q36180", "sub_label": "Zainuddin Tamir Koto", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "21057121-0d1b-4805-b48b-3113e00aa97a", "sub_uri": "Q310845", "obj_uri": "Q81096", "sub_label": "Akio Morita", "obj_label": "Rekayasawan", "predicate_id": "P106"}
+{"uuid": "572ea028-be37-448c-9393-2ed94304b9f6", "sub_uri": "Q66102", "obj_uri": "Q486748", "sub_label": "Mandy Capristo", "obj_label": "Pianis", "predicate_id": "P106"}
+{"uuid": "83df347e-0b41-418a-929a-da9955b6a555", "sub_uri": "Q6455383", "obj_uri": "Q201788", "sub_label": "\u0130bn\u00fclemin Mahmut Kemal \u0130nal", "obj_label": "Sejarawan", "predicate_id": "P106"}
+{"uuid": "badc6941-c822-4709-8ac9-e06a63b6cfb0", "sub_uri": "Q12508169", "obj_uri": "Q36180", "sub_label": "Ratna Megawangi", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "be6788fc-2c9f-4193-801a-4a9069fc2efa", "sub_uri": "Q13581225", "obj_uri": "Q82955", "sub_label": "Luigi Di Maio", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "feca7230-a919-405e-b892-f9d8f25b1231", "sub_uri": "Q328765", "obj_uri": "Q82955", "sub_label": "Taha Hussein", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "ad7bef50-ae85-44e3-8fab-08a63f101e75", "sub_uri": "Q17411633", "obj_uri": "Q639669", "sub_label": "Yoel Vai", "obj_label": "Pemusik", "predicate_id": "P106"}
+{"uuid": "1db146f9-a569-4117-aed1-054c5319f868", "sub_uri": "Q229190", "obj_uri": "Q82955", "sub_label": "Katarina dari Siena", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "441dd6dc-664d-42fd-8433-a7f713a754e5", "sub_uri": "Q31173803", "obj_uri": "Q33999", "sub_label": "Tengku Tezy", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "fcc6f800-b11b-480c-8702-939f7659d61d", "sub_uri": "Q12508747", "obj_uri": "Q177220", "sub_label": "Rita Dinah Kandi", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "f0504a2a-0909-4b36-afe6-6ae89342d1a0", "sub_uri": "Q6848323", "obj_uri": "Q82955", "sub_label": "Mike Parson", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "d369948f-299c-4ea5-af3e-c872b2b4a989", "sub_uri": "Q317232", "obj_uri": "Q4991371", "sub_label": "Karausius", "obj_label": "Prajurit", "predicate_id": "P106"}
+{"uuid": "4bb401b0-aff6-447b-8fcc-90fb13dd394b", "sub_uri": "Q182763", "obj_uri": "Q2526255", "sub_label": "Forest Whitaker", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "bea3b302-688a-4d56-94df-a8bcfbd4144b", "sub_uri": "Q722776", "obj_uri": "Q40348", "sub_label": "Philippe Kirsch", "obj_label": "Pengacara", "predicate_id": "P106"}
+{"uuid": "eec300bb-54a2-469e-a9ce-a9a1dda09a60", "sub_uri": "Q12612257", "obj_uri": "Q33999", "sub_label": "Lee Won-jong", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "5a720eba-1c15-4a01-b2e4-7369301a2abe", "sub_uri": "Q556615", "obj_uri": "Q486748", "sub_label": "Blake Lewis", "obj_label": "Pianis", "predicate_id": "P106"}
+{"uuid": "b8707d54-f06c-4348-8d80-acce28897e22", "sub_uri": "Q453584", "obj_uri": "Q622807", "sub_label": "Isuzu Yamada", "obj_label": "Seiyu", "predicate_id": "P106"}
+{"uuid": "74148322-288c-46cf-b20f-378fb7a94a73", "sub_uri": "Q237136", "obj_uri": "Q82955", "sub_label": "Berenike Phernophorus", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "f7ccd092-25a1-4020-aaf7-60f170627991", "sub_uri": "Q435789", "obj_uri": "Q486748", "sub_label": "James Ingram", "obj_label": "Pianis", "predicate_id": "P106"}
+{"uuid": "2c053362-1568-4b3d-b0c1-4963328bc2f2", "sub_uri": "Q2619019", "obj_uri": "Q36180", "sub_label": "Bill Nye", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "1c225e60-f54c-4d54-bca5-4c2085179d1a", "sub_uri": "Q2741790", "obj_uri": "Q36180", "sub_label": "Freddy Milton", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "b55c0210-447e-49dc-b706-becffc42c38f", "sub_uri": "Q10309892", "obj_uri": "Q33231", "sub_label": "Jos\u00e9 Manuel Rodrigues", "obj_label": "Fotografer", "predicate_id": "P106"}
+{"uuid": "708c9db5-e79b-46ac-9a63-ad3c15ae2c7c", "sub_uri": "Q291438", "obj_uri": "Q33999", "sub_label": "Liz Smith (aktris)", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "b632cbca-0b88-4ce9-9758-62a67db2593b", "sub_uri": "Q861511", "obj_uri": "Q36180", "sub_label": "Chrodegang", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "4969193f-d00e-48bc-87a3-c51d82a0c7e5", "sub_uri": "Q1156039", "obj_uri": "Q2526255", "sub_label": "Shankar (sutradara)", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "b615935f-08e0-49d4-9188-92a04a3e6ffc", "sub_uri": "Q587613", "obj_uri": "Q42603", "sub_label": "Paus Yohanes XIX dari Aleksandria", "obj_label": "Imam", "predicate_id": "P106"}
+{"uuid": "599f7945-7fe9-459b-8daf-6e4df56f930e", "sub_uri": "Q7129649", "obj_uri": "Q82955", "sub_label": "Pan Hannian", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "a1ad7486-2e0f-4ea9-ba58-3ca3330a5421", "sub_uri": "Q215025", "obj_uri": "Q36180", "sub_label": "Alexandre-Th\u00e9odore-Victor", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "dda0445c-ed4a-482f-bf33-36ccbe1165ca", "sub_uri": "Q318750", "obj_uri": "Q715301", "sub_label": "Stephen Hillenburg", "obj_label": "Komikus", "predicate_id": "P106"}
+{"uuid": "4a51182c-6213-4738-b232-ef0b03742a87", "sub_uri": "Q562257", "obj_uri": "Q33999", "sub_label": "Geoffrey Lewis (aktor)", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "0c043418-cff4-4258-9b93-3223255b5e0e", "sub_uri": "Q238594", "obj_uri": "Q2526255", "sub_label": "Jill Kelly (aktris)", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "406efd7a-f5a4-4da4-8cd8-1a22dd95d5f9", "sub_uri": "Q7424827", "obj_uri": "Q82955", "sub_label": "Sarwo Edhie Wibowo", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "d8e6eb78-284d-43f8-8c0b-0a9c36ccde09", "sub_uri": "Q444371", "obj_uri": "Q2526255", "sub_label": "Lew Ayres", "obj_label": "Sutradara", "predicate_id": "P106"}
+{"uuid": "09f59e18-3258-4a2f-b32d-90a195129d0d", "sub_uri": "Q2671453", "obj_uri": "Q33999", "sub_label": "Yu Mizushima", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "a9e0082f-224e-4c40-99c5-78ae45189be9", "sub_uri": "Q18430", "obj_uri": "Q36180", "sub_label": "Joseph E. Stiglitz", "obj_label": "Penulis", "predicate_id": "P106"}
+{"uuid": "6e3e7075-85a1-4755-90f5-15a22fc59832", "sub_uri": "Q57145", "obj_uri": "Q11063", "sub_label": "Karl Schwarzschild", "obj_label": "Astronom", "predicate_id": "P106"}
+{"uuid": "867e6d0b-1133-467a-b591-a026f4c7c8a6", "sub_uri": "Q15031", "obj_uri": "Q82955", "sub_label": "Xi Jinping", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "2df5c068-864c-4268-b916-39307c92f017", "sub_uri": "Q328248", "obj_uri": "Q1028181", "sub_label": "Pierre Alechinsky", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "c95609a4-5731-448c-a9fa-cdb17a69fde7", "sub_uri": "Q721102", "obj_uri": "Q1930187", "sub_label": "Todor Burmov", "obj_label": "Wartawan", "predicate_id": "P106"}
+{"uuid": "7156b851-d968-4b72-a5b6-af3ee58cf6c1", "sub_uri": "Q334980", "obj_uri": "Q189290", "sub_label": "Arthur Tedder, 1st Baron Tedder", "obj_label": "Perwira", "predicate_id": "P106"}
+{"uuid": "f5b8aa23-8d7a-4063-bf7f-e5358ac0b272", "sub_uri": "Q299073", "obj_uri": "Q36834", "sub_label": "Nusrat Fateh Ali Khan", "obj_label": "Komponis", "predicate_id": "P106"}
+{"uuid": "c951748c-5d95-4c6a-961f-f8aa78019135", "sub_uri": "Q6289766", "obj_uri": "Q33999", "sub_label": "Joshua Dionisio", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "ac9d4053-1472-4f13-b195-2c771d3f3630", "sub_uri": "Q2085824", "obj_uri": "Q16533", "sub_label": "Philadelpho Azevedo", "obj_label": "Hakim", "predicate_id": "P106"}
+{"uuid": "3e4287d9-af4d-4cc3-8e45-ddbdf9c1c573", "sub_uri": "Q5214275", "obj_uri": "Q177220", "sub_label": "Dan Reynolds", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "e82fd3c1-ace0-4b7e-b7bb-f6c1d1fe4914", "sub_uri": "Q336218", "obj_uri": "Q82955", "sub_label": "Nic\u00e9phore Soglo", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "907ad57c-1329-4dc8-a0a2-720fea453120", "sub_uri": "Q254022", "obj_uri": "Q82955", "sub_label": "Eddie Izzard", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "e128d8fe-dd1e-414b-b1e3-f3197d7dc77d", "sub_uri": "Q4208360", "obj_uri": "Q82955", "sub_label": "Nan Hanchen", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "d1f21aab-37a8-476c-880b-40b6efa19d77", "sub_uri": "Q57729511", "obj_uri": "Q1028181", "sub_label": "Susie M. Barstow", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "86cbb3be-2049-4c5e-a8ab-77fa4af5aac7", "sub_uri": "Q213864", "obj_uri": "Q33999", "sub_label": "Paul Walker", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "9f70ae6e-8b5e-4e4e-8f42-b197d852e664", "sub_uri": "Q977126", "obj_uri": "Q189290", "sub_label": "Hein ter Poorten", "obj_label": "Perwira", "predicate_id": "P106"}
+{"uuid": "43665921-a891-414b-9619-bacff226a07b", "sub_uri": "Q427803", "obj_uri": "Q177220", "sub_label": "Ryoko Shiraishi", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "80edce5d-941d-42e3-9177-288a8ced215f", "sub_uri": "Q710763", "obj_uri": "Q33999", "sub_label": "Wang Xiaoshuai", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "a34d989b-fe9d-4068-9340-e8ba52ec1fbe", "sub_uri": "Q294812", "obj_uri": "Q177220", "sub_label": "Matthew Morrison", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "3dec03d7-9e5f-41e9-b4c0-c0a8acc4d80f", "sub_uri": "Q214826", "obj_uri": "Q131524", "sub_label": "William Edward Boeing", "obj_label": "Wirausahawan", "predicate_id": "P106"}
+{"uuid": "ab53e62e-46da-4a08-9bb3-d40d43d2f595", "sub_uri": "Q16175895", "obj_uri": "Q33999", "sub_label": "Elma Agustin", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "be2a1206-e5c3-400a-bd04-492e08150968", "sub_uri": "Q47540917", "obj_uri": "Q177220", "sub_label": "Milo Manheim", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "3b5d867c-0d8b-4702-b37f-925aef0420f0", "sub_uri": "Q31310079", "obj_uri": "Q177220", "sub_label": "Chingiz Mustafayev (penyanyi)", "obj_label": "Penyanyi", "predicate_id": "P106"}
+{"uuid": "0b82d573-11e9-4059-b3a7-651247d166a3", "sub_uri": "Q636111", "obj_uri": "Q16533", "sub_label": "Charles Th\u00e9odore Hermans", "obj_label": "Hakim", "predicate_id": "P106"}
+{"uuid": "01da6bc6-3ff3-47f5-bdeb-b9bea0e7aeeb", "sub_uri": "Q11575878", "obj_uri": "Q169470", "sub_label": "Tanakadate Aikitsu", "obj_label": "Fisikawan", "predicate_id": "P106"}
+{"uuid": "71ca578c-eaea-466e-b518-46cb1fa61206", "sub_uri": "Q3038280", "obj_uri": "Q33999", "sub_label": "J. Farrell MacDonald", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "923ded5f-8772-45ce-b758-4a9852e6f549", "sub_uri": "Q5714209", "obj_uri": "Q82955", "sub_label": "Heng Swee Keat", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "d910bcc1-61b1-4d21-bef4-7954d46df676", "sub_uri": "Q123071", "obj_uri": "Q1028181", "sub_label": "Arnold B\u00f6cklin", "obj_label": "Pelukis", "predicate_id": "P106"}
+{"uuid": "0e41aead-b372-4eb2-989a-2f7b9150a89c", "sub_uri": "Q7298875", "obj_uri": "Q82955", "sub_label": "Raymond Huo", "obj_label": "Politikus", "predicate_id": "P106"}
+{"uuid": "aa534982-cca5-45b2-baf4-37041f5a3134", "sub_uri": "Q19742418", "obj_uri": "Q33999", "sub_label": "Maryam Supraba", "obj_label": "Pemeran", "predicate_id": "P106"}
+{"uuid": "6110072a-858f-41d0-9658-357d407ad87a", "sub_uri": "Q2913941", "obj_uri": "Q33231", "sub_label": "Annemarie Heinrich", "obj_label": "Fotografer", "predicate_id": "P106"}
+{"uuid": "6ba198f9-4e44-4dfe-8a12-c1e32ca37c5f", "sub_uri": "Q23301", "obj_uri": "Q2914170", "sub_label": "Roberto Benigni", "obj_label": "Pengamen", "predicate_id": "P106"}
+{"uuid": "661bfdbd-c60c-4268-8000-3bdcaa705d2b", "sub_uri": "Q27655361", "obj_uri": "Q177220", "sub_label": "Jisoo", "obj_label": "Penyanyi", "predicate_id": "P106"}

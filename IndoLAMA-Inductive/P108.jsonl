@@ -1,0 +1,25 @@
+{"uuid": "781453d6-7507-4c97-a448-3c69bec5ecdf", "sub_uri": "Q27058352", "obj_uri": "Q212322", "sub_label": "Emma Walmsley", "obj_label": "GlaxoSmithKline", "predicate_id": "P108"}
+{"uuid": "8dd3a34c-b248-4eef-98a0-c07646385c0d", "sub_uri": "Q374189", "obj_uri": "Q9531", "sub_label": "Alan Hansen", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "0d3d21ee-5ffb-40f2-ad87-0a9df226de37", "sub_uri": "Q334128", "obj_uri": "Q9531", "sub_label": "Helen Liddell", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "10287160-25e7-46dc-aacf-74ce8d521b7c", "sub_uri": "Q42", "obj_uri": "Q9531", "sub_label": "Douglas Adams", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "debff391-6706-43eb-bc87-dd51c2fea104", "sub_uri": "Q6138984", "obj_uri": "Q9531", "sub_label": "James Martin (aktor)", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "3678cd31-5a16-4ce8-b1e4-fbfa426a4b46", "sub_uri": "Q183337", "obj_uri": "Q9531", "sub_label": "David Attenborough", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "139013c5-3823-47e6-8ca8-7014297b681f", "sub_uri": "Q230744", "obj_uri": "Q332474", "sub_label": "Anna Wintour", "obj_label": "Harrods", "predicate_id": "P108"}
+{"uuid": "714078ef-4fc1-4e8c-8371-e99f9612dbe6", "sub_uri": "Q259356", "obj_uri": "Q9531", "sub_label": "Ann Haydon-Jones", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "cad2d806-d9c4-48d5-9604-e1127fa9836c", "sub_uri": "Q55238", "obj_uri": "Q9531", "sub_label": "Ken Loach", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "a5ba61ab-92d6-447a-9762-9d6bb6a25f67", "sub_uri": "Q362240", "obj_uri": "Q9531", "sub_label": "Alan Johnston", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "e6969219-a49c-45f4-b2dc-546a1e467083", "sub_uri": "Q153454", "obj_uri": "Q9531", "sub_label": "Diane Abbott", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "d203cbd0-35f1-4f3f-8f19-3cdbdf50b219", "sub_uri": "Q2044233", "obj_uri": "Q9531", "sub_label": "Rageh Omaar", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "cb92808c-bd2a-4446-8f14-19506f289965", "sub_uri": "Q1351469", "obj_uri": "Q9531", "sub_label": "Eric Maschwitz", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "b4aba882-c4ba-43ed-9bcc-fa973cad6164", "sub_uri": "Q3244570", "obj_uri": "Q9531", "sub_label": "Bob Holness", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "946d85bd-0a0f-4f19-a334-35e1df5d6801", "sub_uri": "Q3999811", "obj_uri": "Q9531", "sub_label": "James Allen", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "2caa0576-2489-44f6-9d54-fdb557548a9b", "sub_uri": "Q2094347", "obj_uri": "Q9531", "sub_label": "Alistair Cooke", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "e14860b7-063b-41a5-a7c2-0f3d94958a44", "sub_uri": "Q7175133", "obj_uri": "Q9531", "sub_label": "Peter Kellner", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "e03115a6-42b2-4550-8fb6-8920e59ce310", "sub_uri": "Q18121649", "obj_uri": "Q212322", "sub_label": "Andrew Witty", "obj_label": "GlaxoSmithKline", "predicate_id": "P108"}
+{"uuid": "51d3829a-8ab7-43ea-8553-0a615b0f27a9", "sub_uri": "Q3398769", "obj_uri": "Q9531", "sub_label": "Jeremy Bowen", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "a2aa7b9f-9781-440e-b6c6-1286895117b6", "sub_uri": "Q328745", "obj_uri": "Q9531", "sub_label": "Harry Thompson", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "3f259bbf-1c8b-4f66-a3ea-2394f184212b", "sub_uri": "Q1282562", "obj_uri": "Q9531", "sub_label": "Mark Kermode", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "a4981785-42a8-4d4e-87c2-a9c6bf8d2273", "sub_uri": "Q337453", "obj_uri": "Q9531", "sub_label": "Chris Grayling", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "110205d0-b202-444e-977c-6a07a5ec5b46", "sub_uri": "Q390690", "obj_uri": "Q9531", "sub_label": "Owen Smith", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "d195bf91-847f-49c0-9a98-7032f7c2ca9c", "sub_uri": "Q172832", "obj_uri": "Q9531", "sub_label": "David Coulthard", "obj_label": "BBC", "predicate_id": "P108"}
+{"uuid": "3583eff2-214e-41cc-a7af-6d120cb17a59", "sub_uri": "Q5110936", "obj_uri": "Q9531", "sub_label": "Christine Bleakley", "obj_label": "BBC", "predicate_id": "P108"}

@@ -1,0 +1,844 @@
+{"uuid": "da9b2483-8e2a-4c44-9619-bfdeb1fc16c7", "sub_uri": "Q17630", "obj_uri": "Q38", "sub_label": "Oviglio", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "3fc4a366-4d42-4270-b980-b67b5c8dc5d4", "sub_uri": "Q763637", "obj_uri": "Q17", "sub_label": "Nitto Denko", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "d084a6f7-b204-4619-ba05-9cdd07a56618", "sub_uri": "Q1154588", "obj_uri": "Q17", "sub_label": "Nishiky\u014d-ku, Ky\u014dto", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "61533601-241c-40b3-baa9-553e4e755e32", "sub_uri": "Q661445", "obj_uri": "Q142", "sub_label": "Choqueuse-les-B\u00e9nards", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "e0977c89-844d-475d-8042-eca1a754fc7e", "sub_uri": "Q12498573", "obj_uri": "Q252", "sub_label": "Mingkung Jaya, Sungai Gelam, Muaro Jambi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9d1ddb13-0c51-4649-8e8e-d517ac5b585f", "sub_uri": "Q12492742", "obj_uri": "Q252", "sub_label": "Kuala Rawa, Rusip Antara, Aceh Tengah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b1f77d60-78e2-4f24-8aa0-f409d8924d02", "sub_uri": "Q7674312", "obj_uri": "Q17", "sub_label": "Stasiun Tadami", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "522f7f62-3ecb-48cb-9a65-a5312cbb0c61", "sub_uri": "Q25906999", "obj_uri": "Q252", "sub_label": "Kolma, Mbulmu Yalma, Nduga", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a36cea6e-76f3-44b6-a8ee-e9c5043cdf07", "sub_uri": "Q12518876", "obj_uri": "Q252", "sub_label": "Tamanan, Mojoroto, Kediri", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "91a66170-a340-459d-aff9-0ca279e2cec0", "sub_uri": "Q745484", "obj_uri": "Q717", "sub_label": "Venevisi\u00f3n", "obj_label": "Venezuela", "predicate_id": "P17"}
+{"uuid": "e25ee5ae-c36e-4db1-9442-c36d8a702f07", "sub_uri": "Q216768", "obj_uri": "Q41", "sub_label": "Astipalea", "obj_label": "Yunani", "predicate_id": "P17"}
+{"uuid": "8cb354ca-e1ee-4ef7-a7a4-97dadd35f304", "sub_uri": "Q16334", "obj_uri": "Q38", "sub_label": "A.S. Casale Calcio", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "04b6d30b-0e25-43a0-9041-806e5094eead", "sub_uri": "Q19748827", "obj_uri": "Q252", "sub_label": "Tari Jepen", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e643a310-2b6b-4991-8311-dc50e269f898", "sub_uri": "Q5010659", "obj_uri": "Q16", "sub_label": "CFJR-FM", "obj_label": "Kanada", "predicate_id": "P17"}
+{"uuid": "da1c5250-d4b7-4487-aa4e-16f7c70faccc", "sub_uri": "Q969348", "obj_uri": "Q38", "sub_label": "Trofi TIM", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "22e7ac1d-ebcc-4d13-801c-538b75df921c", "sub_uri": "Q25465794", "obj_uri": "Q252", "sub_label": "Lawang Agung, Bengkulu Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1eac918a-4cf2-4d89-912e-7c8e18fff9ba", "sub_uri": "Q12514332", "obj_uri": "Q252", "sub_label": "Sidenre, Binamu, Jeneponto", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "53678228-8365-4830-8028-38c0f400d8aa", "sub_uri": "Q7866", "obj_uri": "Q183", "sub_label": "Wartburgkreis", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "54c43552-5065-4ac0-b96e-26712d8d65a9", "sub_uri": "Q373767", "obj_uri": "Q142", "sub_label": "Pulau Faisans", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "ee5f5cb3-67a5-4347-af84-c172f77223d6", "sub_uri": "Q12488649", "obj_uri": "Q252", "sub_label": "Kalianyar, Bangil, Pasuruan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9aff6c61-d32d-48b4-bb06-12f093125609", "sub_uri": "Q193037", "obj_uri": "Q252", "sub_label": "Tebet, Jakarta Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "840ca1ff-0759-422a-9227-ae32aa180b3d", "sub_uri": "Q26000123", "obj_uri": "Q252", "sub_label": "Anawi, Tolikara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1da03840-81e0-4108-8df6-bd87ea25554e", "sub_uri": "Q12497470", "obj_uri": "Q252", "sub_label": "Matang Peureulak, Pante Bidari, Aceh Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "071341d3-5495-46c0-8d51-1f7cde5dd40c", "sub_uri": "Q286691", "obj_uri": "Q38", "sub_label": "Sant'Anna Arresi", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "2a4d8748-0793-40d5-b9a7-45a05c3814ea", "sub_uri": "Q12475513", "obj_uri": "Q252", "sub_label": "Bedali, Ngancar, Kediri", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "fe61be2a-40c5-4def-9f0b-353de0d20dfa", "sub_uri": "Q12495633", "obj_uri": "Q252", "sub_label": "Lungkap, Pinolosian, Bolaang Mongondow Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3950aa82-4de5-4dfc-a55d-5988d8bb6bb3", "sub_uri": "Q5210937", "obj_uri": "Q148", "sub_label": "Wanda Group", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "35ec4989-a72a-429b-b9e8-9006d564cf6c", "sub_uri": "Q12507805", "obj_uri": "Q252", "sub_label": "Rambah Tengah Barat, Rambah, Rokan Hulu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c3ecae1a-e3a1-4db4-bf1f-02c1801a0d94", "sub_uri": "Q12475794", "obj_uri": "Q252", "sub_label": "Bentenan Indah, Pusomaen, Minahasa Tenggara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "72909003-12d5-40e1-974a-3d3e8362bded", "sub_uri": "Q6088543", "obj_uri": "Q833", "sub_label": "Istana Negara, Jalan Duta", "obj_label": "Malaysia", "predicate_id": "P17"}
+{"uuid": "570d106a-7028-4e74-97d6-73bc4abf8e47", "sub_uri": "Q12520665", "obj_uri": "Q252", "sub_label": "Tembok Dukuh, Bubutan, Surabaya", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "44792519-0464-4baa-8ed6-6b76d5e3ebb3", "sub_uri": "Q12808863", "obj_uri": "Q917", "sub_label": "Paspor Bhutan", "obj_label": "Bhutan", "predicate_id": "P17"}
+{"uuid": "f795ab84-286e-4169-a387-7f748d37ebb7", "sub_uri": "Q12494264", "obj_uri": "Q252", "sub_label": "Lebuay Bandung, Merapi Timur, Lahat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "55291a3c-41c1-49af-95e6-e0c151cf9def", "sub_uri": "Q13546175", "obj_uri": "Q252", "sub_label": "Meunasah Pante, Baktiya Barat, Aceh Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d99d4e0f-08d0-49c6-8a71-6842c45c2a25", "sub_uri": "Q1633152", "obj_uri": "Q38", "sub_label": "Akademi Kepausan untuk Maria", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "aa013584-2f9d-4492-86b6-fb70287f862e", "sub_uri": "Q3304823", "obj_uri": "Q115", "sub_label": "Meki", "obj_label": "Etiopia", "predicate_id": "P17"}
+{"uuid": "86adccca-ba35-4dba-9bc6-f6457c077977", "sub_uri": "Q11167980", "obj_uri": "Q252", "sub_label": "Tonjongsari, Cikalong, Tasikmalaya", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "6fff27de-7c45-4922-b671-4ac63d310923", "sub_uri": "Q20427726", "obj_uri": "Q252", "sub_label": "Universitas Widya Dharma", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8b6501f5-3a63-4d92-bf10-f602a9611970", "sub_uri": "Q1197847", "obj_uri": "Q16", "sub_label": "Daftar Gubernur Jenderal Kanada", "obj_label": "Kanada", "predicate_id": "P17"}
+{"uuid": "0a961fd6-5f53-427e-b629-7a1f9c7da9df", "sub_uri": "Q867311", "obj_uri": "Q155", "sub_label": "Keuskupan Bragan\u00e7a Paulista", "obj_label": "Brasil", "predicate_id": "P17"}
+{"uuid": "5747076d-4da4-42d7-9156-989eee4099fe", "sub_uri": "Q12521461", "obj_uri": "Q252", "sub_label": "Tileng, Girisubo, Gunungkidul", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "adb44836-6732-4168-9537-934ca162dd8b", "sub_uri": "Q19728465", "obj_uri": "Q252", "sub_label": "Limbadebata, Bambang, Mamasa", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "576555be-2c0c-4359-90e9-ba8e0b76b60d", "sub_uri": "Q752093", "obj_uri": "Q142", "sub_label": "Lamorlaye", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "7896c27c-0ca5-4b6a-aaed-940c7fad3e93", "sub_uri": "Q25464096", "obj_uri": "Q252", "sub_label": "Inspektorat Jenderal Kementerian Keuangan Republik Indonesia", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ba038871-1e07-414d-bbc8-cff00b36693c", "sub_uri": "Q173641", "obj_uri": "Q928", "sub_label": "Hinundayan, Leyte Selatan", "obj_label": "Filipina", "predicate_id": "P17"}
+{"uuid": "25484c2e-810e-47db-b74a-662259e4895a", "sub_uri": "Q1461", "obj_uri": "Q928", "sub_label": "Manila", "obj_label": "Filipina", "predicate_id": "P17"}
+{"uuid": "39147798-ebc9-446a-89d0-dc1bdfaccb37", "sub_uri": "Q12506605", "obj_uri": "Q252", "sub_label": "Pucangan, Kartasura, Sukoharjo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8f04796a-476f-4966-af39-becf83ca1b86", "sub_uri": "Q12506031", "obj_uri": "Q252", "sub_label": "Politeknik Negeri Medan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "99b2e433-30c6-486c-8398-1a647b791c26", "sub_uri": "Q12506293", "obj_uri": "Q252", "sub_label": "Powalutan, Ranoyapo, Minahasa Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2308db7e-75a4-44d5-b422-a1f1aabae7ff", "sub_uri": "Q4702778", "obj_uri": "Q252", "sub_label": "Warureja, Tegal", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2d1f6755-f60d-4ee7-bd38-2d6ad79b6575", "sub_uri": "Q1347103", "obj_uri": "Q833", "sub_label": "Friendster", "obj_label": "Malaysia", "predicate_id": "P17"}
+{"uuid": "203860f7-43df-4f7d-ad48-8e81363cd79a", "sub_uri": "Q13198880", "obj_uri": "Q252", "sub_label": "Cibingbin, Cibingbin, Kuningan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9c56a3e4-7681-473a-9419-7f86a530cf13", "sub_uri": "Q12513899", "obj_uri": "Q252", "sub_label": "Sesepan, Balapulang, Tegal", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "0a41a02c-5380-4c44-95c8-3de3e4e8228e", "sub_uri": "Q16957378", "obj_uri": "Q408", "sub_label": "Musim AFL 1993", "obj_label": "Australia", "predicate_id": "P17"}
+{"uuid": "df6eef81-497b-4a22-bb73-dae69a9ed959", "sub_uri": "Q12498400", "obj_uri": "Q252", "sub_label": "Meunasah Lueng, Samalanga, Bireuen", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f694cb96-ba1e-4497-9736-23f3ba46c8e1", "sub_uri": "Q12125948", "obj_uri": "Q252", "sub_label": "Buket Sentang, Lhoksukon, Aceh Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3ede8cfc-ac3e-4d84-8774-7f1c87496708", "sub_uri": "Q2795289", "obj_uri": "Q252", "sub_label": "Stasiun Babakan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a04600e1-d359-48c9-bd3f-0a66ed7ce263", "sub_uri": "Q14933470", "obj_uri": "Q252", "sub_label": "SDI Alhayatiddiniyah, Masjid Al Muqorrobin", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e776035f-2d0d-4619-a76b-49c94ed98f49", "sub_uri": "Q696783", "obj_uri": "Q17", "sub_label": "Yaizu, Shizuoka", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "9f28e1c2-642b-4d1a-a3af-12e857106dc8", "sub_uri": "Q13544665", "obj_uri": "Q252", "sub_label": "Terap Mulia, Banding Agung, Ogan Komering Ulu Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "babacb84-4e8e-4192-af85-fe3841aa996e", "sub_uri": "Q3906401", "obj_uri": "Q822", "sub_label": "Masjid Taynal", "obj_label": "Lebanon", "predicate_id": "P17"}
+{"uuid": "1835eb8e-e68e-4089-9141-6026e5dd1355", "sub_uri": "Q9638768", "obj_uri": "Q252", "sub_label": "Singkohor, Aceh Singkil", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "aaf378cc-71a4-4cfb-9e3d-87dc30616dc8", "sub_uri": "Q3367764", "obj_uri": "Q252", "sub_label": "Pasisir", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f02c935c-a5fc-4321-b36e-a10268a8a320", "sub_uri": "Q25456325", "obj_uri": "Q252", "sub_label": "SMP Negeri 2 Kenduruan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "34da9387-e5c9-4279-9fe7-752009adb222", "sub_uri": "Q163490", "obj_uri": "Q822", "sub_label": "Sidon", "obj_label": "Lebanon", "predicate_id": "P17"}
+{"uuid": "e2bbacbf-d67d-4792-b9de-2a114ac2129c", "sub_uri": "Q4267628", "obj_uri": "Q252", "sub_label": "Meri, Kutasari, Purbalingga", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "adfc276c-4b41-48a6-a3e1-1a0a6e752e71", "sub_uri": "Q12495505", "obj_uri": "Q252", "sub_label": "Lueng Dua, Madat, Aceh Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2358de67-8d69-45b0-a793-34c82a8f2a8d", "sub_uri": "Q4197594", "obj_uri": "Q252", "sub_label": "Kapuas Barat, Kapuas", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ceab4297-3764-4996-849e-ffdc82e4fe6d", "sub_uri": "Q13097567", "obj_uri": "Q252", "sub_label": "Suwari, Sangkapura, Gresik", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "00bbca6b-e3cd-42c4-b6a1-9c4b584e3c11", "sub_uri": "Q1654229", "obj_uri": "Q17", "sub_label": "Inpex Corporation", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "e8dd1545-0b5a-471e-a816-1e631545bc0f", "sub_uri": "Q751174", "obj_uri": "Q213", "sub_label": "Stasiun kereta api pusat Praha", "obj_label": "Ceko", "predicate_id": "P17"}
+{"uuid": "27cff98a-7466-4415-8dee-4d4f4ba48310", "sub_uri": "Q769579", "obj_uri": "Q142", "sub_label": "Pont-de-Veyle", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "6c5f2cc5-7b8a-4152-936a-55d379ec7209", "sub_uri": "Q13546436", "obj_uri": "Q252", "sub_label": "Gugob, Pulo Aceh, Aceh Besar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b21c5775-599b-4bcb-af86-a7707f93e0a9", "sub_uri": "Q5194921", "obj_uri": "Q29", "sub_label": "Fabes con almejas", "obj_label": "Spanyol", "predicate_id": "P17"}
+{"uuid": "202ea5ba-11fd-49cf-98b3-57650a3e91ea", "sub_uri": "Q13543973", "obj_uri": "Q252", "sub_label": "Rejosari, Kepil, Wonosobo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a0edef50-e4c7-4697-bcb9-aca56145cc0d", "sub_uri": "Q664799", "obj_uri": "Q40", "sub_label": "B\u00f6sendorfer", "obj_label": "Austria", "predicate_id": "P17"}
+{"uuid": "08687395-075b-4429-bd34-198b4afb5fd4", "sub_uri": "Q1253609", "obj_uri": "Q142", "sub_label": "Christkindelsm\u00e4rik", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "aa193dbe-ced8-4bdc-9d40-a117f0787fa9", "sub_uri": "Q639704", "obj_uri": "Q219", "sub_label": "Majelis Nasional (Bulgaria)", "obj_label": "Bulgaria", "predicate_id": "P17"}
+{"uuid": "66301d6e-ab85-446e-b9c6-fc0f7a057e23", "sub_uri": "Q732679", "obj_uri": "Q408", "sub_label": "Margaret Court Arena", "obj_label": "Australia", "predicate_id": "P17"}
+{"uuid": "e9868587-e240-45e4-9866-2900dc120482", "sub_uri": "Q8213428", "obj_uri": "Q252", "sub_label": "Mungka, Lima Puluh Kota", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9d24d903-e40c-48ce-932e-62e476a9dd87", "sub_uri": "Q108535964", "obj_uri": "Q252", "sub_label": "SMP Negeri 85 Jakarta", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "42a05dc5-c977-425c-a063-454d7bb2961f", "sub_uri": "Q14646019", "obj_uri": "Q252", "sub_label": "Narumonda II, Siantar Narumonda, Toba", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "abbccae7-47ca-42c5-a8cb-3bdf3f51a44f", "sub_uri": "Q12474285", "obj_uri": "Q252", "sub_label": "Bangun Sari, Negeri Katon, Pesawaran", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1c56af63-9496-42fc-828b-e5249ddd85f1", "sub_uri": "Q1446152", "obj_uri": "Q39", "sub_label": "Lago di Cama", "obj_label": "Swiss", "predicate_id": "P17"}
+{"uuid": "f19a86d8-82f0-4c5e-86f9-432f7519225e", "sub_uri": "Q8141", "obj_uri": "Q801", "sub_label": "Bahasa Ibrani Modern", "obj_label": "Israel", "predicate_id": "P17"}
+{"uuid": "4fad9a7c-1840-4325-9570-b29f1bb07ec0", "sub_uri": "Q5456", "obj_uri": "Q750", "sub_label": "Andes", "obj_label": "Bolivia", "predicate_id": "P17"}
+{"uuid": "6e544d65-9db7-4f28-9951-a3e8895525ba", "sub_uri": "Q12514769", "obj_uri": "Q252", "sub_label": "Silau Jawa, Bandar Pasir Mandoge, Asahan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7ed84d61-56c5-4dfd-a77a-799c50fc3366", "sub_uri": "Q12510158", "obj_uri": "Q252", "sub_label": "SMA Lokon Santo Nikolaus Tomohon", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "88caa504-de30-4914-b85d-1dd838da44ac", "sub_uri": "Q12483719", "obj_uri": "Q252", "sub_label": "Gelampang Wih Tenang Uken, Permata, Bener Meriah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "499f6e88-766a-480b-94b5-6fdc40b9c57b", "sub_uri": "Q5618867", "obj_uri": "Q17", "sub_label": "Stasiun Gunma-Haramachi", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "7508da92-e684-41e7-8e3d-723843d00a1b", "sub_uri": "Q12485362", "obj_uri": "Q252", "sub_label": "Haruman, Leles, Garut", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9da2953b-4d05-4d54-a3ea-e2db61f9f63c", "sub_uri": "Q327418", "obj_uri": "Q38", "sub_label": "Transacqua", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "95c43f70-0b9b-4320-aa04-d7168242216e", "sub_uri": "Q12684746", "obj_uri": "Q252", "sub_label": "Busak I, Karamat, Buol", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3b19ff36-7d08-44d0-884e-0090ae8ddeff", "sub_uri": "Q12500140", "obj_uri": "Q252", "sub_label": "Naruwolo II, Jerebuu, Ngada", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a7b32882-6321-45d8-a2e4-5d0dd6e35016", "sub_uri": "Q12518135", "obj_uri": "Q252", "sub_label": "Suriamedal, Surian, Sumedang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ae4ff760-97be-4419-bac3-7f959f1a8bc8", "sub_uri": "Q929481", "obj_uri": "Q29", "sub_label": "Marchena, Spanyol", "obj_label": "Spanyol", "predicate_id": "P17"}
+{"uuid": "c658e555-c8d0-4ad2-9607-e61a6fd22b34", "sub_uri": "Q17067323", "obj_uri": "Q230", "sub_label": "Korupsi di Georgia", "obj_label": "Georgia", "predicate_id": "P17"}
+{"uuid": "e2f26b50-2c35-4743-9115-b676e4641ec8", "sub_uri": "Q12491085", "obj_uri": "Q252", "sub_label": "Keranji Guguh, Koto Gasib, Siak", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "329ac5f1-be27-4ada-8f05-7dfc164d055d", "sub_uri": "Q12487507", "obj_uri": "Q252", "sub_label": "Jatipamor, Panyingkiran, Majalengka", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "18d826bc-96f1-4346-b5ad-a9af43933ad5", "sub_uri": "Q55155522", "obj_uri": "Q252", "sub_label": "Ledakan sumur minyak Aceh Timur 2018", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "361c9c58-855a-4565-8d7b-127ba07adede", "sub_uri": "Q19728807", "obj_uri": "Q252", "sub_label": "Mangaran, Kabaruan, Kepulauan Talaud", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "209ad3bf-0599-44c3-b8f2-631937363a92", "sub_uri": "Q60429939", "obj_uri": "Q252", "sub_label": "Longsor Sukabumi 2018", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "10ddeefd-98f0-413b-a2b5-d7a6dec471c5", "sub_uri": "Q4200298", "obj_uri": "Q252", "sub_label": "Distrik (Indonesia)", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7059cca5-3d06-48fd-ace6-4657e6fa774c", "sub_uri": "Q12509897", "obj_uri": "Q252", "sub_label": "SD Negeri 3 Megawon", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9553e7b4-17e0-4d20-b96f-9bd0af298010", "sub_uri": "Q4273178", "obj_uri": "Q252", "sub_label": "Koripan, Matesih, Karanganyar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a649447b-656f-4ccb-9172-036f086fe6d3", "sub_uri": "Q12471682", "obj_uri": "Q252", "sub_label": "Alur Cucur, Rantau, Aceh Tamiang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "dc67c2e3-aaad-4966-a870-ee836a2418fc", "sub_uri": "Q17997813", "obj_uri": "Q252", "sub_label": "Air Hitam Laut, Sadu, Tanjung Jabung Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7ea02075-71b7-453c-8d98-d87a7441a0d0", "sub_uri": "Q12504959", "obj_uri": "Q252", "sub_label": "Perhimpoenan Peladjar-Peladjar Indonesia", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4b2d0c80-4660-49a9-b7f4-97c0122f0359", "sub_uri": "Q2042304", "obj_uri": "Q252", "sub_label": "Sumberklima, Gerokgak, Buleleng", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7d169d6a-2bb4-43c7-8bf9-f5b4bcb1aaeb", "sub_uri": "Q19727973", "obj_uri": "Q252", "sub_label": "Kota Lekat Mudik, Hulu Palik, Bengkulu Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c72ac473-c619-4407-a2bf-88b075c6ecd9", "sub_uri": "Q12481879", "obj_uri": "Q252", "sub_label": "Donggulu, Kasimbar, Parigi Moutong", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "fdb4850f-9da7-40c7-9849-2878aa69ada8", "sub_uri": "Q674856", "obj_uri": "Q40", "sub_label": "Loich", "obj_label": "Austria", "predicate_id": "P17"}
+{"uuid": "3ab83cf4-f925-4542-9d9f-314c1b269e5e", "sub_uri": "Q11029509", "obj_uri": "Q252", "sub_label": "Salagedang, Sukahaji, Majalengka", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "42ebcae9-1820-45c0-94d8-6ba943c97a88", "sub_uri": "Q12491091", "obj_uri": "Q252", "sub_label": "Keras Kulon, Gerih, Ngawi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "805ff3ea-d2e1-49f2-877d-45d60e7e2250", "sub_uri": "Q81068910", "obj_uri": "Q733", "sub_label": "Pandemi Covid-19", "obj_label": "Paraguay", "predicate_id": "P17"}
+{"uuid": "851ca114-b50a-4664-a174-816464a3f0b5", "sub_uri": "Q242995", "obj_uri": "Q668", "sub_label": "Jhansi", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "e95012e9-479a-48a7-bde6-61837f3589aa", "sub_uri": "Q12522960", "obj_uri": "Q252", "sub_label": "Ujong Blang, Kuta Blang, Bireuen", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "db7f0e2b-96b9-46f3-825a-be6fc27f8c58", "sub_uri": "Q3492219", "obj_uri": "Q668", "sub_label": "SAFE (sistem kabel)", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "689e274b-1ede-4dd4-be51-e563840eb963", "sub_uri": "Q19725520", "obj_uri": "Q252", "sub_label": "Durin, Blangkejeren, Gayo Lues", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3921d85c-d186-433e-857e-d0d4690f4ae5", "sub_uri": "Q12520745", "obj_uri": "Q252", "sub_label": "Temu, Prambon, Sidoarjo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e0f28959-c9e9-469f-9cd0-e0d3871ace00", "sub_uri": "Q12471697", "obj_uri": "Q252", "sub_label": "Alur Seulebu, Kejuruan Muda, Aceh Tamiang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ea48bc31-6749-44d7-81f9-d6a87de41241", "sub_uri": "Q653941", "obj_uri": "Q38", "sub_label": "Ray-Ban", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "eb05d082-a46a-4f57-9d61-773285c8a325", "sub_uri": "Q1043431", "obj_uri": "Q17", "sub_label": "Festival Film Internasional Tokyo", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "0063c005-3b99-4665-889d-14b754bef7df", "sub_uri": "Q847334", "obj_uri": "Q17", "sub_label": "Gose, Nara", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "64286605-b8b6-40ac-a112-343acd9e8458", "sub_uri": "Q14653326", "obj_uri": "Q252", "sub_label": "Panobasan Lombang, Angkola Barat, Tapanuli Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9cd74b7c-d203-43b9-833f-aef3cd46486d", "sub_uri": "Q12479526", "obj_uri": "Q252", "sub_label": "Cot Mane, Gandapura, Bireuen", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7a9d4e1e-645a-4941-94c1-c01095bf318a", "sub_uri": "Q12505300", "obj_uri": "Q252", "sub_label": "Peso Hilir, Bulungan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8fcb2a9d-3e8b-450e-954d-293de025d0f1", "sub_uri": "Q12488745", "obj_uri": "Q252", "sub_label": "Kalipucang, Grabag, Magelang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "dc0d9cec-b2a7-48ac-9815-f6530cbd64bf", "sub_uri": "Q18619557", "obj_uri": "Q232", "sub_label": "AH63", "obj_label": "Kazakhstan", "predicate_id": "P17"}
+{"uuid": "2d3d32f5-bf2d-4d2c-a760-379ab7b0635d", "sub_uri": "Q12500983", "obj_uri": "Q252", "sub_label": "Numba, Tolikara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e607e536-9414-419e-a286-c6495dbdb591", "sub_uri": "Q540273", "obj_uri": "Q38", "sub_label": "Bandar Udara Catania-Fontanarossa", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "0aced26a-4b8d-4053-a56d-f1366639f86c", "sub_uri": "Q19727157", "obj_uri": "Q252", "sub_label": "Kampung Bilah, Bilah Hilir, Labuhanbatu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c62bab43-468c-42d9-a994-792cdff914b3", "sub_uri": "Q1491", "obj_uri": "Q750", "sub_label": "La Paz, Bolivia", "obj_label": "Bolivia", "predicate_id": "P17"}
+{"uuid": "ba5b023c-cd6f-4d87-b4df-acc63c716bde", "sub_uri": "Q864455", "obj_uri": "Q142", "sub_label": "Saint-Martin-du-Mont, Ain", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "0a7ac6de-7a35-4c5f-aaf9-6d93cc3945fa", "sub_uri": "Q15944637", "obj_uri": "Q252", "sub_label": "Hubungan Argentina dengan Indonesia", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "fdfa49bb-77c3-41c7-a7ba-4e3db228f5cd", "sub_uri": "Q4208866", "obj_uri": "Q252", "sub_label": "Hargosari, Tirtomoyo, Wonogiri", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "0f59e856-b0c7-4026-b2e1-d61af9a95ded", "sub_uri": "Q19725373", "obj_uri": "Q252", "sub_label": "Digibagata, Tigi Barat, Deiyai", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a29e195d-2ba9-4173-9344-4b06d90567f4", "sub_uri": "Q342451", "obj_uri": "Q881", "sub_label": "Delta Sungai Merah", "obj_label": "Vietnam", "predicate_id": "P17"}
+{"uuid": "653e5c5c-679e-43e3-bbdd-317d5f2a9a3e", "sub_uri": "Q10778813", "obj_uri": "Q252", "sub_label": "Kebonagung, Pacitan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "20fd52fb-60aa-4f2f-b100-e851d9d2e102", "sub_uri": "Q14933532", "obj_uri": "Q252", "sub_label": "SDS Al Azis", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "6a8c9aed-7876-43f9-afb2-1c47f05a1302", "sub_uri": "Q6487778", "obj_uri": "Q252", "sub_label": "Ibul, Kuantan Mudik, Kuantan Singingi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9815cfd6-a806-468f-953d-f0bdb509b383", "sub_uri": "Q12492061", "obj_uri": "Q252", "sub_label": "Komba-Komba, Bulagi, Banggai Kepulauan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1ec1d932-ab50-4a21-90fb-c6b7fecf390e", "sub_uri": "Q12202920", "obj_uri": "Q252", "sub_label": "Widang, Tuban", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8b953e71-9512-4d99-9bf6-91fdfd9d52b2", "sub_uri": "Q56394430", "obj_uri": "Q252", "sub_label": "Daftar provinsi di Indonesia menurut PDRB tahun 2014", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "6a7e97c7-8f3e-44f6-9afd-0bc2cbc1e495", "sub_uri": "Q12478883", "obj_uri": "Q252", "sub_label": "Cijulang, Cihaurbeuti, Ciamis", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c9eda865-41b0-4473-8dfb-9687c7065193", "sub_uri": "Q606169", "obj_uri": "Q408", "sub_label": "Armidale, New South Wales", "obj_label": "Australia", "predicate_id": "P17"}
+{"uuid": "b4e0cf64-c8c6-4d49-a6ee-fec6ecbe99d0", "sub_uri": "Q19742897", "obj_uri": "Q252", "sub_label": "Tabilaa, Bolaang Uki, Bolaang Mongondow Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c854768d-eece-4bcd-9eb7-a0d81f3d8225", "sub_uri": "Q6394888", "obj_uri": "Q833", "sub_label": "Kesatuan Melayu Muda", "obj_label": "Malaysia", "predicate_id": "P17"}
+{"uuid": "2ec13d58-3583-4b3e-8c58-154dd348bd26", "sub_uri": "Q13489573", "obj_uri": "Q252", "sub_label": "Bandar Aji, Jarai, Lahat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "52370d18-0124-4388-a33d-d68317979c45", "sub_uri": "Q1360256", "obj_uri": "Q889", "sub_label": "Persekutuan 7 Mujahidin", "obj_label": "Afganistan", "predicate_id": "P17"}
+{"uuid": "bc8565ce-1ba1-4e2c-afe6-55c024bc0db5", "sub_uri": "Q247559", "obj_uri": "Q17", "sub_label": "Stasiun Iwadeyama", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "2f9af419-7d51-44ab-a3e7-2ab51383fbd7", "sub_uri": "Q56475", "obj_uri": "Q117", "sub_label": "Bahasa Hausa", "obj_label": "Ghana", "predicate_id": "P17"}
+{"uuid": "33801f55-fa2d-4392-892e-90f24467cb94", "sub_uri": "Q3925212", "obj_uri": "Q252", "sub_label": "Badan Sarana Pertahanan Kementerian Pertahanan Republik Indonesia", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "00b03751-b48e-4a24-9662-7818b1ada5b8", "sub_uri": "Q2243253", "obj_uri": "Q28", "sub_label": "Kastil Savoia", "obj_label": "Hongaria", "predicate_id": "P17"}
+{"uuid": "90b1d243-01d3-456c-9eaf-a1adbaf5ae1c", "sub_uri": "Q9129", "obj_uri": "Q212", "sub_label": "Bahasa Yunani", "obj_label": "Ukraina", "predicate_id": "P17"}
+{"uuid": "cabbb9ca-f39e-47cb-b260-e0a10054705e", "sub_uri": "Q2902309", "obj_uri": "Q16", "sub_label": "Bandar Udara Johnson Lake", "obj_label": "Kanada", "predicate_id": "P17"}
+{"uuid": "4b1d782a-b52a-4114-bfcd-b51c0554406d", "sub_uri": "Q12515990", "obj_uri": "Q252", "sub_label": "Sosopan, Kotapinang, Labuhanbatu Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "486b9c0c-4c6f-413f-9302-78a6f251e13c", "sub_uri": "Q5722", "obj_uri": "Q252", "sub_label": "Kabupaten Bireuen", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "24b9a91b-7833-4629-a567-1311de1d5457", "sub_uri": "Q14917450", "obj_uri": "Q252", "sub_label": "Saka Tamiang, Kapuas Barat, Kapuas", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d3068fbe-28cd-43ea-859f-58d1d9ca8eeb", "sub_uri": "Q12505540", "obj_uri": "Q252", "sub_label": "Pimping, Tanjung Palas Utara, Bulungan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2c91825a-3195-4335-a3eb-a7cb9c65f944", "sub_uri": "Q12521152", "obj_uri": "Q252", "sub_label": "Teupin Kuyun, Seunuddon, Aceh Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "73b8e2e7-1eee-45eb-99e9-10e305474893", "sub_uri": "Q12203071", "obj_uri": "Q252", "sub_label": "Jatirogo, Tuban", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "367796f6-ce53-46b2-8887-32e87b0daf9a", "sub_uri": "Q19727120", "obj_uri": "Q252", "sub_label": "Kalodran, Walantaka, Serang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d8d463ce-3cfa-4455-be93-86ea3ef3724c", "sub_uri": "Q654904", "obj_uri": "Q211", "sub_label": "Katedral Santo Yakobus, Riga", "obj_label": "Latvia", "predicate_id": "P17"}
+{"uuid": "3ad200cd-bf58-4783-8df2-03ce4f56706a", "sub_uri": "Q12517152", "obj_uri": "Q252", "sub_label": "Sukosari, Belitang, Ogan Komering Ulu Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2568e885-1388-46ad-8c06-9e264d86fbaa", "sub_uri": "Q12511212", "obj_uri": "Q252", "sub_label": "SMP Negeri 79 Jakarta", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8af20b1f-5b92-4a28-89d4-c520c0e55d6f", "sub_uri": "Q732810", "obj_uri": "Q142", "sub_label": "Grandrupt-de-Bains", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "b4627744-a3a8-4063-bea5-6b7428347f1b", "sub_uri": "Q9633690", "obj_uri": "Q252", "sub_label": "Taba Penanjung, Bengkulu Tengah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1dbd6a39-6c5d-45f9-afbf-2fbfeab1fcaf", "sub_uri": "Q2915691", "obj_uri": "Q801", "sub_label": "Galilea Hilir", "obj_label": "Israel", "predicate_id": "P17"}
+{"uuid": "2a6bb0f6-8507-4f21-9d2f-b064e8616b42", "sub_uri": "Q5460306", "obj_uri": "Q155", "sub_label": "Flora Hiperspectral", "obj_label": "Brasil", "predicate_id": "P17"}
+{"uuid": "183cf21e-f584-437d-9bd9-1fbd68ec4ea9", "sub_uri": "Q719524", "obj_uri": "Q45", "sub_label": "Bunda dari F\u00e1tima", "obj_label": "Portugal", "predicate_id": "P17"}
+{"uuid": "0544a217-6c7b-4e26-929e-5552ff76e087", "sub_uri": "Q13544299", "obj_uri": "Q252", "sub_label": "Kelarik Barat, Bunguran Utara, Natuna", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ad9581fe-99eb-42c7-bdfb-21f54804d0ac", "sub_uri": "Q12483034", "obj_uri": "Q252", "sub_label": "Fobaharu, Tidore Utara, Tidore Kepulauan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c557a706-66ce-499a-ba30-6bf9b8a1435c", "sub_uri": "Q834318", "obj_uri": "Q683", "sub_label": "Gerakan Mau", "obj_label": "Samoa", "predicate_id": "P17"}
+{"uuid": "ff3d99e8-5c37-4c2b-a4c0-859b65e0a449", "sub_uri": "Q7677017", "obj_uri": "Q17", "sub_label": "Stasiun Takagimachi", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "91c004bb-229f-44e3-ad5a-ff6e10c2c37a", "sub_uri": "Q12484800", "obj_uri": "Q252", "sub_label": "Gunung Pamaton", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "0411b2a4-6ff9-4d7c-ad7a-ed993ea60e8f", "sub_uri": "Q2583995", "obj_uri": "Q805", "sub_label": "Bandar Udara Socotra", "obj_label": "Yaman", "predicate_id": "P17"}
+{"uuid": "ecd4b08e-6420-4303-984c-2b47f9018ec5", "sub_uri": "Q19741637", "obj_uri": "Q252", "sub_label": "Sukmajaya, Jombang, Cilegon", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "442f158a-16eb-4ab8-a59c-39f6f6fa4efa", "sub_uri": "Q964364", "obj_uri": "Q142", "sub_label": "La Neuville-sur-Oudeuil", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "90a5c1e3-b25a-41c3-900f-7c64ceb22c8e", "sub_uri": "Q56390220", "obj_uri": "Q252", "sub_label": "SD Negeri 1 Panican", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e16a6714-5677-41aa-aee0-75835e269313", "sub_uri": "Q658731", "obj_uri": "Q219", "sub_label": "Pertempuran Achelous (917)", "obj_label": "Bulgaria", "predicate_id": "P17"}
+{"uuid": "e04a2756-e9b9-46b5-95fd-b07257d37735", "sub_uri": "Q873724", "obj_uri": "Q252", "sub_label": "Keuskupan Padang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "79728dd6-dfc6-4fed-9338-a1b5e4768325", "sub_uri": "Q12521601", "obj_uri": "Q252", "sub_label": "Tiplol Mayalibit, Raja Ampat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e5795815-09b4-4bf8-868f-8cf70fe05909", "sub_uri": "Q100366550", "obj_uri": "Q252", "sub_label": "Koalisi Aksi Menyelamatkan Indonesia", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "26bc6c37-2daf-4640-bd15-4fcf2b2a5a6c", "sub_uri": "Q12471144", "obj_uri": "Q252", "sub_label": "Aisandami, Teluk Duairi, Teluk Wondama", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "58a9feb3-2383-4ff7-9b9d-3e435c4229d4", "sub_uri": "Q12476157", "obj_uri": "Q252", "sub_label": "Bicak, Todanan, Blora", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7d58f4d5-1e4c-4b5f-afd3-b056959ad6e5", "sub_uri": "Q24681868", "obj_uri": "Q252", "sub_label": "Balantak Utara, Banggai", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "304acadb-339f-433d-a0c4-8a6d1d7f63a6", "sub_uri": "Q172943", "obj_uri": "Q29", "sub_label": "Grand Prix F1 Spanyol 2010", "obj_label": "Spanyol", "predicate_id": "P17"}
+{"uuid": "c5490dd8-77c4-4fdc-aa07-51292d5b9e4c", "sub_uri": "Q14609", "obj_uri": "Q252", "sub_label": "Kabupaten Toraja Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c4bb44ef-eb75-41bc-97c9-b3faa2e718fa", "sub_uri": "Q97189553", "obj_uri": "Q252", "sub_label": "Bubur Gunting", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "adb8b621-c23d-482a-8259-a38a01de2ffc", "sub_uri": "Q7475982", "obj_uri": "Q252", "sub_label": "Wonokerso, Limpung, Batang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4cd649ae-b34a-4fac-b0c2-f85e344404bd", "sub_uri": "Q959279", "obj_uri": "Q79", "sub_label": "ERTU", "obj_label": "Mesir", "predicate_id": "P17"}
+{"uuid": "a7a2e65d-3d0f-48b2-9088-6d543f129b45", "sub_uri": "Q12482190", "obj_uri": "Q252", "sub_label": "Dusun Baru, Seluma, Seluma", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "388c6978-cd53-42b2-9121-b2a70794e748", "sub_uri": "Q3036497", "obj_uri": "Q403", "sub_label": "Donje Romanovce", "obj_label": "Serbia", "predicate_id": "P17"}
+{"uuid": "88a9cfcc-5687-470c-9270-53ee6b1c3f47", "sub_uri": "Q120493", "obj_uri": "Q40", "sub_label": "Hochtor", "obj_label": "Austria", "predicate_id": "P17"}
+{"uuid": "d3b33d6a-d70f-4715-a247-7e9dc64d40a3", "sub_uri": "Q201012", "obj_uri": "Q159", "sub_label": "Kepulauan Siberia Baru", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "ea75b460-1ad7-411f-9276-1756ffc47540", "sub_uri": "Q7573251", "obj_uri": "Q29", "sub_label": "Referendum keanggotaan Spanyol di NATO 1986", "obj_label": "Spanyol", "predicate_id": "P17"}
+{"uuid": "e2a4da55-d9b2-4f1c-9865-d74880662f90", "sub_uri": "Q12524759", "obj_uri": "Q252", "sub_label": "Wonokarto, Ngadirojo, Pacitan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "0eb70e04-be24-4c57-b3d3-bce236cb7cf3", "sub_uri": "Q12487769", "obj_uri": "Q252", "sub_label": "Jenarwetan, Purwodadi, Purworejo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c3f0700f-a73f-41fc-a45d-9c89925f5cd0", "sub_uri": "Q10370962", "obj_uri": "Q252", "sub_label": "Payaraman, Ogan Ilir", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "acd40cc9-5c4a-4fdd-b026-62e7c93d15ca", "sub_uri": "Q1517540", "obj_uri": "Q252", "sub_label": "Taman Nasional Kepulauan Togean", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "dbd560f5-8e60-4a91-8df6-11d9b416f1dd", "sub_uri": "Q1419491", "obj_uri": "Q252", "sub_label": "Kecelakaan Sukhoi Superjet 100 di Gunung Salak", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f3d10248-92f8-4ac5-9470-8f0de201e6b6", "sub_uri": "Q23498806", "obj_uri": "Q252", "sub_label": "Mulyosari, Way Ratai, Pesawaran", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "99c633b5-f562-4286-ba7b-f00fbbbe9e38", "sub_uri": "Q39087364", "obj_uri": "Q16", "sub_label": "Penghargaan Pilihan Penonton Festival Film Internasional Toronto", "obj_label": "Kanada", "predicate_id": "P17"}
+{"uuid": "6bf82207-788b-4690-b8cc-7fb9372cfe81", "sub_uri": "Q12476248", "obj_uri": "Q252", "sub_label": "Biluhu Barat, Biluhu, Gorontalo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e6d7c11e-129c-4413-a5d9-810a8ad93212", "sub_uri": "Q12513994", "obj_uri": "Q252", "sub_label": "Seunebok Dalam, Peureulak Timur, Aceh Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d8157894-12f8-4038-896b-dc3947d47c76", "sub_uri": "Q1131315", "obj_uri": "Q17", "sub_label": "Distrik Uda, Nara", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "9c0328cf-764e-45f5-a6e2-5335ccdb22ea", "sub_uri": "Q723570", "obj_uri": "Q43", "sub_label": "Turki dalam Kontes Lagu Eurovision", "obj_label": "Turki", "predicate_id": "P17"}
+{"uuid": "e7ada604-8bcc-4a09-85d1-0c34bc7939e5", "sub_uri": "Q874914", "obj_uri": "Q414", "sub_label": "Keuskupan Reconquista", "obj_label": "Argentina", "predicate_id": "P17"}
+{"uuid": "d3f73dcf-b039-4981-be4e-85df0d00b2ad", "sub_uri": "Q674686", "obj_uri": "Q17", "sub_label": "Level-5 (perusahaan)", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "6b01e73e-19e0-490c-b91d-ceb6a71ac517", "sub_uri": "Q314038", "obj_uri": "Q833", "sub_label": "Malaysia Masters", "obj_label": "Malaysia", "predicate_id": "P17"}
+{"uuid": "b137bd64-52b9-4367-ace0-b29440cd59d5", "sub_uri": "Q192243", "obj_uri": "Q212", "sub_label": "Struve Geodetic Arc", "obj_label": "Ukraina", "predicate_id": "P17"}
+{"uuid": "761c57ed-16f6-4f28-80b3-18ee47bdbdea", "sub_uri": "Q11244379", "obj_uri": "Q252", "sub_label": "Kandangan, Ngawi, Ngawi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "fe025b68-0b3c-4108-9850-3e3b3aa18281", "sub_uri": "Q89288702", "obj_uri": "Q55", "sub_label": "Pandemi Covid-19 di Bonaire", "obj_label": "Belanda", "predicate_id": "P17"}
+{"uuid": "36f965e5-75b3-45bf-87d5-289c537fadeb", "sub_uri": "Q297871", "obj_uri": "Q35", "sub_label": "Jembatan Oresund", "obj_label": "Denmark", "predicate_id": "P17"}
+{"uuid": "41dc5880-a1c2-409d-891a-8b1ab6b03729", "sub_uri": "Q13200157", "obj_uri": "Q252", "sub_label": "Pranti, Kandanghaur, Indramayu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1001a1fa-e049-4122-ae87-fcf1f8007189", "sub_uri": "Q12493349", "obj_uri": "Q252", "sub_label": "Labuan Bajo, Banawa, Donggala", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e011da8c-8405-4497-82c2-8be70f666115", "sub_uri": "Q10360", "obj_uri": "Q38", "sub_label": "Villastellone", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "d57359d9-5e8d-4b26-8fda-15023ae37855", "sub_uri": "Q12515542", "obj_uri": "Q252", "sub_label": "Sitolu Banua Fadoro, Moro'\u00f6, Nias Barat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "57f0c830-23de-4b27-b80b-41e3d26e061a", "sub_uri": "Q53281", "obj_uri": "Q38", "sub_label": "Martignacco", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "084796e8-8112-48db-a044-45719d1fcc3b", "sub_uri": "Q19741546", "obj_uri": "Q252", "sub_label": "Sukajaya, Anak Ratu Aji, Lampung Tengah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b353fa2b-2fa9-44a6-8a93-ee34e149861f", "sub_uri": "Q15846", "obj_uri": "Q252", "sub_label": "Kota Kotamobagu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1f735b43-2a94-4c43-a32c-ff1d3b706766", "sub_uri": "Q34451", "obj_uri": "Q38", "sub_label": "San Giorgio in Bosco", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "fd90593f-02ca-456a-9e7e-038538d91e47", "sub_uri": "Q12691164", "obj_uri": "Q252", "sub_label": "Ladang Rimba, Bakongan Timur, Aceh Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f3255682-933e-4cb0-9b86-e916188117cf", "sub_uri": "Q12479221", "obj_uri": "Q252", "sub_label": "Cipanas, Dukupuntang, Cirebon", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a82f2667-9b21-4df6-908d-4fdf31844690", "sub_uri": "Q12518147", "obj_uri": "Q252", "sub_label": "Surodingin, Lubuk Barumun, Padang Lawas", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3411f0ed-3f17-44ff-8f7b-5237ddf1fdf9", "sub_uri": "Q1331489", "obj_uri": "Q148", "sub_label": "Distrik Shahekou", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "1d87af9f-67cc-45fa-8eda-a796288fc58c", "sub_uri": "Q3436015", "obj_uri": "Q794", "sub_label": "Bandar Udara Shahrekord", "obj_label": "Iran", "predicate_id": "P17"}
+{"uuid": "8bc39873-a775-4610-ba06-f27afbbad789", "sub_uri": "Q11196158", "obj_uri": "Q252", "sub_label": "Kesambi, Kesambi, Cirebon", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "90d4ae28-e865-4abe-a378-95d383517a31", "sub_uri": "Q274811", "obj_uri": "Q142", "sub_label": "Traktat \u00c9lys\u00e9e", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "a32d1a2d-1582-44a6-8159-a1bc21116001", "sub_uri": "Q19727195", "obj_uri": "Q252", "sub_label": "Kandis, Pampangan, Ogan Komering Ilir", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "bde9b94b-a0fd-40f0-b5a6-f16f4503ce11", "sub_uri": "Q4208845", "obj_uri": "Q252", "sub_label": "Kerjo Kidul, Ngadirojo, Wonogiri", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5f4316ce-92a4-45ba-84aa-6d6a928cd522", "sub_uri": "Q19817541", "obj_uri": "Q148", "sub_label": "Yuexiu Fortune Center, Menara 1", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "c933b33e-6746-45c6-b3ed-cf85a6ab9f40", "sub_uri": "Q4191072", "obj_uri": "Q252", "sub_label": "Namohalu Esiwa, Nias Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8650c08d-d9bb-4605-b238-9be0d84d636f", "sub_uri": "Q319496", "obj_uri": "Q38", "sub_label": "Italia Terbuka", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "9848141f-3006-4b5f-8613-4f896e4a20e8", "sub_uri": "Q12489313", "obj_uri": "Q252", "sub_label": "Karang Endah, Merapi Barat, Lahat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "56c1bf11-47cf-429d-a0cf-e28e4b07e0cf", "sub_uri": "Q12487863", "obj_uri": "Q252", "sub_label": "Jetis Kidul, Arjosari, Pacitan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ae3fc0ab-eb05-47e1-89c3-69baf20c1093", "sub_uri": "Q16954718", "obj_uri": "Q252", "sub_label": "Community Shield Indonesia 2013", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "426e7fa9-5496-4e7f-83cf-21614435010b", "sub_uri": "Q11182314", "obj_uri": "Q252", "sub_label": "Cilendek Timur, Bogor Barat, Bogor", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "305971e5-531e-4d91-9328-5b5469fb6716", "sub_uri": "Q12514284", "obj_uri": "Q252", "sub_label": "Siborna, Panei, Simalungun", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c0dd5368-414e-45d8-a5de-b8bb774d0736", "sub_uri": "Q1301863", "obj_uri": "Q34", "sub_label": "Old Tjikko", "obj_label": "Swedia", "predicate_id": "P17"}
+{"uuid": "62e26bf1-5af0-4865-a8b2-e052690251b8", "sub_uri": "Q5635309", "obj_uri": "Q224", "sub_label": "HNK Primorac Biograd na Moru", "obj_label": "Kroasia", "predicate_id": "P17"}
+{"uuid": "ac0462c9-dc79-423c-8f4b-543cd121d2f5", "sub_uri": "Q23807269", "obj_uri": "Q252", "sub_label": "Bukit Bugel", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a4401adc-b1a9-449c-9e54-9cd2220e6e2c", "sub_uri": "Q12509881", "obj_uri": "Q252", "sub_label": "SD Negeri 3 Jati Wetan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "581dda2c-2dec-48fc-91fa-f013d5f6e90c", "sub_uri": "Q12203602", "obj_uri": "Q252", "sub_label": "Kuta Padang, Bubon, Aceh Barat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "57cca913-f8ed-49d1-84d1-22a7a0b98a71", "sub_uri": "Q533457", "obj_uri": "Q183", "sub_label": "Westerdeichstrich", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "a57312d0-d060-4082-8ef4-fccd40d144d4", "sub_uri": "Q12495313", "obj_uri": "Q252", "sub_label": "Losari, Rembang, Purbalingga", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7fffb8c6-04fb-4bf6-a585-011849f5596b", "sub_uri": "Q4253510", "obj_uri": "Q252", "sub_label": "Palajau, Pandawan, Hulu Sungai Tengah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9c4ff8f9-6d1e-4686-b3e7-c03cf7ebaddd", "sub_uri": "Q55012", "obj_uri": "Q38", "sub_label": "Calitri", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "311acf4e-0ed5-4909-9b67-28c315dcb601", "sub_uri": "Q1056116", "obj_uri": "Q414", "sub_label": "Mesopotamia, Argentina", "obj_label": "Argentina", "predicate_id": "P17"}
+{"uuid": "d981dbff-fca8-4ea3-8130-aec53c8c7113", "sub_uri": "Q19724200", "obj_uri": "Q252", "sub_label": "Bank Jateng", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "6adf8ccf-441c-49a8-8226-0b6110ed69ce", "sub_uri": "Q182872", "obj_uri": "Q142", "sub_label": "Fontainebleau", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "3de9f903-6962-4507-bd5a-6152ff2074b1", "sub_uri": "Q20295077", "obj_uri": "Q948", "sub_label": "Serangan Sousse 2015", "obj_label": "Tunisia", "predicate_id": "P17"}
+{"uuid": "fbc955b6-1a40-4138-ba4e-4e93ef426372", "sub_uri": "Q947495", "obj_uri": "Q36", "sub_label": "Powiat P\u0142ock", "obj_label": "Polandia", "predicate_id": "P17"}
+{"uuid": "732dac12-d980-452c-a4e2-8c2f4b4a20e8", "sub_uri": "Q12518805", "obj_uri": "Q252", "sub_label": "Talunjaya, Banyusari, Karawang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "12f57c61-5ea1-4641-a97d-f52e056067cd", "sub_uri": "Q20427041", "obj_uri": "Q252", "sub_label": "Pantan Terong", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8c9b8351-e20b-40f4-8faa-23fc27669132", "sub_uri": "Q42397", "obj_uri": "Q38", "sub_label": "Massalengo", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "cafdab5a-cf7b-4270-9533-9b3c409bc640", "sub_uri": "Q673907", "obj_uri": "Q40", "sub_label": "Winklarn, Austria", "obj_label": "Austria", "predicate_id": "P17"}
+{"uuid": "e80f94e1-67bd-4205-bf05-b97fb7e77f49", "sub_uri": "Q594373", "obj_uri": "Q38", "sub_label": "Wangsa Gonzaga", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "bb66b22f-9758-49ae-859b-af7be404cd42", "sub_uri": "Q185684", "obj_uri": "Q148", "sub_label": "Hefei", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "ffc2795d-82b5-43f4-818c-d214bea918a1", "sub_uri": "Q1444781", "obj_uri": "Q16", "sub_label": "Kotamadya Kabupaten Regional Joliette, Quebec", "obj_label": "Kanada", "predicate_id": "P17"}
+{"uuid": "4aa8801d-9c88-4b1a-bace-99029c566e10", "sub_uri": "Q5944241", "obj_uri": "Q148", "sub_label": "Stasiun Xixiang", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "bd683ebb-26e2-4caa-9c38-de7534a80cb3", "sub_uri": "Q4257802", "obj_uri": "Q252", "sub_label": "Rantau Bujur, Aranio, Banjar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "09a6d0ab-990a-48cf-b168-8a27b9ed7685", "sub_uri": "Q506544", "obj_uri": "Q183", "sub_label": "Poxdorf, Forchheim", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "ea77b563-bf84-4dbc-8302-db0005fb4fec", "sub_uri": "Q196544", "obj_uri": "Q668", "sub_label": "Universitas Muslim Aligarh", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "4949cd9e-313e-4ba1-b3b4-e19ad73bad3e", "sub_uri": "Q4639947", "obj_uri": "Q668", "sub_label": "Penghargaan Film Nasional ke-50", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "4403976c-7858-40c7-a8dd-3d00d0ae8eeb", "sub_uri": "Q33408", "obj_uri": "Q881", "sub_label": "Provinsi Bac Ninh", "obj_label": "Vietnam", "predicate_id": "P17"}
+{"uuid": "4d92eac7-8a8c-4592-8ff5-b91246a88947", "sub_uri": "Q4190197", "obj_uri": "Q252", "sub_label": "Seputih Mataram, Lampung Tengah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2c24ab85-53dd-4da0-8356-5a5cb5603f82", "sub_uri": "Q12516590", "obj_uri": "Q252", "sub_label": "Suit, Bulagi Selatan, Banggai Kepulauan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "df46f1f2-a600-4887-a0fc-5cf428943567", "sub_uri": "Q1075859", "obj_uri": "Q17", "sub_label": "Mihama-ku, Chiba", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "a8f96c42-30c3-47ee-9ec4-e9dfc12affb4", "sub_uri": "Q65224666", "obj_uri": "Q252", "sub_label": "Cianaga, Kabandungan, Sukabumi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a94d1d52-529a-4470-9e06-1f631369fa6f", "sub_uri": "Q7476390", "obj_uri": "Q252", "sub_label": "Dawuhan Kulon, Kedungbanteng, Banyumas", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3684cdc4-2a6e-4107-bf04-4a69ee4e2f41", "sub_uri": "Q12508154", "obj_uri": "Q252", "sub_label": "Ratas II, Tareran, Minahasa Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "33a8566b-2e78-4570-aacd-62c77d21831d", "sub_uri": "Q11133218", "obj_uri": "Q148", "sub_label": "Kereta antarkota Wuhan-Xiaogan", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "93a8dec4-34ce-4249-ac49-ac73073a7a1f", "sub_uri": "Q801692", "obj_uri": "Q17", "sub_label": "Stasiun \u014cmiya (Saitama)", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "9c755140-73de-4edb-93f8-d0a1f88b4fab", "sub_uri": "Q12503579", "obj_uri": "Q252", "sub_label": "Pasir Jae, Sosa, Padang Lawas", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5b32b1c8-fc6e-476a-9c7b-75c94ec7822f", "sub_uri": "Q223406", "obj_uri": "Q142", "sub_label": "Chauffecourt", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "d663b07e-b44e-4c2f-ade0-2cda8c4c64b5", "sub_uri": "Q866767", "obj_uri": "Q252", "sub_label": "Keuskupan Agats", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3be78c5f-16be-4ab4-853a-fa08c33081ee", "sub_uri": "Q97307563", "obj_uri": "Q252", "sub_label": "Daftar rumah sakit rujukan COVID-19 di Indonesia", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "41ee3c33-e993-4972-9338-90cf80a1927c", "sub_uri": "Q373767", "obj_uri": "Q142", "sub_label": "Pulau Faisans", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "72444f8a-2307-41f5-b0f5-67472b618339", "sub_uri": "Q14336", "obj_uri": "Q29", "sub_label": "Teruel", "obj_label": "Spanyol", "predicate_id": "P17"}
+{"uuid": "22ca29f5-4798-4e84-b888-3916915f9a62", "sub_uri": "Q108025", "obj_uri": "Q20", "sub_label": "Sarpsborg", "obj_label": "Norwegia", "predicate_id": "P17"}
+{"uuid": "ba4399b6-6eaf-4d5e-9e85-07182407b39c", "sub_uri": "Q12517869", "obj_uri": "Q252", "sub_label": "Sungai Liuk, Pesisir Bukit, Sungaipenuh", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "aa022309-518a-48f1-a71c-2d10f42539b8", "sub_uri": "Q2142421", "obj_uri": "Q159", "sub_label": "Trem di Moskwa", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "924ad5a1-b426-469e-922e-28f47e41ff67", "sub_uri": "Q17020", "obj_uri": "Q183", "sub_label": "Bundesautobahn 114", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "c6e397fd-cfbd-44a0-9a5b-cc6b83fe059c", "sub_uri": "Q188258", "obj_uri": "Q1016", "sub_label": "Fezzan", "obj_label": "Libya", "predicate_id": "P17"}
+{"uuid": "b3cc2197-770f-498e-9d9a-f200ecd9a5ee", "sub_uri": "Q692745", "obj_uri": "Q17", "sub_label": "Monbetsu, Hokkaido", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "ca3a75a9-efce-4709-9af4-19a64ec53dd8", "sub_uri": "Q3434121", "obj_uri": "Q1013", "sub_label": "Bandar Udara Mejametalana", "obj_label": "Lesotho", "predicate_id": "P17"}
+{"uuid": "7e082151-b03b-4a4f-8f37-e98581468e7b", "sub_uri": "Q199408", "obj_uri": "Q262", "sub_label": "Laut Albora", "obj_label": "Aljazair", "predicate_id": "P17"}
+{"uuid": "68072d73-620f-4d22-9cdd-7439f7f0ff4b", "sub_uri": "Q11149382", "obj_uri": "Q334", "sub_label": "Stasiun MRT Tuas Link", "obj_label": "Singapura", "predicate_id": "P17"}
+{"uuid": "e73233db-2d1d-49fe-ba52-8ad9e81431f4", "sub_uri": "Q41673", "obj_uri": "Q668", "sub_label": "Bendera India", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "541922cd-daa2-4e2d-9fd9-6d61c2c56b92", "sub_uri": "Q12511703", "obj_uri": "Q252", "sub_label": "Salumpaga, Tolitoli Utara, Tolitoli", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8f282fd5-3b58-4d30-9cdb-56ff90ff4e0f", "sub_uri": "Q1346451", "obj_uri": "Q822", "sub_label": "Eparki Baalbek-Deir Al-Ahmar", "obj_label": "Lebanon", "predicate_id": "P17"}
+{"uuid": "4eafe25d-eafe-4681-af63-5e6b70c302e6", "sub_uri": "Q87250948", "obj_uri": "Q215", "sub_label": "Pandemi Covid-19 di Slovenia", "obj_label": "Slovenia", "predicate_id": "P17"}
+{"uuid": "6393198e-16ba-4a3a-8651-68125cbb188a", "sub_uri": "Q4265900", "obj_uri": "Q252", "sub_label": "Karangtengah, Imogiri, Bantul", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "109b56a0-7e90-425c-8d98-0105d0190acc", "sub_uri": "Q12496275", "obj_uri": "Q252", "sub_label": "Mal SKA", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d6f73129-d97d-4cb1-9418-3dce434b56ad", "sub_uri": "Q14638909", "obj_uri": "Q252", "sub_label": "Lindung Jaya, Kayu Aro, Kerinci", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c2a59b0f-065e-4b25-a1a7-edcfe312c4e8", "sub_uri": "Q12500435", "obj_uri": "Q252", "sub_label": "Ngadisepi, Gemawang, Temanggung", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "945c3797-9e24-454d-a31c-ccf94ea6d60d", "sub_uri": "Q25059096", "obj_uri": "Q252", "sub_label": "Kantor Dagang dan Ekonomi Indonesia di Taipei", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "47a46711-d28e-4ad7-bca5-d6bff7abdb10", "sub_uri": "Q12495865", "obj_uri": "Q252", "sub_label": "MIS Ishlahul Anam", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "91f02603-6a9b-441e-825e-673b004b4a62", "sub_uri": "Q27477249", "obj_uri": "Q148", "sub_label": "Hidangan Tionghoa", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "0e9bf533-112e-4847-88e3-838eca6c679e", "sub_uri": "Q5675723", "obj_uri": "Q17", "sub_label": "Stasiun Haruki", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "b3eff521-faee-43d3-bba8-f9926b0c8b1f", "sub_uri": "Q7817", "obj_uri": "Q668", "sub_label": "Organisasi Kesehatan Dunia", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "ed10dd76-a934-4e31-a986-c0558b34e81f", "sub_uri": "Q19739752", "obj_uri": "Q252", "sub_label": "SMP Darussalam I", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "67122cf4-023f-4465-b8ad-cf1a0fd8941c", "sub_uri": "Q939691", "obj_uri": "Q1029", "sub_label": "Suku Swazi", "obj_label": "Mozambik", "predicate_id": "P17"}
+{"uuid": "cc7ab06b-ca42-4242-aff2-a2c9f913637a", "sub_uri": "Q4214810", "obj_uri": "Q252", "sub_label": "Telaga Purun, Paringin Selatan, Balangan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c5eb3803-804b-4cf7-aaf1-879d536818df", "sub_uri": "Q1996075", "obj_uri": "Q38", "sub_label": "Kapel Brancacci", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "59ebc250-d289-4f57-9cce-c2761b2265cf", "sub_uri": "Q8641", "obj_uri": "Q142", "sub_label": "Bahasa Yiddi", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "f9de981b-3fda-4650-a395-386f27cc02a0", "sub_uri": "Q1667337", "obj_uri": "Q232", "sub_label": "Daftar duta besar Amerika Serikat untuk Kazakhstan", "obj_label": "Kazakhstan", "predicate_id": "P17"}
+{"uuid": "b711077f-7cf0-4e06-928d-9755795d0822", "sub_uri": "Q2219983", "obj_uri": "Q252", "sub_label": "Stasiun Muarakalaban", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d7fe883d-3867-4c44-a9ac-ff04f1193c64", "sub_uri": "Q1694", "obj_uri": "Q928", "sub_label": "Bayugan", "obj_label": "Filipina", "predicate_id": "P17"}
+{"uuid": "ed68d395-a5be-41c2-8993-8bb7ec633da1", "sub_uri": "Q12500467", "obj_uri": "Q252", "sub_label": "Ngampilan, Ngampilan, Yogyakarta", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "97d7f285-1a15-4109-969a-50d0aa01f6e8", "sub_uri": "Q10823", "obj_uri": "Q38", "sub_label": "Lugnano in Teverina", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "42b2101f-1891-42e5-b87a-27e98bc0e667", "sub_uri": "Q40917", "obj_uri": "Q38", "sub_label": "Cassano Valcuvia", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "e611ad4b-a777-4c11-a9b4-dc1311610a7b", "sub_uri": "Q12511371", "obj_uri": "Q252", "sub_label": "Saba Bangunan, Padang Bolak, Padang Lawas Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e2ec3e8f-94e8-4e55-bca6-7fd10e7f85b6", "sub_uri": "Q2992872", "obj_uri": "Q252", "sub_label": "Bahasa Ngaju", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2c19d4d1-9ea5-48de-8362-b8fb42fb221e", "sub_uri": "Q10907524", "obj_uri": "Q148", "sub_label": "Distrik Nanshan, County Zhuolu", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "9692a59c-abe1-400d-b326-0888fe61a15a", "sub_uri": "Q575020", "obj_uri": "Q142", "sub_label": "Keuskupan Agung Bourges", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "c37bd03a-8254-402f-8b3e-ba459c82c1c7", "sub_uri": "Q12483631", "obj_uri": "Q252", "sub_label": "Gedangan, Kutorejo, Mojokerto", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "da16fd56-ac9c-4de0-9e9d-5cdf755a77f3", "sub_uri": "Q19732004", "obj_uri": "Q252", "sub_label": "Sawaru, Camba, Maros", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "79bddf8d-e34e-41b7-bf72-fa511eefa9cc", "sub_uri": "Q12496460", "obj_uri": "Q252", "sub_label": "Mamben Lauk, Wanasaba, Lombok Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4932a569-8f22-4b6f-a30f-3446aef9004f", "sub_uri": "Q12514675", "obj_uri": "Q252", "sub_label": "Sihareo Sogaeadu, Gido, Nias", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "dfee0bdf-15b6-4fa6-96f2-62702a02bbd4", "sub_uri": "Q763018", "obj_uri": "Q17", "sub_label": "Yamaguchi-gumi", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "8baa7879-5305-4937-a74d-af27602d691c", "sub_uri": "Q19745141", "obj_uri": "Q252", "sub_label": "Wawobungi, Lalonggasumeeto, Konawe", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f31cfc28-40d0-435c-9135-37f608ccc6a7", "sub_uri": "Q11075322", "obj_uri": "Q252", "sub_label": "Mekar Baru, Kota Kisaran Barat, Asahan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d6b86103-7ffd-402e-894b-262974eec0d9", "sub_uri": "Q13544920", "obj_uri": "Q252", "sub_label": "Tapung Jaya, Tandun, Rokan Hulu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "cf02c2c8-8b6d-46ad-9d4d-a45d85bcea81", "sub_uri": "Q12511722", "obj_uri": "Q252", "sub_label": "Sam Pai Mah, Idi Rayeuk, Aceh Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "0d2f89e7-48d6-4da1-87af-afe51ec003b2", "sub_uri": "Q12397036", "obj_uri": "Q252", "sub_label": "Malalak Barat, Malalak, Agam", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1beac87d-081f-42c6-a0c1-fe7b0de95be3", "sub_uri": "Q260603", "obj_uri": "Q252", "sub_label": "Indonesia, Go Open Source", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "0b823b58-c11f-4289-884f-32dbdeb7492e", "sub_uri": "Q104595", "obj_uri": "Q38", "sub_label": "Esine", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "023415b4-f434-4641-8c49-fd7a352cfc9d", "sub_uri": "Q7476085", "obj_uri": "Q252", "sub_label": "Sendang, Wonotunggal, Batang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4317908e-de9a-423d-bdcd-b9081f4d4544", "sub_uri": "Q12516050", "obj_uri": "Q252", "sub_label": "Sragi, Songgon, Banyuwangi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e630f371-8b26-4151-84c0-3b042347315a", "sub_uri": "Q1517182", "obj_uri": "Q142", "sub_label": "Mont Agel", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "bfbb7390-480a-406d-a1c2-d1450764251b", "sub_uri": "Q12521133", "obj_uri": "Q252", "sub_label": "Teungku Dibanda Tektek, Paya Bakong, Aceh Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a34daa47-0c1a-4734-8f3c-0824f7ab9595", "sub_uri": "Q185484", "obj_uri": "Q142", "sub_label": "Villeneuve, Gironde", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "09470095-5453-4a5b-886b-dd362aa38aca", "sub_uri": "Q45145124", "obj_uri": "Q148", "sub_label": "Stasiun Shuanglong (Nanjing Metro)", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "ccf33c13-e7c2-4fba-a334-62277bb73099", "sub_uri": "Q1413732", "obj_uri": "Q843", "sub_label": "Konflik Kashmir", "obj_label": "Pakistan", "predicate_id": "P17"}
+{"uuid": "c932084e-62c5-4fc6-bb13-7287313a1e18", "sub_uri": "Q1375843", "obj_uri": "Q1036", "sub_label": "Distrik Pallisa", "obj_label": "Uganda", "predicate_id": "P17"}
+{"uuid": "382b801a-2ef0-4762-bb72-b1cdb4593f6e", "sub_uri": "Q581621", "obj_uri": "Q869", "sub_label": "Pegunungan Titiwangsa", "obj_label": "Thailand", "predicate_id": "P17"}
+{"uuid": "dd005a7a-2f2d-4f61-9d44-4b9547c550d5", "sub_uri": "Q12523145", "obj_uri": "Q252", "sub_label": "Ulee Pulo, Dewantara, Aceh Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "15bfc668-aa42-405a-940f-2ab5c5cf044a", "sub_uri": "Q4207722", "obj_uri": "Q159", "sub_label": "Eparki Kazan", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "00b87a16-86da-47d7-a9b8-0efa87305757", "sub_uri": "Q16873926", "obj_uri": "Q252", "sub_label": "Gong Si Bolong", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7ee90f70-3022-487a-8b1a-504fe18f8895", "sub_uri": "Q165420", "obj_uri": "Q219", "sub_label": "Pleven", "obj_label": "Bulgaria", "predicate_id": "P17"}
+{"uuid": "2141a635-3314-4d69-aa67-d2f23b6e788a", "sub_uri": "Q11106983", "obj_uri": "Q252", "sub_label": "Banjarmulya, Pemalang, Pemalang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2c3732bd-af25-4e80-9d0f-faf8a12e0635", "sub_uri": "Q5357588", "obj_uri": "Q17", "sub_label": "Stasiun Takanabe", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "2d01982d-ca34-4daa-9749-6d6946c15074", "sub_uri": "Q12503959", "obj_uri": "Q252", "sub_label": "Payakumbuh Selatan, Payakumbuh", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4c72fda8-4a63-46b1-9a99-b798fe74480b", "sub_uri": "Q12483485", "obj_uri": "Q252", "sub_label": "Ganti, Banawa, Donggala", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1670cfe4-9b9b-4102-ae7a-705784247f11", "sub_uri": "Q12508954", "obj_uri": "Q252", "sub_label": "Rowogempol, Lekok, Pasuruan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "18eb63e1-ed4a-447b-8288-63e26d94655c", "sub_uri": "Q10217", "obj_uri": "Q38", "sub_label": "Ribordone", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "88243375-3f3f-4567-b183-637daab73455", "sub_uri": "Q17275", "obj_uri": "Q38", "sub_label": "Bistagno", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "0408dfed-1ab8-4e14-9a41-58d024e8e28d", "sub_uri": "Q7475647", "obj_uri": "Q252", "sub_label": "Jambu, Wangon, Banyumas", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "230ffb87-cabb-40ed-96bb-63166a219f89", "sub_uri": "Q12488789", "obj_uri": "Q252", "sub_label": "Kaliurang, Srumbung, Magelang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "96f87fdd-334e-45a9-9590-3c953692c92a", "sub_uri": "Q3273378", "obj_uri": "Q17", "sub_label": "Bandar Udara Kerama", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "b790e63e-d751-4e33-9aec-a2e9479a8517", "sub_uri": "Q2064840", "obj_uri": "Q148", "sub_label": "Subdistrik Beitang", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "99b86eb8-98dc-4e4e-b4a0-8fa0c1583093", "sub_uri": "Q632541", "obj_uri": "Q142", "sub_label": "Solignac", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "15e3a4d0-de45-455a-8018-35075d23f5db", "sub_uri": "Q13649", "obj_uri": "Q38", "sub_label": "Nuoro", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "8c6f9e70-6209-4f0e-9e82-2c5fca747ea5", "sub_uri": "Q7701522", "obj_uri": "Q17", "sub_label": "Stasiun Terahara", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "8df6ff4d-5f81-4c50-9e0d-8be244a72bb3", "sub_uri": "Q3844892", "obj_uri": "Q736", "sub_label": "Manta Terbuka 2011", "obj_label": "Ekuador", "predicate_id": "P17"}
+{"uuid": "ac82d584-e7e7-46ea-a107-4779e56a415f", "sub_uri": "Q13093507", "obj_uri": "Q252", "sub_label": "Jaddung, Tragah, Bangkalan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "647f09b8-d6f7-4ae0-8cda-fab6a70d459c", "sub_uri": "Q12506154", "obj_uri": "Q252", "sub_label": "Pondok Pinang, Kebayoran Lama, Jakarta Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "db2a4da8-2ace-4bfc-a194-824572a3f219", "sub_uri": "Q12472149", "obj_uri": "Q252", "sub_label": "Prabu Angling Dharma", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5d3df323-fcdc-4fec-941a-3ba9fdfe7b4e", "sub_uri": "Q9403", "obj_uri": "Q38", "sub_label": "Inverso Pinasca", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "081e2a26-544c-44a8-b875-4c8b2384943c", "sub_uri": "Q11100961", "obj_uri": "Q252", "sub_label": "Bulu, Bulu, Sukoharjo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3fd7a24e-8f8e-4343-acef-812234a3cc5b", "sub_uri": "Q53358", "obj_uri": "Q38", "sub_label": "San Pietro al Natisone", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "66955059-c82f-4c4a-9f09-e8f1d163701e", "sub_uri": "Q1790832", "obj_uri": "Q833", "sub_label": "Kuala Kangsar", "obj_label": "Malaysia", "predicate_id": "P17"}
+{"uuid": "8ffc6c54-3c96-4091-81d5-5af680e0eeef", "sub_uri": "Q157037", "obj_uri": "Q237", "sub_label": "Nunsius", "obj_label": "Vatikan", "predicate_id": "P17"}
+{"uuid": "fba1411e-f90b-40bc-a9f0-857dc79dad2c", "sub_uri": "Q3041048", "obj_uri": "Q657", "sub_label": "Stade Omnisports Idriss Mahamat Ouya", "obj_label": "Chad", "predicate_id": "P17"}
+{"uuid": "3ca41aa4-5f57-4e6b-95b6-9bc37b164160", "sub_uri": "Q18154959", "obj_uri": "Q774", "sub_label": "Manche Ch'ol", "obj_label": "Guatemala", "predicate_id": "P17"}
+{"uuid": "1d2dd1ec-df92-4f70-8f76-b2cfedfa56a6", "sub_uri": "Q11585", "obj_uri": "Q218", "sub_label": "Tulcea", "obj_label": "Rumania", "predicate_id": "P17"}
+{"uuid": "5ab57b9b-5416-46be-ab19-43a97fe208eb", "sub_uri": "Q236850", "obj_uri": "Q222", "sub_label": "Distrik Mirdit\u00eb", "obj_label": "Albania", "predicate_id": "P17"}
+{"uuid": "e19acc9b-33b0-4b65-836f-53518527cd77", "sub_uri": "Q12473616", "obj_uri": "Q252", "sub_label": "Bakekau, Lore Selatan, Poso", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b5d99c53-e923-445a-8794-9808ef55e45c", "sub_uri": "Q12522791", "obj_uri": "Q252", "sub_label": "Turipinggir, Megaluh, Jombang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3d67387a-0907-4f3e-a20f-df4b2947d252", "sub_uri": "Q12498160", "obj_uri": "Q252", "sub_label": "Meranti, Bilah Hulu, Labuhanbatu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "589aadf2-1b43-4342-a8d6-494ac53ffe1e", "sub_uri": "Q12500033", "obj_uri": "Q252", "sub_label": "Nanga Mentebah, Mentebah, Kapuas Hulu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8c2f01a2-1d90-41e4-9ef6-ba0c6338addc", "sub_uri": "Q744021", "obj_uri": "Q34", "sub_label": "G\u00e4rdet (Stockholms tunnelbana)", "obj_label": "Swedia", "predicate_id": "P17"}
+{"uuid": "20756145-3130-4fb0-b1d0-7095df09fcb3", "sub_uri": "Q860994", "obj_uri": "Q142", "sub_label": "Museum Guimet", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "822a6d66-9342-48a6-8d39-faa86eb31cdf", "sub_uri": "Q12471566", "obj_uri": "Q252", "sub_label": "Alue Bu Alue Lhok, Peureulak Timur, Aceh Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "82e7cf10-d348-41ef-b9ad-7ad98c1afa56", "sub_uri": "Q55691259", "obj_uri": "Q869", "sub_label": "Asia's Next Top Model, Siklus 6", "obj_label": "Thailand", "predicate_id": "P17"}
+{"uuid": "ca86d30f-bb1b-4257-88d0-c2026f8f7e0e", "sub_uri": "Q14944548", "obj_uri": "Q252", "sub_label": "Meunasah Krueng, Nisam, Aceh Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d00ea326-3112-4230-aa75-274ac74fda1b", "sub_uri": "Q2974817", "obj_uri": "Q142", "sub_label": "Tribunal de grande instance de Paris", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "8c71196c-ba78-4c03-87c3-99488f18dfa8", "sub_uri": "Q167321", "obj_uri": "Q212", "sub_label": "Gereja Santo Andreas, Kyiv", "obj_label": "Ukraina", "predicate_id": "P17"}
+{"uuid": "e408dec4-f872-48f3-8082-3c04d2306b34", "sub_uri": "Q1550186", "obj_uri": "Q668", "sub_label": "Sikandar Bagh", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "186bb1d9-8fea-4ee6-aaf6-541b23fab663", "sub_uri": "Q3066716", "obj_uri": "Q1000", "sub_label": "Tim nasional sepak bola wanita Gabon", "obj_label": "Gabon", "predicate_id": "P17"}
+{"uuid": "7b46f479-fc0a-42b1-82a3-4985ab6e4061", "sub_uri": "Q4267291", "obj_uri": "Q252", "sub_label": "Pakisrejo, Banyuurip, Purworejo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "adad94e3-30eb-441e-8891-dbfe948b189a", "sub_uri": "Q12492504", "obj_uri": "Q252", "sub_label": "Kramat Sukoharjo, Tanggul, Jember", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "bb5a8898-8fe2-48e0-8f7b-5f4c5eabc090", "sub_uri": "Q12477015", "obj_uri": "Q252", "sub_label": "Bonto Majannang, Sinoa, Bantaeng", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3c80f57d-daac-4a3b-949e-514abad37790", "sub_uri": "Q12499749", "obj_uri": "Q252", "sub_label": "Muyub Ulu, Tering, Kutai Barat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "110d6c4e-d028-4969-8c9f-fc9b9c972245", "sub_uri": "Q4176217", "obj_uri": "Q252", "sub_label": "Gunung Hutapanjang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "11f67da1-7055-4a4b-b7e3-bf6b0fe70680", "sub_uri": "Q39087343", "obj_uri": "Q252", "sub_label": "Tanggul Laut Raksasa Jakarta", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7e7fe1d7-1ea2-434e-b732-499faf389b43", "sub_uri": "Q11015386", "obj_uri": "Q252", "sub_label": "Sangge, Klego, Boyolali", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "fbed3dea-6966-4727-bab2-92a3735d550a", "sub_uri": "Q1009409", "obj_uri": "Q215", "sub_label": "Munisipalitas Dobrepolje", "obj_label": "Slovenia", "predicate_id": "P17"}
+{"uuid": "b2e247f2-5ab5-48bf-896c-2e6d332655a4", "sub_uri": "Q7402807", "obj_uri": "Q17", "sub_label": "Stasiun Sakamoto (Miyagi)", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "383fd6d5-57dc-4823-bff7-c243fd1bd5e4", "sub_uri": "Q4254867", "obj_uri": "Q252", "sub_label": "Wawai, Batang Alai Selatan, Hulu Sungai Tengah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a65a06d0-f375-43dc-8ee0-fe4eea9861d7", "sub_uri": "Q25461002", "obj_uri": "Q252", "sub_label": "SMA Negeri 2 Sangatta Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "905d5b2d-3069-4dcd-844c-6f543c3a16d4", "sub_uri": "Q12475426", "obj_uri": "Q252", "sub_label": "Bawos, Fayit, Asmat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4fdab7ca-ec43-4c19-9895-7771fb25ecb2", "sub_uri": "Q12500407", "obj_uri": "Q252", "sub_label": "Ngadilangkung, Kepanjen, Malang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7f2f639b-5336-4dc2-a5b5-f3a64f4616df", "sub_uri": "Q19726676", "obj_uri": "Q252", "sub_label": "Jalan Tol Medan\u2013Kualanamu\u2013Tebing Tinggi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "04383f4c-bae5-43d8-b897-c8e26ffd6cfc", "sub_uri": "Q878191", "obj_uri": "Q241", "sub_label": "Daftar Presiden Kuba", "obj_label": "Kuba", "predicate_id": "P17"}
+{"uuid": "83f7be18-a258-480a-97e9-418eeea63d5a", "sub_uri": "Q283573", "obj_uri": "Q96", "sub_label": "Pulau Jaina", "obj_label": "Meksiko", "predicate_id": "P17"}
+{"uuid": "2cdd4072-d9a9-42ed-a601-a7746d3a2551", "sub_uri": "Q8235", "obj_uri": "Q142", "sub_label": "Daftar stasiun metro di Lyon", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "2a186e32-116b-4001-bd71-4761c6a6e978", "sub_uri": "Q734400", "obj_uri": "Q17", "sub_label": "Tamura, Fukushima", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "0b07b3db-0842-4157-bc9e-fcaf92fdbac3", "sub_uri": "Q254730", "obj_uri": "Q142", "sub_label": "Garentreville", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "e739e77a-7047-4a6e-a095-6ef7d348291d", "sub_uri": "Q20507", "obj_uri": "Q38", "sub_label": "Torre Bormida", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "12abcc4b-fa95-40ab-a6bd-cb9717ff56db", "sub_uri": "Q36089341", "obj_uri": "Q252", "sub_label": "Liga 3 2017 \u2013 Zona Nusa Tenggara Barat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "86ee9fb9-e057-471f-9b0a-c213824df8fd", "sub_uri": "Q493362", "obj_uri": "Q928", "sub_label": "Rapu-Rapu, Albay", "obj_label": "Filipina", "predicate_id": "P17"}
+{"uuid": "7c7fcbec-cbbd-4fe3-bbdd-e88254aeac21", "sub_uri": "Q2346707", "obj_uri": "Q55", "sub_label": "Eerste Divisie 7 December", "obj_label": "Belanda", "predicate_id": "P17"}
+{"uuid": "4a15c22b-7b6c-47f9-8c0d-5c5b6dc55883", "sub_uri": "Q1819977", "obj_uri": "Q37", "sub_label": "Uni Nasionalis Lituania", "obj_label": "Lituania", "predicate_id": "P17"}
+{"uuid": "09fa1ea4-9f47-4fdf-a4b4-e13c3ec0c370", "sub_uri": "Q192875", "obj_uri": "Q219", "sub_label": "Kardzhali", "obj_label": "Bulgaria", "predicate_id": "P17"}
+{"uuid": "e65dceca-13d5-4169-ad1c-64180d988df7", "sub_uri": "Q15907415", "obj_uri": "Q148", "sub_label": "Kota Baru Qianjiang", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "d5a91f5a-0aaa-4982-aece-9d97fa8071b9", "sub_uri": "Q487389", "obj_uri": "Q874", "sub_label": "Provinsi Lebap", "obj_label": "Turkmenistan", "predicate_id": "P17"}
+{"uuid": "e77bd197-b97e-455d-a5f1-9ba76f1f66b6", "sub_uri": "Q12486611", "obj_uri": "Q252", "sub_label": "Inobonto Dua, Bolaang, Bolaang Mongondow", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e1406ecd-9d28-4d80-ae16-d318c0e17459", "sub_uri": "Q12503047", "obj_uri": "Q252", "sub_label": "Papan Asri, Abung Semuli, Lampung Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "38abaeb3-057a-4bb3-b32a-8e0a5425ae62", "sub_uri": "Q15944698", "obj_uri": "Q252", "sub_label": "Hubungan Indonesia dengan Ukraina", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ef000ce9-9910-4537-8edf-5e5049448e3d", "sub_uri": "Q1721097", "obj_uri": "Q953", "sub_label": "Taman Nasional Kafue", "obj_label": "Zambia", "predicate_id": "P17"}
+{"uuid": "4f5327d6-c5b3-4217-9e42-9019b84699cc", "sub_uri": "Q2745935", "obj_uri": "Q223", "sub_label": "Katuaq", "obj_label": "Greenland", "predicate_id": "P17"}
+{"uuid": "887283f4-da6d-4f79-8163-be51579261c2", "sub_uri": "Q505400", "obj_uri": "Q183", "sub_label": "Spatzenhausen", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "bd3a3b8e-0447-48d0-b323-7a7d361c63a7", "sub_uri": "Q1252438", "obj_uri": "Q215", "sub_label": "Munisipalitas Cerkvenjak", "obj_label": "Slovenia", "predicate_id": "P17"}
+{"uuid": "5d545ef5-3ab3-4566-b43c-41976b0ff980", "sub_uri": "Q1526682", "obj_uri": "Q252", "sub_label": "Pesisir Tengah, Pesisir Barat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "568b1eec-db53-477a-a1a8-87a2ce9927fe", "sub_uri": "Q330067", "obj_uri": "Q159", "sub_label": "Saluran Satu Rusia", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "f24dc106-9251-4626-ad97-2c5be613bb9e", "sub_uri": "Q36025", "obj_uri": "Q928", "sub_label": "Bontoc, Bulubundukin", "obj_label": "Filipina", "predicate_id": "P17"}
+{"uuid": "504cf3d0-01ae-4ae9-8afd-4b05721fd050", "sub_uri": "Q11022380", "obj_uri": "Q252", "sub_label": "Beber, Ligung, Majalengka", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8393750e-1816-4e49-bf4c-597175c9f09f", "sub_uri": "Q12684317", "obj_uri": "Q252", "sub_label": "Buajangka, Bungku Selatan, Morowali", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "deaee147-c03f-4840-982c-a0f6e4df77c9", "sub_uri": "Q18342125", "obj_uri": "Q252", "sub_label": "Kabinet Kerja (2014\u20132019)", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "56a07ad8-2dcc-47b8-92cd-bcf7cc167a1f", "sub_uri": "Q11032561", "obj_uri": "Q252", "sub_label": "Sumurrejo, Gunungpati, Semarang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "61e9aa52-a01b-4439-ad1d-319b8f3d74f3", "sub_uri": "Q11050242", "obj_uri": "Q252", "sub_label": "Bongas, Bongas, Indramayu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b783ced2-b032-4173-bb07-77bce71eed3e", "sub_uri": "Q12523888", "obj_uri": "Q252", "sub_label": "Waimi, Lembur, Alor", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9ce2a457-92be-41b2-b6c1-ec65338ee011", "sub_uri": "Q1055394", "obj_uri": "Q17", "sub_label": "Provinsi Kazusa", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "012ea4cf-39af-42b2-826f-039c3f7eded5", "sub_uri": "Q13199047", "obj_uri": "Q252", "sub_label": "Cipeundeuy, Padalarang, Bandung Barat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2a7a1d69-5046-4416-9c4a-01e2e12bb81d", "sub_uri": "Q987211", "obj_uri": "Q28", "sub_label": "Menara D\u00f6m\u00f6t\u00f6r", "obj_label": "Hongaria", "predicate_id": "P17"}
+{"uuid": "d782038f-9145-40b7-bab9-59fad288306c", "sub_uri": "Q783353", "obj_uri": "Q236", "sub_label": "Keuskupan Agung Bar", "obj_label": "Montenegro", "predicate_id": "P17"}
+{"uuid": "ff6860df-cdac-49ca-b913-dad5fe5475b4", "sub_uri": "Q12522704", "obj_uri": "Q252", "sub_label": "Tumu, Amanuban Tengah, Timor Tengah Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2a4df407-8777-49bc-b259-3169412bd3cb", "sub_uri": "Q2021116", "obj_uri": "Q155", "sub_label": "Santana do Ipanema", "obj_label": "Brasil", "predicate_id": "P17"}
+{"uuid": "cf8a41fe-a574-4200-a368-d7332b633e6a", "sub_uri": "Q8081670", "obj_uri": "Q17", "sub_label": "Stasiun \u014cnomachi", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "66481e44-72aa-4e6f-a8b1-8ffa96769800", "sub_uri": "Q12492215", "obj_uri": "Q252", "sub_label": "Kopi, Bintauna, Bolaang Mongondow Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "191902df-6a78-47a8-997b-38c35374ca25", "sub_uri": "Q123790", "obj_uri": "Q38", "sub_label": "Castelbellino", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "605a34f1-f9c9-40ef-bd77-91d61ff6f972", "sub_uri": "Q11052225", "obj_uri": "Q252", "sub_label": "Kasugengan Kidul, Depok, Cirebon", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "6fbcd830-60f0-4ed9-95e7-bd5724df2bb9", "sub_uri": "Q103572", "obj_uri": "Q38", "sub_label": "Borgosatollo", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "91037f8b-d36a-4337-81e4-16aec080558d", "sub_uri": "Q2054665", "obj_uri": "Q1016", "sub_label": "Dewan Komando Revolusioner Libya", "obj_label": "Libya", "predicate_id": "P17"}
+{"uuid": "481174aa-1ab8-44e6-8e2f-8b2dd5e9b574", "sub_uri": "Q1469840", "obj_uri": "Q833", "sub_label": "Malesia", "obj_label": "Malaysia", "predicate_id": "P17"}
+{"uuid": "5d00bc67-1122-42ea-81c5-208ee4927b08", "sub_uri": "Q502770", "obj_uri": "Q35", "sub_label": "Munisipalitas Mors\u00f8", "obj_label": "Denmark", "predicate_id": "P17"}
+{"uuid": "c9d21ca9-ed0f-4711-9114-7d7925ab8050", "sub_uri": "Q1365187", "obj_uri": "Q213", "sub_label": "Keuskupan Agung Olomouc", "obj_label": "Ceko", "predicate_id": "P17"}
+{"uuid": "6ffac517-0fee-450f-94c2-b44fe880f5e8", "sub_uri": "Q3043015", "obj_uri": "Q252", "sub_label": "Gunung Mahawu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d39a2d99-0b6b-4c3a-9947-2c98b298ae02", "sub_uri": "Q19748050", "obj_uri": "Q252", "sub_label": "Situs Tinggihari", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "15c61fdb-12cc-4672-b669-db71a8f0a60b", "sub_uri": "Q3357376", "obj_uri": "Q20", "sub_label": "Saudafjord", "obj_label": "Norwegia", "predicate_id": "P17"}
+{"uuid": "a6805753-2abb-4a1a-a71e-2ff6e6b7bb99", "sub_uri": "Q1502208", "obj_uri": "Q408", "sub_label": "Kota Maribyrnong", "obj_label": "Australia", "predicate_id": "P17"}
+{"uuid": "9108d967-0201-4e3d-98c9-40c46eefb7b5", "sub_uri": "Q12523180", "obj_uri": "Q252", "sub_label": "Ulujadi, Palu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4b34713e-100d-40c0-a6b2-7ab44b76a554", "sub_uri": "Q1042928", "obj_uri": "Q668", "sub_label": "Tim nasional sepak bola wanita India", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "2256109a-3211-41da-b0a6-90ce52166fd6", "sub_uri": "Q2652349", "obj_uri": "Q96", "sub_label": "Munisipalitas San Francisco de los Romo", "obj_label": "Meksiko", "predicate_id": "P17"}
+{"uuid": "860c8cb0-973d-4c6b-853d-93326f79e192", "sub_uri": "Q12471100", "obj_uri": "Q252", "sub_label": "Air Sempiang, Kabawetan, Kepahiang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9e64f077-8139-4499-bb1c-6e98e1a140de", "sub_uri": "Q103413", "obj_uri": "Q38", "sub_label": "Agnosine", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "4aab1de4-938d-43c9-94c5-5065ce44c526", "sub_uri": "Q3090555", "obj_uri": "Q142", "sub_label": "Tour EDF", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "858ed288-67e4-47d6-8dd2-f97a700dfa9f", "sub_uri": "Q25469155", "obj_uri": "Q252", "sub_label": "SMA Negeri 12 Tangerang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5c450ecd-19e8-4029-804b-d72cf86e43d2", "sub_uri": "Q1327960", "obj_uri": "Q252", "sub_label": "Pegunungan Jayawijaya", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c41fd0fb-a807-455f-ab4a-3fb0d6c6c44b", "sub_uri": "Q7636747", "obj_uri": "Q252", "sub_label": "Stadion Sultan Syarif Abdurrahman", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "84d4012b-1329-43da-9c74-3e58bc88db37", "sub_uri": "Q276508", "obj_uri": "Q142", "sub_label": "Janvry, Essonne", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "df1581f6-a9a8-47c9-8aef-b6ebf81ad9f6", "sub_uri": "Q12500326", "obj_uri": "Q252", "sub_label": "Nelayan Indah, Medan Labuhan, Medan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a54265e0-c92f-4580-b283-05d32edaadc9", "sub_uri": "Q11143", "obj_uri": "Q252", "sub_label": "Kabupaten Tulungagung", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4f5383f5-77e6-4b90-99ab-e89a9f1eac6e", "sub_uri": "Q652457", "obj_uri": "Q183", "sub_label": "Extra Aircraft", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "e2839a72-a96e-4b7d-826a-5f2c0c329366", "sub_uri": "Q11109692", "obj_uri": "Q252", "sub_label": "Parakansalam, Pondok Salam, Purwakarta", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4cb026d4-b3d2-48fd-98fd-96ed3e493cbf", "sub_uri": "Q1547389", "obj_uri": "Q155", "sub_label": "Prelatur Teritorial Maraj\u00f3", "obj_label": "Brasil", "predicate_id": "P17"}
+{"uuid": "2cd6109a-526c-4d1d-baad-0560270dc666", "sub_uri": "Q819145", "obj_uri": "Q183", "sub_label": "Power Horse World Team Cup 2011", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "d76da68b-2015-4c11-9426-1f8218cf11a5", "sub_uri": "Q12495638", "obj_uri": "Q252", "sub_label": "Lunuk Ramba, Basarang, Kapuas", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9eb786b7-e5e1-493b-852b-eea88f9481ff", "sub_uri": "Q12499551", "obj_uri": "Q252", "sub_label": "Munggut, Padas, Ngawi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e3e164a9-26b2-478a-a8e3-57ab21de50ce", "sub_uri": "Q12519921", "obj_uri": "Q252", "sub_label": "Tapua, Matangnga, Polewali Mandar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "56848dbf-fca6-4ee2-9071-58b028e8113c", "sub_uri": "Q470664", "obj_uri": "Q142", "sub_label": "Neuvic, Corr\u00e8ze", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "310154c0-1df5-4350-bdd2-ca4bf1c6ad50", "sub_uri": "Q12490309", "obj_uri": "Q252", "sub_label": "Kedungdalem, Dringu, Probolinggo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "acf9ba48-30b9-4515-b076-37d507b061fa", "sub_uri": "Q758574", "obj_uri": "Q298", "sub_label": "Aucanquilcha", "obj_label": "Chili", "predicate_id": "P17"}
+{"uuid": "7576c267-7d74-4a57-903f-46c638eaa859", "sub_uri": "Q4189406", "obj_uri": "Q252", "sub_label": "Tanjung Senang, Bandar Lampung", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a8ac52e2-3628-4504-98b2-f898b745419e", "sub_uri": "Q12496895", "obj_uri": "Q252", "sub_label": "Mararena, Sarmi, Sarmi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c7b36e9e-6827-425f-ac18-c9dd38322f9e", "sub_uri": "Q668573", "obj_uri": "Q39", "sub_label": "FC Chiasso", "obj_label": "Swiss", "predicate_id": "P17"}
+{"uuid": "77368c33-5310-4ad3-b1e5-b3a00a41b35f", "sub_uri": "Q2902811", "obj_uri": "Q801", "sub_label": "Hubungan India dengan Israel", "obj_label": "Israel", "predicate_id": "P17"}
+{"uuid": "3d3447a6-610f-44bd-aba0-f531f60aca24", "sub_uri": "Q257949", "obj_uri": "Q183", "sub_label": "Soyen", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "b1f128cf-60e9-4a48-a289-78f520ad535b", "sub_uri": "Q1453489", "obj_uri": "Q142", "sub_label": "Noisy-sur-\u00c9cole", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "c8519452-a8b1-435d-a80d-0add847266f9", "sub_uri": "Q432169", "obj_uri": "Q928", "sub_label": "Dipolog", "obj_label": "Filipina", "predicate_id": "P17"}
+{"uuid": "b0bb2f2c-0f32-4276-83d5-c2b98a9c5916", "sub_uri": "Q12518969", "obj_uri": "Q252", "sub_label": "Tambakrejo, Tempel, Sleman", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "6a3fdbcb-8305-4a9b-98bb-e061d406c4dd", "sub_uri": "Q27693", "obj_uri": "Q252", "sub_label": "Kabupaten Merauke", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ab49addc-be89-46a1-804e-15740939c5e3", "sub_uri": "Q2302663", "obj_uri": "Q858", "sub_label": "Universitas Aleppo", "obj_label": "Suriah", "predicate_id": "P17"}
+{"uuid": "4246e783-bc84-46df-b43f-632ad24c1e2b", "sub_uri": "Q3548495", "obj_uri": "Q252", "sub_label": "Kebonadem, Brangsong, Kendal", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "56445ec5-3311-450d-b0c0-f5c3c9960a69", "sub_uri": "Q4149", "obj_uri": "Q183", "sub_label": "Neustadt an der Weinstra\u00dfe", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "47c9fb84-9a75-4e1c-b017-06df9bcb2636", "sub_uri": "Q12481529", "obj_uri": "Q252", "sub_label": "Diloato, Paguyaman, Boalemo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "15e5dcdd-cf13-49b4-84d9-9c7078c1d097", "sub_uri": "Q13148941", "obj_uri": "Q252", "sub_label": "Meluhu, Konawe", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a42d2228-450c-4049-8414-ce04ed85a5ae", "sub_uri": "Q12497165", "obj_uri": "Q252", "sub_label": "Martoba, Siantar Utara, Pematangsiantar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "847ea6d5-4c89-4044-add5-f80554fc7f3d", "sub_uri": "Q1433151", "obj_uri": "Q414", "sub_label": "Bandar Udara Internasional Ushuaia", "obj_label": "Argentina", "predicate_id": "P17"}
+{"uuid": "36c31a2b-1f16-4a35-8f91-db9c9b18443d", "sub_uri": "Q419452", "obj_uri": "Q142", "sub_label": "La Chapelle-Moutils", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "8eb29256-6153-4269-b4db-01296e6fc169", "sub_uri": "Q1201570", "obj_uri": "Q148", "sub_label": "Distrik Yangling", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "45fcfb5f-cf7c-495b-8099-499d3abc5eeb", "sub_uri": "Q12500915", "obj_uri": "Q252", "sub_label": "Nosu, Nosu, Mamasa", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "94470a07-861d-4061-bda3-f98aa4dca09b", "sub_uri": "Q646670", "obj_uri": "Q142", "sub_label": "Pouillat", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "c34290ed-7ce5-4944-8e6d-40f097ded2e4", "sub_uri": "Q12524052", "obj_uri": "Q252", "sub_label": "Wangunrejo, Turi, Lamongan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "71a6c362-1768-45cb-856c-0ea9959e5e6e", "sub_uri": "Q10853413", "obj_uri": "Q252", "sub_label": "Krucil, Probolinggo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "adde477a-8758-4d9f-bc73-a4e508b80a82", "sub_uri": "Q1069411", "obj_uri": "Q148", "sub_label": "Makam Xia Barat", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "01f47c9b-9426-4226-a62e-7cc6cd67764d", "sub_uri": "Q3441736", "obj_uri": "Q252", "sub_label": "Pulau Rondo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b871c7ba-6ee7-469f-83f9-2c5e66230e89", "sub_uri": "Q19748388", "obj_uri": "Q252", "sub_label": "SMP Negeri 2 Takalar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "46b0d9a8-aa08-409c-90d6-dd841ffa4a14", "sub_uri": "Q270845", "obj_uri": "Q142", "sub_label": "Herm\u00e9", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "9ed63b7c-2586-4afd-9e2a-8efaf4d4acb3", "sub_uri": "Q48937899", "obj_uri": "Q148", "sub_label": "Tantan (aplikasi)", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "6e8bc8d9-b9f8-4543-9d1b-10705bcee785", "sub_uri": "Q55602760", "obj_uri": "Q668", "sub_label": "Penghargaan Filmfare Selatan ke-31", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "e60d9c90-f919-4a3a-b599-9c3f1eb303f8", "sub_uri": "Q12473682", "obj_uri": "Q252", "sub_label": "Gedung Balai Kota Lama Padang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ba041d01-b85e-40fd-ad41-2cf1f1afbab6", "sub_uri": "Q15063466", "obj_uri": "Q38", "sub_label": "Associazione Calcio Femminile Dilettantistica Graphistudio Pordenone", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "d58414b5-f5b1-4256-b1aa-c7c09537cb18", "sub_uri": "Q4259132", "obj_uri": "Q252", "sub_label": "Lamunti, Mantangai, Kapuas", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "93cf77bb-551a-4aa9-97ef-9bb246d4d8ce", "sub_uri": "Q12502420", "obj_uri": "Q252", "sub_label": "Panasonic Awards 2005", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "345dc356-e448-434b-88ec-e1d9f8f149b2", "sub_uri": "Q385480", "obj_uri": "Q38", "sub_label": "Bonarcado", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "3a1e6f00-d6e7-48fa-9922-41989691ee81", "sub_uri": "Q250768", "obj_uri": "Q142", "sub_label": "Vitrai-sous-Laigle", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "c2a8841f-cd59-441c-882b-e7c91cbbe89e", "sub_uri": "Q776604", "obj_uri": "Q142", "sub_label": "Sungai Auron", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "2dd3880c-ddbf-45f9-9845-79980b84e081", "sub_uri": "Q197256", "obj_uri": "Q142", "sub_label": "Saint-Pierre-d'Irube", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "571c4ccf-9e13-473c-95d7-4799d8d65284", "sub_uri": "Q65208939", "obj_uri": "Q252", "sub_label": "Extramarks Indonesia", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2352028a-b86c-4018-bd19-c71c0bf2d8c0", "sub_uri": "Q175923", "obj_uri": "Q858", "sub_label": "Jableh", "obj_label": "Suriah", "predicate_id": "P17"}
+{"uuid": "75bd9981-d064-48ae-8525-549668587f5e", "sub_uri": "Q25465620", "obj_uri": "Q252", "sub_label": "D'Academy Menggoyang Indonesia 2015", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d9b8ddbc-7c92-4813-bd7e-7330dad2a11d", "sub_uri": "Q170040", "obj_uri": "Q159", "sub_label": "FC Rubin Kazan", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "a35ec864-a238-4e93-9563-cd44d2082f44", "sub_uri": "Q1078627", "obj_uri": "Q142", "sub_label": "Gajoubert", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "c9bfec8f-94bb-4591-a5f1-bb20076a0b02", "sub_uri": "Q19742050", "obj_uri": "Q252", "sub_label": "Sungai Besar, Batu Ampar, Kubu Raya", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9fb2ef8a-b131-4ec9-8c0a-d9e4f053207d", "sub_uri": "Q12493217", "obj_uri": "Q252", "sub_label": "Kwamki, Mimika Baru, Mimika", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4d19c183-11d9-413a-848e-e8def2dbb162", "sub_uri": "Q61365156", "obj_uri": "Q252", "sub_label": "Stasiun MRT Istora", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7e6c2ce5-f843-4dde-b3d6-c26e6357ef70", "sub_uri": "Q381151", "obj_uri": "Q31", "sub_label": "Bangsa Walonia", "obj_label": "Belgia", "predicate_id": "P17"}
+{"uuid": "da06d2a5-5a48-43ca-a259-8e0641473673", "sub_uri": "Q12514834", "obj_uri": "Q252", "sub_label": "Silungkang, Sawahlunto", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "82627435-d31f-4a51-80f4-3717fce4aba0", "sub_uri": "Q12493517", "obj_uri": "Q252", "sub_label": "Lajut, Praya Tengah, Lombok Tengah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9ed158c1-00e8-4a4e-aa84-69c3aea50eb4", "sub_uri": "Q4923135", "obj_uri": "Q252", "sub_label": "Ngadirejo, Temanggung", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f340aeca-f5dd-40a9-9b1c-4dad34e04496", "sub_uri": "Q13149349", "obj_uri": "Q252", "sub_label": "Sumberejo, Jatisrono, Wonogiri", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e1daadee-0934-45d7-8fe2-a0b043b4e907", "sub_uri": "Q2103598", "obj_uri": "Q252", "sub_label": "Jalur kereta api Muarakalaban\u2013Muaro\u2013Pekanbaru", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3232ecef-69cd-49f0-841d-197d7fe490b7", "sub_uri": "Q4565196", "obj_uri": "Q252", "sub_label": "Gempa bumi Alahan Panjang 1943", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "617307e6-244a-44d9-91e4-c014b0b6f77e", "sub_uri": "Q19728291", "obj_uri": "Q252", "sub_label": "Lapongkoda, Tempe, Wajo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8020aab7-df09-4583-8732-ca3831300586", "sub_uri": "Q19741500", "obj_uri": "Q252", "sub_label": "Suka Makmur, Simpang Kiri, Subulussalam", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a4dd691d-91eb-42dd-a090-6a5eda767e7b", "sub_uri": "Q243293", "obj_uri": "Q117", "sub_label": "Sekondi-Takoradi", "obj_label": "Ghana", "predicate_id": "P17"}
+{"uuid": "2a3cd41c-954f-4027-97e0-a18d3b575fdc", "sub_uri": "Q1403319", "obj_uri": "Q142", "sub_label": "Daftar tempat wisata di Paris", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "83e382ee-0118-4d3a-b391-ddad4d7d6d99", "sub_uri": "Q13544986", "obj_uri": "Q252", "sub_label": "Sungai Raya, Batang Tuaka, Indragiri Hilir", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e9c2a2fd-4e65-4b6a-a6f9-b9e3e5138785", "sub_uri": "Q12493856", "obj_uri": "Q252", "sub_label": "Langda, Yahukimo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7001c682-e784-490e-b4f5-04a4e5996c88", "sub_uri": "Q9643156", "obj_uri": "Q252", "sub_label": "Tanjungpinang Kota, Tanjungpinang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2dd23860-7e92-4535-be2a-858ef5798178", "sub_uri": "Q3526541", "obj_uri": "Q399", "sub_label": "Vertir Airlines", "obj_label": "Armenia", "predicate_id": "P17"}
+{"uuid": "488f3615-bfeb-4973-8593-be94d9bffb8d", "sub_uri": "Q15698716", "obj_uri": "Q252", "sub_label": "Stadion Mashud Wisnusaputra", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "6e58d981-721d-457b-8a07-23629bb2a9a4", "sub_uri": "Q757159", "obj_uri": "Q252", "sub_label": "Gunungjati, Cirebon", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "46472f99-d756-4a7c-a37e-7bd56abfc1ff", "sub_uri": "Q7120808", "obj_uri": "Q252", "sub_label": "PS Bungo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4af21b8c-4f5c-4219-b64f-0ebe3618cbe6", "sub_uri": "Q233632", "obj_uri": "Q262", "sub_label": "Provinsi Tilimsan", "obj_label": "Aljazair", "predicate_id": "P17"}
+{"uuid": "224e6849-cac8-4a30-963c-a9bced349b5d", "sub_uri": "Q12479940", "obj_uri": "Q252", "sub_label": "Daftar Wakil Menteri Pertanian Indonesia", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "71d1d2b3-4ff1-4c75-a853-89413648600a", "sub_uri": "Q12515455", "obj_uri": "Q252", "sub_label": "Sisobambowo, Mandrehe, Nias Barat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "405b42b5-3b69-443c-b92d-1d0bae89d7c7", "sub_uri": "Q12492845", "obj_uri": "Q252", "sub_label": "Kujan, Bulik, Lamandau", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "eed5dbdd-fcd4-4fbe-ad2c-5987734ab679", "sub_uri": "Q667650", "obj_uri": "Q1029", "sub_label": "Lichinga", "obj_label": "Mozambik", "predicate_id": "P17"}
+{"uuid": "24a44abb-1e45-4f3b-994f-c46d2a5f903c", "sub_uri": "Q1365592", "obj_uri": "Q148", "sub_label": "Keuskupan Agung Xi\u2019an", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "ad9494e4-a28d-470f-8ccf-761fba5d36ba", "sub_uri": "Q12500076", "obj_uri": "Q252", "sub_label": "Nanimori, Kuri Wamesa, Teluk Wondama", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "58ef02a7-df7c-4075-b2de-83d29ebd91b1", "sub_uri": "Q12494914", "obj_uri": "Q252", "sub_label": "Linawan, Pinolosian, Bolaang Mongondow Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "88cf2f22-62dd-4a08-8bc9-db78334ea0bc", "sub_uri": "Q4273414", "obj_uri": "Q252", "sub_label": "Bina Tunas Bangsa International School", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b53d18c1-3daf-4e1f-acd2-2dd2e03429bb", "sub_uri": "Q12508089", "obj_uri": "Q252", "sub_label": "Rapowawo, Nangapanda, Ende", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "216ba13c-219e-485c-81ca-9246671c206c", "sub_uri": "Q13094580", "obj_uri": "Q252", "sub_label": "Lahat, Lahat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b655400c-1ffc-4e6f-b55d-8df7620c0ac4", "sub_uri": "Q745121", "obj_uri": "Q142", "sub_label": "Kebun anggur Alsace", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "149436f5-17ea-4fe5-9966-e927c9cf0d5c", "sub_uri": "Q12502759", "obj_uri": "Q252", "sub_label": "Paninjauan, X Koto, Tanah Datar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7e100eca-9767-4fe3-abca-20bbbb23d432", "sub_uri": "Q12477441", "obj_uri": "Q252", "sub_label": "Bukaka, Kotabunan, Bolaang Mongondow Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "934808c0-7565-4bdf-8ea7-58d15b1ce333", "sub_uri": "Q1425790", "obj_uri": "Q29", "sub_label": "Hotel Arts", "obj_label": "Spanyol", "predicate_id": "P17"}
+{"uuid": "33f29458-3be0-484e-b23c-40fc7eed1b8d", "sub_uri": "Q4263926", "obj_uri": "Q252", "sub_label": "Sambirejo, Plupuh, Sragen", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "97683b2c-eb4a-49f8-8d5a-3a6bad0b686c", "sub_uri": "Q19730920", "obj_uri": "Q252", "sub_label": "Pintu Padang, Angkola Selatan, Tapanuli Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "93a17f1f-911b-42cd-a85a-425cf319266f", "sub_uri": "Q24827958", "obj_uri": "Q252", "sub_label": "Pulau Togean", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "dc03a5f5-9965-4a95-91e8-3885bbbd78b8", "sub_uri": "Q1076058", "obj_uri": "Q796", "sub_label": "Tanzim Qaidat al-Jihad fi Bilad al-Rafidayn", "obj_label": "Irak", "predicate_id": "P17"}
+{"uuid": "e098419a-656c-4935-a51b-2b7aaffd724a", "sub_uri": "Q4270218", "obj_uri": "Q252", "sub_label": "Tanahsari, Kebumen, Kebumen", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7eca06c2-645e-4931-acdf-f28ce9b0ae8e", "sub_uri": "Q6944035", "obj_uri": "Q17", "sub_label": "Stasiun Mutsu-Shirahama", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "a0b64b1e-9902-471f-9705-f8cca7aabeb9", "sub_uri": "Q7275290", "obj_uri": "Q668", "sub_label": "Kuil Witoba, Pandharpur", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "8f1534c0-830d-4215-a842-8bc68c0b02c8", "sub_uri": "Q1293929", "obj_uri": "Q55", "sub_label": "Universitas Franeker", "obj_label": "Belanda", "predicate_id": "P17"}
+{"uuid": "2300b529-b602-4f09-ace6-6012e1dd2afc", "sub_uri": "Q12496656", "obj_uri": "Q252", "sub_label": "Mangge, Barat, Magetan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c58ef9a9-434d-4345-aaf4-c3368d1ea4c2", "sub_uri": "Q12485467", "obj_uri": "Q252", "sub_label": "Hayaping, Awang, Barito Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f0b467ac-e73e-40fc-be51-cfccce9de5f0", "sub_uri": "Q220663", "obj_uri": "Q189", "sub_label": "Austurland", "obj_label": "Islandia", "predicate_id": "P17"}
+{"uuid": "bcf0a088-2a58-4563-a500-584d1cc6915f", "sub_uri": "Q24044990", "obj_uri": "Q252", "sub_label": "Tanjung Bungo, Kampa, Kampar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d76df67d-979a-47bd-ae09-6ede98f8641a", "sub_uri": "Q4267206", "obj_uri": "Q252", "sub_label": "Gintungan, Gebang, Purworejo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b5078e77-2d3d-4eca-8eb9-0817f5238d0c", "sub_uri": "Q5153783", "obj_uri": "Q408", "sub_label": "Pertemuan Kepala Pemerintahan Persemakmuran 2011", "obj_label": "Australia", "predicate_id": "P17"}
+{"uuid": "9830e638-3925-470c-871b-3534e6420bcc", "sub_uri": "Q2254656", "obj_uri": "Q159", "sub_label": "Eparki Kanash", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "bec5b09d-73de-4bc4-a1e1-521468a1b02c", "sub_uri": "Q593774", "obj_uri": "Q794", "sub_label": "Kudeta Iran 1953", "obj_label": "Iran", "predicate_id": "P17"}
+{"uuid": "dee5250b-d984-4e83-a8e1-2e812a23d634", "sub_uri": "Q36160", "obj_uri": "Q881", "sub_label": "H\u1ed9i An", "obj_label": "Vietnam", "predicate_id": "P17"}
+{"uuid": "d86aa31b-3832-46d4-b2d9-b4b5b364ddf3", "sub_uri": "Q3544693", "obj_uri": "Q252", "sub_label": "Bandar Udara Cakrabhuwana", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9c312293-2905-4815-832a-69da3b542b32", "sub_uri": "Q11020715", "obj_uri": "Q252", "sub_label": "Gebangsari, Genuk, Semarang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1c4c43a6-07da-4c77-8931-a02d03b37064", "sub_uri": "Q11047194", "obj_uri": "Q252", "sub_label": "Sidamulya, Astanajapura, Cirebon", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a4612031-6235-462d-8d82-80649dcc5ee9", "sub_uri": "Q694976", "obj_uri": "Q38", "sub_label": "Keuskupan Acireale", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "c916dfd0-2529-4418-834a-5e5fc301075e", "sub_uri": "Q12503606", "obj_uri": "Q252", "sub_label": "Pasir Putih, Sawangan, Depok", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "582beebb-a03e-45f6-8081-9eec468d3f36", "sub_uri": "Q12481573", "obj_uri": "Q252", "sub_label": "Dipa, Nabire", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ec7a62fc-c83c-452e-b22b-fd077dae0ecb", "sub_uri": "Q118055", "obj_uri": "Q148", "sub_label": "Stasiun Kereta Xi'an", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "fd3dad70-2abb-4d12-b271-734dd4d7e00e", "sub_uri": "Q19725202", "obj_uri": "Q252", "sub_label": "Dangia, Kolaka Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "abce9cb1-c2ef-4405-a59b-23f019b8e168", "sub_uri": "Q20078727", "obj_uri": "Q233", "sub_label": "Benteng Mdina", "obj_label": "Malta", "predicate_id": "P17"}
+{"uuid": "34a57759-6a4a-4e7d-881c-f6db69b58009", "sub_uri": "Q17999084", "obj_uri": "Q252", "sub_label": "Batu Binumbun, Muara, Tapanuli Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "353523b3-2104-47b9-b0d5-b91d49af3763", "sub_uri": "Q9297357", "obj_uri": "Q252", "sub_label": "Gempol, Pasuruan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8389b705-6f9c-4a11-b4cf-457eebdc8bf1", "sub_uri": "Q5379373", "obj_uri": "Q17", "sub_label": "Stasiun Enokido (Aichi)", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "9be3131b-f857-493a-88e5-7cc95e1e38af", "sub_uri": "Q1199595", "obj_uri": "Q159", "sub_label": "Lagu kebangsaan Republik Tatarstan", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "76e35260-a6b9-4072-8f8c-a52a3535e485", "sub_uri": "Q19752354", "obj_uri": "Q252", "sub_label": "Panasonic Awards 2000", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4ec50ec7-33cd-4db6-827d-7e9c0fbe65bf", "sub_uri": "Q752259", "obj_uri": "Q219", "sub_label": "Partai Sosialis Bulgaria", "obj_label": "Bulgaria", "predicate_id": "P17"}
+{"uuid": "8795ca04-bb5c-492b-8c5b-5dfb2a79a2fb", "sub_uri": "Q12506340", "obj_uri": "Q252", "sub_label": "Prambonwetan, Rengel, Tuban", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a8446c02-4598-4872-82fc-fcf909653850", "sub_uri": "Q20238", "obj_uri": "Q38", "sub_label": "Morozzo", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "e85c3008-bb9e-4d62-8af8-08cf8cff2923", "sub_uri": "Q61364903", "obj_uri": "Q252", "sub_label": "Periuk, Betayau, Tana Tidung", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "fd3c2589-126b-4d66-90f3-d2c56dafc36f", "sub_uri": "Q25266915", "obj_uri": "Q252", "sub_label": "Bakalan, Grogol, Kediri", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2dd71263-adc9-41ae-b8f9-3dede095ac8f", "sub_uri": "Q4521747", "obj_uri": "Q39", "sub_label": "Swiss dalam Kontes Lagu Eurovision 2007", "obj_label": "Swiss", "predicate_id": "P17"}
+{"uuid": "25c80543-90e4-4be6-ad9f-0d06c5632891", "sub_uri": "Q1094859", "obj_uri": "Q142", "sub_label": "Le M\u00e9nil-Bro\u00fbt", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "2e38f53b-694c-459d-9085-1dd010586d1e", "sub_uri": "Q4575947", "obj_uri": "Q38", "sub_label": "Pemilihan Kepausan 1216", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "40a6b47d-11f6-42e1-98c8-650aab2f839f", "sub_uri": "Q19577535", "obj_uri": "Q252", "sub_label": "Perst Tabanan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "730ecac1-6202-48e1-9dc9-64f1809df933", "sub_uri": "Q1349118", "obj_uri": "Q298", "sub_label": "Selknam", "obj_label": "Chili", "predicate_id": "P17"}
+{"uuid": "b7a135d7-f230-46c7-b4cb-f686194978c2", "sub_uri": "Q48734865", "obj_uri": "Q836", "sub_label": "Pembantaian Inn Din", "obj_label": "Myanmar", "predicate_id": "P17"}
+{"uuid": "95818b06-3917-4485-ba56-3f32a3c8df0e", "sub_uri": "Q19729013", "obj_uri": "Q252", "sub_label": "Matani Satu, Tumpaan, Minahasa Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b86b6999-d61c-4260-9331-cfb16c3c54e7", "sub_uri": "Q12513975", "obj_uri": "Q252", "sub_label": "Seuleumak, Serbajadi, Aceh Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a7da7f6a-492e-4219-9d6c-81a33cfaf238", "sub_uri": "Q208538", "obj_uri": "Q142", "sub_label": "Vierzon", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "642f5c41-f5bd-4861-b2b0-6cca59bf03f8", "sub_uri": "Q837", "obj_uri": "Q837", "sub_label": "Nepal", "obj_label": "Nepal", "predicate_id": "P17"}
+{"uuid": "af383ff7-129f-48bd-9289-cd5f0cb54380", "sub_uri": "Q1442251", "obj_uri": "Q29", "sub_label": "Villanueva de San Juan", "obj_label": "Spanyol", "predicate_id": "P17"}
+{"uuid": "0cae9dfe-c9bb-489b-869b-fb6abdddd8c9", "sub_uri": "Q12503352", "obj_uri": "Q252", "sub_label": "Parupuk Jae, Padang Bolak Julu, Padang Lawas Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "84088be2-1bea-4044-8a51-2b9dd5f43910", "sub_uri": "Q19733129", "obj_uri": "Q252", "sub_label": "Sepulut, Sepauk, Sintang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "14d96077-dbe7-4350-8535-1f59667ebc49", "sub_uri": "Q11234522", "obj_uri": "Q252", "sub_label": "Kertarahayu, Talaga, Majalengka", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "887d38e1-a3b7-4f6a-b6a4-609b84ad67b8", "sub_uri": "Q12495464", "obj_uri": "Q252", "sub_label": "Lubuk Segonang, Kandis, Ogan Ilir", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "48b035c9-599e-42e1-bc2d-65009cdb71d2", "sub_uri": "Q187483", "obj_uri": "Q142", "sub_label": "Dewangga Bayeux", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "6eaf91e2-1b0e-406f-b49c-3d3637c0315a", "sub_uri": "Q12522528", "obj_uri": "Q252", "sub_label": "Tukadaya, Melaya, Jembrana", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "8bdbc074-6458-4c48-9ce1-efc8218e3a1a", "sub_uri": "Q14933502", "obj_uri": "Q252", "sub_label": "SDN Jati 06 Pagi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e8bac2f0-6df8-4901-a2fd-bfb233bc8a39", "sub_uri": "Q12476449", "obj_uri": "Q252", "sub_label": "Bitai, Jaya Baru, Banda Aceh", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "653ed189-6865-4fda-971a-82e2037ce29d", "sub_uri": "Q12515673", "obj_uri": "Q252", "sub_label": "Slawi Kulon, Slawi, Tegal", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2484bbdc-8e1d-45a3-a4d6-a563adc4c315", "sub_uri": "Q4881132", "obj_uri": "Q148", "sub_label": "Jalan Finansial Beijing", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "bca6c83e-9643-45ef-b452-cd67bbfb66ec", "sub_uri": "Q28725445", "obj_uri": "Q252", "sub_label": "SMK Negeri 2 Kota Sungai Penuh", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3f9ea61a-31c0-4435-aea8-f91701873127", "sub_uri": "Q7475537", "obj_uri": "Q252", "sub_label": "Kotayasa, Sumbang, Banyumas", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "18e4646d-cb71-4d81-812d-0991a23c2788", "sub_uri": "Q7290086", "obj_uri": "Q836", "sub_label": "Ramree", "obj_label": "Myanmar", "predicate_id": "P17"}
+{"uuid": "12b4e4e5-b0c0-4936-aba9-3385b93016a6", "sub_uri": "Q11213700", "obj_uri": "Q252", "sub_label": "Bojong, Banjarwangi, Garut", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d88e685e-7d5a-4751-9b69-082ea35d1892", "sub_uri": "Q1642046", "obj_uri": "Q224", "sub_label": "Vi\u0161njan", "obj_label": "Kroasia", "predicate_id": "P17"}
+{"uuid": "beb8cf9f-75c5-40ba-b7c5-8c400d54d440", "sub_uri": "Q19726151", "obj_uri": "Q252", "sub_label": "Hakim Peteri Pintu, Mesidah, Bener Meriah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e53ea1d9-0abd-4d83-bae7-d8156d4d47b2", "sub_uri": "Q2171280", "obj_uri": "Q252", "sub_label": "Stasiun Jombang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b8bff256-d70d-4f1b-bfaa-4c30b41c85d1", "sub_uri": "Q4211780", "obj_uri": "Q252", "sub_label": "Mentawa Baru Hilir, Mentawa Baru Ketapang, Kotawaringin Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b692f675-d27c-4372-baca-9a66c9dc8298", "sub_uri": "Q502981", "obj_uri": "Q17", "sub_label": "Miyako, Iwate", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "03fa982d-570c-4c88-8476-c8f727908afd", "sub_uri": "Q2255709", "obj_uri": "Q38", "sub_label": "Rovigo Calcio", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "2b418479-1125-4e7b-bb28-4b5fac2e9f18", "sub_uri": "Q57891", "obj_uri": "Q183", "sub_label": "Geyer", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "c183cba5-dd7b-429e-b7b2-1ca08834b5ef", "sub_uri": "Q392110", "obj_uri": "Q142", "sub_label": "IONIS Education Group", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "64abffa0-3547-44e1-a3c6-f9644f3ede2c", "sub_uri": "Q60785855", "obj_uri": "Q252", "sub_label": "Watuagung, Dongko, Trenggalek", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f7f0aecc-2f79-46b3-8516-9c13a0b302be", "sub_uri": "Q3590737", "obj_uri": "Q1033", "sub_label": "Tim nasional sepak bola U-17 Nigeria", "obj_label": "Nigeria", "predicate_id": "P17"}
+{"uuid": "9e8702ec-1a80-4e65-8029-617a6568a288", "sub_uri": "Q36206", "obj_uri": "Q159", "sub_label": "Bahasa Lak", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "b8767109-586a-4ec5-b4ac-42dfb8e8063b", "sub_uri": "Q12482104", "obj_uri": "Q252", "sub_label": "Dumara, Dumoga Utara, Bolaang Mongondow", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "0d8b9449-b2ae-43d8-89e6-866ced2afc84", "sub_uri": "Q4137588", "obj_uri": "Q28513", "sub_label": "Kadipaten Bukovina", "obj_label": "Austria-Hongaria", "predicate_id": "P17"}
+{"uuid": "71036ad8-6b11-42b2-998f-550fc9fbb842", "sub_uri": "Q12509459", "obj_uri": "Q252", "sub_label": "SDN Cipinang Muara 13", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "44796c21-88fc-4491-b4fd-3df232bf2eb9", "sub_uri": "Q12517793", "obj_uri": "Q252", "sub_label": "Sungai Duri, Sungai Raya, Bengkayang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f9c28a49-ddd8-4c4a-9244-2200f8c172e3", "sub_uri": "Q13547105", "obj_uri": "Q252", "sub_label": "Bunutin, Kintamani, Bangli", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5062dac6-8662-4beb-add8-3f57e6a90b93", "sub_uri": "Q10984845", "obj_uri": "Q252", "sub_label": "Solowire, Kebonagung, Demak", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3d9f7b07-3387-482e-b55d-8e4845f7e4bc", "sub_uri": "Q12495146", "obj_uri": "Q252", "sub_label": "Lolosoni, Gomo, Nias Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "be6d3d7c-cbbf-4373-ad2e-a5861074d17f", "sub_uri": "Q12510006", "obj_uri": "Q252", "sub_label": "SD Negeri 7 Bulungcangkring", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a16af6b1-f4fc-40ab-bc33-045bf3a12ae8", "sub_uri": "Q938032", "obj_uri": "Q29", "sub_label": "IBEX 35", "obj_label": "Spanyol", "predicate_id": "P17"}
+{"uuid": "240f052b-c856-433e-a90b-742492d04bf7", "sub_uri": "Q13493790", "obj_uri": "Q252", "sub_label": "Celuk, Sukawati, Gianyar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "de23cb79-0468-4c20-83e2-dd5a3951e7e1", "sub_uri": "Q2704093", "obj_uri": "Q298", "sub_label": "Pemerintahan militer Chili (1973\u20131990)", "obj_label": "Chili", "predicate_id": "P17"}
+{"uuid": "bd2a6e37-86b5-46f1-be85-1e9a9b7c7931", "sub_uri": "Q12498186", "obj_uri": "Q252", "sub_label": "Mercury 96 FM", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c09380fa-3c09-40d1-971c-9187a8fef4e0", "sub_uri": "Q160094", "obj_uri": "Q881", "sub_label": "Bandar Udara Internasional Phu Bai", "obj_label": "Vietnam", "predicate_id": "P17"}
+{"uuid": "82607fc1-d8c9-4ee3-a307-e39720f55a4d", "sub_uri": "Q13517309", "obj_uri": "Q252", "sub_label": "Buntalan, Klaten Tengah, Klaten", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e41578c6-85cb-4a30-80d5-e27c4f319561", "sub_uri": "Q12504117", "obj_uri": "Q252", "sub_label": "Pekan Tebih, Kepenuhan, Rokan Hulu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d72d1b0c-4278-4f95-a6c3-f5595f280c01", "sub_uri": "Q19745345", "obj_uri": "Q252", "sub_label": "Sabeab Kecil, Kemtuk, Jayapura", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c49a0f17-5275-4db1-896e-d46268fe2ea0", "sub_uri": "Q866895", "obj_uri": "Q155", "sub_label": "Keuskupan Ara\u00e7ua\u00ed", "obj_label": "Brasil", "predicate_id": "P17"}
+{"uuid": "a70c7567-768e-4e0d-b6da-4075f72b5a84", "sub_uri": "Q13542448", "obj_uri": "Q252", "sub_label": "Kalijaten, Taman, Sidoarjo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "074be356-95d6-4d38-9538-2b1f55afb9e7", "sub_uri": "Q13545518", "obj_uri": "Q252", "sub_label": "Purba Dolok, Dolok Sanggul, Humbang Hasundutan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a01d2a16-20c5-44c0-ad16-a6a5808bae6b", "sub_uri": "Q19726178", "obj_uri": "Q252", "sub_label": "Halte Kalisamin", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e1b9661d-5d63-4dd3-9928-fcbffc928f56", "sub_uri": "Q641628", "obj_uri": "Q17", "sub_label": "Klan Fujiwara", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "76c08287-3ab1-46ab-8c34-24d4fafc1924", "sub_uri": "Q15963795", "obj_uri": "Q1033", "sub_label": "Keuskupan Pankshin", "obj_label": "Nigeria", "predicate_id": "P17"}
+{"uuid": "6338baaa-6b8e-49dc-a336-b03f5629cf97", "sub_uri": "Q25427474", "obj_uri": "Q833", "sub_label": "Kuala Lumpur FA", "obj_label": "Malaysia", "predicate_id": "P17"}
+{"uuid": "fc105ccd-7009-42f5-ad01-b732e1d9ff6d", "sub_uri": "Q19730377", "obj_uri": "Q252", "sub_label": "Parsaoran, Sitio-tio, Samosir", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1555fbd4-7851-4f6c-be7f-10d7d5402985", "sub_uri": "Q931156", "obj_uri": "Q17", "sub_label": "GS Yuasa", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "fab43fd2-b258-4732-a52b-d7959d342837", "sub_uri": "Q11015176", "obj_uri": "Q252", "sub_label": "Rowobungkul, Ngawen, Blora", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a6d8218c-6bdb-437a-84da-1b6888acb6b0", "sub_uri": "Q12702819", "obj_uri": "Q252", "sub_label": "SDN Bidaracina 04", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f0bf74c8-24cc-4178-9898-08448d37af91", "sub_uri": "Q12503387", "obj_uri": "Q252", "sub_label": "Pasar Baru, Lahat, Lahat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e1823cbe-9999-47a5-8bd3-c22f1e6692b5", "sub_uri": "Q21332452", "obj_uri": "Q252", "sub_label": "Dayah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "35b46d5d-5793-417d-934f-b6d8625325e8", "sub_uri": "Q891560", "obj_uri": "Q414", "sub_label": "Bursa Saham Buenos Aires", "obj_label": "Argentina", "predicate_id": "P17"}
+{"uuid": "cdc08b16-04a6-4307-9079-4f467f36f4a4", "sub_uri": "Q426064", "obj_uri": "Q142", "sub_label": "Place Stanislas", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "a6a22e07-7cf7-4402-8c04-930db2cc2808", "sub_uri": "Q12499145", "obj_uri": "Q252", "sub_label": "Muara Baru, Lawe Alas, Aceh Tenggara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e03518b1-d67c-4249-b02f-d88aafb84388", "sub_uri": "Q191730", "obj_uri": "Q159", "sub_label": "Suku Evenk", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "27c48a1b-7358-48ba-b217-7b4028abf735", "sub_uri": "Q326188", "obj_uri": "Q36", "sub_label": "Pomerelia", "obj_label": "Polandia", "predicate_id": "P17"}
+{"uuid": "4b348586-0509-41e7-949f-1bc341b2e779", "sub_uri": "Q5603240", "obj_uri": "Q408", "sub_label": "Green Square, New South Wales", "obj_label": "Australia", "predicate_id": "P17"}
+{"uuid": "1d59275b-5df0-463f-969c-738b8261ffdf", "sub_uri": "Q72253", "obj_uri": "Q38", "sub_label": "Massa di Somma", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "031319c7-367d-44ba-88dc-33afbcbd2323", "sub_uri": "Q19731882", "obj_uri": "Q252", "sub_label": "Sanggapati, Angkola Timur, Tapanuli Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a8145456-f1cb-4df2-9488-88b006014300", "sub_uri": "Q12480970", "obj_uri": "Q252", "sub_label": "Darussalam, Panyabungan, Mandailing Natal", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5c5f9d9a-0803-4199-95d5-edd224070574", "sub_uri": "Q7383932", "obj_uri": "Q252", "sub_label": "MargoCity", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "99c324d2-605c-4bb7-b943-f9c4bc028865", "sub_uri": "Q1003080", "obj_uri": "Q833", "sub_label": "Konstitusi Malaysia", "obj_label": "Malaysia", "predicate_id": "P17"}
+{"uuid": "5bc68a37-caba-43e3-84af-3390ab7d839a", "sub_uri": "Q4261607", "obj_uri": "Q252", "sub_label": "Lampihong Kiri, Lampihong, Balangan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9785dd96-4497-4599-af49-0269122fb3b3", "sub_uri": "Q14747286", "obj_uri": "Q252", "sub_label": "Suko Pangkat, Gunung Kerinci, Kerinci", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "81b3fdf0-58aa-4f67-b395-1e9923e19861", "sub_uri": "Q20427708", "obj_uri": "Q252", "sub_label": "Masyarakat Telematika Indonesia", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "dea11118-9358-434c-8e4a-8d09e95dfb4e", "sub_uri": "Q7680527", "obj_uri": "Q17", "sub_label": "Stasiun Tamae", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "6d5cdc66-0353-4d0a-8044-0e074544d66b", "sub_uri": "Q14524552", "obj_uri": "Q183", "sub_label": "Lapp Group", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "cde51424-94cd-4e12-b50c-da9b9c1f2b11", "sub_uri": "Q171334", "obj_uri": "Q212", "sub_label": "Oblast Zaporizhia", "obj_label": "Ukraina", "predicate_id": "P17"}
+{"uuid": "81f80482-7162-4f2c-bba2-2b6384116e19", "sub_uri": "Q12479928", "obj_uri": "Q252", "sub_label": "Daftar Wakil Menteri Badan Usaha Milik Negara Indonesia", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "daf1ed4d-957a-4bfa-a832-aef1640c5c77", "sub_uri": "Q4258087", "obj_uri": "Q252", "sub_label": "Mandi Kapau Barat, Karang Intan, Banjar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "12e2ce3f-84bd-4a85-a1ac-58762140142e", "sub_uri": "Q2308140", "obj_uri": "Q668", "sub_label": "Kangeyam", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "0db47890-e57b-4421-9e53-8c046d015168", "sub_uri": "Q3235075", "obj_uri": "Q17", "sub_label": "Bandar Udara Kumejima", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "9990ecbe-454e-46e8-8930-16bdd40c7f70", "sub_uri": "Q18638961", "obj_uri": "Q252", "sub_label": "Longsor Jemblung 2014", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f461f444-48f7-484f-b1b2-fc5618609d23", "sub_uri": "Q12518683", "obj_uri": "Q252", "sub_label": "Talang Alai, Air Periukan, Seluma", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f491a1b8-4a42-4816-a9db-5398659bffe5", "sub_uri": "Q12492482", "obj_uri": "Q252", "sub_label": "Krajan, Parang, Magetan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5d103efa-dcc0-49cb-a1da-5080b959ae81", "sub_uri": "Q913370", "obj_uri": "Q817", "sub_label": "Kegubernuran Mubarak Al-Kabeer", "obj_label": "Kuwait", "predicate_id": "P17"}
+{"uuid": "c84a467e-3c82-4a8c-8112-dd02f49710cc", "sub_uri": "Q12483769", "obj_uri": "Q252", "sub_label": "Gembongan, Banyusari, Karawang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "0f33e2e1-bb45-4441-b5c2-30e54470ab6d", "sub_uri": "Q13544436", "obj_uri": "Q252", "sub_label": "Pagar Dewa, Sukau, Lampung Barat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c9ddb9f5-d795-4a30-aa0d-171c918b5df6", "sub_uri": "Q11053792", "obj_uri": "Q252", "sub_label": "Pilangpayung, Toroh, Grobogan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "0f248dda-8743-4fd7-b452-8739a95423e1", "sub_uri": "Q7876731", "obj_uri": "Q17", "sub_label": "Stasiun Uchino-Nishigaoka", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "0e3bff4c-75d5-4900-a818-56a1d4ee9a59", "sub_uri": "Q266175", "obj_uri": "Q40", "sub_label": "Keuskupan Eisenstadt", "obj_label": "Austria", "predicate_id": "P17"}
+{"uuid": "b7cfe9b7-7d58-4b09-8f2b-dacad3825835", "sub_uri": "Q156011", "obj_uri": "Q222", "sub_label": "Hutan Primeval dan Kuno Beech dari Karpatia dan Kawasan Eropa Lainnya", "obj_label": "Albania", "predicate_id": "P17"}
+{"uuid": "d320cd83-c037-4a0b-9538-155201dfbea2", "sub_uri": "Q1348864", "obj_uri": "Q711", "sub_label": "Lapangan S\u00fckhbaatar", "obj_label": "Mongolia", "predicate_id": "P17"}
+{"uuid": "7d179d7b-2f58-4f4b-8c5e-16832de31f34", "sub_uri": "Q13549257", "obj_uri": "Q252", "sub_label": "Tadewa, Wera, Bima", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "56b4f4fd-6759-4539-87c4-c7544e41042b", "sub_uri": "Q235411", "obj_uri": "Q1006", "sub_label": "Tim nasional sepak bola Guinea", "obj_label": "Guinea", "predicate_id": "P17"}
+{"uuid": "f5842fd5-11e2-4e3b-8867-5f657b2e1ba0", "sub_uri": "Q4185", "obj_uri": "Q183", "sub_label": "Lingen", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "2700fb21-3e6a-4450-9909-abd52d52fd4c", "sub_uri": "Q391218", "obj_uri": "Q38", "sub_label": "Pattada", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "fa47eed8-ffd8-49c8-afe8-483efad8eeb0", "sub_uri": "Q7476384", "obj_uri": "Q252", "sub_label": "Ngadipurwo, Blora, Blora", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "515718db-704d-43cb-94af-79ab01b774d2", "sub_uri": "Q12482911", "obj_uri": "Q833", "sub_label": "Festival Film Malaysia ke-22", "obj_label": "Malaysia", "predicate_id": "P17"}
+{"uuid": "68e37e4a-b391-4f80-86df-a4d0416f3a29", "sub_uri": "Q698268", "obj_uri": "Q28456", "sub_label": "Tiga Kerajaan Akhir Korea", "obj_label": "Silla", "predicate_id": "P17"}
+{"uuid": "f83788c1-6f42-4ad7-acab-eedeffb94ce0", "sub_uri": "Q6627266", "obj_uri": "Q211", "sub_label": "Daftar pembantaian di Latvia", "obj_label": "Latvia", "predicate_id": "P17"}
+{"uuid": "39ba18c6-b8b9-473f-9fe0-55fac0422d21", "sub_uri": "Q12488323", "obj_uri": "Q252", "sub_label": "Kabonga Besar, Banawa, Donggala", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "74ef2015-4e64-45db-b893-a9711614d46f", "sub_uri": "Q7034489", "obj_uri": "Q17", "sub_label": "Stasiun Niitsu", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "6a9534fe-78d0-4814-8fb5-573e523916d1", "sub_uri": "Q11013043", "obj_uri": "Q252", "sub_label": "Cepogo, Cepogo, Boyolali", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "96e13c22-a9c2-4779-90ea-a9b642afc791", "sub_uri": "Q12488974", "obj_uri": "Q252", "sub_label": "Kampung Jalan, Nurussalam, Aceh Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4c7b7161-1e33-4c45-a423-6e4f6856f5bc", "sub_uri": "Q13149219", "obj_uri": "Q252", "sub_label": "Sambungpayak, Gunem, Rembang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ed880be3-93ff-47bf-b940-99bddb300180", "sub_uri": "Q571429", "obj_uri": "Q183", "sub_label": "Panavia Aircraft GmbH", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "8d691b18-c2b8-47cb-a969-99bfd581df25", "sub_uri": "Q2949168", "obj_uri": "Q408", "sub_label": "National Soccer League 2000\u20132001", "obj_label": "Australia", "predicate_id": "P17"}
+{"uuid": "332ac710-6e53-4544-b222-5933eb63ce22", "sub_uri": "Q2034007", "obj_uri": "Q34", "sub_label": "Bergshamra (Stockholms tunnelbana)", "obj_label": "Swedia", "predicate_id": "P17"}
+{"uuid": "3b92e37e-8084-4d1d-a654-da89ef9bf769", "sub_uri": "Q20716579", "obj_uri": "Q252", "sub_label": "Sungai Salawai", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b8735f39-580d-41b1-b51d-42d985515840", "sub_uri": "Q82425", "obj_uri": "Q183", "sub_label": "Gerbang Brandenburg", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "adcc5e58-31c3-42e7-b09a-156732aecc44", "sub_uri": "Q12524900", "obj_uri": "Q252", "sub_label": "Wujil, Bergas, Semarang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "674fcf84-ae45-4e93-9ea0-b85524cf670b", "sub_uri": "Q1862862", "obj_uri": "Q252", "sub_label": "Pulau Lingga", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "744ea78c-95c9-4748-8db0-f9f4b6a57439", "sub_uri": "Q12513714", "obj_uri": "Q252", "sub_label": "Sepang, Toho, Mempawah", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "0eec9db6-7980-4d59-a4e2-c77f346ae6e5", "sub_uri": "Q216151", "obj_uri": "Q869", "sub_label": "Etnis Vietnam", "obj_label": "Thailand", "predicate_id": "P17"}
+{"uuid": "9d5aa71a-3623-4b69-acea-44b799b778dd", "sub_uri": "Q13545152", "obj_uri": "Q252", "sub_label": "Pekan Labuhan, Medan Labuhan, Medan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "bc530e53-2cb3-4d01-930c-efeb1057359e", "sub_uri": "Q28163813", "obj_uri": "Q252", "sub_label": "Harimau (tank)", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c8fa0637-9004-4f51-bd1e-ac0352427e68", "sub_uri": "Q12499800", "obj_uri": "Q252", "sub_label": "Nabonggal, Dolok, Padang Lawas Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "11bffe33-e445-4c77-afb7-b1f792a5643b", "sub_uri": "Q18201640", "obj_uri": "Q36", "sub_label": "Monumen Wikipedia", "obj_label": "Polandia", "predicate_id": "P17"}
+{"uuid": "0f0955af-1e42-411c-9afd-95fa6cb08495", "sub_uri": "Q11106870", "obj_uri": "Q252", "sub_label": "Cikendung, Pulosari, Pemalang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "54bbae11-960d-479d-a26d-21423850dc88", "sub_uri": "Q12501049", "obj_uri": "Q252", "sub_label": "Nusa Serasan, Sungai Lilin, Musi Banyuasin", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "294b1bb8-95d9-4d89-9b62-89fe5dd93606", "sub_uri": "Q6424645", "obj_uri": "Q252", "sub_label": "Rambah, Rokan Hulu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e0fe478e-4986-434d-8cf2-fec8d844cb76", "sub_uri": "Q528151", "obj_uri": "Q242", "sub_label": "Juventus (Belize)", "obj_label": "Belize", "predicate_id": "P17"}
+{"uuid": "dadf3011-3e9d-4592-aa50-c1febe6b1acb", "sub_uri": "Q4698752", "obj_uri": "Q408", "sub_label": "Airline Partners Australia", "obj_label": "Australia", "predicate_id": "P17"}
+{"uuid": "b210abba-db4e-48e1-b73b-c259a0b6b52c", "sub_uri": "Q65061424", "obj_uri": "Q252", "sub_label": "Kawasan Malang Raya", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "26d7d77d-8dfc-4685-9c04-3d3ee210cf43", "sub_uri": "Q19730473", "obj_uri": "Q252", "sub_label": "Paslaten, Kauditan, Minahasa Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a9dfe249-c9f6-4449-85c6-ed2a85ba9584", "sub_uri": "Q179248", "obj_uri": "Q183", "sub_label": "Bangsa Albania", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "e4a65095-d545-40d7-b6ee-9b82e1500061", "sub_uri": "Q60680995", "obj_uri": "Q252", "sub_label": "Karangmulyo, Sudimoro, Pacitan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1cc037c9-d035-4185-bf07-1682f9a552d7", "sub_uri": "Q1280737", "obj_uri": "Q17", "sub_label": "Echizen, Fukui (kota kecil)", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "d0eb8db0-0492-4dff-82b2-ca46440b2444", "sub_uri": "Q182803", "obj_uri": "Q954", "sub_label": "Dolar Zimbabwe", "obj_label": "Zimbabwe", "predicate_id": "P17"}
+{"uuid": "0dde4f75-ed64-4b23-a925-5fa6becc86ed", "sub_uri": "Q1018771", "obj_uri": "Q148", "sub_label": "Akademi Angkatan Laut Dalian", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "962dfbf8-968d-46c9-a3be-fb97e59361e9", "sub_uri": "Q4210159", "obj_uri": "Q252", "sub_label": "Makunjung, Barito Tuhup Raya, Murung Raya", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2f6e8a0e-87e1-49ce-8cab-ca9fd7c09572", "sub_uri": "Q1432137", "obj_uri": "Q869", "sub_label": "Bandar Udara Narathiwat", "obj_label": "Thailand", "predicate_id": "P17"}
+{"uuid": "80d07aeb-80af-4028-9830-953be8bc195a", "sub_uri": "Q12479006", "obj_uri": "Q252", "sub_label": "Cililitan, Kramat Jati, Jakarta Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "be640c97-8cb7-4ae4-8141-2387b51182dd", "sub_uri": "Q2630", "obj_uri": "Q159", "sub_label": "Ivanovo", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "83f4d4f2-6de9-4398-a570-d1d379aceafc", "sub_uri": "Q11156510", "obj_uri": "Q252", "sub_label": "Gunung Tanjung, Cisolok, Sukabumi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7a9f1d3a-f78f-4043-8a52-b3838ab8899f", "sub_uri": "Q12711668", "obj_uri": "Q252", "sub_label": "Tojo, Tojo, Tojo Una-Una", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a52c8658-01d8-4e11-97e1-ab18273f8a5b", "sub_uri": "Q31173129", "obj_uri": "Q252", "sub_label": "SD Negeri 2 Tilongkabila", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "d6b03b87-ce1f-4f5d-83c6-43b3f292666b", "sub_uri": "Q3296677", "obj_uri": "Q236", "sub_label": "Munisipalitas Ro\u017eaje", "obj_label": "Montenegro", "predicate_id": "P17"}
+{"uuid": "da0812aa-9abc-44e0-bcd8-c1a239b76186", "sub_uri": "Q9058", "obj_uri": "Q214", "sub_label": "Bahasa Slowakia", "obj_label": "Slowakia", "predicate_id": "P17"}
+{"uuid": "0cad9706-61dd-44b4-8630-dcb922582e55", "sub_uri": "Q13544725", "obj_uri": "Q252", "sub_label": "Karang Tanding, Jarai, Lahat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f039c37c-d763-423b-bcdd-cbd445735c24", "sub_uri": "Q2592472", "obj_uri": "Q801", "sub_label": "Zochrot", "obj_label": "Israel", "predicate_id": "P17"}
+{"uuid": "fb4dff0d-cc00-4360-95bb-36593e829322", "sub_uri": "Q12513021", "obj_uri": "Q252", "sub_label": "Sekolah Hang Tuah Batam", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7ab5f7da-3667-44a6-8237-8d036923f21b", "sub_uri": "Q2020559", "obj_uri": "Q36", "sub_label": "Szczecin Terbuka 2011", "obj_label": "Polandia", "predicate_id": "P17"}
+{"uuid": "ed92ce0b-acea-474f-818f-270a72bb3f9d", "sub_uri": "Q12508657", "obj_uri": "Q252", "sub_label": "Rimba Soping, Padangsidimpuan Angkola Julu, Padang Sidempuan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "08c59a15-810e-404f-8b65-2eca04e60c11", "sub_uri": "Q12502711", "obj_uri": "Q252", "sub_label": "Pangke, Meral Barat, Karimun", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "67a7c012-71e1-4262-81bf-6578adcf98d8", "sub_uri": "Q12474038", "obj_uri": "Q252", "sub_label": "Bandar Tinggi, Bilah Hulu, Labuhanbatu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "24645549-3e1c-46f8-822c-e6e2210bda15", "sub_uri": "Q12500584", "obj_uri": "Q252", "sub_label": "Nggele, Taliabu Barat Laut, Kepulauan Sula", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b35fba6d-2fff-47fb-bdc9-832733785250", "sub_uri": "Q11190831", "obj_uri": "Q252", "sub_label": "Mekarharja, Purwaharja, Banjar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5554897b-81fb-4987-8f4d-5c3cc1ab7c56", "sub_uri": "Q13199667", "obj_uri": "Q252", "sub_label": "Kutaraharja, Banyusari, Karawang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5d5b0f5a-f62f-4921-9e3d-57d6fd518b07", "sub_uri": "Q11024748", "obj_uri": "Q252", "sub_label": "Pende, Kersana, Brebes", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "52dd3d89-e8d6-4b51-af38-06dc513eb709", "sub_uri": "Q3424081", "obj_uri": "Q40", "sub_label": "Hubungan Austria dengan Jerman", "obj_label": "Austria", "predicate_id": "P17"}
+{"uuid": "67bb08e7-f3d8-4abd-a492-cbe52f33dd7e", "sub_uri": "Q696193", "obj_uri": "Q794", "sub_label": "Ekbatana", "obj_label": "Iran", "predicate_id": "P17"}
+{"uuid": "c5d952a8-a29a-479c-aae9-6d19f7a4ce64", "sub_uri": "Q65452", "obj_uri": "Q16", "sub_label": "Grand Prix F1 Kanada 1978", "obj_label": "Kanada", "predicate_id": "P17"}
+{"uuid": "ff88ae71-08ed-423b-9715-360f3428b300", "sub_uri": "Q15823", "obj_uri": "Q252", "sub_label": "Kabupaten Tojo Una-Una", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "79f7e1ae-8a0b-4a17-8898-e23463a11f16", "sub_uri": "Q123559", "obj_uri": "Q199688", "sub_label": "Al-Andalus", "obj_label": "Muwahhidun", "predicate_id": "P17"}
+{"uuid": "ed6de94f-826d-4c34-93a9-ab018efd92c7", "sub_uri": "Q26271461", "obj_uri": "Q252", "sub_label": "Banua Anyar, Bakumpai, Barito Kuala", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "672ca128-ba7c-4c45-a317-0233ac443b4c", "sub_uri": "Q3105024", "obj_uri": "Q38", "sub_label": "A.C. Giacomense", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "3c2ce259-c615-4359-965f-b040c371739c", "sub_uri": "Q1418672", "obj_uri": "Q142", "sub_label": "Ch\u00e2tenay-sur-Seine", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "13a7f453-de27-43dc-b6ca-d8461e7119b6", "sub_uri": "Q2616735", "obj_uri": "Q801", "sub_label": "Musrara, Yerusalem", "obj_label": "Israel", "predicate_id": "P17"}
+{"uuid": "3b2367be-0738-4980-bbfa-8e9549c5da8b", "sub_uri": "Q2102225", "obj_uri": "Q17", "sub_label": "Stasiun Minami-Shinj\u014d", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "ee19d1fc-6bc2-4f95-b926-c18b8d6c7d0f", "sub_uri": "Q1003984", "obj_uri": "Q215", "sub_label": "Munisipalitas Jur\u0161inci", "obj_label": "Slovenia", "predicate_id": "P17"}
+{"uuid": "2d7ca4d5-610f-4a21-8c05-78193b77a977", "sub_uri": "Q929341", "obj_uri": "Q408", "sub_label": "Liga Utama New South Wales", "obj_label": "Australia", "predicate_id": "P17"}
+{"uuid": "200e9ba1-1807-40f7-a618-38a288f96b16", "sub_uri": "Q11159701", "obj_uri": "Q252", "sub_label": "Bojongsari, Jampang Kulon, Sukabumi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "e141e011-1ea4-412a-b15b-e13d6cf3f624", "sub_uri": "Q13095710", "obj_uri": "Q252", "sub_label": "Panemon, Sugihwaras, Bojonegoro", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "da03f893-65ee-47c8-ad48-afd52eb750cb", "sub_uri": "Q1631008", "obj_uri": "Q794", "sub_label": "Museum Nasional Iran", "obj_label": "Iran", "predicate_id": "P17"}
+{"uuid": "b53ce44e-d023-4614-b427-6dbd8c8d8df2", "sub_uri": "Q4267126", "obj_uri": "Q252", "sub_label": "Sruwohrejo, Butuh, Purworejo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3e9ee113-8675-49e5-8280-3f0f7a2a2eed", "sub_uri": "Q1069853", "obj_uri": "Q869", "sub_label": "Thailand Selatan", "obj_label": "Thailand", "predicate_id": "P17"}
+{"uuid": "3524b8eb-c2b9-40fd-86b1-4077cae84bee", "sub_uri": "Q876495", "obj_uri": "Q252", "sub_label": "Keuskupan Sibolga", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "32d4e0cf-07a0-47b7-93d4-c5e83d7d02a1", "sub_uri": "Q10969669", "obj_uri": "Q252", "sub_label": "Bumireja, Kedungreja, Cilacap", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "339af614-6429-4a31-82ba-4f9dc63698c3", "sub_uri": "Q459495", "obj_uri": "Q43", "sub_label": "Be\u015fikta\u015f", "obj_label": "Turki", "predicate_id": "P17"}
+{"uuid": "69392054-7e24-45bb-8647-c98a3fb5bf69", "sub_uri": "Q12204416", "obj_uri": "Q252", "sub_label": "Kampung Pasir, Johan Pahlawan, Aceh Barat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ee26b99b-a309-43f9-baf6-a459f8087af5", "sub_uri": "Q932289", "obj_uri": "Q1009", "sub_label": "Cekungan Kongo", "obj_label": "Kamerun", "predicate_id": "P17"}
+{"uuid": "eacf6337-080f-4dc2-8c70-a4c88f796e4b", "sub_uri": "Q4257570", "obj_uri": "Q252", "sub_label": "Tanah Abang, Mataraman, Banjar", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ecf68b95-031d-4069-a892-39cf280fe913", "sub_uri": "Q1193942", "obj_uri": "Q17", "sub_label": "En\u014d", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "41e428be-5182-4f0a-8da3-49287ff17b85", "sub_uri": "Q19746053", "obj_uri": "Q252", "sub_label": "Kopi dapur kuwat", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "98a9e3ef-4274-411b-8d5e-872a2e240af2", "sub_uri": "Q46069", "obj_uri": "Q232", "sub_label": "Mausoleum Khoja Ahmed Yasawi", "obj_label": "Kazakhstan", "predicate_id": "P17"}
+{"uuid": "d2347b1c-5c49-469d-a051-08095113eca0", "sub_uri": "Q4271228", "obj_uri": "Q252", "sub_label": "Rowo, Mirit, Kebumen", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "434b265c-32e8-46eb-8e31-8263185cf2a3", "sub_uri": "Q12508526", "obj_uri": "Q252", "sub_label": "Reungkam, Pirak Timur, Aceh Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3e24e110-83fd-496a-85e5-493adb91a800", "sub_uri": "Q10972963", "obj_uri": "Q252", "sub_label": "Serangan, Bonang, Demak", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "97b8b10d-4643-44e9-bac3-bdb7c50af201", "sub_uri": "Q785914", "obj_uri": "Q142", "sub_label": "Le Plessier-sur-Bulles", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "f89868cf-7453-4073-bb05-bb0f692dba82", "sub_uri": "Q7170322", "obj_uri": "Q252", "sub_label": "Persido Donggala", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c5eaca8a-fdfe-47eb-9a48-9476039290ad", "sub_uri": "Q603516", "obj_uri": "Q858", "sub_label": "Khan Shaykhun", "obj_label": "Suriah", "predicate_id": "P17"}
+{"uuid": "d1945063-6632-4e6f-9871-5db671713d43", "sub_uri": "Q4251053", "obj_uri": "Q252", "sub_label": "Ludruk", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9d82f422-8a29-4604-b1e9-12f9feb7dc9e", "sub_uri": "Q19741311", "obj_uri": "Q252", "sub_label": "Stasiun Tulangan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "71de6514-450f-4dd9-928b-10a44b997356", "sub_uri": "Q12489957", "obj_uri": "Q252", "sub_label": "Kawedanan, Kawedanan, Magetan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c1986d4e-ae12-4bc4-978d-39cdf27dd378", "sub_uri": "Q12476518", "obj_uri": "Q252", "sub_label": "Blang Buket, Peudawa, Aceh Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "eacb9576-f093-4fb5-8ee2-e9a585dfbbea", "sub_uri": "Q25980145", "obj_uri": "Q183", "sub_label": "Penembakan M\u00fcnchen 2016", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "b18dfc26-5127-45e8-8cf0-3b4bdb01c4e7", "sub_uri": "Q1022842", "obj_uri": "Q214", "sub_label": "Jablonec, Distrik Pezinok", "obj_label": "Slowakia", "predicate_id": "P17"}
+{"uuid": "950c5b6f-0971-4bcc-bf21-fbc83d037ee0", "sub_uri": "Q12483484", "obj_uri": "Q252", "sub_label": "Gantar, Haurgeulis, Indramayu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "466d256d-114f-48fc-b161-341774883aa8", "sub_uri": "Q2091626", "obj_uri": "Q869", "sub_label": "Kuil Harimau", "obj_label": "Thailand", "predicate_id": "P17"}
+{"uuid": "52fea81e-71e0-4be7-9c99-ad2392be6e02", "sub_uri": "Q504557", "obj_uri": "Q1246", "sub_label": "Misi Pemerintahan Sementara Perserikatan Bangsa-Bangsa di Kosovo", "obj_label": "Kosovo", "predicate_id": "P17"}
+{"uuid": "e99e8c2a-df25-46b5-ac85-2a64c9bfb10c", "sub_uri": "Q14641358", "obj_uri": "Q252", "sub_label": "Masgo, Gunung Raya, Kerinci", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a1291a93-95da-47ab-9752-7eb0b64a4632", "sub_uri": "Q19744884", "obj_uri": "Q252", "sub_label": "UPT SP III Koto Tengah, Kepenuhan, Rokan Hulu", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "60327d78-67d8-41bb-86d8-5d0a7821a37f", "sub_uri": "Q210930", "obj_uri": "Q142", "sub_label": "Biziat", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "21a4439a-7b6f-4a23-a838-ed6795aada57", "sub_uri": "Q630096", "obj_uri": "Q928", "sub_label": "Tuburan, Basilan", "obj_label": "Filipina", "predicate_id": "P17"}
+{"uuid": "34eca642-7c07-409b-9319-d7673626ffee", "sub_uri": "Q16187700", "obj_uri": "Q252", "sub_label": "Kerajaan Muna", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "18795974-5df2-44a7-b1b6-eb4ed771ce5f", "sub_uri": "Q849377", "obj_uri": "Q148", "sub_label": "Shanghai Huochezhan", "obj_label": "Tiongkok", "predicate_id": "P17"}
+{"uuid": "81cecf65-1e80-446d-ad5a-464bb7ce62f2", "sub_uri": "Q12481236", "obj_uri": "Q252", "sub_label": "Denbantas, Tabanan, Tabanan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "1c449e19-b021-4346-8196-5c6b383607e2", "sub_uri": "Q374701", "obj_uri": "Q17", "sub_label": "Ebino, Miyazaki", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "677aa4a0-d019-47ba-b665-f28c6354a0d1", "sub_uri": "Q319740", "obj_uri": "Q17", "sub_label": "Kawagoe, Saitama", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "445e2cc0-eeca-48f7-85c7-a7ab954ae429", "sub_uri": "Q978160", "obj_uri": "Q1246", "sub_label": "Liga Super Kosovo", "obj_label": "Kosovo", "predicate_id": "P17"}
+{"uuid": "d31d8919-2bbb-47d0-9ee3-058f00f8eaf9", "sub_uri": "Q2952106", "obj_uri": "Q334", "sub_label": "S.League 2005", "obj_label": "Singapura", "predicate_id": "P17"}
+{"uuid": "379926d3-7e24-4122-b0a3-28e235b46f38", "sub_uri": "Q12494916", "obj_uri": "Q252", "sub_label": "Lindangan, Tompaso Baru, Minahasa Selatan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f7390c36-0695-43f1-a19a-667613c8850c", "sub_uri": "Q2742116", "obj_uri": "Q29", "sub_label": "Faksi Nasionalis (Perang Saudara Spanyol)", "obj_label": "Spanyol", "predicate_id": "P17"}
+{"uuid": "7c63f9ab-5a37-4397-9e7e-752532579b24", "sub_uri": "Q13542058", "obj_uri": "Q252", "sub_label": "Duko, Arjasa, Sumenep", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5824d329-4194-470f-b4ba-bbd12976f9f2", "sub_uri": "Q1372951", "obj_uri": "Q159", "sub_label": "RS-24 Yars", "obj_label": "Rusia", "predicate_id": "P17"}
+{"uuid": "1a3980f7-2764-43d9-9855-b0249e0d97c2", "sub_uri": "Q12505596", "obj_uri": "Q252", "sub_label": "Pinenek, Likupang Timur, Minahasa Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5fe9ad9e-1c7d-4221-96e4-ff9ee055d012", "sub_uri": "Q502710", "obj_uri": "Q183", "sub_label": "Greiz", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "f418495a-b5e9-4f0f-baf1-2b5658656f2b", "sub_uri": "Q12502045", "obj_uri": "Q252", "sub_label": "Painapang, Lewolema, Flores Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "6cb06b99-f9c8-4208-9d95-cfc651cbed56", "sub_uri": "Q4272083", "obj_uri": "Q45", "sub_label": "Campo de Jogos Dr. Marques dos Santos", "obj_label": "Portugal", "predicate_id": "P17"}
+{"uuid": "fbc7b128-2b1f-4ab5-8fe1-0e2ba8958f22", "sub_uri": "Q13199466", "obj_uri": "Q252", "sub_label": "Kalihurip, Cikampek, Karawang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a21df704-f8a7-4e4f-ad66-16a5bf7cc1fd", "sub_uri": "Q418485", "obj_uri": "Q16", "sub_label": "Pulau Akimiski", "obj_label": "Kanada", "predicate_id": "P17"}
+{"uuid": "5c1e59b2-9d48-4aa1-98a3-e5d148d9ef62", "sub_uri": "Q2236460", "obj_uri": "Q252", "sub_label": "Kepulauan Lease", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a37a0f23-d712-43d9-a25c-a5fd23dd90d8", "sub_uri": "Q558210", "obj_uri": "Q183", "sub_label": "Wallen (kota)", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "c17b4b8c-dac5-4d40-86ce-d288b706b54b", "sub_uri": "Q12495081", "obj_uri": "Q252", "sub_label": "Logede, Sumber, Rembang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ebf9e9f0-5359-418e-bbf0-f66b6689d4ab", "sub_uri": "Q7247887", "obj_uri": "Q252", "sub_label": "Jalan Tol Prof. Dr. Sedyatmo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "c38467fb-b32c-4c85-a307-7ff9401b3f1b", "sub_uri": "Q627037", "obj_uri": "Q668", "sub_label": "Bambolim", "obj_label": "India", "predicate_id": "P17"}
+{"uuid": "942a68c9-69e2-42ee-86c1-dce92185c3e9", "sub_uri": "Q7497137", "obj_uri": "Q17", "sub_label": "Stasiun Shin-Tochigi", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "fa5e917c-7e52-4cee-8249-59c9d268c4e4", "sub_uri": "Q11140848", "obj_uri": "Q252", "sub_label": "Pamanukan Sebrang, Pamanukan, Subang", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "2b959f0a-d2ec-4e5b-a866-c929a7cf4181", "sub_uri": "Q542837", "obj_uri": "Q183", "sub_label": "Ettenstatt", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "9800acad-0250-4b4d-b290-411e156c0aa8", "sub_uri": "Q5216057", "obj_uri": "Q17", "sub_label": "JGC Corporation", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "54689df7-33f4-4aaa-8e34-8723a3f07837", "sub_uri": "Q1418004", "obj_uri": "Q142", "sub_label": "Varmonzey", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "68ea40e6-c67f-4e61-9d10-512448615d07", "sub_uri": "Q115027", "obj_uri": "Q241", "sub_label": "Isla de la Juventud", "obj_label": "Kuba", "predicate_id": "P17"}
+{"uuid": "5fb354fd-b6c0-4c87-a199-535da0bfc6ce", "sub_uri": "Q20577467", "obj_uri": "Q252", "sub_label": "Dlemer, Arosbaya, Bangkalan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7c3d64df-de66-47bd-b8ff-4caaf4424aeb", "sub_uri": "Q334786", "obj_uri": "Q40", "sub_label": "Referendum Anschluss Austria 1938", "obj_label": "Austria", "predicate_id": "P17"}
+{"uuid": "11afe661-2eb6-4692-83fd-5939535f07ca", "sub_uri": "Q12478068", "obj_uri": "Q252", "sub_label": "Butu, Tilongkabila, Bone Bolango", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "4a2ea55b-dab9-4f7d-87f4-a6e02ffb1398", "sub_uri": "Q303388", "obj_uri": "Q183", "sub_label": "MercedesCup 2011 \u2013 Kualifikasi Tunggal", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "9f7e6a5e-31fd-4ddf-87cd-721fae44ff4e", "sub_uri": "Q4795595", "obj_uri": "Q252", "sub_label": "Arosuka (kota)", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "602ca620-742f-468c-ba06-dfd6dfe65dff", "sub_uri": "Q108003526", "obj_uri": "Q252", "sub_label": "Masjid Raya Nurul Huda Villa Pertiwi", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "ccc1aec0-5f4d-48e1-b9c4-007348fbb0b5", "sub_uri": "Q41025", "obj_uri": "Q783", "sub_label": ".hn", "obj_label": "Honduras", "predicate_id": "P17"}
+{"uuid": "5e37912f-89eb-4f5d-b2f0-3f0512842b59", "sub_uri": "Q297051", "obj_uri": "Q183", "sub_label": "Grand Prix F1 Jerman 1995", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "c0a24827-c9db-45cd-9434-10e0c8347591", "sub_uri": "Q12499864", "obj_uri": "Q252", "sub_label": "Nagarajaya, Panawangan, Ciamis", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a18c113f-19fd-431c-a5b2-acaa7f6168f7", "sub_uri": "Q19745111", "obj_uri": "Q252", "sub_label": "Watampone, Tanete Riattang, Bone", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "a32aeaf6-b57a-45cc-841e-16570a39c3a8", "sub_uri": "Q7415523", "obj_uri": "Q252", "sub_label": "Universitas Sanata Dharma", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7f53f68f-5aa3-405b-8595-7e01ced4fdfb", "sub_uri": "Q26221415", "obj_uri": "Q252", "sub_label": "Siepkosi, Jayawijaya", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "f9a49179-98d5-4c87-b9dc-28cc4d35ae37", "sub_uri": "Q13546283", "obj_uri": "Q252", "sub_label": "Ulee Jalan, Peusangan Selatan, Bireuen", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "b74f6d93-f854-4cd2-811d-a39bb54cbea7", "sub_uri": "Q11057721", "obj_uri": "Q38", "sub_label": "Mukjizat Lanciano", "obj_label": "Italia", "predicate_id": "P17"}
+{"uuid": "e6be7e92-5822-4d15-86b2-f78626db63ca", "sub_uri": "Q2294687", "obj_uri": "Q252", "sub_label": "Pulau Laga (Kabupaten Kepulauan Seribu)", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "3096e50a-612b-4c66-b386-eb67b40586ca", "sub_uri": "Q852929", "obj_uri": "Q419", "sub_label": "La Rinconada, Peru", "obj_label": "Peru", "predicate_id": "P17"}
+{"uuid": "9cd02eab-d866-498e-8cb4-df89456ea6ef", "sub_uri": "Q4881479", "obj_uri": "Q801", "sub_label": "Beitar Kfar Saba F.C.", "obj_label": "Israel", "predicate_id": "P17"}
+{"uuid": "85b58b19-ebb0-4aee-88c7-0ea0b8d26a0e", "sub_uri": "Q12517063", "obj_uri": "Q252", "sub_label": "Sukoharjo, Abung Surakarta, Lampung Utara", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "7537b79e-a5ea-4ddf-90db-a139963b8ebf", "sub_uri": "Q156017", "obj_uri": "Q155", "sub_label": "Operasi Burung Kondor", "obj_label": "Brasil", "predicate_id": "P17"}
+{"uuid": "7d0e5dc6-3496-49d0-9bbd-16044ee959e7", "sub_uri": "Q19746691", "obj_uri": "Q252", "sub_label": "Ngemplakrejo, Panggungrejo, Pasuruan", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "5851e8e4-c74f-4931-935b-b6ce824591d0", "sub_uri": "Q6862948", "obj_uri": "Q17", "sub_label": "Stasiun Minami-Moriya", "obj_label": "Jepang", "predicate_id": "P17"}
+{"uuid": "6cefc0f9-1643-4773-bde1-7dd0cbd1233c", "sub_uri": "Q525864", "obj_uri": "Q183", "sub_label": "H\u00f6ttingen", "obj_label": "Jerman", "predicate_id": "P17"}
+{"uuid": "dfa491d5-e5c5-4e4b-ace9-fdf54dab91f4", "sub_uri": "Q12482210", "obj_uri": "Q252", "sub_label": "Dutulanaa, Limboto, Gorontalo", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "16ac7258-30b7-41f6-83a5-69ea86bb3d99", "sub_uri": "Q2884535", "obj_uri": "Q833", "sub_label": "Bario", "obj_label": "Malaysia", "predicate_id": "P17"}
+{"uuid": "3b2fa081-8979-447a-89f9-ceb3d6053b32", "sub_uri": "Q869636", "obj_uri": "Q1033", "sub_label": "Keuskupan Idah", "obj_label": "Nigeria", "predicate_id": "P17"}
+{"uuid": "8ec706b6-9a94-4a35-88dc-2a7f757897fd", "sub_uri": "Q872130", "obj_uri": "Q928", "sub_label": "Keuskupan Mati", "obj_label": "Filipina", "predicate_id": "P17"}
+{"uuid": "f24ee5df-b0ef-41e9-955b-aba05794e8bc", "sub_uri": "Q65172", "obj_uri": "Q39", "sub_label": "Calfreisen", "obj_label": "Swiss", "predicate_id": "P17"}
+{"uuid": "84aa9ffe-04a1-4d8b-88a3-ec4852986a9f", "sub_uri": "Q11266150", "obj_uri": "Q252", "sub_label": "Kebungson, Gresik, Gresik", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "220d4b47-32da-427c-b3a1-a8e8d9eb93d5", "sub_uri": "Q83429", "obj_uri": "Q142", "sub_label": "Boinville-le-Gaillard", "obj_label": "Prancis", "predicate_id": "P17"}
+{"uuid": "bc337455-936f-4902-8289-3ec1f7c9e942", "sub_uri": "Q791567", "obj_uri": "Q43", "sub_label": "Bayrampa\u015fa", "obj_label": "Turki", "predicate_id": "P17"}
+{"uuid": "d6c738eb-6ff0-4ea8-bb7c-ac760b926594", "sub_uri": "Q227866", "obj_uri": "Q916", "sub_label": "Angola Avante", "obj_label": "Angola", "predicate_id": "P17"}
+{"uuid": "76d25aaf-d6dd-4773-a065-538125adae60", "sub_uri": "Q1378040", "obj_uri": "Q31", "sub_label": "Komisi Eropa untuk Bantuan Kemanusiaan", "obj_label": "Belgia", "predicate_id": "P17"}
+{"uuid": "8ea6f402-3dad-4b09-b466-cc830108a6db", "sub_uri": "Q1015108", "obj_uri": "Q916", "sub_label": "Soyo", "obj_label": "Angola", "predicate_id": "P17"}
+{"uuid": "83950540-44d2-47f0-b7c8-0c0d8b67ba09", "sub_uri": "Q4210749", "obj_uri": "Q252", "sub_label": "Damar Makmur, Tualan Hulu, Kotawaringin Timur", "obj_label": "Indonesia", "predicate_id": "P17"}
+{"uuid": "9c3bffd9-e790-46c7-a814-659182f89f0b", "sub_uri": "Q841525", "obj_uri": "Q55", "sub_label": "Marum", "obj_label": "Belanda", "predicate_id": "P17"}
+{"uuid": "9085e2ce-c9be-45fe-adb6-fa83425c023d", "sub_uri": "Q192853", "obj_uri": "Q222", "sub_label": "County Durr\u00ebs", "obj_label": "Albania", "predicate_id": "P17"}
