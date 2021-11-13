@@ -1,0 +1,404 @@
+{"uuid": "e8da6337-09ac-46f1-8da2-20643a7c6dc5", "sub_uri": "Q18550351", "obj_uri": "Q18161349", "sub_label": "Jinhwan (penyanyi)", "obj_label": "IKon", "predicate_id": "P463"}
+{"uuid": "37b10ddf-dd4b-4f34-bce5-40c8a42a0361", "sub_uri": "Q27917702", "obj_uri": "Q51118", "sub_label": "Haruka Komiyama", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "93a3c835-4377-4ebe-bf4a-715a3444b0cd", "sub_uri": "Q1072639", "obj_uri": "Q51118", "sub_label": "Sayaka Nakaya", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "411bdcd2-9607-4718-aeda-130fc5d55eb0", "sub_uri": "Q1154232", "obj_uri": "Q51118", "sub_label": "Atsuko Maeda", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "d60a997b-dd19-4513-b66d-53e0732592cf", "sub_uri": "Q84088", "obj_uri": "Q38799", "sub_label": "Nizar Rayan", "obj_label": "Hamas", "predicate_id": "P463"}
+{"uuid": "ce1e4e68-0cca-48d6-a750-bbb79356d30d", "sub_uri": "Q765566", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Zambia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "fff2571e-723c-4833-88ff-2323268ba264", "sub_uri": "Q56479085", "obj_uri": "Q51118", "sub_label": "Hitomi Honda", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "9f662c50-7f42-4a36-91e2-d1ec0300dd5c", "sub_uri": "Q15903322", "obj_uri": "Q51118", "sub_label": "Mako Kojima", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "cbce4194-d239-4890-863b-bbb33665659f", "sub_uri": "Q478320", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Skotlandia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "a84ed70f-2e5d-4595-9814-7dae93aad89f", "sub_uri": "Q17238494", "obj_uri": "Q51118", "sub_label": "Saho Iwatate", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "e59ada86-680b-4eae-8ba8-c5a6abecdbb8", "sub_uri": "Q1189796", "obj_uri": "Q51118", "sub_label": "Manami Oku", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "1b578003-5fe0-4a5e-895e-ce09e8bf25af", "sub_uri": "Q540988", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Antigua dan Barbuda", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "c922339d-4dcb-48b1-969d-f568467e365b", "sub_uri": "Q5360101", "obj_uri": "Q51118", "sub_label": "Murayama Yuiri", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "760ae31e-397b-45aa-b692-70afb53bcdb8", "sub_uri": "Q1072680", "obj_uri": "Q51118", "sub_label": "Misato Nonaka", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "3f448232-a2ac-42c0-9b14-0b893d8a8d91", "sub_uri": "Q11044472", "obj_uri": "Q182032", "sub_label": "Jessica Veranda", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "087923e5-5f55-49d3-adf4-7a6fa37ef31a", "sub_uri": "Q700929", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Tionghoa Taipei", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "297366e5-00d1-45cb-a505-0c5f9317229e", "sub_uri": "Q2082037", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Tahiti", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "bb493ae5-12d3-4d7b-acac-adb75c9194f9", "sub_uri": "Q13370584", "obj_uri": "Q51118", "sub_label": "Ryoka Oshima", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "c9492298-49b1-47f6-bec2-2a14b860a37c", "sub_uri": "Q867514", "obj_uri": "Q51118", "sub_label": "Mariya Nagao", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "663f206d-fa94-4c9f-ad0b-238f959f3bf3", "sub_uri": "Q65832560", "obj_uri": "Q97191757", "sub_label": "Kim Yo-han (penyanyi)", "obj_label": "WEi", "predicate_id": "P463"}
+{"uuid": "48a1afaa-3cc1-49ed-8b9f-dfdf86177642", "sub_uri": "Q722749", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Uruguay", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "eadff34b-9de8-4fb9-b7b5-47c7c3267c79", "sub_uri": "Q1194884", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Rwanda", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "44eb8cb6-68e3-4ca2-ad4a-3cff56a2fee8", "sub_uri": "Q474181", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Swiss", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "e63332e8-7676-423c-ac3f-047f02c871a4", "sub_uri": "Q22099276", "obj_uri": "Q51118", "sub_label": "Ma Chia-ling", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "6b9a6eec-bc59-47f1-ad26-3297b8f0296a", "sub_uri": "Q570331", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Lesotho", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "caebf574-f60e-48cb-b95f-47313de99cd7", "sub_uri": "Q6543873", "obj_uri": "Q182032", "sub_label": "Frieska Anastasia Laksani", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "6c6280f2-996b-43b0-a74d-e59e6977cd51", "sub_uri": "Q496548", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Argentina", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "a783cafc-0288-46b7-b99c-a772d29bea09", "sub_uri": "Q502018", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Denmark", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "41c78475-f868-4d50-ae10-c0779113a67f", "sub_uri": "Q680253", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Peru", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "097b55ea-6b07-431e-aeb4-cfa703b407eb", "sub_uri": "Q650130", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Mozambik", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "bdcaaf40-97ad-4732-ae20-1c4845aaffcf", "sub_uri": "Q869966", "obj_uri": "Q51118", "sub_label": "Sakura Miyawaki", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "030010dd-f0e0-4e42-97dd-16232f1b3c18", "sub_uri": "Q622270", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Maladewa", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "36ca25ed-8de7-4034-854c-fd1b8be8ad5d", "sub_uri": "Q630262", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Makedonia Utara", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "328dfda8-718f-4c6b-8f11-28fe8c7c5154", "sub_uri": "Q25460566", "obj_uri": "Q182032", "sub_label": "Jinan Safa Safira", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "cd72b707-bc9a-414b-9237-e13d51d50399", "sub_uri": "Q15880", "obj_uri": "Q15862", "sub_label": "Roger Meddows-Taylor", "obj_label": "Queen", "predicate_id": "P463"}
+{"uuid": "2f359e6e-34be-4c37-81f8-e29365085467", "sub_uri": "Q1998399", "obj_uri": "Q253414", "sub_label": "Perhimpunan Sepak Bola Aruba", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "e48282d1-cb21-4aba-b1b0-e84556e0cc8e", "sub_uri": "Q22124460", "obj_uri": "Q51118", "sub_label": "Yuuki Kanazawa", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "d48534f0-792f-4119-be9f-0a15be88ce7b", "sub_uri": "Q17411064", "obj_uri": "Q182032", "sub_label": "Riskha Fairunissa", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "8ac4554b-b366-41ea-bf0d-fcab41e146c4", "sub_uri": "Q579842", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Jepang", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "79aecaf1-5b49-4214-889e-68e51dc92de5", "sub_uri": "Q2466978", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Kepulauan Cayman", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "6726f654-e9f7-4515-809d-ebddbb1be97e", "sub_uri": "Q25460576", "obj_uri": "Q182032", "sub_label": "Made Devi Ranita Ningtara", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "77201ed7-bcbb-44e5-9cff-e517f3adbcf8", "sub_uri": "Q192103", "obj_uri": "Q15862", "sub_label": "John Deacon", "obj_label": "Queen", "predicate_id": "P463"}
+{"uuid": "be45960b-36ff-4188-992b-ab376b820d9c", "sub_uri": "Q1129903", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Liberia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "fdfd285f-6754-4fb1-b80a-a1352f1cc01e", "sub_uri": "Q318386", "obj_uri": "Q253414", "sub_label": "Uni Sepak Bola Rusia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "987ab28e-80b4-448a-90d7-7e694295e1d5", "sub_uri": "Q444097", "obj_uri": "Q872181", "sub_label": "Rudolf Hru\u0161\u00ednsk\u00fd", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "733bfaad-e7f9-4286-b68d-d28b971a8314", "sub_uri": "Q1084234", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Fiji", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "c63c3914-72f0-4ab4-91a0-c9bd144d2476", "sub_uri": "Q208635", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Kanada", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "da59e585-eccd-4da7-8b9f-43ac4164e2c2", "sub_uri": "Q1475056", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Irak", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "0336738d-300f-43ea-a121-b419e7e72d61", "sub_uri": "Q15135842", "obj_uri": "Q51118", "sub_label": "Miki Nishino", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "5f1816e3-97f3-4203-906c-26500f2525c5", "sub_uri": "Q25460582", "obj_uri": "Q182032", "sub_label": "Tan Zhi Hui Celine", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "84c3858f-b22c-4a9d-8a34-9c84b618cb92", "sub_uri": "Q623756", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Myanmar", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "d22962c4-810f-4486-81e8-a36b286e2089", "sub_uri": "Q169210", "obj_uri": "Q51118", "sub_label": "Anna Iriyama", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "63192ed6-6f6e-4d3c-8900-2fd27cd01b3b", "sub_uri": "Q1042614", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Republik Islam Iran", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "0cfa0078-70ce-4433-b7e3-1acd972f2cde", "sub_uri": "Q623951", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Laos", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "cb47deb6-18b6-40dc-9bcf-9fb64e059d05", "sub_uri": "Q13097026", "obj_uri": "Q182032", "sub_label": "Shania Junianatha", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "a7ef4e80-4168-4648-bbb0-906dffbb94f4", "sub_uri": "Q12481371", "obj_uri": "Q182032", "sub_label": "Devi Kinal Putri", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "1f42fd00-c6b7-4c48-b281-92b0499c70a4", "sub_uri": "Q371055", "obj_uri": "Q253414", "sub_label": "Uni Sepak Bola Antillen Belanda", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "a1497747-9b06-44d7-926a-738dcf78595d", "sub_uri": "Q1136309", "obj_uri": "Q51118", "sub_label": "Ami Maeda", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "c4fd671f-809b-4884-a500-a5b61a8fe966", "sub_uri": "Q427896", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Nasional Eritrea", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "528bbfde-eff2-462c-9c72-62d4a595e62a", "sub_uri": "Q1072642", "obj_uri": "Q51118", "sub_label": "Kana Kobayashi", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "eb793aa5-8840-41a9-a1c7-e24566a93b8d", "sub_uri": "Q381129", "obj_uri": "Q253414", "sub_label": "Asosiasi Federasi Sepak Bola Azerbaijan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "96f5cd9f-3d1a-4a76-9309-2a6b2cdbb8a7", "sub_uri": "Q25460574", "obj_uri": "Q182032", "sub_label": "Sri Lintang", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "69bf9440-15be-4bc3-b279-762531d990d9", "sub_uri": "Q1050", "obj_uri": "Q253414", "sub_label": "Eswatini", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "f57d583f-b838-4933-9560-861a5ce0e22a", "sub_uri": "Q709032", "obj_uri": "Q872181", "sub_label": "Sa\u0161a Gedeon", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "9c7dad6d-277f-4936-a946-1c705d2b025b", "sub_uri": "Q181740", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Malawi", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "edacfd15-dc52-474f-be38-d221f6381228", "sub_uri": "Q621084", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Arab Saudi", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "91eb055b-16b8-4c25-9696-4f27bf7ae80f", "sub_uri": "Q528699", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kazakhstan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "0093efd4-43b3-464c-8dd3-7d7e049e9959", "sub_uri": "Q683524", "obj_uri": "Q872181", "sub_label": "Asosiasi Kepanduan Putri Sedunia", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "06e64201-1ed5-4979-a474-e79e9e3452e0", "sub_uri": "Q399524", "obj_uri": "Q51118", "sub_label": "Jurina Matsui", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "8903d473-2d83-45cd-9eb4-b281fe45fb37", "sub_uri": "Q852148", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Burkina Faso", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "6904dad3-d55b-47bf-8eee-1a016f7ba711", "sub_uri": "Q12472905", "obj_uri": "Q182032", "sub_label": "Ayana Shahab", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "4fe324ca-262c-491f-991e-4d934dc01b5b", "sub_uri": "Q6425253", "obj_uri": "Q182032", "sub_label": "Melody Nurramdhani Laksani", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "c7f9cc1a-08b2-42e3-876b-6abcaaa63f87", "sub_uri": "Q295542", "obj_uri": "Q124179", "sub_label": "Paul Stanley", "obj_label": "Kiss", "predicate_id": "P463"}
+{"uuid": "1046c0ff-01fd-4723-bb81-f5085e15b2b3", "sub_uri": "Q181797", "obj_uri": "Q51118", "sub_label": "Yui Yokoyama", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "c7d03c59-2e0c-4a17-abc7-6b2bd92f9c07", "sub_uri": "Q26236957", "obj_uri": "Q182032", "sub_label": "Eve Antoinette Ichwan", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "91430d23-f9bb-4430-884a-eb7e7272bf2a", "sub_uri": "Q11616039", "obj_uri": "Q11224956", "sub_label": "Y\u016b Serizawa", "obj_label": "IRis", "predicate_id": "P463"}
+{"uuid": "3297cf06-275e-427c-a57f-88c78ba69d82", "sub_uri": "Q1136325", "obj_uri": "Q51118", "sub_label": "Mariya Suzuki", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "653ffd51-3464-482d-83b9-5b04a0bcd8de", "sub_uri": "Q620280", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Irlandia Utara", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "4f2e9b81-2b83-44c6-9f1d-92fa5cac6860", "sub_uri": "Q622332", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Seluruh India", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "56c9488d-6c5f-493b-8699-9b01deff12c1", "sub_uri": "Q622250", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Malaysia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "4a80e5e3-8b2b-41de-a983-862ccd1af4e0", "sub_uri": "Q26236958", "obj_uri": "Q182032", "sub_label": "Hasyakyla Utami Kusumawardhani", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "7543c9d5-c3cf-4e94-a8be-d9bfabd3ddd0", "sub_uri": "Q623658", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Kepulauan Mariana Utara", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "a87df226-9d78-48e7-9621-acf441d20c80", "sub_uri": "Q16174186", "obj_uri": "Q182032", "sub_label": "Della Delila", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "1c68ad75-6c54-434c-92a7-94956420ade5", "sub_uri": "Q622263", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Bahrain", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "b0aac81f-de64-4b93-b53a-4143ce9a1d93", "sub_uri": "Q25460585", "obj_uri": "Q182032", "sub_label": "Zahra Yuriva Dermawan", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "58283563-372f-4853-8037-35e3c81ffecb", "sub_uri": "Q309005", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Portugal", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "7945b1a9-9620-4ad6-afdd-e6553f65bf18", "sub_uri": "Q622313", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Qatar", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "4ff89cd8-ed1d-435f-9e28-38bdf79c9d21", "sub_uri": "Q517883", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Paraguay", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "ef6cb2d4-2fd1-40b3-a3aa-cbe7d96d9292", "sub_uri": "Q1072649", "obj_uri": "Q51118", "sub_label": "Haruka Nakagawa", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "3eaacf82-3c6f-492c-8730-1be8a88785ec", "sub_uri": "Q1195876", "obj_uri": "Q51118", "sub_label": "Rie Kitahara", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "ef54d277-2dae-4a39-baf4-ded397f5efc7", "sub_uri": "Q631999", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Rumania", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "44c198ae-1aa7-48e1-baf0-2b7fa461136a", "sub_uri": "Q207615", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kerajaan Spanyol", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "0e88718e-1277-49a8-9d6c-a73b44986ce2", "sub_uri": "Q86643670", "obj_uri": "Q182032", "sub_label": "Yessica Tamara", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "4d3dcf54-cdcc-4bc9-bcd2-6217b0e7a44e", "sub_uri": "Q1854491", "obj_uri": "Q253414", "sub_label": "Perhimpunan Sepak Bola Suriname", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "75b30647-ef87-4890-99b2-480ff4862afa", "sub_uri": "Q2697962", "obj_uri": "Q872181", "sub_label": "Adolf Op\u00e1lka", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "92c32dc5-045f-40c4-9bcd-1892bbc1fd32", "sub_uri": "Q923074", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Ghana", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "3fa6cfb2-5a01-40f4-be89-8a5bf3ee2fd6", "sub_uri": "Q268628", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Kepulauan Faroe", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "53b4f562-3004-4637-b8a5-16706c864ca8", "sub_uri": "Q7013", "obj_uri": "Q872181", "sub_label": "Lena Meyer-Landrut", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "206730a2-8f2f-4c55-9d78-c76b5ed0f645", "sub_uri": "Q25455768", "obj_uri": "Q182032", "sub_label": "Priscillia Sari Dewi", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "0bdcd912-e511-4668-9526-1f6cd325bfb9", "sub_uri": "Q22338877", "obj_uri": "Q13580495", "sub_label": "Jeon Jung-kook", "obj_label": "BTS", "predicate_id": "P463"}
+{"uuid": "d710ea52-8ba3-4e0b-bc58-59e8e2143d45", "sub_uri": "Q25456629", "obj_uri": "Q182032", "sub_label": "Fransisca Saraswati Puspa Dewi", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "51e1ebaa-f635-4cf5-9ab0-5eeab7815df0", "sub_uri": "Q1037274", "obj_uri": "Q51118", "sub_label": "Megumi Ohori", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "a45b3cc7-6728-40b3-8b94-a506a0128a07", "sub_uri": "Q18390902", "obj_uri": "Q1033", "sub_label": "Moji Makanjuola", "obj_label": "Nigeria", "predicate_id": "P463"}
+{"uuid": "c5fcd37e-1083-483a-9eef-45aa121491d7", "sub_uri": "Q152274", "obj_uri": "Q872181", "sub_label": "Edvard Bene\u0161", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "617265e8-3580-4a54-9eb3-da2a42e4df6f", "sub_uri": "Q25456631", "obj_uri": "Q182032", "sub_label": "Ni Made Ayu Vania Aurellia", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "75211448-dbc6-4ad8-97f7-a079bda39ce5", "sub_uri": "Q83459", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Brasil", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "861c9de3-993c-4f70-b325-658aff9a786d", "sub_uri": "Q201897", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Italia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "778c57c6-a899-419c-893f-b38a59403bd0", "sub_uri": "Q5492527", "obj_uri": "Q872181", "sub_label": "Franti\u0161ek Hanus (pemeran)", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "555c4135-24a2-4748-97ba-30499b5ae80d", "sub_uri": "Q42267", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Spanyol", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "870cf016-b876-4b2f-a653-3416dbc3a173", "sub_uri": "Q381124", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Kerajaan Belgia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "eefde16d-8bc1-4a5e-af0a-56ce26f65e77", "sub_uri": "Q1289049", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kosovo", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "acb0b4b2-df25-4910-a22f-b4e49f6ceda4", "sub_uri": "Q614839", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Seychelles", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "93d12c02-905a-4202-ba43-ebdb2057ec22", "sub_uri": "Q1048119", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Angola", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "fb999f7f-554e-4af4-be74-5291c6e1bba2", "sub_uri": "Q51884743", "obj_uri": "Q51118", "sub_label": "Rin Okabe", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "6719fdf1-4c1d-43f2-8512-ae88e268f153", "sub_uri": "Q1154210", "obj_uri": "Q51118", "sub_label": "Tomomi Itano", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "e16f6530-4d36-4758-8680-979393bce730", "sub_uri": "Q25456615", "obj_uri": "Q182032", "sub_label": "Aninditha Rahma Cahyadi", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "1b74577e-22ae-4d92-aae5-9d1a6130b4ed", "sub_uri": "Q16166110", "obj_uri": "Q182032", "sub_label": "Alicia Chanzia", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "6e31890e-9eaf-46b9-a412-191fcd62223d", "sub_uri": "Q222108", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Austria", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "5163d9e6-9b0c-4fb9-8ace-2b5ddecdd98d", "sub_uri": "Q302", "obj_uri": "Q37090", "sub_label": "Yesus", "obj_label": "Tritunggal", "predicate_id": "P463"}
+{"uuid": "dd503f1a-5c90-441c-b28f-28de8cbd2fb7", "sub_uri": "Q9500", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Inggris", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "a7045426-ca9c-49f2-986d-5798c8325791", "sub_uri": "Q1048509", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Togo", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "00b14c67-40cd-4df3-894a-555f5bee16e9", "sub_uri": "Q738074", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Moldova", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "2efeb392-91a5-4d2f-b43c-58c91470b958", "sub_uri": "Q744812", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Dominika", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "76ab17d0-b213-46ec-9712-a9df6ab10d13", "sub_uri": "Q26236956", "obj_uri": "Q182032", "sub_label": "Adhisty Zara", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "e2a99045-eb4d-4226-951d-f848ac1cc075", "sub_uri": "Q181881", "obj_uri": "Q51118", "sub_label": "Rino Sashihara", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "f231460d-639b-44db-b17b-bf056893104b", "sub_uri": "Q25456601", "obj_uri": "Q182032", "sub_label": "Amanda Dwi Arista", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "cc6b5926-ffff-4608-94b5-1d7ce06d9366", "sub_uri": "Q317705", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Andorra", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "07cacd0e-d6f3-4a70-8e0c-894d5b04414c", "sub_uri": "Q1436012", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Brunei Darussalam", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "c724ffeb-c125-43ef-87a3-030f8eb5aaf2", "sub_uri": "Q852227", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Burundi", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "75bed00e-46fc-4db1-a56d-317eea79e703", "sub_uri": "Q508376", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Gibraltar", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "bdc91d4f-4f73-4a34-8f91-bd70b360c6fa", "sub_uri": "Q916809", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola wanita Haiti", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "f4d6fc9d-1b9c-43e8-8e48-14d402573d49", "sub_uri": "Q15900282", "obj_uri": "Q51118", "sub_label": "Nana Okada", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "ff57f716-e680-44ec-bd15-75e20c350c66", "sub_uri": "Q390598", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Albania", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "9a47ff2c-740e-4f3b-9669-87bc1c991c40", "sub_uri": "Q224840", "obj_uri": "Q51118", "sub_label": "Haruka Ishida", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "0c408a31-0c87-428c-a034-f72fba18bfb3", "sub_uri": "Q49250397", "obj_uri": "Q182032", "sub_label": "Christy Chriselle", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "8a9dfcab-03f3-40e2-9584-ca184e980663", "sub_uri": "Q2333265", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Anguilla", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "205384a0-da14-4738-933f-a45a18427c2b", "sub_uri": "Q16097636", "obj_uri": "Q51118", "sub_label": "Rina Izuta", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "14842326-b219-4e5b-a8bc-a41bd909c7ca", "sub_uri": "Q16725696", "obj_uri": "Q51118", "sub_label": "Shinobu Mogi", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "5302e459-5b38-4549-8c9b-a8dd2d07e8c6", "sub_uri": "Q4136296", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Cura\u00e7ao", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "67c050b7-2b83-4bd4-a5e1-531a6b79275b", "sub_uri": "Q564534", "obj_uri": "Q51118", "sub_label": "Yuka Tano", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "d46aeff0-49c8-4a10-a0a5-9694351a9e8f", "sub_uri": "Q250720", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Yordania", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "35e96222-0217-4963-ac2a-2370c9423f4d", "sub_uri": "Q79800", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Argentina", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "881375d7-16f6-4f2f-a29a-0101211dbf46", "sub_uri": "Q26236864", "obj_uri": "Q182032", "sub_label": "Ruth Damayanti Sitanggang", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "e6efd1ea-be81-4b3f-902b-be51950b4646", "sub_uri": "Q725496", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Slovenia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "cb2ad102-7ba5-4b46-87f6-1dc4c5cc5d09", "sub_uri": "Q630248", "obj_uri": "Q253414", "sub_label": "Uni Sepak Bola Bulgaria", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "9e437c66-c48f-42f2-854c-e72c609e06ef", "sub_uri": "Q17411010", "obj_uri": "Q182032", "sub_label": "Ratu Vienny Fitrilya", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "c03ce003-a28c-4ffc-8835-85ec3641e8a3", "sub_uri": "Q1195767", "obj_uri": "Q51118", "sub_label": "Mariko Shinoda", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "24640fdd-a68b-4bed-a7fd-5e15c75d9d5f", "sub_uri": "Q625805", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Turkmenistan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "ca0dc490-0e7b-404c-9f4b-9d9d80fcf340", "sub_uri": "Q1307814", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kaledonia Baru", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "9317d896-7cd6-4997-8d41-dd96b0fa2481", "sub_uri": "Q1074100", "obj_uri": "Q51118", "sub_label": "Mai Oshima", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "b2149fa9-497a-4389-a64a-b98d2e263ee6", "sub_uri": "Q5358943", "obj_uri": "Q51118", "sub_label": "Juri Takahashi", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "abd7bef6-27d1-485d-b403-1fde65a5f962", "sub_uri": "Q1186646", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Arab Suriah", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "3653c0ea-4fbb-49cd-ade8-b04ee32ced69", "sub_uri": "Q2827920", "obj_uri": "Q51118", "sub_label": "Aika \u014cta", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "77779d56-e4ad-46c4-aa48-1c5ad019d445", "sub_uri": "Q962067", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Tanzania", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "6efd3807-0e65-4724-a37e-80296cae3662", "sub_uri": "Q849362", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Vietnam", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "b7c52930-e93e-4581-b9d4-7342ca8f298a", "sub_uri": "Q15869", "obj_uri": "Q15862", "sub_label": "Freddie Mercury", "obj_label": "Queen", "predicate_id": "P463"}
+{"uuid": "9ede931e-cffc-4322-a638-34fddf853ee2", "sub_uri": "Q612670", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Barbados", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "25fb067b-3c07-4dd7-af13-0ad471fad647", "sub_uri": "Q1023655", "obj_uri": "Q774", "sub_label": "Salam\u00e1", "obj_label": "Guatemala", "predicate_id": "P463"}
+{"uuid": "c7002b63-9e88-44ab-a437-2617d826a39c", "sub_uri": "Q623618", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Palestina", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "eb3a3c3e-b1dc-4c07-bae4-bc29a95d551e", "sub_uri": "Q17411372", "obj_uri": "Q182032", "sub_label": "Sinka Juliani", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "296ecd1b-3f67-423d-865f-0a098a6b6740", "sub_uri": "Q622257", "obj_uri": "Q253414", "sub_label": "Persatuan Sepak Bola Seluruh Indonesia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "19dc6c06-628e-4e85-9da8-11890e35644b", "sub_uri": "Q125658", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola San Marino", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "1bc73f47-0e93-47b9-85f4-886210192308", "sub_uri": "Q2223090", "obj_uri": "Q872181", "sub_label": "Tomio Okamura", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "3028e971-8481-4561-a42d-b632db40ce33", "sub_uri": "Q622272", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Republik Kirgizstan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "2ea5eabe-dd3a-43d0-80ed-47a1e56f8fd5", "sub_uri": "Q65214082", "obj_uri": "Q182032", "sub_label": "Mutiara Azzahra", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "8f8546f1-3a86-4573-9e40-4ad8b15590fb", "sub_uri": "Q21075020", "obj_uri": "Q13580495", "sub_label": "Suga (penyanyi rap)", "obj_label": "BTS", "predicate_id": "P463"}
+{"uuid": "952c599c-5847-44bd-8ff8-8800c9d58a41", "sub_uri": "Q1937479", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Tonga", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "6e24dd15-0678-4c2e-887f-e8af74d8e49b", "sub_uri": "Q247125", "obj_uri": "Q35339", "sub_label": "The Shield (gulat profesional)", "obj_label": "WWE", "predicate_id": "P463"}
+{"uuid": "969ebed9-c539-4977-9e6f-bee95926ac78", "sub_uri": "Q241670", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Bangladesh", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "b46bc248-3568-4112-a3d7-6157f0d9ed56", "sub_uri": "Q17410827", "obj_uri": "Q182032", "sub_label": "Nadila Cindi Wantari", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "f292d4df-8fa7-4ef7-93a6-c64669739ecb", "sub_uri": "Q164089", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Meksiko", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "063d588d-ab26-4bff-9560-dbf316b4f4bf", "sub_uri": "Q222131", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Amerika Serikat", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "e38c6a93-bd26-4998-8149-608cf4ec2cad", "sub_uri": "Q497782", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Republik Irlandia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "d52674d1-25b2-4383-946f-6de519e3b3b3", "sub_uri": "Q621112", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Uzbekistan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "9f473cad-72de-4840-a978-272e06e87e86", "sub_uri": "Q780843", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Nasional Autonomi Honduras", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "8b94c1a4-71e2-4c09-bf29-dee2096b9260", "sub_uri": "Q696850", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Luksemburg", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "5e4d3dad-6262-4d6b-a7e1-8002d52a5797", "sub_uri": "Q1094787", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Niger", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "3d5061eb-5bab-4bf2-8394-d5e13364f83b", "sub_uri": "Q213116", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Kerajaan Belanda", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "bdd50031-e88a-4475-a64e-ab40974e6a6a", "sub_uri": "Q17411646", "obj_uri": "Q182032", "sub_label": "Viviyona Apriani", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "450577cb-7563-4b3e-ab4e-d09e0b2bf83b", "sub_uri": "Q512915", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Lituania", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "c368435d-e125-474d-813f-d6212ce98b72", "sub_uri": "Q1050759", "obj_uri": "Q51118", "sub_label": "Shihori Suzuki", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "0619f3b4-ec7f-43fc-93d4-521762dea817", "sub_uri": "Q495584", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Korea", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "5de6a9f0-3110-45b2-b6dc-f00031c3a7c6", "sub_uri": "Q1084958", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Senegal", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "b9a0915b-3380-49bd-a14a-5888629a8a7e", "sub_uri": "Q25456646", "obj_uri": "Q182032", "sub_label": "Shani Indira Natio", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "211ed1d2-d6b9-4ae3-b0ae-ff97f694b1f7", "sub_uri": "Q1072697", "obj_uri": "Q51118", "sub_label": "Moeno Nit\u014d", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "7e654bd8-5102-4a90-8116-a71afb72ee88", "sub_uri": "Q21058800", "obj_uri": "Q18161349", "sub_label": "Yunhyeong", "obj_label": "IKon", "predicate_id": "P463"}
+{"uuid": "4ee1ae44-e822-405b-b900-f60891512d7e", "sub_uri": "Q17410624", "obj_uri": "Q182032", "sub_label": "Jennifer Rachel Natasya", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "d11c598a-1880-448f-a77b-4f4c6f368737", "sub_uri": "Q18567344", "obj_uri": "Q18161349", "sub_label": "Jung Chan-woo (penyanyi)", "obj_label": "IKon", "predicate_id": "P463"}
+{"uuid": "2166773b-58dd-4846-8928-bb4428787c4f", "sub_uri": "Q21057648", "obj_uri": "Q18161349", "sub_label": "Koo Jun-hoe", "obj_label": "IKon", "predicate_id": "P463"}
+{"uuid": "7a214d62-bfd1-4f5a-a0c3-bf02ca65d59a", "sub_uri": "Q24276424", "obj_uri": "Q13580495", "sub_label": "Kim Seok-jin", "obj_label": "BTS", "predicate_id": "P463"}
+{"uuid": "8b05be8b-eeda-4f94-ae55-a6680e0a4d2a", "sub_uri": "Q1197201", "obj_uri": "Q51118", "sub_label": "Natsuki Sato", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "d1828fc1-2eed-4396-93c3-0871aa471ee6", "sub_uri": "Q867507", "obj_uri": "Q51118", "sub_label": "Miyu Takeuchi", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "019f1c13-e520-47fd-9a9a-3d5aab5d53e1", "sub_uri": "Q51525", "obj_uri": "Q872181", "sub_label": "Milo\u0161 Forman", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "7c6477ac-1573-4e32-ab8b-dc6facd26ae8", "sub_uri": "Q239089", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Libya", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "835c6ed9-6bb0-4585-b1a9-e007a4f075d7", "sub_uri": "Q602656", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Chili", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "4f5822b8-25c9-4583-9d6e-0c8074f61e23", "sub_uri": "Q676899", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Italia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "9276ad99-f04f-42ab-bb9f-31876d810722", "sub_uri": "Q1116647", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Samoa Amerika", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "5e6e31b3-07f2-433c-bb51-f8d5811da344", "sub_uri": "Q392594", "obj_uri": "Q872181", "sub_label": "\u0160t\u011bp\u00e1n Trochta", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "38f6d412-a3a8-49e8-a39d-e22baaed934d", "sub_uri": "Q312053", "obj_uri": "Q184386", "sub_label": "Rick Wakeman", "obj_label": "Yes", "predicate_id": "P463"}
+{"uuid": "0a19817e-67c9-4bde-8a21-91aca7eafb24", "sub_uri": "Q1029049", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Guyana", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "9c01a5bd-e418-4083-9ac8-cbc9afcb55b6", "sub_uri": "Q1150617", "obj_uri": "Q51118", "sub_label": "Erena Ono", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "94228156-3e3a-4778-b16d-5dca180cd623", "sub_uri": "Q169400", "obj_uri": "Q51118", "sub_label": "Haruka Shimazaki", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "5219d327-4c6c-4704-b8c1-92add792ff98", "sub_uri": "Q962394", "obj_uri": "Q38799", "sub_label": "Hassan Yousef", "obj_label": "Hamas", "predicate_id": "P463"}
+{"uuid": "3ae8e167-1249-43d6-ac1b-9016bfc8a78d", "sub_uri": "Q11183083", "obj_uri": "Q182032", "sub_label": "Delima Rizky", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "1cfbcaed-9156-4b2b-80d3-e96bad4f60a5", "sub_uri": "Q1067795", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Vanuatu", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "9a8aee2b-9ccd-4ac1-9002-7c6054e67b4c", "sub_uri": "Q792926", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Benin", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "f1e82c93-a094-47e1-9202-8fd3ee68e8df", "sub_uri": "Q16175390", "obj_uri": "Q182032", "sub_label": "Dwi Putri Bonita", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "7c259115-9a4d-4fb4-92fe-96310d39ebf9", "sub_uri": "Q312691", "obj_uri": "Q184386", "sub_label": "Steve Howe", "obj_label": "Yes", "predicate_id": "P463"}
+{"uuid": "91f880e6-35af-48c0-903c-34f3f6e3fb07", "sub_uri": "Q2605454", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Puerto Riko", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "7f25b1a9-f726-4f9b-9fba-519ae3b3c6a8", "sub_uri": "Q1072649", "obj_uri": "Q182032", "sub_label": "Haruka Nakagawa", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "b14a28dc-8faf-4500-a826-c2c77596bec4", "sub_uri": "Q573747", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Tiongkok", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "32edc60e-9b96-4d2b-9ac3-479e9a42ff13", "sub_uri": "Q982696", "obj_uri": "Q9661", "sub_label": "Bassel Khartabil", "obj_label": "Mozilla", "predicate_id": "P463"}
+{"uuid": "b54f6fd0-f34b-4ba9-a5b3-591fb1204fc3", "sub_uri": "Q12515902", "obj_uri": "Q182032", "sub_label": "Sonia Natalia", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "48eb4edf-0002-42b0-a8ad-e3d1aab4ce6a", "sub_uri": "Q20514446", "obj_uri": "Q13580495", "sub_label": "RM (penyanyi rap)", "obj_label": "BTS", "predicate_id": "P463"}
+{"uuid": "02714979-c33d-4916-b594-bc434758e4a9", "sub_uri": "Q1193426", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Trinidad dan Tobago", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "e9dc11de-ce7d-4375-bbad-f39bf99ac858", "sub_uri": "Q1197058", "obj_uri": "Q51118", "sub_label": "Misaki Iwasa", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "dc59bad5-8810-4ac1-97f6-73ddb0f8ff6e", "sub_uri": "Q387611", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Bosnia dan Herzegovina", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "f9ea4bef-2561-4bf3-a74a-7f2f809ea4cc", "sub_uri": "Q69932479", "obj_uri": "Q182032", "sub_label": "Gabriel Angelina", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "6b60fc5c-d119-478d-b4f8-eb73e80f2c35", "sub_uri": "Q60796827", "obj_uri": "Q51118", "sub_label": "Mizuki Yamauchi", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "617d4ca3-d1e2-43e6-8b53-2b2294535a89", "sub_uri": "Q944522", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Uni Emirat Arab", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "8c683bd3-b7ed-44e7-8987-c8e14b04623a", "sub_uri": "Q391151", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Armenia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "3582bafc-3f0e-4d0d-87e6-06ae676d7584", "sub_uri": "Q383179", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Afganistan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "4a00f0db-6d80-4d4a-a817-7db90bfe3899", "sub_uri": "Q49250273", "obj_uri": "Q182032", "sub_label": "Natalia (penyanyi Indonesia)", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "3d32e299-f15a-406f-8825-bc662b504a4c", "sub_uri": "Q18233965", "obj_uri": "Q51118", "sub_label": "Saya Kawamoto", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "d8111c8e-76e9-4cb3-96d5-cb71504b64d6", "sub_uri": "Q1485130", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Papua Nugini", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "039e8fa7-f463-4c99-9f3e-205d162cbb29", "sub_uri": "Q625723", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Timor-Leste", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "704c2844-6f47-4b62-8c61-4b5bbd5c8849", "sub_uri": "Q279795", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Bhutan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "75137550-e191-436a-925d-34c4ca72b554", "sub_uri": "Q11415882", "obj_uri": "Q51118", "sub_label": "Mion Mukaichi", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "27001045-989c-41b3-a08d-5e1e9dcbc7a8", "sub_uri": "Q622260", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kamboja", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "3c139838-e7e1-4085-9de5-53c207dd250c", "sub_uri": "Q1068648", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Mali", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "0b829b9d-5caf-46a1-bf56-fbf4529e1d8f", "sub_uri": "Q867495", "obj_uri": "Q51118", "sub_label": "Anna Mori", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "81247bae-0c05-43ac-a526-c87b45aa4c66", "sub_uri": "Q214151", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Venezuela", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "037d328c-b4b4-48d3-a4f8-80a32da3d2c5", "sub_uri": "Q959059", "obj_uri": "Q51118", "sub_label": "Yuka Masuda", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "b95443f1-4914-46a8-abab-f6960a8dfeb8", "sub_uri": "Q1028610", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Guinea", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "d82f8f70-3cc6-4371-a691-39de400c6232", "sub_uri": "Q1067949", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Oman", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "40532326-12df-48b2-8510-717d6cce1680", "sub_uri": "Q1195752", "obj_uri": "Q51118", "sub_label": "Miho Miyazaki", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "b8b7e8d6-79b2-4774-8698-e7f43f627314", "sub_uri": "Q478734", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Islandia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "f47a6bfd-c9ff-4ba7-9af2-1f082f1f5332", "sub_uri": "Q625726", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Nasional Tajikistan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "c00948f7-554d-4179-9a71-86c18211d507", "sub_uri": "Q337065", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Ceko", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "ec9d1d2d-f74b-4f35-8853-2803c25ec6f6", "sub_uri": "Q26236955", "obj_uri": "Q182032", "sub_label": "Violeta Burhan", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "20f4f401-10a3-4823-9b0a-29bedcf7972e", "sub_uri": "Q3116927", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kerajaan Maroko", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "89b5a0b3-af95-4968-892b-fafd4cf27e0a", "sub_uri": "Q1085464", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Sudan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "224cd26e-0983-41ef-8ecf-6fef00142946", "sub_uri": "Q3040716", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Sudan Selatan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "0d5eafc3-aff4-44bb-8dd9-5a61fac3c078", "sub_uri": "Q1072664", "obj_uri": "Q51118", "sub_label": "Miku Tanabe", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "7a421c9d-effb-4eec-97b0-1030e8d4eea9", "sub_uri": "Q17410687", "obj_uri": "Q182032", "sub_label": "Desy Genoveva", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "59a28880-2917-4549-8162-cd172ece49bf", "sub_uri": "Q207197", "obj_uri": "Q124179", "sub_label": "Gene Simmons", "obj_label": "Kiss", "predicate_id": "P463"}
+{"uuid": "b7398c61-ba23-4f5c-8bfb-5cba14be6813", "sub_uri": "Q25460581", "obj_uri": "Q182032", "sub_label": "Melati Putri Rahel Sesilia", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "2dde3f02-1b0b-47da-9d5e-c75957dc6118", "sub_uri": "Q164134", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Amerika Serikat", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "9ebb2253-a10d-4560-a90a-bae68f387542", "sub_uri": "Q728575", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Malta", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "a649e55b-5840-4ee6-a41e-851ac8a7cf61", "sub_uri": "Q1052497", "obj_uri": "Q51118", "sub_label": "Maria Abe", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "41d70139-408e-41d8-8767-4429e6b46b7a", "sub_uri": "Q140486", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Ukraina", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "2873c0b7-e6fd-4d64-9d5a-a7a857c02276", "sub_uri": "Q1007927", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Gambia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "61b0c24d-98e4-46b4-9150-24cad2533142", "sub_uri": "Q244750", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Prancis", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "408ccb3b-f060-45d0-ac58-201b22a382bb", "sub_uri": "Q304885", "obj_uri": "Q184386", "sub_label": "Chris Squire", "obj_label": "Yes", "predicate_id": "P463"}
+{"uuid": "ece2e996-0cbc-4712-a40e-d4b3214b7161", "sub_uri": "Q20947093", "obj_uri": "Q13580495", "sub_label": "Jimin (penyanyi kelahiran 1995)", "obj_label": "BTS", "predicate_id": "P463"}
+{"uuid": "0c59dc50-82e6-4f31-bef8-8bc9283ed318", "sub_uri": "Q956927", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Kuba", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "283d56a1-e7c6-4d14-b225-03d6ee1be124", "sub_uri": "Q726080", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Rusia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "49e3f446-b394-4e3b-80f0-2ae83b14fe38", "sub_uri": "Q685899", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Slowakia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "e3227d54-50a0-45db-89cd-04e7a19f0cff", "sub_uri": "Q12483185", "obj_uri": "Q182032", "sub_label": "Gabriela Margareth Warouw", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "d4b20efa-f0a6-4294-a8a7-6bd906e63b49", "sub_uri": "Q264335", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Estonia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "f8d42949-eaf4-4870-a2cc-11d3483bbef0", "sub_uri": "Q152378", "obj_uri": "Q38799", "sub_label": "Ismail Haniyah", "obj_label": "Hamas", "predicate_id": "P463"}
+{"uuid": "e8a8d815-ee31-4c91-a7c2-b31127db4b14", "sub_uri": "Q86597898", "obj_uri": "Q182032", "sub_label": "Jesslyn Callista", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "09e52208-d7a3-41d8-81c5-8687e0678db1", "sub_uri": "Q568669", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Republik Demokratik Kongo", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "5c1ce1e5-c381-448b-97e4-a2541dd3c31f", "sub_uri": "Q806536", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Bangladesh", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "c8840ae4-cf03-4b28-b96c-db0692a73190", "sub_uri": "Q236006", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Haiti", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "8d780b1d-2ff8-4ba4-a857-88f0bedd4449", "sub_uri": "Q1209696", "obj_uri": "Q51118", "sub_label": "Yuko Oshima", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "ab88acd7-9d6d-4faf-a153-c43f47502f2b", "sub_uri": "Q371451", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Georgia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "c8d01e5c-2137-4be3-a39c-be44e4070cf5", "sub_uri": "Q27950614", "obj_uri": "Q51118", "sub_label": "Oguri Yui", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "0389220f-b90c-4109-b44c-eb304108ed0e", "sub_uri": "Q623980", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Filipina", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "089dfc7e-fecc-49ab-a925-d3a479e87dc4", "sub_uri": "Q311621", "obj_uri": "Q184827", "sub_label": "Maynard James Keenan", "obj_label": "Tool", "predicate_id": "P463"}
+{"uuid": "12d9aee3-7412-4a54-b197-e6094d32a105", "sub_uri": "Q7304486", "obj_uri": "Q5114093", "sub_label": "Akhadi Wira Satriaji", "obj_label": "Slank", "predicate_id": "P463"}
+{"uuid": "82ad2bdc-86c1-4f91-8b0e-ce556d6f154b", "sub_uri": "Q1207378", "obj_uri": "Q51118", "sub_label": "Yuki Kashiwagi", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "4abd913f-fdc0-4211-9439-77054899b3b0", "sub_uri": "Q2287945", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Nikaragua", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "76b9aa42-4b3d-44c2-b940-4210f412f653", "sub_uri": "Q19667087", "obj_uri": "Q51118", "sub_label": "Natsuki Uchiyama", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "cab16cf8-7a43-49ab-88fa-642fd07ea67e", "sub_uri": "Q781890", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Australia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "c7a0000f-95fb-43c0-b469-9634c9cea893", "sub_uri": "Q2468903", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Samoa", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "9f041ad2-c612-4862-a2db-f6df1911a42d", "sub_uri": "Q18121791", "obj_uri": "Q872181", "sub_label": "Pramuka Penggalang", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "998f4b75-9456-46e1-9748-98a9f24668ea", "sub_uri": "Q186262", "obj_uri": "Q253414", "sub_label": "Tim nasional sepak bola Albania", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "b3d971b9-f29b-45e7-9a8f-6419eeef49cf", "sub_uri": "Q12494801", "obj_uri": "Q182032", "sub_label": "Lidya Maulida Djuhandar", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "a1e82146-1d0c-4ee1-bb07-95fd94f1e96a", "sub_uri": "Q1072674", "obj_uri": "Q51118", "sub_label": "Shizuka \u014cya", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "b97dd11c-9bb7-44f8-a541-6044b879d029", "sub_uri": "Q1329748", "obj_uri": "Q51118", "sub_label": "Tomomi Kasai", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "42bc4514-39ff-4679-ab53-965abc416463", "sub_uri": "Q474952", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Norwegia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "6c9f6fab-02fc-4b5b-9f45-3ab778cdd94d", "sub_uri": "Q726183", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Turki", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "1e4b909d-0150-44cc-bd85-79116dd403ba", "sub_uri": "Q83751660", "obj_uri": "Q182032", "sub_label": "Gabryela Marcelina", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "51429cd3-3c19-4251-a631-d894a30dd3ef", "sub_uri": "Q474947", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Finlandia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "f37254d9-4a08-4f4b-9fef-5e7a134337a4", "sub_uri": "Q1160682", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Meksiko", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "512bb820-2dc4-443f-be17-f6778187c121", "sub_uri": "Q18015644", "obj_uri": "Q18161349", "sub_label": "Bobby (penyanyi rap)", "obj_label": "IKon", "predicate_id": "P463"}
+{"uuid": "b525d8b2-5855-4fec-bc6f-1f1acda66fe7", "sub_uri": "Q1061066", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Republik Islam Mauritania", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "7b047ebf-14b7-4473-9ca3-9e55b94c791f", "sub_uri": "Q65214119", "obj_uri": "Q182032", "sub_label": "Ariella Calista Ichwan", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "f102f8e3-bf20-469e-8c75-cdbd4d9d0b60", "sub_uri": "Q1197170", "obj_uri": "Q51118", "sub_label": "Aki Takajo", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "647e3e96-7efb-427f-94c4-bdcbabf15ce4", "sub_uri": "Q679516", "obj_uri": "Q872181", "sub_label": "Tom\u00e1\u0161 Hal\u00edk", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "e1e2286e-a2c7-4fd9-88c5-d78328c489d5", "sub_uri": "Q399637", "obj_uri": "Q51118", "sub_label": "Haruna Kojima", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "a36e7ec3-c5fb-4e80-b269-e5c0cfe10f18", "sub_uri": "Q622248", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Guam", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "5209dea2-a4ce-4be2-bee4-2be9ed3bfa5c", "sub_uri": "Q630231", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Latvia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "291a8f68-8abd-4f30-9d1c-cbe67c1c90a6", "sub_uri": "Q15873", "obj_uri": "Q15862", "sub_label": "Brian May", "obj_label": "Queen", "predicate_id": "P463"}
+{"uuid": "2fd92033-4239-4bcd-be25-ee3c4010fd14", "sub_uri": "Q1469434", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kepulauan Solomon", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "d8a33f82-d8a2-40a4-b651-af46ceea2f56", "sub_uri": "Q1072639", "obj_uri": "Q51118", "sub_label": "Sayaka Nakaya", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "77bbbef0-3cae-460c-a3bf-482780db227d", "sub_uri": "Q921528", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Republik Kongo", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "b5d50c3a-f6ed-4d2f-a4db-58b33c154796", "sub_uri": "Q18388296", "obj_uri": "Q13580495", "sub_label": "V (penyanyi)", "obj_label": "BTS", "predicate_id": "P463"}
+{"uuid": "777cc0a9-68e4-4cac-8168-dd36053b0deb", "sub_uri": "Q25456658", "obj_uri": "Q182032", "sub_label": "Michelle Christo", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "cada6abd-556e-4e8d-a495-3731cef96121", "sub_uri": "Q634742", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Botswana", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "a5c7346a-39c8-49b3-9134-bb3350ca4479", "sub_uri": "Q842596", "obj_uri": "Q253414", "sub_label": "Sepak Bola Selandia Baru", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "783e0e8d-1270-4201-9eb0-38dde3e47080", "sub_uri": "Q579192", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Gabon", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "3e9356d0-e2b0-41c0-88bb-f11c54e86bb7", "sub_uri": "Q833624", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Afrika Selatan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "ded0f2d8-492f-42df-b609-34ab0053b460", "sub_uri": "Q65214083", "obj_uri": "Q182032", "sub_label": "Nabila Fitriana", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "b099ab1c-9a72-4ad7-952c-0b843a94ad9e", "sub_uri": "Q375485", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Uganda", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "471ce3a3-2249-4228-ba43-96e8f36ca704", "sub_uri": "Q244754", "obj_uri": "Q253414", "sub_label": "Konfederasi Sepak Bola Brasil", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "1758e0fe-a685-448c-9bf5-f3686c967a5f", "sub_uri": "Q921938", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kamerun", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "6afaa36f-d035-4a80-b896-c05d8bbcf2a0", "sub_uri": "Q867482", "obj_uri": "Q51118", "sub_label": "Shiori Nakamata", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "8e396f33-3227-4108-9d0d-3dfc84bb2a09", "sub_uri": "Q22583558", "obj_uri": "Q13580495", "sub_label": "J-Hope", "obj_label": "BTS", "predicate_id": "P463"}
+{"uuid": "5e7f55ba-3d29-4f2e-8028-657222ee2e09", "sub_uri": "Q18226811", "obj_uri": "Q51118", "sub_label": "Ayana Shinozaki", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "26ce638f-f433-40ed-82d0-126bd4ce7976", "sub_uri": "Q2287930", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Panama", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "0998e0ef-118f-43ff-a981-a117d93adfa8", "sub_uri": "Q538118", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Ekuador", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "d85e182a-637d-48c7-83c5-02141316cec6", "sub_uri": "Q2606456", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Bahama", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "61421997-fe78-4fc2-819e-5cf4eb306a1f", "sub_uri": "Q62531712", "obj_uri": "Q182032", "sub_label": "Gita Sekar Andarini", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "64fdaf2b-6aa0-422b-a135-f1b5dd4a50b2", "sub_uri": "Q18235331", "obj_uri": "Q51118", "sub_label": "Nako Yabuki", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "5cd8b213-d835-49d8-93aa-b4f7b32b8789", "sub_uri": "Q213200", "obj_uri": "Q51118", "sub_label": "Karen Iwata", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "326f9f4b-e546-4ba6-99ac-5de2a6e3a36b", "sub_uri": "Q17411111", "obj_uri": "Q182032", "sub_label": "Rona Anggreani", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "49a43a4b-6352-4bb0-9301-a2215a9c07c0", "sub_uri": "Q1086979", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Kuwait", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "c75fe240-ebb3-4ae9-b894-af3fc24644ea", "sub_uri": "Q25456613", "obj_uri": "Q182032", "sub_label": "Ayu Safira Oktaviani", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "179f16fb-0729-4e5d-b471-d10dea026344", "sub_uri": "Q275173", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Wales", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "da5a4adb-d2b0-43f8-83df-b17ee34ad920", "sub_uri": "Q69987255", "obj_uri": "Q182032", "sub_label": "Riska Amelia Putri", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "c079740f-633b-4da8-9f33-a09de9e70abc", "sub_uri": "Q641712", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Israel", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "5529fc99-6df8-402d-97ed-4e2f2230d9da", "sub_uri": "Q934330", "obj_uri": "Q51118", "sub_label": "Minami Minegishi", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "fcce88c5-ed0d-4c82-9535-60c28e4a9e23", "sub_uri": "Q211853", "obj_uri": "Q224", "sub_label": "Republik Krajina Serbia", "obj_label": "Kroasia", "predicate_id": "P463"}
+{"uuid": "a492b26c-559a-43b1-baec-6aa9593e70b6", "sub_uri": "Q1028524", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Nasional Guatemala", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "f0f1222e-3717-43c2-bfe5-ca7c69d543a3", "sub_uri": "Q25460550", "obj_uri": "Q182032", "sub_label": "Adriani Elisabeth", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "d07f6fb7-9fde-4d08-bca9-2dd775d8ab8b", "sub_uri": "Q15059210", "obj_uri": "Q51118", "sub_label": "Tomu Muto", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "223c1a2e-f945-403d-8713-640b41afa0a0", "sub_uri": "Q60796211", "obj_uri": "Q51118", "sub_label": "Satone Kubo", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "f0456563-75b7-4873-9767-f61c2b38e5c9", "sub_uri": "Q662763", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Madagaskar", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "c349ea41-deee-4039-b065-e61ea83c7ecc", "sub_uri": "Q2604400", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Haiti", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "ab801f06-dec8-4a76-8e4e-385d814ad823", "sub_uri": "Q623614", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Pakistan", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "579dfb14-f316-4033-8300-9ecd0c887756", "sub_uri": "Q1072701", "obj_uri": "Q51118", "sub_label": "Chisato Nakata", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "c2feb679-3693-4b35-af16-fa94cccf4c47", "sub_uri": "Q387416", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Liechtenstein", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "0560b005-0384-4333-8938-0f7786bc0ca0", "sub_uri": "Q982696", "obj_uri": "Q52", "sub_label": "Bassel Khartabil", "obj_label": "Wikipedia", "predicate_id": "P463"}
+{"uuid": "c9b1f939-4e71-4d4e-a791-d8f496e955eb", "sub_uri": "Q12475503", "obj_uri": "Q182032", "sub_label": "Beby Chaesara Anadila", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "546309c8-8e4b-46de-979b-caaa7f97d474", "sub_uri": "Q473245", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Belarus", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "6391a1de-0124-4ef1-8cc3-23ff59db8357", "sub_uri": "Q25455759", "obj_uri": "Q182032", "sub_label": "Thalia Ivanka Elizabeth", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "8da8b2d7-fd6b-43dc-8fb1-7131d77a335e", "sub_uri": "Q116589", "obj_uri": "Q872181", "sub_label": "Jan Kubi\u0161", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "78e3e4c9-17d6-4c55-984d-9159c35bfd2d", "sub_uri": "Q309008", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Polandia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "36bea5a0-6fef-404f-b528-dfbfa789d275", "sub_uri": "Q625790", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Yaman", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "8fb8b648-cb53-4caa-b877-e99289e74283", "sub_uri": "Q738128", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Montenegro", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "516f56a1-e893-4177-ab07-d4fb0550d607", "sub_uri": "Q1136313", "obj_uri": "Q51118", "sub_label": "Mika Komori", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "a89d586f-1015-420d-af3c-a0502fe7074a", "sub_uri": "Q923018", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Pantai Gading", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "404138f7-c035-4daa-bd31-5c66f6af1c5a", "sub_uri": "Q1129588", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Kepulauan Cook", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "2ef6e128-ad5a-4926-bad8-16d2bf5cb5a1", "sub_uri": "Q622321", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Hong Kong", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "70770689-c295-40e9-a3cc-9a8b380bebb7", "sub_uri": "Q17161536", "obj_uri": "Q2900732", "sub_label": "Yufu Terashima", "obj_label": "BiS", "predicate_id": "P463"}
+{"uuid": "1e5b2148-1cdc-4ab2-981a-d9150f5c892d", "sub_uri": "Q830922", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kolombia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "dcc67467-7eda-497b-a7a9-9bc6c2d7caa2", "sub_uri": "Q25456660", "obj_uri": "Q182032", "sub_label": "Stephanie Pricilla Indarto Putri", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "04215770-4255-43de-a8b5-fa559996ce35", "sub_uri": "Q154191", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Jerman", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "82c373dd-f0d4-4889-a992-77e15199c7d8", "sub_uri": "Q547761", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola El Salvador", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "06ad7af8-f994-4bc5-b6dc-a6648ef11a1e", "sub_uri": "Q25455769", "obj_uri": "Q182032", "sub_label": "Saktia Oktapyani", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "3d31f9c5-3b77-4237-9e14-97cf5167fdcc", "sub_uri": "Q647526", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Aljazair", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "2f2c4e4e-68e8-4af1-bbef-50f5dea97792", "sub_uri": "Q348944", "obj_uri": "Q32825", "sub_label": "Simon Webbe", "obj_label": "Blue", "predicate_id": "P463"}
+{"uuid": "1017fe07-2cb4-4678-a973-15623322bfa1", "sub_uri": "Q473248", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Siprus", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "6de569e5-de15-4413-9798-f59011333f6d", "sub_uri": "Q328689", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kroasia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "50dfc26b-0601-4f58-9195-a0ec48e14780", "sub_uri": "Q187662", "obj_uri": "Q51118", "sub_label": "Mayu Watanabe", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "c275765d-9046-4505-9d84-ab67b45f8739", "sub_uri": "Q86644073", "obj_uri": "Q182032", "sub_label": "Rinanda Syahputri", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "31c98393-e015-47cb-8092-1c926ee3e726", "sub_uri": "Q874992", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Chad", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "2d513e8c-15ee-446a-a92c-a4740806a74d", "sub_uri": "Q17811824", "obj_uri": "Q18161349", "sub_label": "B.I (penyanyi rap)", "obj_label": "IKon", "predicate_id": "P463"}
+{"uuid": "2358b9b9-238c-46ec-9600-125c3660da0e", "sub_uri": "Q36233", "obj_uri": "Q872181", "sub_label": "V\u00e1clav Havel", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "ab134b37-90c9-400b-b8d9-19365ca88ed8", "sub_uri": "Q65659332", "obj_uri": "Q182032", "sub_label": "Azizi Asadel", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "8fab8458-3be1-4674-9a3f-5997890807e0", "sub_uri": "Q25460560", "obj_uri": "Q182032", "sub_label": "Fidly Immanda Azzahra", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "dfb5f1ed-a2d0-437d-bf89-4800df57dcd3", "sub_uri": "Q1318927", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Thailand", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "0ab8eef5-7720-41dc-a479-419512dd7efd", "sub_uri": "Q625729", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Sri Lanka", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "f0cff4b6-d629-44ec-ba81-046a5e4d9f7d", "sub_uri": "Q347428", "obj_uri": "Q626440", "sub_label": "Jun Matsumoto", "obj_label": "Arashi", "predicate_id": "P463"}
+{"uuid": "47b675e1-b938-4171-9977-b103d333a6c4", "sub_uri": "Q102124", "obj_uri": "Q13974", "sub_label": "Sigourney Weaver", "obj_label": "NBC", "predicate_id": "P463"}
+{"uuid": "ddfca669-efd1-4cdd-9f7d-62f35975e628", "sub_uri": "Q578917", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Jamaika", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "dc1006bc-f3bd-4241-b60d-4a3f66a062b3", "sub_uri": "Q754433", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Serbia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "cdc675b3-039f-4806-b1cc-a4b540f27ab0", "sub_uri": "Q625707", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Singapura", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "1eea3d7d-8965-497f-9342-d4399792690e", "sub_uri": "Q86551101", "obj_uri": "Q182032", "sub_label": "Kandiya Rafa Maulidita", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "a4e1fcaf-3898-49ca-b436-fb6327d49ce7", "sub_uri": "Q849148", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Venezuela", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "d99ae069-84a8-4536-98c4-6ce31ed83ab9", "sub_uri": "Q11120678", "obj_uri": "Q1951917", "sub_label": "Bambang Sudibyo", "obj_label": "Muhammadiyah", "predicate_id": "P463"}
+{"uuid": "2bd53933-55d9-4868-981a-191b4bf04047", "sub_uri": "Q169689", "obj_uri": "Q51118", "sub_label": "Rena Kato", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "0e62d093-373f-47d1-b707-3bdffccaa5ec", "sub_uri": "Q4203271", "obj_uri": "Q51118", "sub_label": "Miyaki Riho", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "f521ffaa-b868-47d2-b8d0-533d81680900", "sub_uri": "Q25456656", "obj_uri": "Q182032", "sub_label": "Syahfira Angela Nurhaliza", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "8f8030e6-23f5-4632-907b-63f301654d4b", "sub_uri": "Q17411346", "obj_uri": "Q182032", "sub_label": "Shinta Naomi", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "6ef28fe1-ede4-4bef-94cb-37007a4cdbc9", "sub_uri": "Q733029", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Hongaria", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "b4615a41-af75-4a89-b1e0-2b35405405df", "sub_uri": "Q623651", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Seluruh Nepal", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "8548d0cc-f0e9-4a61-89e8-67c1bbecbca4", "sub_uri": "Q921881", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Mesir", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "317b6147-0275-47f3-bc59-efe27629f0df", "sub_uri": "Q270692", "obj_uri": "Q80304", "sub_label": "Jonathan Davis", "obj_label": "Korn", "predicate_id": "P463"}
+{"uuid": "f257a1da-633a-4b8b-87ba-7219bc8370ba", "sub_uri": "Q25456632", "obj_uri": "Q182032", "sub_label": "Feni Fitriyanti", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "1989b8c8-2bd3-4e0d-bd8c-b3f06ea10df2", "sub_uri": "Q455428", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Swedia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "62f3d590-7bd1-4df3-b457-5d3c773eb7b9", "sub_uri": "Q1067403", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Korea Utara", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "991ec423-81f2-422b-8dfe-af26e0ab12c9", "sub_uri": "Q869327", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Kosta Rika", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "850578fd-4d81-427c-b6b3-ccf8c65e0747", "sub_uri": "Q352030", "obj_uri": "Q872181", "sub_label": "Ji\u0159\u00ed Menzel", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "ee7a5ac5-4e9f-480b-a1cb-c0205d569669", "sub_uri": "Q25455761", "obj_uri": "Q182032", "sub_label": "Dena Siti Rohyati", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "ed7e64f6-8676-496d-87ea-a8497492c894", "sub_uri": "Q269119", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Mauritius", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "376cb66b-49da-4351-8bbb-ffc0957f3d01", "sub_uri": "Q335142", "obj_uri": "Q83372", "sub_label": "Alexander Bogdanov", "obj_label": "Bolshevik", "predicate_id": "P463"}
+{"uuid": "3e9a2869-a3d5-4d50-9512-e3ec900ac687", "sub_uri": "Q1032414", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Kanada", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "5ac95ea3-1878-4be1-97b4-c3468a756075", "sub_uri": "Q868584", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Komoro", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "02df36f6-a6f2-480b-9899-b1e5573223a0", "sub_uri": "Q932762", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Nigeria", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "67ef0d5b-f42c-4582-a38a-be8b19be205e", "sub_uri": "Q931302", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Zimbabwe", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "9a9f008b-3a4b-4cf3-859c-ae4a021fd772", "sub_uri": "Q1036673", "obj_uri": "Q51118", "sub_label": "Kazumi Urano", "obj_label": "AKB48", "predicate_id": "P463"}
+{"uuid": "54659be5-50a5-4d1c-9f31-82c9ac08b30a", "sub_uri": "Q16172613", "obj_uri": "Q182032", "sub_label": "Cindy Yuvia", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "049f596a-e1f1-4b89-90ae-38a0d14b4d79", "sub_uri": "Q912098", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Jibuti", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "2446637b-20a8-4a74-9133-703231f9fede", "sub_uri": "Q210347", "obj_uri": "Q872181", "sub_label": "Organisasi Gerakan Kepanduan Dunia", "obj_label": "Kepanduan", "predicate_id": "P463"}
+{"uuid": "b8d9346e-023a-4c26-87ba-5d13c5512a9c", "sub_uri": "Q988088", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Guinea Khatulistiwa", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "12257979-6e01-4861-b990-1780a13a4c9d", "sub_uri": "Q2723332", "obj_uri": "Q253414", "sub_label": "Asosiasi Sepak Bola Saint Kitts dan Nevis", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "267fa238-53de-491a-851e-86b6b520a561", "sub_uri": "Q834333", "obj_uri": "Q253414", "sub_label": "Federasi Sepak Bola Bolivia", "obj_label": "FIFA", "predicate_id": "P463"}
+{"uuid": "eabad356-6c8c-4a83-a5cd-eb9db1154e98", "sub_uri": "Q313749", "obj_uri": "Q184386", "sub_label": "Jon Anderson", "obj_label": "Yes", "predicate_id": "P463"}
+{"uuid": "5b7c8e9e-52e4-477c-bbf7-b2e3b561eb2f", "sub_uri": "Q25460555", "obj_uri": "Q182032", "sub_label": "Cindy Hapsari Maharani Pujiantoro Putri", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "7d483efc-c760-40de-93c0-280c65a10616", "sub_uri": "Q28723595", "obj_uri": "Q182032", "sub_label": "Nurhayati (penyanyi)", "obj_label": "JKT48", "predicate_id": "P463"}
+{"uuid": "a03744f4-2f74-4cf0-aeb3-8d3e5284b99a", "sub_uri": "Q60933", "obj_uri": "Q51118", "sub_label": "Minami Takahashi", "obj_label": "AKB48", "predicate_id": "P463"}

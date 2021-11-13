@@ -128,9 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# IndoWiki
-IndoWiki/
-
 # Outputs
 output/
 last_results.csv

@@ -1,0 +1,1000 @@
+{"uuid": "91149fbc-5cef-459b-8ad4-c9d4de65f603", "sub_uri": "Q956", "obj_uri": "Q1353", "sub_label": "Beijing", "obj_label": "Delhi", "predicate_id": "P190"}
+{"uuid": "663b6649-0c22-4dba-a911-dc169078e144", "sub_uri": "Q11725", "obj_uri": "Q12439", "sub_label": "Chongqing", "obj_label": "Detroit", "predicate_id": "P190"}
+{"uuid": "39afda1b-01e4-4a4d-aff4-67e14bd96ecc", "sub_uri": "Q188673", "obj_uri": "Q8652", "sub_label": "T\u00e2rgovi\u0219te", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "6c1e64e5-c70c-400b-afb0-5b684b43396d", "sub_uri": "Q37100", "obj_uri": "Q1055", "sub_label": "Auckland", "obj_label": "Hamburg", "predicate_id": "P190"}
+{"uuid": "706e1988-cd94-4071-9d08-72e3e8878728", "sub_uri": "Q45779", "obj_uri": "Q5083", "sub_label": "P\u00e9cs", "obj_label": "Seattle", "predicate_id": "P190"}
+{"uuid": "fed8e482-b373-442e-b561-c1459e11fd71", "sub_uri": "Q181557", "obj_uri": "Q5083", "sub_label": "Kota Kaohsiung", "obj_label": "Seattle", "predicate_id": "P190"}
+{"uuid": "fd1cca02-8255-47e4-8073-d3e7d154b1ff", "sub_uri": "Q8851", "obj_uri": "Q3766", "sub_label": "M\u00e1laga", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "2d3fd19d-fd91-4457-aa14-31233e2b73a6", "sub_uri": "Q956", "obj_uri": "Q1490", "sub_label": "Beijing", "obj_label": "Tokyo", "predicate_id": "P190"}
+{"uuid": "5095dfff-b0f2-4717-b376-2d143a59dabe", "sub_uri": "Q1486", "obj_uri": "Q490", "sub_label": "Buenos Aires", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "0186db3d-4607-4225-bd8d-680ddd6e5459", "sub_uri": "Q269", "obj_uri": "Q1899", "sub_label": "Tashkent", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "ab57bbac-8ae5-41b2-b085-10b039477403", "sub_uri": "Q2807", "obj_uri": "Q270", "sub_label": "Madrid", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "04e17cbd-f1f1-4f62-9548-4e9f13af0ed5", "sub_uri": "Q656", "obj_uri": "Q495", "sub_label": "Sankt-Peterburg", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "d892b9a3-f9bc-4801-ae70-37fb71a324fa", "sub_uri": "Q2360337", "obj_uri": "Q8717", "sub_label": "Tifariti", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "1d47718f-81a4-457c-be84-00e871543a05", "sub_uri": "Q12303", "obj_uri": "Q8717", "sub_label": "Jerez de la Frontera", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "cbea71cd-97f5-4c26-93eb-fcd0a632e692", "sub_uri": "Q1486", "obj_uri": "Q35765", "sub_label": "Buenos Aires", "obj_label": "Osaka", "predicate_id": "P190"}
+{"uuid": "d65d7a9f-d828-4b31-93b2-04b2ebfcc1b7", "sub_uri": "Q2280", "obj_uri": "Q85", "sub_label": "Minsk", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "349ef40b-9639-4396-bcce-46733ad574a4", "sub_uri": "Q2844", "obj_uri": "Q3114", "sub_label": "Bras\u00edlia", "obj_label": "Canberra", "predicate_id": "P190"}
+{"uuid": "5b1a6143-d7bb-419a-bac1-e0cee9086c06", "sub_uri": "Q270", "obj_uri": "Q585", "sub_label": "Warsawa", "obj_label": "Oslo", "predicate_id": "P190"}
+{"uuid": "e5daf2db-f32e-4c44-bc2c-84e615e6e269", "sub_uri": "Q1973", "obj_uri": "Q15175", "sub_label": "British Columbia", "obj_label": "Guangdong", "predicate_id": "P190"}
+{"uuid": "b547f719-59d7-4ba1-966b-e1b7bfeb8104", "sub_uri": "Q1854", "obj_uri": "Q8717", "sub_label": "Kota H\u1ed3 Ch\u00ed Minh", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "0f42e6bc-a309-48ed-b2d2-78ff31d6df09", "sub_uri": "Q8818", "obj_uri": "Q1891", "sub_label": "Valencia", "obj_label": "Bologna", "predicate_id": "P190"}
+{"uuid": "f1889a11-7dde-4ea4-9fc0-bbf5d75debf4", "sub_uri": "Q175", "obj_uri": "Q1490", "sub_label": "S\u00e3o Paulo (negara bagian)", "obj_label": "Tokyo", "predicate_id": "P190"}
+{"uuid": "d4685a50-61ee-461f-9466-4f61b7cac4b6", "sub_uri": "Q1854", "obj_uri": "Q1461", "sub_label": "Kota H\u1ed3 Ch\u00ed Minh", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "c04efdb3-90d4-4f6a-920b-8aa0489f556b", "sub_uri": "Q1761", "obj_uri": "Q956", "sub_label": "Dublin", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "b1376677-363f-482a-826d-988769942068", "sub_uri": "Q406", "obj_uri": "Q34370", "sub_label": "Istanbul", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "adfba74c-c0ff-4833-8fc1-cc370161a34a", "sub_uri": "Q85", "obj_uri": "Q1022", "sub_label": "Kairo", "obj_label": "Stuttgart", "predicate_id": "P190"}
+{"uuid": "127792aa-312c-45ad-bf7b-067dd5cda52b", "sub_uri": "Q5083", "obj_uri": "Q26793", "sub_label": "Seattle", "obj_label": "Bergen", "predicate_id": "P190"}
+{"uuid": "0f0f2fe0-0819-4df2-bcae-d3e11bb29202", "sub_uri": "Q8686", "obj_uri": "Q585", "sub_label": "Shanghai", "obj_label": "Oslo", "predicate_id": "P190"}
+{"uuid": "00eac296-6853-41af-b7c6-8fe1a3a109db", "sub_uri": "Q14960", "obj_uri": "Q1741", "sub_label": "Brno", "obj_label": "Wina", "predicate_id": "P190"}
+{"uuid": "79ac1854-d2e3-41cd-b047-8a068f4bfb9e", "sub_uri": "Q58719", "obj_uri": "Q1781", "sub_label": "Mondragone", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "f7cd8b2f-868b-4db5-8dac-14dfb1aad74b", "sub_uri": "Q37806", "obj_uri": "Q8686", "sub_label": "Port Vila", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "2f2f3ded-87e8-4368-b89e-80be5b9943a1", "sub_uri": "Q81581", "obj_uri": "Q2683", "sub_label": "Szeged", "obj_label": "Parma", "predicate_id": "P190"}
+{"uuid": "35a23adb-85a4-4358-bb49-fa6cd1ac8b9b", "sub_uri": "Q36647", "obj_uri": "Q8686", "sub_label": "Cork", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "f290c9ce-727f-40a4-90aa-b1e8ec2c6e14", "sub_uri": "Q16520", "obj_uri": "Q612", "sub_label": "Busan", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "4690d010-dfcf-493d-bb23-8fe026f554d4", "sub_uri": "Q1524", "obj_uri": "Q23556", "sub_label": "Kota Athena", "obj_label": "Atlanta", "predicate_id": "P190"}
+{"uuid": "e15af723-0649-4357-921e-9ec104da1965", "sub_uri": "Q612", "obj_uri": "Q3820", "sub_label": "Dubai", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "f2aa420b-eff4-42a9-a4c4-021d5cb0bcaa", "sub_uri": "Q48278", "obj_uri": "Q1492", "sub_label": "Medell\u00edn", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "8b2f6565-e202-4317-b37c-0ec16be9aab7", "sub_uri": "Q34370", "obj_uri": "Q585", "sub_label": "Rotterdam", "obj_label": "Oslo", "predicate_id": "P190"}
+{"uuid": "695f884a-13f0-43c8-8889-57f10f6f7cc6", "sub_uri": "Q727", "obj_uri": "Q649", "sub_label": "Amsterdam", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "e6585d58-6933-4a6e-8af4-565a80355bc3", "sub_uri": "Q3306", "obj_uri": "Q8652", "sub_label": "Kota Panama", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "949d8cb8-329d-4ceb-8c6f-3513f44e51f7", "sub_uri": "Q174", "obj_uri": "Q1055", "sub_label": "S\u00e3o Paulo", "obj_label": "Hamburg", "predicate_id": "P190"}
+{"uuid": "a7ce279c-0b8a-4f18-a149-c15c5b62c78a", "sub_uri": "Q1524", "obj_uri": "Q1899", "sub_label": "Kota Athena", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "d2f24da6-d153-4973-baea-669299f4500d", "sub_uri": "Q129610", "obj_uri": "Q1297", "sub_label": "Galway", "obj_label": "Chicago", "predicate_id": "P190"}
+{"uuid": "fa9a3c28-2f5e-4905-beef-68280a0c4750", "sub_uri": "Q26600", "obj_uri": "Q16572", "sub_label": "Fukuoka", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "e6b48344-4c90-49d7-8e70-778d5393b01b", "sub_uri": "Q79808", "obj_uri": "Q38283", "sub_label": "Constan\u0163a", "obj_label": "Yokohama", "predicate_id": "P190"}
+{"uuid": "a736b344-2001-4075-af04-7684074116aa", "sub_uri": "Q2916", "obj_uri": "Q43475", "sub_label": "Osnabr\u00fcck", "obj_label": "Derby", "predicate_id": "P190"}
+{"uuid": "25ed46a9-b81a-4801-95f9-00ee3fa863ed", "sub_uri": "Q10717", "obj_uri": "Q18808", "sub_label": "Georgetown, Guyana", "obj_label": "Pyongyang", "predicate_id": "P190"}
+{"uuid": "c2f1ebf9-aff2-4ea2-b673-4dad43895271", "sub_uri": "Q641", "obj_uri": "Q33959", "sub_label": "Venesia", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "f0ca9c70-a217-4da2-9e4a-544321d5bc20", "sub_uri": "Q486282", "obj_uri": "Q3616", "sub_label": "Pavlodar", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "05bbe350-d633-4d74-9f3e-96d1f4eee8ca", "sub_uri": "Q1489", "obj_uri": "Q1754", "sub_label": "Kota Meksiko", "obj_label": "Stockholm", "predicate_id": "P190"}
+{"uuid": "9210681e-3bd6-42dd-b47e-1e22a8cf42d5", "sub_uri": "Q6506", "obj_uri": "Q456", "sub_label": "Varna", "obj_label": "Lyon", "predicate_id": "P190"}
+{"uuid": "f1c458bd-76b4-4731-b709-e41daca2a9a5", "sub_uri": "Q216", "obj_uri": "Q585", "sub_label": "Vilnius", "obj_label": "Oslo", "predicate_id": "P190"}
+{"uuid": "cb183f57-1dde-45d9-a5ac-bd623e6f8af1", "sub_uri": "Q1842", "obj_uri": "Q1085", "sub_label": "Luksemburg (kota)", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "96cd487b-c2e0-4ef5-af0c-98660ad3b3a6", "sub_uri": "Q1781", "obj_uri": "Q2807", "sub_label": "Budapest", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "54f21f3c-b591-450d-9b1c-d8ad70cd0a50", "sub_uri": "Q647417", "obj_uri": "Q1296", "sub_label": "Mohammedia", "obj_label": "Gent", "predicate_id": "P190"}
+{"uuid": "df3a1f6a-c387-4192-b078-1aa64e48bc24", "sub_uri": "Q3258", "obj_uri": "Q956", "sub_label": "Wilayah Ibu Kota Australia", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "abdcb25a-3601-4b73-8c29-3d526d0c5b89", "sub_uri": "Q241717", "obj_uri": "Q18419", "sub_label": "Anzio", "obj_label": "Brooklyn", "predicate_id": "P190"}
+{"uuid": "9991d574-f0ec-43aa-8e2e-057ca8cf94f6", "sub_uri": "Q171632", "obj_uri": "Q51103", "sub_label": "Maracaibo", "obj_label": "Cali", "predicate_id": "P190"}
+{"uuid": "07574524-a053-48b2-90ab-10a68041f001", "sub_uri": "Q39984", "obj_uri": "Q2807", "sub_label": "Cannes", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "950fd002-42ae-4212-a129-f9a6ecec4036", "sub_uri": "Q172", "obj_uri": "Q406", "sub_label": "Toronto", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "397bf2b4-abad-4a0d-8bae-246c8183a7a4", "sub_uri": "Q1899", "obj_uri": "Q956", "sub_label": "Kiev", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "552e9346-d135-44f3-8512-e8eeeec8a38b", "sub_uri": "Q164234", "obj_uri": "Q42448", "sub_label": "Kawasaki, Kanagawa", "obj_label": "Sheffield", "predicate_id": "P190"}
+{"uuid": "59141c9e-ab95-4651-8666-f90033a6d206", "sub_uri": "Q216", "obj_uri": "Q270", "sub_label": "Vilnius", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "51a27749-7f76-4eb4-b382-2ab13ea10eab", "sub_uri": "Q79808", "obj_uri": "Q8686", "sub_label": "Constan\u0163a", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "471a50af-17f6-46a8-b778-4ce7681e5e56", "sub_uri": "Q270", "obj_uri": "Q649", "sub_label": "Warsawa", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "d77ffd30-3aa9-4a56-81f3-2f5d4394187b", "sub_uri": "Q165204", "obj_uri": "Q8652", "sub_label": "M\u00e9rida, Meksiko", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "b82c3d5e-7ec6-4701-a376-55ddb7aa0d1c", "sub_uri": "Q2807", "obj_uri": "Q8652", "sub_label": "Madrid", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "23d2fd4a-5ebc-4af0-92ed-a8004e79963f", "sub_uri": "Q1854", "obj_uri": "Q16572", "sub_label": "Kota H\u1ed3 Ch\u00ed Minh", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "57e48bc5-cefe-4bff-8026-afa6c4ce1b89", "sub_uri": "Q1780", "obj_uri": "Q649", "sub_label": "Bratislava", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "b1067e87-7cb2-4d02-b117-0bdf44d9f09e", "sub_uri": "Q79990", "obj_uri": "Q5083", "sub_label": "Christchurch", "obj_label": "Seattle", "predicate_id": "P190"}
+{"uuid": "764a9cc0-2e05-4d95-97ca-64dbb07e08d7", "sub_uri": "Q5818", "obj_uri": "Q18125", "sub_label": "C\u00f3rdoba, Spanyol", "obj_label": "Manchester", "predicate_id": "P190"}
+{"uuid": "97e5ece7-2f51-48d6-8788-7e5912c7c8d0", "sub_uri": "Q158876", "obj_uri": "Q1899", "sub_label": "Reinickendorf", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "4f0b0919-74d0-4ef3-97b2-4b84148de0a8", "sub_uri": "Q406", "obj_uri": "Q374365", "sub_label": "Istanbul", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "6911a453-8d98-4755-9d1f-47ffa1bb963e", "sub_uri": "Q23556", "obj_uri": "Q1867", "sub_label": "Atlanta", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "7339caa6-9192-48b4-9030-c85a8b0cedc4", "sub_uri": "Q1792", "obj_uri": "Q8686", "sub_label": "Gda\u0144sk", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "4f84afe4-b12e-4054-9ff4-006cfd3ce706", "sub_uri": "Q11194", "obj_uri": "Q727", "sub_label": "Sarajevo", "obj_label": "Amsterdam", "predicate_id": "P190"}
+{"uuid": "c25ad147-c02f-4f51-89d5-07ccde2da2ca", "sub_uri": "Q8684", "obj_uri": "Q90", "sub_label": "Seoul", "obj_label": "Paris", "predicate_id": "P190"}
+{"uuid": "296637e1-1fad-4812-9175-b70acfa244bd", "sub_uri": "Q1486", "obj_uri": "Q1492", "sub_label": "Buenos Aires", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "7506a590-e58a-4b79-a509-404da133228c", "sub_uri": "Q1773", "obj_uri": "Q727", "sub_label": "Riga", "obj_label": "Amsterdam", "predicate_id": "P190"}
+{"uuid": "dbd7c8d3-eca1-45f9-8002-994b28de1db6", "sub_uri": "Q1854", "obj_uri": "Q456", "sub_label": "Kota H\u1ed3 Ch\u00ed Minh", "obj_label": "Lyon", "predicate_id": "P190"}
+{"uuid": "90bd66bf-a698-461e-bffe-35ad9350e069", "sub_uri": "Q1289", "obj_uri": "Q34217", "sub_label": "Grenoble", "obj_label": "Oxford", "predicate_id": "P190"}
+{"uuid": "52f6ff4d-3093-4f93-b984-f7937f7d5c9e", "sub_uri": "Q12919", "obj_uri": "Q1867", "sub_label": "Majuro", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "87aa11da-fbe4-4f37-b261-b145d2db3fca", "sub_uri": "Q24826", "obj_uri": "Q34370", "sub_label": "Liverpool (kota)", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "dde0c67d-5fe9-46a9-9826-74e03474231f", "sub_uri": "Q65", "obj_uri": "Q16572", "sub_label": "Los Angeles", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "646aec39-6c91-4535-9671-d6ec7b357f53", "sub_uri": "Q546", "obj_uri": "Q490", "sub_label": "Trieste", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "788eb38e-4f2c-409d-b36c-fecbdb6b1c14", "sub_uri": "Q1781", "obj_uri": "Q406", "sub_label": "Budapest", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "c22ad654-6144-410a-9e6d-90631106a2ad", "sub_uri": "Q2844", "obj_uri": "Q1741", "sub_label": "Bras\u00edlia", "obj_label": "Wina", "predicate_id": "P190"}
+{"uuid": "7e7857e7-ce77-4ca1-aba3-e7abae572325", "sub_uri": "Q19660", "obj_uri": "Q23556", "sub_label": "Bukares", "obj_label": "Atlanta", "predicate_id": "P190"}
+{"uuid": "e1d4aa10-4327-492e-a173-700b76c81a47", "sub_uri": "Q406", "obj_uri": "Q1085", "sub_label": "Istanbul", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "402fe527-e136-4b42-9ea4-f71e8f8959c0", "sub_uri": "Q23564", "obj_uri": "Q3711", "sub_label": "Podgorica", "obj_label": "Beograd", "predicate_id": "P190"}
+{"uuid": "1b4a0691-2a97-43b2-8ddb-3c3ada077b79", "sub_uri": "Q2899", "obj_uri": "Q406", "sub_label": "M\u00fclheim an der Ruhr", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "d3806e91-603c-4355-8a81-bdfa68b12b3f", "sub_uri": "Q11462", "obj_uri": "Q374365", "sub_label": "Kota Surabaya", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "9bb1fffc-c232-4ce1-8ff5-de63350e394a", "sub_uri": "Q216", "obj_uri": "Q1297", "sub_label": "Vilnius", "obj_label": "Chicago", "predicate_id": "P190"}
+{"uuid": "07418d1b-1770-45af-9b0e-ade88451b76c", "sub_uri": "Q649", "obj_uri": "Q3616", "sub_label": "Moskwa", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "679cd0ea-f7f7-41f7-a49e-b4d48d484d35", "sub_uri": "Q8646", "obj_uri": "Q612", "sub_label": "Hong Kong", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "719bd078-9abd-44ca-8ec3-73dd960d7141", "sub_uri": "Q233588", "obj_uri": "Q8686", "sub_label": "Provinsi Chiang Mai", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "735200cf-59f9-469c-9b72-de24900e9519", "sub_uri": "Q335135", "obj_uri": "Q8717", "sub_label": "Popay\u00e1n", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "0aa1dd0b-8e27-472c-9f25-0f8b35402cdf", "sub_uri": "Q1903", "obj_uri": "Q34217", "sub_label": "Catania", "obj_label": "Oxford", "predicate_id": "P190"}
+{"uuid": "348d5c48-a9dd-487e-98e5-57c3a9f5b3f5", "sub_uri": "Q2280", "obj_uri": "Q1899", "sub_label": "Minsk", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "c3fffaea-18dd-40c5-b4a7-bdf8f8a5ace5", "sub_uri": "Q16556", "obj_uri": "Q612", "sub_label": "Phoenix, Arizona", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "093cb4eb-c3ce-4304-afe3-c30749c450e8", "sub_uri": "Q45412", "obj_uri": "Q14773", "sub_label": "Coimbra", "obj_label": "Makau", "predicate_id": "P190"}
+{"uuid": "f10c78d3-6a9a-4157-9fd9-9c6b085077b5", "sub_uri": "Q340757", "obj_uri": "Q33959", "sub_label": "La Maddalena", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "2500abb9-5ac8-443c-a9c1-69f242360987", "sub_uri": "Q123258", "obj_uri": "Q782", "sub_label": "Prefektur Fukuoka", "obj_label": "Hawaii", "predicate_id": "P190"}
+{"uuid": "a7507760-8e74-409a-a6a8-12b60f8caf5c", "sub_uri": "Q49227", "obj_uri": "Q8686", "sub_label": "Winston-Salem, Carolina Utara", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "4b4abf82-e5c3-4bf4-82a5-489440f59717", "sub_uri": "Q1490", "obj_uri": "Q84", "sub_label": "Tokyo", "obj_label": "London", "predicate_id": "P190"}
+{"uuid": "76bbe2a1-7789-4844-83ef-864d3501c450", "sub_uri": "Q64", "obj_uri": "Q956", "sub_label": "Berlin", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "ac47f898-61fe-42ec-ad3b-3006f28d6c58", "sub_uri": "Q18013", "obj_uri": "Q1461", "sub_label": "Sacramento, California", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "ed4be63e-ddce-4d84-82e4-73d711bfa915", "sub_uri": "Q6506", "obj_uri": "Q8652", "sub_label": "Varna", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "53bd6cf9-690e-4d77-aae0-2c2ee0a2b79e", "sub_uri": "Q456", "obj_uri": "Q38283", "sub_label": "Lyon", "obj_label": "Yokohama", "predicate_id": "P190"}
+{"uuid": "9cedc3e7-4387-4268-9053-12f39a49ecef", "sub_uri": "Q1773", "obj_uri": "Q1479", "sub_label": "Riga", "obj_label": "Bordeaux", "predicate_id": "P190"}
+{"uuid": "06fdd784-dcd4-4fec-b465-87812e1d10d1", "sub_uri": "Q6346", "obj_uri": "Q172", "sub_label": "Indianapolis", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "1a5073e4-6fa9-42ad-82d2-f3e2079b51f9", "sub_uri": "Q43788", "obj_uri": "Q585", "sub_label": "Madison, Wisconsin", "obj_label": "Oslo", "predicate_id": "P190"}
+{"uuid": "ef52d034-c299-449f-b465-1282bd1eef42", "sub_uri": "Q25444", "obj_uri": "Q81882", "sub_label": "Funchal", "obj_label": "Santos", "predicate_id": "P190"}
+{"uuid": "9db40d83-92cd-4cfe-bb73-cea0ac9b359b", "sub_uri": "Q16666", "obj_uri": "Q11751", "sub_label": "Nanjing", "obj_label": "Nagoya", "predicate_id": "P190"}
+{"uuid": "326d9b35-64b8-441a-872d-3657fb5dfb34", "sub_uri": "Q34647", "obj_uri": "Q84", "sub_label": "Johannesburg", "obj_label": "London", "predicate_id": "P190"}
+{"uuid": "d50f96d5-7c25-4272-b907-5062b077c205", "sub_uri": "Q87", "obj_uri": "Q374365", "sub_label": "Iskandariyah", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "1e21f4b0-2d2c-4aae-8906-592878fc9483", "sub_uri": "Q12892", "obj_uri": "Q8686", "sub_label": "Antwerpen", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "f4904d62-f727-461d-943b-0da2ca461d88", "sub_uri": "Q11746", "obj_uri": "Q18125", "sub_label": "Wuhan", "obj_label": "Manchester", "predicate_id": "P190"}
+{"uuid": "b23654d3-a707-47ad-92f8-a07031888c85", "sub_uri": "Q1899", "obj_uri": "Q172", "sub_label": "Kiev", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "716a5cd7-4ff5-4e5e-bdc2-c5eedcfbbd42", "sub_uri": "Q35178", "obj_uri": "Q235", "sub_label": "Kota Kuwait", "obj_label": "Monako", "predicate_id": "P190"}
+{"uuid": "c94ac2ea-c42d-4559-acbb-9a3e849a3548", "sub_uri": "Q1741", "obj_uri": "Q70", "sub_label": "Wina", "obj_label": "Bern", "predicate_id": "P190"}
+{"uuid": "9d576592-13c2-4245-8a58-71314ee5e975", "sub_uri": "Q2887", "obj_uri": "Q8652", "sub_label": "Santiago de Chile", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "8e0bb15c-07c8-45cb-8823-33cd0d38f258", "sub_uri": "Q131818", "obj_uri": "Q8652", "sub_label": "Oran", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "22609db5-ff28-44e3-a054-82700ed60d21", "sub_uri": "Q36433", "obj_uri": "Q3150", "sub_label": "Porto", "obj_label": "Jena", "predicate_id": "P190"}
+{"uuid": "77af2d0b-4a92-4285-80aa-41699cb22087", "sub_uri": "Q3805", "obj_uri": "Q490", "sub_label": "Amman", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "9049d422-045d-4862-ad23-7392454e3aab", "sub_uri": "Q13386", "obj_uri": "Q1085", "sub_label": "Lecce", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "149ba21b-fdbd-4910-8dbb-87be6c076969", "sub_uri": "Q47034", "obj_uri": "Q8686", "sub_label": "Espoo", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "90be4f27-72f6-4c4a-af5f-5b6fe31f1c31", "sub_uri": "Q980", "obj_uri": "Q15175", "sub_label": "Bayern", "obj_label": "Guangdong", "predicate_id": "P190"}
+{"uuid": "3d1c9935-5e61-48cd-bb2f-742a2352bf8b", "sub_uri": "Q41161", "obj_uri": "Q8686", "sub_label": "Jeolla Selatan", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "25fd0758-59bb-4b1e-b3da-ff342d5a579f", "sub_uri": "Q16572", "obj_uri": "Q26600", "sub_label": "Guangzhou", "obj_label": "Fukuoka", "predicate_id": "P190"}
+{"uuid": "3ed9bef6-2087-4333-9db3-c4f4f5dc7879", "sub_uri": "Q123709", "obj_uri": "Q612", "sub_label": "Dundee", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "150940be-bbd6-45ab-a5bc-57931ee7fb78", "sub_uri": "Q201117", "obj_uri": "Q12439", "sub_label": "Toyota, Aichi", "obj_label": "Detroit", "predicate_id": "P190"}
+{"uuid": "e4704318-c045-41f8-91bc-272a14d6b258", "sub_uri": "Q456", "obj_uri": "Q3820", "sub_label": "Lyon", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "2f26530c-18b3-4740-ab24-07d4f0770f28", "sub_uri": "Q52535", "obj_uri": "Q8686", "sub_label": "Rosario, Argentina", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "6e1cf462-7098-41e0-9dbf-80c5cd43b314", "sub_uri": "Q3739", "obj_uri": "Q1867", "sub_label": "Bissau", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "b7bbba49-f33b-4e0f-aa09-628007cf1a8e", "sub_uri": "Q1479", "obj_uri": "Q8692", "sub_label": "Bordeaux", "obj_label": "Bilbao", "predicate_id": "P190"}
+{"uuid": "cd8f44be-aa0b-45ca-b149-cb91716342d1", "sub_uri": "Q19660", "obj_uri": "Q12439", "sub_label": "Bukares", "obj_label": "Detroit", "predicate_id": "P190"}
+{"uuid": "24ac70fc-1c62-439b-b8b7-adb9bb463db7", "sub_uri": "Q62", "obj_uri": "Q90", "sub_label": "San Francisco", "obj_label": "Paris", "predicate_id": "P190"}
+{"uuid": "b7053dbc-7ea8-42cb-8d1e-efc6c8f294f0", "sub_uri": "Q174247", "obj_uri": "Q180233", "sub_label": "Macon", "obj_label": "Pori", "predicate_id": "P190"}
+{"uuid": "bb8a8577-9c13-4b2c-8a01-c65669de0e88", "sub_uri": "Q23482", "obj_uri": "Q8686", "sub_label": "Marseille", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "3d5be541-4104-436b-a633-e5fee1bce833", "sub_uri": "Q3935", "obj_uri": "Q16666", "sub_label": "Windhoek", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "04511306-4a39-412c-8db3-87e02df7a366", "sub_uri": "Q2807", "obj_uri": "Q39984", "sub_label": "Madrid", "obj_label": "Cannes", "predicate_id": "P190"}
+{"uuid": "e77c1b37-97ec-49c0-b56b-db655f8806dc", "sub_uri": "Q259120", "obj_uri": "Q18419", "sub_label": "Leopoldstadt", "obj_label": "Brooklyn", "predicate_id": "P190"}
+{"uuid": "52b7d4c8-020b-45db-89f9-98092360b391", "sub_uri": "Q656", "obj_uri": "Q9248", "sub_label": "Sankt-Peterburg", "obj_label": "Baku", "predicate_id": "P190"}
+{"uuid": "16fda7c6-81a3-429b-972d-724360844363", "sub_uri": "Q1741", "obj_uri": "Q649", "sub_label": "Wina", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "961a8e96-1704-4670-ad49-6a5dd7a5af94", "sub_uri": "Q12892", "obj_uri": "Q585", "sub_label": "Antwerpen", "obj_label": "Oslo", "predicate_id": "P190"}
+{"uuid": "1b5021e0-c356-4320-8521-1b5b2db5e8e8", "sub_uri": "Q25416", "obj_uri": "Q7880", "sub_label": "Stavanger", "obj_label": "Toulouse", "predicate_id": "P190"}
+{"uuid": "fa97578e-3d93-4e59-8ba3-74557ecf1e24", "sub_uri": "Q7903", "obj_uri": "Q340", "sub_label": "Casablanca", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "b60c1fa4-91d8-4397-a71d-aaf4d490125c", "sub_uri": "Q908", "obj_uri": "Q1295", "sub_label": "Rostov na Donu", "obj_label": "Dortmund", "predicate_id": "P190"}
+{"uuid": "ee68bc62-a0db-4dd5-a287-ce372ab50d88", "sub_uri": "Q188731", "obj_uri": "Q13375", "sub_label": "Rhodes (kota)", "obj_label": "Pisa", "predicate_id": "P190"}
+{"uuid": "53904acc-b52a-45d4-8593-c5b9417af989", "sub_uri": "Q160687", "obj_uri": "Q1055", "sub_label": "Valdivia, Chili", "obj_label": "Hamburg", "predicate_id": "P190"}
+{"uuid": "127b9717-ee1c-49b7-b015-85da68cdd691", "sub_uri": "Q187945", "obj_uri": "Q207540", "sub_label": "Piatra Neam\u0163", "obj_label": "Lod", "predicate_id": "P190"}
+{"uuid": "6ccc415d-60ac-4ea4-abea-89b2ef806f4b", "sub_uri": "Q1538", "obj_uri": "Q11751", "sub_label": "Pune", "obj_label": "Nagoya", "predicate_id": "P190"}
+{"uuid": "b0fb3ed0-7225-46b2-bd93-3b2fd129ba75", "sub_uri": "Q8684", "obj_uri": "Q649", "sub_label": "Seoul", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "ce6c1b4c-7dbc-467f-95ee-0aa87bf02044", "sub_uri": "Q9022", "obj_uri": "Q1761", "sub_label": "Guadalajara, Meksiko", "obj_label": "Dublin", "predicate_id": "P190"}
+{"uuid": "87dfd238-a533-453d-9503-e1b97e21d25f", "sub_uri": "Q485496", "obj_uri": "Q374365", "sub_label": "Shymkent", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "2a7d3058-788c-48be-9b66-14002f57f387", "sub_uri": "Q2079", "obj_uri": "Q1899", "sub_label": "Leipzig", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "a7170a1e-0a37-4cfa-b18f-33e39956ca29", "sub_uri": "Q1533", "obj_uri": "Q2807", "sub_label": "Caracas", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "e32a4425-63ca-46d1-bae7-1728737cfe16", "sub_uri": "Q9022", "obj_uri": "Q34600", "sub_label": "Guadalajara, Meksiko", "obj_label": "Kyoto", "predicate_id": "P190"}
+{"uuid": "0e282b5b-b90d-4cdc-ae6d-796274ff6aad", "sub_uri": "Q472", "obj_uri": "Q1757", "sub_label": "Sofia", "obj_label": "Helsinki", "predicate_id": "P190"}
+{"uuid": "08f44da9-c45f-4cde-920b-4863162cf635", "sub_uri": "Q1530", "obj_uri": "Q18808", "sub_label": "Bagdad", "obj_label": "Pyongyang", "predicate_id": "P190"}
+{"uuid": "81244704-fb06-4eca-9007-1a7408d23b84", "sub_uri": "Q1829", "obj_uri": "Q1055", "sub_label": "Kaliningrad", "obj_label": "Hamburg", "predicate_id": "P190"}
+{"uuid": "994f57ad-e3bb-4a3c-8623-a087b5f316aa", "sub_uri": "Q35493", "obj_uri": "Q406", "sub_label": "Almaty", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "9c483dca-194d-439f-8eb9-b69d499ae7e3", "sub_uri": "Q53081", "obj_uri": "Q8717", "sub_label": "Baler", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "66dfca88-9c58-4a99-8621-99f51a970134", "sub_uri": "Q1524", "obj_uri": "Q1085", "sub_label": "Kota Athena", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "8f08524c-a15c-4826-a608-245e4fd8bc2c", "sub_uri": "Q1046653", "obj_uri": "Q39984", "sub_label": "Khemisset", "obj_label": "Cannes", "predicate_id": "P190"}
+{"uuid": "e3930913-b4d3-4cff-b63a-a00e2afaaae3", "sub_uri": "Q2805", "obj_uri": "Q43631", "sub_label": "Krefeld", "obj_label": "Leiden", "predicate_id": "P190"}
+{"uuid": "11c5fb32-2f8e-4695-b471-886e0291fdb4", "sub_uri": "Q57958", "obj_uri": "Q220445", "sub_label": "Zhenjiang", "obj_label": "Kuching", "predicate_id": "P190"}
+{"uuid": "8175f68d-5f5e-4773-876b-8f25e9f60b1e", "sub_uri": "Q3820", "obj_uri": "Q3766", "sub_label": "Beirut", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "53e25b76-646a-42fb-9abc-7ac0c8ff42bb", "sub_uri": "Q1865", "obj_uri": "Q18808", "sub_label": "Kuala Lumpur", "obj_label": "Pyongyang", "predicate_id": "P190"}
+{"uuid": "55078acb-308c-4f69-8cd6-7676d411d5ad", "sub_uri": "Q80669", "obj_uri": "Q103011", "sub_label": "Buccino", "obj_label": "Korintus", "predicate_id": "P190"}
+{"uuid": "62e2746c-14fe-4fd5-a9f8-c1fd6ab25eb9", "sub_uri": "Q2841", "obj_uri": "Q612", "sub_label": "Bogot\u00e1", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "c0df7ff3-151b-4d79-8c37-6171a0b122f6", "sub_uri": "Q894", "obj_uri": "Q1022", "sub_label": "Samara", "obj_label": "Stuttgart", "predicate_id": "P190"}
+{"uuid": "e9263187-a6a0-4180-98df-af4683adb999", "sub_uri": "Q79808", "obj_uri": "Q406", "sub_label": "Constan\u0163a", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "e3535dd3-35ac-40df-a701-6d13d16fd631", "sub_uri": "Q3572", "obj_uri": "Q649", "sub_label": "Tunis", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "6e61b026-53dc-4dcd-a5bf-24bd3d0d43c7", "sub_uri": "Q406", "obj_uri": "Q1492", "sub_label": "Istanbul", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "61cba1ca-405e-43d1-a630-84f17e57cb15", "sub_uri": "Q174", "obj_uri": "Q956", "sub_label": "S\u00e3o Paulo", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "f162bfe8-73dd-4194-bfb0-985eff8108e5", "sub_uri": "Q1794", "obj_uri": "Q16572", "sub_label": "Frankfurt am Main", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "2f54398d-4330-41b5-a6fd-9491389611a5", "sub_uri": "Q1741", "obj_uri": "Q4656", "sub_label": "Wina", "obj_label": "Pula", "predicate_id": "P190"}
+{"uuid": "af024c5e-2eba-4881-810c-573a37054f12", "sub_uri": "Q273059", "obj_uri": "Q47492", "sub_label": "Cascais", "obj_label": "Gaza", "predicate_id": "P190"}
+{"uuid": "b99f5b6a-a837-4c02-b179-44fb774620e1", "sub_uri": "Q2900", "obj_uri": "Q172", "sub_label": "Quito", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "5a6e2fae-4052-41f0-97df-8928984b8829", "sub_uri": "Q1781", "obj_uri": "Q1761", "sub_label": "Budapest", "obj_label": "Dublin", "predicate_id": "P190"}
+{"uuid": "6744e94c-02f1-456e-ae19-6c2b22fa39e5", "sub_uri": "Q3624", "obj_uri": "Q34647", "sub_label": "Addis Ababa", "obj_label": "Johannesburg", "predicate_id": "P190"}
+{"uuid": "48cf4799-9102-46dc-a406-1a33db12021c", "sub_uri": "Q269", "obj_uri": "Q8686", "sub_label": "Tashkent", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "d88f7279-d3b7-4dc7-ba18-052f2ef19a1c", "sub_uri": "Q8686", "obj_uri": "Q78", "sub_label": "Shanghai", "obj_label": "Basel", "predicate_id": "P190"}
+{"uuid": "c161d4ca-ebdc-47ed-b3a9-91343762e742", "sub_uri": "Q64", "obj_uri": "Q1748", "sub_label": "Berlin", "obj_label": "Kopenhagen", "predicate_id": "P190"}
+{"uuid": "7f81ef3e-31c9-453e-bd61-176498113d31", "sub_uri": "Q173270", "obj_uri": "Q81882", "sub_label": "Veracruz, Veracruz", "obj_label": "Santos", "predicate_id": "P190"}
+{"uuid": "1e3bbbe4-462f-4c74-af2b-cd966b832167", "sub_uri": "Q900", "obj_uri": "Q374365", "sub_label": "Kazan", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "c0e688b4-7312-434c-b49a-795822b03771", "sub_uri": "Q3274", "obj_uri": "Q340", "sub_label": "Managua", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "aabb84ed-d32f-4086-bf32-385f563df91e", "sub_uri": "Q994", "obj_uri": "Q649", "sub_label": "Tbilisi", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "00876d15-50c7-49c3-babc-50e7719b2b36", "sub_uri": "Q8686", "obj_uri": "Q131694", "sub_label": "Shanghai", "obj_label": "Aden", "predicate_id": "P190"}
+{"uuid": "abe0f220-569c-40b9-81f8-5e594bffd80c", "sub_uri": "Q956", "obj_uri": "Q1781", "sub_label": "Beijing", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "dda96d16-5a73-49e9-9953-331157d4e978", "sub_uri": "Q131818", "obj_uri": "Q374365", "sub_label": "Oran", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "7a1998dd-0387-4e22-a42e-49cee463bfd0", "sub_uri": "Q19689", "obj_uri": "Q10305", "sub_label": "Tirana", "obj_label": "Zaragoza", "predicate_id": "P190"}
+{"uuid": "a3528bf9-5127-4e4d-a6ad-e0d0c20659cf", "sub_uri": "Q189823", "obj_uri": "Q39984", "sub_label": "Haikou", "obj_label": "Cannes", "predicate_id": "P190"}
+{"uuid": "6819df30-ba92-4eeb-a492-0059aa72443e", "sub_uri": "Q16567", "obj_uri": "Q8717", "sub_label": "Columbus, Ohio", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "fcb7fe75-0821-4eaf-83b8-4ac88af6a647", "sub_uri": "Q185289", "obj_uri": "Q10690", "sub_label": "Pernik, Bulgaria", "obj_label": "Cardiff", "predicate_id": "P190"}
+{"uuid": "1686c62a-b78a-4072-a1a5-25e80708c0fc", "sub_uri": "Q8686", "obj_uri": "Q36433", "sub_label": "Shanghai", "obj_label": "Porto", "predicate_id": "P190"}
+{"uuid": "df43fe58-8ccb-4153-bc62-e94409c7c5f5", "sub_uri": "Q5465", "obj_uri": "Q33959", "sub_label": "Cape Town", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "a57ed03e-fb4d-4004-bae2-4aa224a0d474", "sub_uri": "Q1850", "obj_uri": "Q956", "sub_label": "Phnom Penh", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "00858dce-43d0-4020-b315-6924ff6d952c", "sub_uri": "Q1490", "obj_uri": "Q649", "sub_label": "Tokyo", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "eddadc9e-9995-4534-86f4-5370a4807a1e", "sub_uri": "Q8678", "obj_uri": "Q51103", "sub_label": "Rio de Janeiro", "obj_label": "Cali", "predicate_id": "P190"}
+{"uuid": "b5bfd282-adbf-4ae0-9bec-79cfbd0a7578", "sub_uri": "Q8678", "obj_uri": "Q1218", "sub_label": "Rio de Janeiro", "obj_label": "Yerusalem", "predicate_id": "P190"}
+{"uuid": "bd7bd21c-2a8c-4aad-adfd-fa2ab677351d", "sub_uri": "Q468557", "obj_uri": "Q1085", "sub_label": "Miami-Dade County, Florida", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "e96eb270-815b-47b8-ad45-a3af3fd311ca", "sub_uri": "Q1486", "obj_uri": "Q1085", "sub_label": "Buenos Aires", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "b19d4783-3f5d-4ab4-bbf4-272cfc46bb90", "sub_uri": "Q656", "obj_uri": "Q23436", "sub_label": "Sankt-Peterburg", "obj_label": "Edinburgh", "predicate_id": "P190"}
+{"uuid": "51529a24-5310-4568-b3da-2449fec6909e", "sub_uri": "Q656", "obj_uri": "Q1563", "sub_label": "Sankt-Peterburg", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "5a8b87fb-3e3a-4563-81ec-03881d8c483f", "sub_uri": "Q127856", "obj_uri": "Q39984", "sub_label": "Beverly Hills, California", "obj_label": "Cannes", "predicate_id": "P190"}
+{"uuid": "fbe70071-60d9-4119-a53d-26d23fe9d03a", "sub_uri": "Q6602", "obj_uri": "Q374365", "sub_label": "Strasbourg", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "5f28bbbe-3ef5-4fa3-9647-4df243aab299", "sub_uri": "Q24826", "obj_uri": "Q8686", "sub_label": "Liverpool (kota)", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "ce43846b-3892-4976-981b-73f99bec304f", "sub_uri": "Q240", "obj_uri": "Q472", "sub_label": "Brussel", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "81d95e59-9fcf-4b21-b31a-9eacf8c68f7b", "sub_uri": "Q1761", "obj_uri": "Q1781", "sub_label": "Dublin", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "66e2999f-af37-44e8-8089-387a74d50555", "sub_uri": "Q2868", "obj_uri": "Q2807", "sub_label": "Lima, Peru", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "3dea6491-3dda-4f52-b5a6-b7be2ac0203e", "sub_uri": "Q758634", "obj_uri": "Q16572", "sub_label": "Kota Auckland", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "6c1a0d16-be03-4982-8ce3-1ddfb7025923", "sub_uri": "Q1563", "obj_uri": "Q8717", "sub_label": "Havana", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "bf143730-8171-4660-b42d-118346bc5eae", "sub_uri": "Q132671", "obj_uri": "Q10305", "sub_label": "Pau, Pyr\u00e9n\u00e9es-Atlantiques", "obj_label": "Zaragoza", "predicate_id": "P190"}
+{"uuid": "2fedf8cc-08d3-4583-8c8b-ce4afa07fb2f", "sub_uri": "Q186569", "obj_uri": "Q1761", "sub_label": "Yambol", "obj_label": "Dublin", "predicate_id": "P190"}
+{"uuid": "a8f4c6d7-8494-416a-92d1-a5bcbefd9dac", "sub_uri": "Q72259", "obj_uri": "Q3130", "sub_label": "Portsmouth", "obj_label": "Sydney", "predicate_id": "P190"}
+{"uuid": "803c227a-d302-4921-89f4-78d0dfc2d7c1", "sub_uri": "Q11739", "obj_uri": "Q1297", "sub_label": "Lahore", "obj_label": "Chicago", "predicate_id": "P190"}
+{"uuid": "c18a852c-bb7d-4222-898f-01a5f98a33e9", "sub_uri": "Q160420", "obj_uri": "Q1166", "sub_label": "Prefektur Saga", "obj_label": "Michigan", "predicate_id": "P190"}
+{"uuid": "0d10e88c-7736-48a3-9064-dab642b6789c", "sub_uri": "Q174684", "obj_uri": "Q1891", "sub_label": "Tuzla", "obj_label": "Bologna", "predicate_id": "P190"}
+{"uuid": "3601c08f-0a1a-45e6-bb27-34d205c79ab0", "sub_uri": "Q42053", "obj_uri": "Q1563", "sub_label": "Isfahan", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "481f9018-0c50-41f7-9db0-7788a65316b9", "sub_uri": "Q340", "obj_uri": "Q8686", "sub_label": "Montreal", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "84ad7baf-fa99-4b2f-8cb1-d4661229b24e", "sub_uri": "Q472", "obj_uri": "Q490", "sub_label": "Sofia", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "4f332a79-e72f-4ced-b902-4b168e1e8d2e", "sub_uri": "Q1524", "obj_uri": "Q8684", "sub_label": "Kota Athena", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "78c304c4-11c2-414c-91f2-7027fca4c82c", "sub_uri": "Q34713", "obj_uri": "Q2028", "sub_label": "Salzburg", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "e76103be-98f4-4c0f-9605-e2b8e4a7dd6c", "sub_uri": "Q34370", "obj_uri": "Q1563", "sub_label": "Rotterdam", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "9a5a4cac-8e62-4474-82ae-6e951148b089", "sub_uri": "Q1492", "obj_uri": "Q8686", "sub_label": "Barcelona", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "c2d00fe8-aa13-4802-a59a-795878f612e3", "sub_uri": "Q3130", "obj_uri": "Q490", "sub_label": "Sydney", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "7feb3745-6dd9-422b-87c3-7237430913ce", "sub_uri": "Q243293", "obj_uri": "Q100", "sub_label": "Sekondi-Takoradi", "obj_label": "Boston", "predicate_id": "P190"}
+{"uuid": "d3e005f7-4f30-4279-a876-60daa22cc861", "sub_uri": "Q43595", "obj_uri": "Q23556", "sub_label": "Cotonou", "obj_label": "Atlanta", "predicate_id": "P190"}
+{"uuid": "014b27e3-4003-4e0c-a066-2948900946ea", "sub_uri": "Q18094", "obj_uri": "Q9248", "sub_label": "Honolulu", "obj_label": "Baku", "predicate_id": "P190"}
+{"uuid": "85900e1b-30c0-4e36-a8c7-1a77c3776422", "sub_uri": "Q17151", "obj_uri": "Q33959", "sub_label": "Thessaloniki", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "9d12956f-7bfc-44cd-89b5-694a7fd99f0e", "sub_uri": "Q23556", "obj_uri": "Q26600", "sub_label": "Atlanta", "obj_label": "Fukuoka", "predicate_id": "P190"}
+{"uuid": "ef03307f-f6b2-4172-8791-085ca5c79443", "sub_uri": "Q170525", "obj_uri": "Q8652", "sub_label": "Agadir", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "fd9d07a4-17b7-480d-a738-9ac88bb4582c", "sub_uri": "Q2280", "obj_uri": "Q1563", "sub_label": "Minsk", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "1f127171-cbad-4dca-8be4-b99b4dbad5c6", "sub_uri": "Q612", "obj_uri": "Q12439", "sub_label": "Dubai", "obj_label": "Detroit", "predicate_id": "P190"}
+{"uuid": "95967728-642d-4852-add0-86fabe924c06", "sub_uri": "Q2843", "obj_uri": "Q641", "sub_label": "L\u00fcbeck", "obj_label": "Venesia", "predicate_id": "P190"}
+{"uuid": "c9bc3437-81ae-4faa-b115-3291bdea2cc1", "sub_uri": "Q25280", "obj_uri": "Q340", "sub_label": "Harrisburg, Pennsylvania", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "cdc0b0e1-5d00-4ebc-835c-8e3e85304f8a", "sub_uri": "Q209779", "obj_uri": "Q172", "sub_label": "Sagamihara", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "97741f5a-bb35-488c-b7c7-f5e480d06b49", "sub_uri": "Q51103", "obj_uri": "Q24639", "sub_label": "Cali", "obj_label": "Vancouver", "predicate_id": "P190"}
+{"uuid": "c270f9ff-7c11-4a41-a68c-da928ef28f91", "sub_uri": "Q1794", "obj_uri": "Q85", "sub_label": "Frankfurt am Main", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "131e5ed1-e5a7-46bf-a7c6-baea33406309", "sub_uri": "Q431831", "obj_uri": "Q1028", "sub_label": "Menfi", "obj_label": "Maroko", "predicate_id": "P190"}
+{"uuid": "67c61808-15a7-44eb-b013-6958d5552f50", "sub_uri": "Q60", "obj_uri": "Q612", "sub_label": "Kota New York", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "fc07bbbc-cf01-40ed-98ab-0757047d10c3", "sub_uri": "Q8684", "obj_uri": "Q956", "sub_label": "Seoul", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "8f949a7d-55f0-4c46-9ef3-55b503a790a6", "sub_uri": "Q23482", "obj_uri": "Q1748", "sub_label": "Marseille", "obj_label": "Kopenhagen", "predicate_id": "P190"}
+{"uuid": "57e4d28d-08ce-4cc0-a640-b46b5985b8e5", "sub_uri": "Q3519", "obj_uri": "Q16572", "sub_label": "Bari", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "fc639717-a593-471b-8597-0c38349362af", "sub_uri": "Q8678", "obj_uri": "Q16520", "sub_label": "Rio de Janeiro", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "b0d0967e-0a16-4140-bdae-7dda0de37ad1", "sub_uri": "Q6681", "obj_uri": "Q36433", "sub_label": "Crotone", "obj_label": "Porto", "predicate_id": "P190"}
+{"uuid": "b048d248-f786-4c56-8269-dd3953a259fc", "sub_uri": "Q9832", "obj_uri": "Q16666", "sub_label": "Eindhoven", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "fe4ca7fb-9ecf-4eff-9e00-cddc9758dda4", "sub_uri": "Q216", "obj_uri": "Q16572", "sub_label": "Vilnius", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "17887c09-7b27-4502-b1df-f3067e0f860a", "sub_uri": "Q39121", "obj_uri": "Q1295", "sub_label": "Leeds", "obj_label": "Dortmund", "predicate_id": "P190"}
+{"uuid": "341033f7-af6e-4663-9c82-fdeaa7bab249", "sub_uri": "Q3306", "obj_uri": "Q1461", "sub_label": "Kota Panama", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "c58b01d4-75c3-4229-ba91-cd30f4e86225", "sub_uri": "Q3561", "obj_uri": "Q1492", "sub_label": "Aljir", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "5edbe95c-55b2-4f5c-85e2-070d4ccaf8c1", "sub_uri": "Q16010", "obj_uri": "Q495", "sub_label": "Esch-sur-Alzette", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "49008c02-c9eb-4a04-ac0a-b70d375191f0", "sub_uri": "Q580", "obj_uri": "Q456", "sub_label": "\u0141\u00f3d\u017a", "obj_label": "Lyon", "predicate_id": "P190"}
+{"uuid": "1585408d-0d06-4f84-b6c4-47d14a4a8fb2", "sub_uri": "Q85", "obj_uri": "Q1492", "sub_label": "Kairo", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "b601e3fd-ac8f-4752-bfbe-ccb6c87b76b7", "sub_uri": "Q11751", "obj_uri": "Q16666", "sub_label": "Nagoya", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "862e71f0-de18-4528-87a9-3bc69e44a980", "sub_uri": "Q34820", "obj_uri": "Q1867", "sub_label": "Santo Domingo", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "3122418c-a705-48c4-864b-b0c50b6a8050", "sub_uri": "Q11746", "obj_uri": "Q1479", "sub_label": "Wuhan", "obj_label": "Bordeaux", "predicate_id": "P190"}
+{"uuid": "c8efd4c0-c3cc-4bcd-a238-4c89720fa349", "sub_uri": "Q3805", "obj_uri": "Q374365", "sub_label": "Amman", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "89dc7f97-ef71-4d2c-8d26-36897d686d82", "sub_uri": "Q774015", "obj_uri": "Q1295", "sub_label": "Kota Leeds", "obj_label": "Dortmund", "predicate_id": "P190"}
+{"uuid": "8a38788d-8d70-4ec0-b1a9-52318c60a8c4", "sub_uri": "Q34932", "obj_uri": "Q612", "sub_label": "Brisbane", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "f533991e-92e2-4aef-a5b1-a7652f296d42", "sub_uri": "Q17151", "obj_uri": "Q16520", "sub_label": "Thessaloniki", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "b8fb7912-1686-438d-9cd9-9ba3f44816d0", "sub_uri": "Q8686", "obj_uri": "Q1055", "sub_label": "Shanghai", "obj_label": "Hamburg", "predicate_id": "P190"}
+{"uuid": "cfb1d919-41fb-41f0-a8f1-d774b477d934", "sub_uri": "Q8692", "obj_uri": "Q1479", "sub_label": "Bilbao", "obj_label": "Bordeaux", "predicate_id": "P190"}
+{"uuid": "7297a943-082c-402e-8aa9-cc5d04412d2d", "sub_uri": "Q384", "obj_uri": "Q472", "sub_label": "Skopje", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "51758dcf-a247-4b55-89e3-3e406f37f444", "sub_uri": "Q1899", "obj_uri": "Q472", "sub_label": "Kiev", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "b9d39ed7-d268-4e2a-bdfb-bfe237f0b3dd", "sub_uri": "Q41699", "obj_uri": "Q1867", "sub_label": "Castries", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "47cdf1d7-c931-4f6c-b346-844485c80269", "sub_uri": "Q30805", "obj_uri": "Q1490", "sub_label": "Kegubernuran Al Qahirah", "obj_label": "Tokyo", "predicate_id": "P190"}
+{"uuid": "fa17e068-8978-42b6-8c99-f5f7c9971967", "sub_uri": "Q23436", "obj_uri": "Q1899", "sub_label": "Edinburgh", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "bca23493-826f-40e0-ba00-561acc673d9f", "sub_uri": "Q3640", "obj_uri": "Q1781", "sub_label": "Ankara", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "81426964-267a-4151-b946-2c594bf0108a", "sub_uri": "Q34404", "obj_uri": "Q34370", "sub_label": "New Orleans", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "5babf3ad-cc91-4aab-a9e3-8e3b759ba162", "sub_uri": "Q2423", "obj_uri": "Q2656", "sub_label": "Yaroslavl", "obj_label": "Palermo", "predicate_id": "P190"}
+{"uuid": "2d8bb529-9e2a-429b-b24f-86cea9a4e437", "sub_uri": "Q1218", "obj_uri": "Q1899", "sub_label": "Yerusalem", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "5481e8fe-1b82-47d2-a687-e171afdb13bc", "sub_uri": "Q30340", "obj_uri": "Q2634", "sub_label": "Zhengzhou", "obj_label": "Napoli", "predicate_id": "P190"}
+{"uuid": "55eab002-6d4d-4adc-a25d-236e6a5abb35", "sub_uri": "Q484799", "obj_uri": "Q374365", "sub_label": "Marbella", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "c0ff6000-a3e0-40e1-a887-c9ee0828a810", "sub_uri": "Q16635", "obj_uri": "Q8684", "sub_label": "Guam", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "5138c533-22fa-49bb-a73d-daf2a2981f15", "sub_uri": "Q11739", "obj_uri": "Q4093", "sub_label": "Lahore", "obj_label": "Glasgow", "predicate_id": "P190"}
+{"uuid": "7c1f6493-5c54-408b-ac6c-5636c002bd3a", "sub_uri": "Q1629", "obj_uri": "Q10305", "sub_label": "Kota Zamboanga", "obj_label": "Zaragoza", "predicate_id": "P190"}
+{"uuid": "2f445c19-8d6d-48b6-be9a-8161fb90d33e", "sub_uri": "Q2145", "obj_uri": "Q3820", "sub_label": "Kota Quebec", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "5faebf7a-d7fa-4ef3-a432-c5791b0034ea", "sub_uri": "Q1461", "obj_uri": "Q8686", "sub_label": "Manila", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "c6d6ccb2-b941-4421-85e1-2da1854576e5", "sub_uri": "Q437", "obj_uri": "Q3711", "sub_label": "Ljubljana", "obj_label": "Beograd", "predicate_id": "P190"}
+{"uuid": "d0ab84fe-1352-43a8-beeb-67d8adfb8dd4", "sub_uri": "Q16558", "obj_uri": "Q1781", "sub_label": "Fort Worth, Texas", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "1642a829-f7ac-465c-a97c-45124325f7f4", "sub_uri": "Q3561", "obj_uri": "Q340", "sub_label": "Aljir", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "fe0a3568-40ab-4d83-8aa2-08ea9b378309", "sub_uri": "Q35178", "obj_uri": "Q3616", "sub_label": "Kota Kuwait", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "9d4d8ab8-05c6-4dbb-8f7d-b3bb4349bc0b", "sub_uri": "Q84", "obj_uri": "Q406", "sub_label": "London", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "d65fc51c-ed65-4f5b-a354-2e18d8c07d30", "sub_uri": "Q1476", "obj_uri": "Q184579", "sub_label": "Le Mans", "obj_label": "Bolton", "predicate_id": "P190"}
+{"uuid": "aa633cad-69d6-4d67-8c61-d36a1ea7a09f", "sub_uri": "Q24639", "obj_uri": "Q16572", "sub_label": "Vancouver", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "3977236a-bb5c-47c0-ac7b-61cc69cc9e69", "sub_uri": "Q1874", "obj_uri": "Q406", "sub_label": "Odessa", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "805bd428-369d-49e9-ab23-00066f6ab480", "sub_uri": "Q3224", "obj_uri": "Q956", "sub_label": "New South Wales", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "917d2b1b-5938-4524-b5c5-cf92684e1d7d", "sub_uri": "Q8673", "obj_uri": "Q406", "sub_label": "Lagos", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "d9b8a155-8ce6-4f96-ab07-117a19dfce1f", "sub_uri": "Q1156", "obj_uri": "Q1461", "sub_label": "Mumbai", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "ec0ee04c-feb6-462f-979a-c117fe194ae3", "sub_uri": "Q33935", "obj_uri": "Q585", "sub_label": "Tel Aviv", "obj_label": "Oslo", "predicate_id": "P190"}
+{"uuid": "c222fe5c-fcff-47ff-929e-e1d6af017b6c", "sub_uri": "Q270", "obj_uri": "Q472", "sub_label": "Warsawa", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "344fd308-b9df-4e44-b76c-945df27345f2", "sub_uri": "Q13678", "obj_uri": "Q8810", "sub_label": "Agrigento", "obj_label": "Granada", "predicate_id": "P190"}
+{"uuid": "f86854aa-dc4c-4e2f-adda-94a85de07277", "sub_uri": "Q1520", "obj_uri": "Q1861", "sub_label": "Nursultan", "obj_label": "Bangkok", "predicate_id": "P190"}
+{"uuid": "6a97751e-9e19-486a-8285-5937f28c60c4", "sub_uri": "Q60", "obj_uri": "Q1490", "sub_label": "Kota New York", "obj_label": "Tokyo", "predicate_id": "P190"}
+{"uuid": "db70727c-90d7-4a44-8b52-32fe61b08490", "sub_uri": "Q3572", "obj_uri": "Q3711", "sub_label": "Tunis", "obj_label": "Beograd", "predicate_id": "P190"}
+{"uuid": "d994b44d-efeb-41bd-9435-39fd4c78c115", "sub_uri": "Q116341", "obj_uri": "Q2028", "sub_label": "Kor\u00e7\u00eb", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "c067e2af-4fb0-4d15-90e7-d22249aa9757", "sub_uri": "Q6487", "obj_uri": "Q2684", "sub_label": "Antalya", "obj_label": "Vladimir", "predicate_id": "P190"}
+{"uuid": "39f263db-fc39-452d-bcc2-b3304451cebf", "sub_uri": "Q174", "obj_uri": "Q1490", "sub_label": "S\u00e3o Paulo", "obj_label": "Tokyo", "predicate_id": "P190"}
+{"uuid": "3c5dbadc-18dd-4d91-b76f-789a02a5ec00", "sub_uri": "Q8684", "obj_uri": "Q1490", "sub_label": "Seoul", "obj_label": "Tokyo", "predicate_id": "P190"}
+{"uuid": "8fc8743c-12fd-4937-8daf-ab2884fff5a7", "sub_uri": "Q495802", "obj_uri": "Q4656", "sub_label": "Hekinan, Aichi", "obj_label": "Pula", "predicate_id": "P190"}
+{"uuid": "4c7d2929-5883-4f7c-ad6c-73d899c77d53", "sub_uri": "Q64", "obj_uri": "Q406", "sub_label": "Berlin", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "a433e191-966a-4045-b898-50364b9c59d2", "sub_uri": "Q3130", "obj_uri": "Q16572", "sub_label": "Sydney", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "1de8d829-49ee-46c1-bca4-39af17ef64f2", "sub_uri": "Q38380", "obj_uri": "Q13375", "sub_label": "Angers", "obj_label": "Pisa", "predicate_id": "P190"}
+{"uuid": "d87f11e4-02e0-4f0e-823a-2789e43c928f", "sub_uri": "Q157032", "obj_uri": "Q2028", "sub_label": "Prilep", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "3fda0bb6-5b47-4aea-8744-2fb64a486255", "sub_uri": "Q649", "obj_uri": "Q270", "sub_label": "Moskwa", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "0fad66dc-acf5-4ef1-b777-6fc847d82417", "sub_uri": "Q648", "obj_uri": "Q34370", "sub_label": "Lille", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "fdec2309-b7bc-4130-964c-87be53a75a20", "sub_uri": "Q10704", "obj_uri": "Q585", "sub_label": "T\u00f3rshavn", "obj_label": "Oslo", "predicate_id": "P190"}
+{"uuid": "bfd7dc09-d6f8-4444-b929-888d9b5e983b", "sub_uri": "Q45412", "obj_uri": "Q9310", "sub_label": "Coimbra", "obj_label": "Dili", "predicate_id": "P190"}
+{"uuid": "a8955b97-bb96-46ca-a1d8-01fcf014b768", "sub_uri": "Q271354", "obj_uri": "Q340", "sub_label": "Montr\u00e9al-la-Cluse", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "f939f841-f189-49e5-9e7a-2fce23d6f814", "sub_uri": "Q3604", "obj_uri": "Q131694", "sub_label": "Jibouti (kota)", "obj_label": "Aden", "predicate_id": "P190"}
+{"uuid": "48cce9e4-980b-448a-aab1-1cd732b3cbab", "sub_uri": "Q1963", "obj_uri": "Q406", "sub_label": "Khartoum", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "9ba6a9cd-cdd1-4ddc-a82b-5923f20a2b12", "sub_uri": "Q65", "obj_uri": "Q1867", "sub_label": "Los Angeles", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "e313c41c-a47b-417e-80f5-7d0b2e362479", "sub_uri": "Q340", "obj_uri": "Q16520", "sub_label": "Montreal", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "3263596d-c46f-48c9-a618-5845b802dafc", "sub_uri": "Q1435", "obj_uri": "Q270", "sub_label": "Zagreb", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "79c0918f-6e1e-41dc-bbdf-20159c0c27dc", "sub_uri": "Q65", "obj_uri": "Q18125", "sub_label": "Los Angeles", "obj_label": "Manchester", "predicate_id": "P190"}
+{"uuid": "a05b62a4-cfe5-4e43-8402-44a340e105df", "sub_uri": "Q82174", "obj_uri": "Q39121", "sub_label": "Bra\u015fov", "obj_label": "Leeds", "predicate_id": "P190"}
+{"uuid": "1b2cb49d-9695-43f8-b27d-0a4edcd17f44", "sub_uri": "Q490", "obj_uri": "Q340", "sub_label": "Milan", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "83324872-e69b-46c0-84bc-506d0d5542ca", "sub_uri": "Q597", "obj_uri": "Q14773", "sub_label": "Lisboa", "obj_label": "Makau", "predicate_id": "P190"}
+{"uuid": "2953733f-be90-47e4-9a28-b5277f09c7d9", "sub_uri": "Q1792", "obj_uri": "Q1492", "sub_label": "Gda\u0144sk", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "35ea9e65-56a5-4a28-8e85-c5d1474adc96", "sub_uri": "Q1461", "obj_uri": "Q2807", "sub_label": "Manila", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "e5c93b76-f524-4a61-a81d-5d136ffd11a1", "sub_uri": "Q612", "obj_uri": "Q16572", "sub_label": "Dubai", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "c0c206a9-3f70-4ce7-a1d0-645cf5b3adaa", "sub_uri": "Q11736", "obj_uri": "Q18808", "sub_label": "Tianjin", "obj_label": "Pyongyang", "predicate_id": "P190"}
+{"uuid": "8dad45bc-68ed-4dfc-be02-6eace0bccd49", "sub_uri": "Q3114", "obj_uri": "Q956", "sub_label": "Canberra", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "48c8c3af-d11b-43c1-ad19-81d25b9bee43", "sub_uri": "Q2044", "obj_uri": "Q34600", "sub_label": "Firenze", "obj_label": "Kyoto", "predicate_id": "P190"}
+{"uuid": "1cecb7ee-2f44-4de7-bc1f-bf5e45eb00fe", "sub_uri": "Q239580", "obj_uri": "Q12439", "sub_label": "Kitwe", "obj_label": "Detroit", "predicate_id": "P190"}
+{"uuid": "54f42994-f5df-4dae-94ba-19da1476b422", "sub_uri": "Q9310", "obj_uri": "Q3130", "sub_label": "Dili", "obj_label": "Sydney", "predicate_id": "P190"}
+{"uuid": "b911dc44-c84d-4324-88a4-d0b539223b3b", "sub_uri": "Q649", "obj_uri": "Q18808", "sub_label": "Moskwa", "obj_label": "Pyongyang", "predicate_id": "P190"}
+{"uuid": "c8646e0c-8ea1-4d97-b743-b879f4e9a48f", "sub_uri": "Q657461", "obj_uri": "Q8717", "sub_label": "Cartagena de Indias", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "22555d7f-ef8b-4153-9481-c11648ed7151", "sub_uri": "Q48344", "obj_uri": "Q16572", "sub_label": "Recife", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "ea33f751-f76d-484c-95ec-070cdef28cf7", "sub_uri": "Q65", "obj_uri": "Q24639", "sub_label": "Los Angeles", "obj_label": "Vancouver", "predicate_id": "P190"}
+{"uuid": "a1bc45da-34d2-4948-b40d-47db7afdb175", "sub_uri": "Q2843", "obj_uri": "Q26793", "sub_label": "L\u00fcbeck", "obj_label": "Bergen", "predicate_id": "P190"}
+{"uuid": "ded43649-7c53-49aa-863e-fdaf230207d1", "sub_uri": "Q7903", "obj_uri": "Q1297", "sub_label": "Casablanca", "obj_label": "Chicago", "predicate_id": "P190"}
+{"uuid": "e7e35ea8-4a3c-4f40-9c9c-95b3cb099dfb", "sub_uri": "Q490", "obj_uri": "Q472", "sub_label": "Milan", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "5b1477ff-f902-4a48-a482-16a73257f5dc", "sub_uri": "Q2841", "obj_uri": "Q8684", "sub_label": "Bogot\u00e1", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "5a673a75-ff9c-4003-b981-22f89f8f58c7", "sub_uri": "Q122723", "obj_uri": "Q612", "sub_label": "Prefektur Osaka", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "920c3f3a-7bba-4ff0-a4cc-84966070563a", "sub_uri": "Q185125", "obj_uri": "Q270", "sub_label": "Hamamatsu", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "967b0199-dd03-42fd-8ff7-f66ea130eedd", "sub_uri": "Q8684", "obj_uri": "Q85", "sub_label": "Seoul", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "12bb0205-563b-47da-88eb-557eb355b0e5", "sub_uri": "Q17151", "obj_uri": "Q641", "sub_label": "Thessaloniki", "obj_label": "Venesia", "predicate_id": "P190"}
+{"uuid": "7c80e1d7-4031-496c-80b3-47651bb7ea90", "sub_uri": "Q11746", "obj_uri": "Q1861", "sub_label": "Wuhan", "obj_label": "Bangkok", "predicate_id": "P190"}
+{"uuid": "142d29f2-a9b9-4196-b75b-225ef1ff4673", "sub_uri": "Q48320", "obj_uri": "Q23482", "sub_label": "K\u014dbe, Hy\u014dgo", "obj_label": "Marseille", "predicate_id": "P190"}
+{"uuid": "79330526-678c-4e63-a6df-1fe15d953f1c", "sub_uri": "Q79808", "obj_uri": "Q81882", "sub_label": "Constan\u0163a", "obj_label": "Santos", "predicate_id": "P190"}
+{"uuid": "5e6df8e2-7f08-4453-8051-5541a7c6e19c", "sub_uri": "Q1022", "obj_uri": "Q85", "sub_label": "Stuttgart", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "595d27da-a5fd-437a-a32d-7843c6cf074a", "sub_uri": "Q285672", "obj_uri": "Q8692", "sub_label": "Moyobamba", "obj_label": "Bilbao", "predicate_id": "P190"}
+{"uuid": "1b030200-8464-4e35-b088-984af123fe0b", "sub_uri": "Q3238", "obj_uri": "Q1867", "sub_label": "Tegucigalpa", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "81340360-b3eb-45e0-9d23-f3c4154ec568", "sub_uri": "Q81581", "obj_uri": "Q4656", "sub_label": "Szeged", "obj_label": "Pula", "predicate_id": "P190"}
+{"uuid": "858df437-0411-4714-83b8-d0bdd98cd5ca", "sub_uri": "Q894", "obj_uri": "Q2656", "sub_label": "Samara", "obj_label": "Palermo", "predicate_id": "P190"}
+{"uuid": "64d9b2d3-23c6-4dfb-9030-9b78c1365321", "sub_uri": "Q11725", "obj_uri": "Q7880", "sub_label": "Chongqing", "obj_label": "Toulouse", "predicate_id": "P190"}
+{"uuid": "2e43859c-2a1e-4926-b422-6ff7617c46c4", "sub_uri": "Q130290", "obj_uri": "Q1223", "sub_label": "Prefektur Hy\u014dgo", "obj_label": "Washington", "predicate_id": "P190"}
+{"uuid": "e3fcfef0-dff5-4003-9de8-0af6572132ea", "sub_uri": "Q131127", "obj_uri": "Q3519", "sub_label": "Banja Luka", "obj_label": "Bari", "predicate_id": "P190"}
+{"uuid": "4699d9de-c89c-4552-aa2b-9269dcfd3587", "sub_uri": "Q1362", "obj_uri": "Q172", "sub_label": "Islamabad", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "49094958-15c9-47c2-9026-ffa33a2df639", "sub_uri": "Q121157", "obj_uri": "Q2028", "sub_label": "Masyhad", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "a73fd46e-e99c-472b-a8e1-5b955d6766d4", "sub_uri": "Q203308", "obj_uri": "Q16520", "sub_label": "Shimonoseki, Yamaguchi", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "f39b4761-2b5e-4cf4-b548-41ff802e3d04", "sub_uri": "Q219671", "obj_uri": "Q36433", "sub_label": "Ndola", "obj_label": "Porto", "predicate_id": "P190"}
+{"uuid": "c2dae86e-582d-4911-ac7e-2a6058d0f886", "sub_uri": "Q61", "obj_uri": "Q90", "sub_label": "Washington, D.C.", "obj_label": "Paris", "predicate_id": "P190"}
+{"uuid": "3a4a1203-b173-498e-80ec-125cfef9a30d", "sub_uri": "Q52607", "obj_uri": "Q3519", "sub_label": "Mar del Plata", "obj_label": "Bari", "predicate_id": "P190"}
+{"uuid": "867727bb-f942-4dfc-944d-66129b9a8d57", "sub_uri": "Q3751", "obj_uri": "Q14773", "sub_label": "Praia", "obj_label": "Makau", "predicate_id": "P190"}
+{"uuid": "ece0c942-b74b-48ad-98b1-58978fd4d2f4", "sub_uri": "Q3659", "obj_uri": "Q7880", "sub_label": "N'Djamena", "obj_label": "Toulouse", "predicate_id": "P190"}
+{"uuid": "65f5e1f3-973a-4d9a-9760-f5a2aa7f3968", "sub_uri": "Q1491", "obj_uri": "Q2807", "sub_label": "La Paz, Bolivia", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "9695c628-680e-494a-9298-70b6124ca902", "sub_uri": "Q490", "obj_uri": "Q956", "sub_label": "Milan", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "a3624280-6e75-429c-bba4-a8ac5f90f921", "sub_uri": "Q16555", "obj_uri": "Q16666", "sub_label": "Houston, Texas", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "0a94d214-58ee-47bc-8900-f1d307c8000c", "sub_uri": "Q9361", "obj_uri": "Q1899", "sub_label": "Bishkek", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "927b050d-6224-4a61-a885-b8ddde218149", "sub_uri": "Q42780", "obj_uri": "Q2028", "sub_label": "Ningbo", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "189f7097-4c2f-4dd9-9790-82165ca827f7", "sub_uri": "Q14960", "obj_uri": "Q2079", "sub_label": "Brno", "obj_label": "Leipzig", "predicate_id": "P190"}
+{"uuid": "f72f194e-813d-4fa1-94ed-b0e4dd88c720", "sub_uri": "Q6506", "obj_uri": "Q1492", "sub_label": "Varna", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "9035a228-25e7-4f0e-9f3a-bc218109aa5c", "sub_uri": "Q51103", "obj_uri": "Q8652", "sub_label": "Cali", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "113320c9-39a1-4f32-80de-40b161735970", "sub_uri": "Q275729", "obj_uri": "Q8686", "sub_label": "Kegubernuran 'Adan", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "08dc6bef-a4b4-4e30-818a-9e249727f235", "sub_uri": "Q80985", "obj_uri": "Q1492", "sub_label": "Fez", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "84830a0a-cbc9-4ef6-99e1-a3cf3d1556b4", "sub_uri": "Q612", "obj_uri": "Q90", "sub_label": "Dubai", "obj_label": "Paris", "predicate_id": "P190"}
+{"uuid": "595480cc-89fb-4f8a-a6e4-2febf56d3b25", "sub_uri": "Q1861", "obj_uri": "Q16520", "sub_label": "Bangkok", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "f6afce55-fd95-4813-880e-b26845a9d1e2", "sub_uri": "Q8818", "obj_uri": "Q16572", "sub_label": "Valencia", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "0948c7cb-b556-47a2-a8fb-850cec424d23", "sub_uri": "Q319804", "obj_uri": "Q39984", "sub_label": "Sanya", "obj_label": "Cannes", "predicate_id": "P190"}
+{"uuid": "710676d1-04b7-4610-a54e-09593285fd60", "sub_uri": "Q12892", "obj_uri": "Q1492", "sub_label": "Antwerpen", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "fb51d8b8-cde1-43c1-bbd2-a97dc86d90b0", "sub_uri": "Q92561", "obj_uri": "Q16666", "sub_label": "London, Ontario", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "1028cfbe-c962-4de7-a5f5-28e4d33cf101", "sub_uri": "Q1492", "obj_uri": "Q340", "sub_label": "Barcelona", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "960413e8-0d91-4f55-b321-1d7ac608e536", "sub_uri": "Q42495", "obj_uri": "Q1492", "sub_label": "Barcellona Pozzo di Gotto", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "a86be732-0f6d-4636-9d75-a84a418da1ed", "sub_uri": "Q23482", "obj_uri": "Q3820", "sub_label": "Marseille", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "7c004df8-7d8e-4662-80ac-13c3f369d366", "sub_uri": "Q5826", "obj_uri": "Q23436", "sub_label": "Xi'an", "obj_label": "Edinburgh", "predicate_id": "P190"}
+{"uuid": "3bea331f-c133-450e-aeac-11ed0e07f94d", "sub_uri": "Q121378", "obj_uri": "Q2028", "sub_label": "Kerkira", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "baf59392-f8d2-45d0-be41-93237d8dc384", "sub_uri": "Q656", "obj_uri": "Q956", "sub_label": "Sankt-Peterburg", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "eba77a59-4580-4c24-a707-4b52dd5eb055", "sub_uri": "Q14960", "obj_uri": "Q16557", "sub_label": "Brno", "obj_label": "Dallas", "predicate_id": "P190"}
+{"uuid": "94e4a637-0ec0-4eb5-a577-ab98bd24b71f", "sub_uri": "Q131694", "obj_uri": "Q374365", "sub_label": "Aden", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "d3d49d8e-0cc6-40c5-90f8-088c596d937a", "sub_uri": "Q35997", "obj_uri": "Q1156", "sub_label": "\u0130zmir", "obj_label": "Mumbai", "predicate_id": "P190"}
+{"uuid": "035a6eeb-2407-4f42-9209-26c084c327a9", "sub_uri": "Q3992", "obj_uri": "Q34370", "sub_label": "Li\u00e8ge", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "cc78afe2-9947-401c-8141-db10c917493a", "sub_uri": "Q8686", "obj_uri": "Q1861", "sub_label": "Shanghai", "obj_label": "Bangkok", "predicate_id": "P190"}
+{"uuid": "e9ff05cf-eb07-4ca3-9886-75cda1c332c1", "sub_uri": "Q390358", "obj_uri": "Q2028", "sub_label": "Jagodina", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "d5c0a585-6696-4585-a84c-7e1f9c10b43f", "sub_uri": "Q8652", "obj_uri": "Q2656", "sub_label": "Miami", "obj_label": "Palermo", "predicate_id": "P190"}
+{"uuid": "5f86ecd0-512b-4596-8539-028cd5571574", "sub_uri": "Q35484", "obj_uri": "Q5806", "sub_label": "Madinah", "obj_label": "Makkah", "predicate_id": "P190"}
+{"uuid": "1cc3c89e-7d3d-4672-8333-6fca54ae3c40", "sub_uri": "Q1085", "obj_uri": "Q1867", "sub_label": "Praha", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "99e7de60-9efb-4943-83f5-caef60e8dd51", "sub_uri": "Q1297", "obj_uri": "Q270", "sub_label": "Chicago", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "9220c5e7-22cf-4736-9144-14808d7c58a2", "sub_uri": "Q1524", "obj_uri": "Q1297", "sub_label": "Kota Athena", "obj_label": "Chicago", "predicate_id": "P190"}
+{"uuid": "7c7ed1ab-ae6f-45d5-bf99-af3f7e4f602f", "sub_uri": "Q85", "obj_uri": "Q956", "sub_label": "Kairo", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "7441f621-3469-42a4-bbbc-d9c30f619216", "sub_uri": "Q40194", "obj_uri": "Q5083", "sub_label": "Mazatl\u00e1n", "obj_label": "Seattle", "predicate_id": "P190"}
+{"uuid": "3965e4eb-aa5f-406d-a7cd-172cff95dad7", "sub_uri": "Q39984", "obj_uri": "Q495", "sub_label": "Cannes", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "3df624be-e14b-4bc7-9608-c8a6b0259b37", "sub_uri": "Q919", "obj_uri": "Q649", "sub_label": "Krasnoyarsk", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "42caa3a2-5c2f-49e6-be96-589f0764f17c", "sub_uri": "Q270", "obj_uri": "Q2807", "sub_label": "Warsawa", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "7a085e42-56ef-470b-8051-ae715b34236c", "sub_uri": "Q1461", "obj_uri": "Q1861", "sub_label": "Manila", "obj_label": "Bangkok", "predicate_id": "P190"}
+{"uuid": "b5751593-5a17-4a4b-819d-57ed4aa53319", "sub_uri": "Q34647", "obj_uri": "Q2256", "sub_label": "Johannesburg", "obj_label": "Birmingham", "predicate_id": "P190"}
+{"uuid": "7da76e62-d95c-41c9-ad82-bc7410d02125", "sub_uri": "Q184403", "obj_uri": "Q1563", "sub_label": "S\u00e3o Bernardo do Campo", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "48aa94ae-6910-4c24-bef2-4d5125ca8f84", "sub_uri": "Q85", "obj_uri": "Q8684", "sub_label": "Kairo", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "efd910e2-42be-4673-af6c-5cb9c6030dd1", "sub_uri": "Q1156", "obj_uri": "Q1022", "sub_label": "Mumbai", "obj_label": "Stuttgart", "predicate_id": "P190"}
+{"uuid": "522691af-323d-41f9-bfda-791ab02c9bfd", "sub_uri": "Q48278", "obj_uri": "Q8692", "sub_label": "Medell\u00edn", "obj_label": "Bilbao", "predicate_id": "P190"}
+{"uuid": "96bdafd2-079e-49ae-a01f-6b4d408cbfc3", "sub_uri": "Q5818", "obj_uri": "Q3766", "sub_label": "C\u00f3rdoba, Spanyol", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "aa209b52-e58b-417c-98c7-3f434294f02f", "sub_uri": "Q1773", "obj_uri": "Q1899", "sub_label": "Riga", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "3303939d-27cb-42c1-8a95-089b59483bc1", "sub_uri": "Q62", "obj_uri": "Q3130", "sub_label": "San Francisco", "obj_label": "Sydney", "predicate_id": "P190"}
+{"uuid": "28ffb347-ad8d-4526-9006-1039dd0a77d7", "sub_uri": "Q3579", "obj_uri": "Q1899", "sub_label": "Tripoli", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "a50fb7e9-05d6-4e67-b53c-0fb5d00a4fc4", "sub_uri": "Q159273", "obj_uri": "Q84", "sub_label": "Arequipa", "obj_label": "London", "predicate_id": "P190"}
+{"uuid": "aaaf303b-1766-46bf-8c52-d636615146ba", "sub_uri": "Q28848", "obj_uri": "Q38234", "sub_label": "Saint Paul, Minnesota", "obj_label": "Nagasaki", "predicate_id": "P190"}
+{"uuid": "559a57cb-ff53-4fdf-97fa-d1415de3e73b", "sub_uri": "Q162279", "obj_uri": "Q8686", "sub_label": "Kuopio", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "ebb598c8-8b10-4b89-b549-c998f7806775", "sub_uri": "Q16557", "obj_uri": "Q16666", "sub_label": "Dallas", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "3960f8f2-07f9-4c41-97d7-784b5caba8ec", "sub_uri": "Q1854", "obj_uri": "Q649", "sub_label": "Kota H\u1ed3 Ch\u00ed Minh", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "87bc37d5-f323-4b37-b892-54d706806a5a", "sub_uri": "Q1294439", "obj_uri": "Q472", "sub_label": "Shalalah", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "cac0db94-c098-47dc-8416-14a99d76e767", "sub_uri": "Q62", "obj_uri": "Q8684", "sub_label": "San Francisco", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "0d8e241b-7280-40c0-9dca-8cf8760ef8b8", "sub_uri": "Q172", "obj_uri": "Q3766", "sub_label": "Toronto", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "0cb513d5-dd8c-412b-8c40-57659f56c4f1", "sub_uri": "Q1335", "obj_uri": "Q2807", "sub_label": "Montevideo", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "5a6a6ba0-6110-4ce0-b869-7d12ff276149", "sub_uri": "Q649", "obj_uri": "Q1861", "sub_label": "Moskwa", "obj_label": "Bangkok", "predicate_id": "P190"}
+{"uuid": "8d621eb1-137d-4cee-b1ae-62e70da27893", "sub_uri": "Q2044", "obj_uri": "Q3766", "sub_label": "Firenze", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "80ae66b8-7c3c-4c96-9f9b-c621800a1ee9", "sub_uri": "Q239580", "obj_uri": "Q42448", "sub_label": "Kitwe", "obj_label": "Sheffield", "predicate_id": "P190"}
+{"uuid": "0ae460ed-a653-4eba-80c8-e5365471f3a9", "sub_uri": "Q956", "obj_uri": "Q1748", "sub_label": "Beijing", "obj_label": "Kopenhagen", "predicate_id": "P190"}
+{"uuid": "3dc0cd22-287a-4ca9-9135-08f0f8e511fc", "sub_uri": "Q134279", "obj_uri": "Q10690", "sub_label": "Luhansk", "obj_label": "Cardiff", "predicate_id": "P190"}
+{"uuid": "2a11af40-e733-4d64-a23e-01c6f122b6ad", "sub_uri": "Q48344", "obj_uri": "Q14773", "sub_label": "Recife", "obj_label": "Makau", "predicate_id": "P190"}
+{"uuid": "dbc42689-0cce-40bf-b8d3-4d480e5a8d88", "sub_uri": "Q38283", "obj_uri": "Q8686", "sub_label": "Yokohama", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "794eaed7-d809-4d0b-95d1-183a9b13fed9", "sub_uri": "Q3777", "obj_uri": "Q1867", "sub_label": "Ouagadougou", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "5cbf418e-ed41-4c62-8485-dba3d2f6e0d4", "sub_uri": "Q1486", "obj_uri": "Q8652", "sub_label": "Buenos Aires", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "fceae171-d129-4d11-823a-822355d9746d", "sub_uri": "Q495", "obj_uri": "Q47492", "sub_label": "Turin", "obj_label": "Gaza", "predicate_id": "P190"}
+{"uuid": "a479302b-572a-42ea-8528-37e20ab34a33", "sub_uri": "Q1780", "obj_uri": "Q1085", "sub_label": "Bratislava", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "2610d4d4-6336-4b8a-a2b1-eaa3e443e190", "sub_uri": "Q1726", "obj_uri": "Q1899", "sub_label": "M\u00fcnchen", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "557f19f2-a2f2-47ad-8b5f-188256628ffa", "sub_uri": "Q122723", "obj_uri": "Q99", "sub_label": "Prefektur Osaka", "obj_label": "California", "predicate_id": "P190"}
+{"uuid": "35cc0bf7-5436-45ec-becd-282c28147666", "sub_uri": "Q42807", "obj_uri": "Q2028", "sub_label": "N\u00eemes", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "89620046-d7a5-46c9-a75f-f4b432782692", "sub_uri": "Q2088561", "obj_uri": "Q4656", "sub_label": "Munisipalitas Veles", "obj_label": "Pula", "predicate_id": "P190"}
+{"uuid": "fde65ee5-fe20-4ae1-956c-cc22c2e3ab95", "sub_uri": "Q816736", "obj_uri": "Q843", "sub_label": "Tsushima, Aichi", "obj_label": "Pakistan", "predicate_id": "P190"}
+{"uuid": "6b6b3079-23bc-43d5-96ca-870ca8bbb801", "sub_uri": "Q19583", "obj_uri": "Q207540", "sub_label": "Gori", "obj_label": "Lod", "predicate_id": "P190"}
+{"uuid": "10a44861-2e8f-4d97-ad25-132b03baefa3", "sub_uri": "Q1792", "obj_uri": "Q34370", "sub_label": "Gda\u0144sk", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "15950fd1-16b7-4dbd-98b1-d7695e99acaf", "sub_uri": "Q3640", "obj_uri": "Q956", "sub_label": "Ankara", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "75fdf5ee-e640-4b0e-9c33-30d113bdf93f", "sub_uri": "Q8131", "obj_uri": "Q18125", "sub_label": "Kota Palembang", "obj_label": "Manchester", "predicate_id": "P190"}
+{"uuid": "8771fad5-35d5-497c-a284-ac8ce04b6dbf", "sub_uri": "Q1520", "obj_uri": "Q406", "sub_label": "Nursultan", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "f14bc0de-b71a-434a-b965-506b76fa78b0", "sub_uri": "Q1524", "obj_uri": "Q956", "sub_label": "Kota Athena", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "e8627333-fc7f-4855-aca4-db170371528a", "sub_uri": "Q5776", "obj_uri": "Q1282", "sub_label": "Betlehem", "obj_label": "Lazio", "predicate_id": "P190"}
+{"uuid": "03ad40b0-f3ce-40b7-a692-97239225d0c7", "sub_uri": "Q1757", "obj_uri": "Q1899", "sub_label": "Helsinki", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "6cc2a791-80d6-468c-bd2d-441ba680f78c", "sub_uri": "Q5826", "obj_uri": "Q406", "sub_label": "Xi'an", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "5de1c3cd-dcdd-4f9b-9200-bcaabe3b474a", "sub_uri": "Q60453", "obj_uri": "Q24639", "sub_label": "Coevorden", "obj_label": "Vancouver", "predicate_id": "P190"}
+{"uuid": "23e48a09-a93c-4cd0-a5e2-c3c9966f7608", "sub_uri": "Q36433", "obj_uri": "Q38234", "sub_label": "Porto", "obj_label": "Nagasaki", "predicate_id": "P190"}
+{"uuid": "447fa8c9-776a-4058-b731-377af8a8e5b4", "sub_uri": "Q1524", "obj_uri": "Q1563", "sub_label": "Kota Athena", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "29fc44b6-6481-4269-b577-35b168b826eb", "sub_uri": "Q1794", "obj_uri": "Q490", "sub_label": "Frankfurt am Main", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "808aebbc-6ddb-4389-988a-e55ea6582adb", "sub_uri": "Q908", "obj_uri": "Q8717", "sub_label": "Rostov na Donu", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "0998a110-d7ee-4a64-abfc-9d205131d60b", "sub_uri": "Q81398", "obj_uri": "Q1461", "sub_label": "Acapulco", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "6dcac1c9-65b9-46e7-b504-586d14c43118", "sub_uri": "Q29303", "obj_uri": "Q2684", "sub_label": "Canterbury", "obj_label": "Vladimir", "predicate_id": "P190"}
+{"uuid": "abe901f1-e12c-404b-8a32-3ee2ac6ecafa", "sub_uri": "Q3551", "obj_uri": "Q8717", "sub_label": "Rabat", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "0499f6a9-d425-4217-8e0e-c52a24e0faad", "sub_uri": "Q1486", "obj_uri": "Q8684", "sub_label": "Buenos Aires", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "c9f0fdcc-4110-45f2-801a-eb323919ff65", "sub_uri": "Q216", "obj_uri": "Q1781", "sub_label": "Vilnius", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "4f9fe372-44f2-4cfa-8009-ba15ca667d44", "sub_uri": "Q3805", "obj_uri": "Q1297", "sub_label": "Amman", "obj_label": "Chicago", "predicate_id": "P190"}
+{"uuid": "1e8fc5bd-3344-463c-90a9-90589d250d8c", "sub_uri": "Q340", "obj_uri": "Q1461", "sub_label": "Montreal", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "4804f5f0-1923-4817-83ed-3c812ee4acfa", "sub_uri": "Q8621", "obj_uri": "Q1085", "sub_label": "Terni", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "ac02467d-c031-4c67-a93b-9b592b5ffdf8", "sub_uri": "Q192807", "obj_uri": "Q23482", "sub_label": "Ramat Gan", "obj_label": "Marseille", "predicate_id": "P190"}
+{"uuid": "f1755b23-9896-4260-b037-675fb9330306", "sub_uri": "Q47465", "obj_uri": "Q8810", "sub_label": "Aix-en-Provence", "obj_label": "Granada", "predicate_id": "P190"}
+{"uuid": "9243900d-dbe1-4273-8faf-224070cd1d52", "sub_uri": "Q11194", "obj_uri": "Q2807", "sub_label": "Sarajevo", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "5ab487b6-e458-41ef-8473-6428802e520c", "sub_uri": "Q1861", "obj_uri": "Q8686", "sub_label": "Bangkok", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "b2fe8378-20a8-4b37-a50c-b745940826bb", "sub_uri": "Q3805", "obj_uri": "Q3766", "sub_label": "Amman", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "77973777-9a3b-42f5-a257-3a9f129a356c", "sub_uri": "Q486168", "obj_uri": "Q42061", "sub_label": "San Bernardino, California", "obj_label": "Goyang", "predicate_id": "P190"}
+{"uuid": "cd67b79c-46fc-4be0-b4b5-8119064642c1", "sub_uri": "Q406", "obj_uri": "Q8686", "sub_label": "Istanbul", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "c206d0ab-7232-4bb6-9a3b-2d6cb178836b", "sub_uri": "Q16553", "obj_uri": "Q1761", "sub_label": "San Jos\u00e9, California", "obj_label": "Dublin", "predicate_id": "P190"}
+{"uuid": "a8b67de6-5b5e-4560-96b2-62590924199f", "sub_uri": "Q3935", "obj_uri": "Q8686", "sub_label": "Windhoek", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "f8b55074-0967-4cda-86d8-60234ff63a55", "sub_uri": "Q10690", "obj_uri": "Q3519", "sub_label": "Cardiff", "obj_label": "Bari", "predicate_id": "P190"}
+{"uuid": "3f62c932-523f-45ea-832a-0bc41b2b87d3", "sub_uri": "Q5468", "obj_uri": "Q34647", "sub_label": "Durban", "obj_label": "Johannesburg", "predicate_id": "P190"}
+{"uuid": "d6bb691e-40ee-4837-9563-e88f191d0c65", "sub_uri": "Q437", "obj_uri": "Q649", "sub_label": "Ljubljana", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "6e7aa014-dab1-49c7-a01d-1dea5cd77b3c", "sub_uri": "Q1770", "obj_uri": "Q649", "sub_label": "Tallinn", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "11a3acce-2d59-4d73-8942-ffb91490da59", "sub_uri": "Q1899", "obj_uri": "Q220", "sub_label": "Kiev", "obj_label": "Roma", "predicate_id": "P190"}
+{"uuid": "1fcee21c-1143-4d3b-ae7e-e16375c1600c", "sub_uri": "Q1764", "obj_uri": "Q1748", "sub_label": "Reykjav\u00edk", "obj_label": "Kopenhagen", "predicate_id": "P190"}
+{"uuid": "eab62516-d197-4d28-86e6-cd4bdb58b562", "sub_uri": "Q6506", "obj_uri": "Q1055", "sub_label": "Varna", "obj_label": "Hamburg", "predicate_id": "P190"}
+{"uuid": "cab99854-755d-44d6-aad3-d045b8889b38", "sub_uri": "Q2044", "obj_uri": "Q23436", "sub_label": "Firenze", "obj_label": "Edinburgh", "predicate_id": "P190"}
+{"uuid": "854f3e20-752f-4539-80b6-d5a933801ebe", "sub_uri": "Q1899", "obj_uri": "Q64", "sub_label": "Kiev", "obj_label": "Berlin", "predicate_id": "P190"}
+{"uuid": "a8e40b96-8668-48ab-b806-91d4f80fc244", "sub_uri": "Q1865", "obj_uri": "Q1353", "sub_label": "Kuala Lumpur", "obj_label": "Delhi", "predicate_id": "P190"}
+{"uuid": "1439e86a-fc96-428a-a214-93e507a01fc2", "sub_uri": "Q14314", "obj_uri": "Q51103", "sub_label": "Santiago de Compostela", "obj_label": "Cali", "predicate_id": "P190"}
+{"uuid": "b958e9b9-7861-4ca9-8972-ea02792eaeb0", "sub_uri": "Q1953", "obj_uri": "Q1353", "sub_label": "Yerevan", "obj_label": "Delhi", "predicate_id": "P190"}
+{"uuid": "881497a6-7024-4a37-8a3b-0588a120e538", "sub_uri": "Q44059", "obj_uri": "Q10305", "sub_label": "La Plata, Buenos Aires", "obj_label": "Zaragoza", "predicate_id": "P190"}
+{"uuid": "e7c90a3d-0ac0-4f6c-b1b8-53daa23bb9ea", "sub_uri": "Q18094", "obj_uri": "Q51103", "sub_label": "Honolulu", "obj_label": "Cali", "predicate_id": "P190"}
+{"uuid": "44e5fc7a-e929-488b-8750-2e96bbe8e534", "sub_uri": "Q1486", "obj_uri": "Q270", "sub_label": "Buenos Aires", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "be69ca2c-f76a-4bc7-b5bc-f83987ac7be2", "sub_uri": "Q3630", "obj_uri": "Q64", "sub_label": "Daerah Khusus Ibukota Jakarta", "obj_label": "Berlin", "predicate_id": "P190"}
+{"uuid": "4bb60712-d67e-41e0-b101-0c2925e170a9", "sub_uri": "Q192265", "obj_uri": "Q1886688", "sub_label": "Foc\u015fani", "obj_label": "Berd", "predicate_id": "P190"}
+{"uuid": "611a6c36-a43b-49e4-b95b-38a4f5c6ac5f", "sub_uri": "Q11462", "obj_uri": "Q16520", "sub_label": "Kota Surabaya", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "c448efbf-8352-4ef8-9f97-119f5dbf1014", "sub_uri": "Q158119", "obj_uri": "Q1479", "sub_label": "Ramallah", "obj_label": "Bordeaux", "predicate_id": "P190"}
+{"uuid": "6604c3d7-ad73-439d-add0-1e36e67b30c5", "sub_uri": "Q65", "obj_uri": "Q3820", "sub_label": "Los Angeles", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "781a00ff-a300-4df3-9c3a-ac27c93ad6db", "sub_uri": "Q490872", "obj_uri": "Q8686", "sub_label": "Yao, Osaka", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "94b6e135-4182-4d0e-be08-227c71c36c96", "sub_uri": "Q14328", "obj_uri": "Q33959", "sub_label": "Santa Cruz de Tenerife", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "5f304824-8602-43a1-97be-8793d718926f", "sub_uri": "Q13369", "obj_uri": "Q641", "sub_label": "Rimini", "obj_label": "Venesia", "predicate_id": "P190"}
+{"uuid": "a33d91b8-af9c-404a-b314-d90bd7a746d2", "sub_uri": "Q3805", "obj_uri": "Q472", "sub_label": "Amman", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "dba190db-f9c5-405c-9814-49bad226be63", "sub_uri": "Q8826", "obj_uri": "Q2634", "sub_label": "Palma de Mallorca", "obj_label": "Napoli", "predicate_id": "P190"}
+{"uuid": "b9c42532-65cf-426d-b3e9-17528a89ebd7", "sub_uri": "Q79808", "obj_uri": "Q34370", "sub_label": "Constan\u0163a", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "bd324961-277a-4832-bcde-37bb6803214d", "sub_uri": "Q62", "obj_uri": "Q1461", "sub_label": "San Francisco", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "574acc00-fd90-4b3c-8f45-a2748b92885a", "sub_uri": "Q472", "obj_uri": "Q84", "sub_label": "Sofia", "obj_label": "London", "predicate_id": "P190"}
+{"uuid": "3680a031-feca-42e6-93f4-6d89b5a7c809", "sub_uri": "Q3642", "obj_uri": "Q23556", "sub_label": "Asmara, Eritrea", "obj_label": "Atlanta", "predicate_id": "P190"}
+{"uuid": "64cfa344-0108-4b0e-9208-b0a30de2a6ca", "sub_uri": "Q1770", "obj_uri": "Q1741", "sub_label": "Tallinn", "obj_label": "Wina", "predicate_id": "P190"}
+{"uuid": "79253c05-32f7-43d0-82dd-466fe0310f68", "sub_uri": "Q649", "obj_uri": "Q1741", "sub_label": "Moskwa", "obj_label": "Wina", "predicate_id": "P190"}
+{"uuid": "2d444267-9f0e-4da7-8747-3696b578ab89", "sub_uri": "Q2044", "obj_uri": "Q16666", "sub_label": "Firenze", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "3b268407-31e2-4394-84ab-d03ab0cc070d", "sub_uri": "Q64", "obj_uri": "Q8717", "sub_label": "Berlin", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "f83bfffb-38a1-44f9-a3f7-bce97ef05e21", "sub_uri": "Q22690", "obj_uri": "Q16666", "sub_label": "Metz", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "20771f08-4279-4d1d-8ea4-70cc11ca4061", "sub_uri": "Q81882", "obj_uri": "Q38234", "sub_label": "Santos", "obj_label": "Nagasaki", "predicate_id": "P190"}
+{"uuid": "dd06866c-4918-46ae-bd0f-4a36f7925a04", "sub_uri": "Q656", "obj_uri": "Q270", "sub_label": "Sankt-Peterburg", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "7b4487cf-a4b5-42cf-a9b5-c7806e815b9b", "sub_uri": "Q5468", "obj_uri": "Q34370", "sub_label": "Durban", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "6cf4ee0c-c6c3-4fcf-8911-ddb31567f76e", "sub_uri": "Q1530", "obj_uri": "Q612", "sub_label": "Bagdad", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "711a9fbe-648b-447e-8237-aa90c0cfbddd", "sub_uri": "Q37701", "obj_uri": "Q16666", "sub_label": "Bloemfontein", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "d39d1e37-52a4-4ebf-bdcd-4eb84e6dfbee", "sub_uri": "Q21101", "obj_uri": "Q13375", "sub_label": "Munisipalitas Kolding", "obj_label": "Pisa", "predicate_id": "P190"}
+{"uuid": "0d05de0f-6829-4f98-9133-af36188909f9", "sub_uri": "Q19660", "obj_uri": "Q956", "sub_label": "Bukares", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "cf8bf5b6-f7a9-4962-b068-a93627d217c1", "sub_uri": "Q495", "obj_uri": "Q34370", "sub_label": "Turin", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "7ec208fc-bf6e-469a-8612-99836dd2a252", "sub_uri": "Q41572", "obj_uri": "Q649", "sub_label": "Mykolaiv", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "bfbbed2f-830d-4750-aea7-159e46f37d7e", "sub_uri": "Q31487", "obj_uri": "Q220", "sub_label": "Krak\u00f3w", "obj_label": "Roma", "predicate_id": "P190"}
+{"uuid": "72cd2f23-cce4-4501-9036-a77428393285", "sub_uri": "Q178373", "obj_uri": "Q649", "sub_label": "Rasht", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "7c98663b-8447-49f3-8391-018622bebbe3", "sub_uri": "Q3130", "obj_uri": "Q72259", "sub_label": "Sydney", "obj_label": "Portsmouth", "predicate_id": "P190"}
+{"uuid": "530a525c-ea1e-4f71-a96d-75992982fe68", "sub_uri": "Q3070", "obj_uri": "Q1867", "sub_label": "San Jos\u00e9, Kosta Rika", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "9f451d1e-6d28-413c-ba92-73ebeb137bb0", "sub_uri": "Q5468", "obj_uri": "Q16572", "sub_label": "Durban", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "aa19d640-9e47-4d06-a3f5-f3a88ad76cbf", "sub_uri": "Q46747", "obj_uri": "Q16557", "sub_label": "Sendai, Miyagi", "obj_label": "Dallas", "predicate_id": "P190"}
+{"uuid": "5f049a9b-cd8f-4d1f-923d-bfc882365b23", "sub_uri": "Q1022", "obj_uri": "Q10690", "sub_label": "Stuttgart", "obj_label": "Cardiff", "predicate_id": "P190"}
+{"uuid": "e2f29570-7cd6-4240-bbe4-a62d4206d65f", "sub_uri": "Q20921", "obj_uri": "Q1781", "sub_label": "Daejeon", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "e0e33f93-7d2c-4ce1-9229-de8b3a67c268", "sub_uri": "Q176", "obj_uri": "Q8686", "sub_label": "Qu\u00e9bec", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "4004b774-5302-4a85-84f2-3020587472eb", "sub_uri": "Q23306", "obj_uri": "Q64", "sub_label": "London Raya", "obj_label": "Berlin", "predicate_id": "P190"}
+{"uuid": "47d1d2e7-78b9-4c79-a735-246db9fa0e30", "sub_uri": "Q656", "obj_uri": "Q35765", "sub_label": "Sankt-Peterburg", "obj_label": "Osaka", "predicate_id": "P190"}
+{"uuid": "5b95da37-0de5-4c39-a6aa-cd5a4573b426", "sub_uri": "Q216", "obj_uri": "Q649", "sub_label": "Vilnius", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "cdb98f77-3737-4de7-8999-5277b848067b", "sub_uri": "Q1953", "obj_uri": "Q340", "sub_label": "Yerevan", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "4921b702-6e88-484e-ba9d-9815fddd88d9", "sub_uri": "Q3561", "obj_uri": "Q85", "sub_label": "Aljir", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "818c285e-7b5b-42ce-a0e8-dbc4bad4ae33", "sub_uri": "Q1858", "obj_uri": "Q340", "sub_label": "Hanoi", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "2f30fdb6-f821-479e-9b57-248147096bdf", "sub_uri": "Q1773", "obj_uri": "Q956", "sub_label": "Riga", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "dcdb8a5f-a7ed-4e73-890f-998abb631561", "sub_uri": "Q159818", "obj_uri": "Q2079", "sub_label": "Travnik", "obj_label": "Leipzig", "predicate_id": "P190"}
+{"uuid": "85fd5b50-3381-45ca-b747-ce5c276eee43", "sub_uri": "Q1781", "obj_uri": "Q35765", "sub_label": "Budapest", "obj_label": "Osaka", "predicate_id": "P190"}
+{"uuid": "fb49ae6c-4c1e-4cd4-b8a2-70982bc92de4", "sub_uri": "Q406", "obj_uri": "Q1741", "sub_label": "Istanbul", "obj_label": "Wina", "predicate_id": "P190"}
+{"uuid": "2b06742b-add2-48be-b703-6619e62f0bdc", "sub_uri": "Q1861", "obj_uri": "Q956", "sub_label": "Bangkok", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "1333fda7-2af6-4bc2-b957-d3f90a3b2bf2", "sub_uri": "Q42308", "obj_uri": "Q648", "sub_label": "Kharkiv", "obj_label": "Lille", "predicate_id": "P190"}
+{"uuid": "cb726343-b658-4b72-a3b9-f9b8f0b732d2", "sub_uri": "Q6014", "obj_uri": "Q10305", "sub_label": "Barnaul", "obj_label": "Zaragoza", "predicate_id": "P190"}
+{"uuid": "e25bd386-fd04-4c29-9015-6c7e0c11ac48", "sub_uri": "Q3805", "obj_uri": "Q340", "sub_label": "Amman", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "eb08de0e-d2ad-4768-b720-1881997e5b36", "sub_uri": "Q23430", "obj_uri": "Q1867", "sub_label": "Ulan Bator", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "8812720a-4a7c-4d56-bca1-921fff103d86", "sub_uri": "Q11953", "obj_uri": "Q2683", "sub_label": "Guadalajara, Spanyol", "obj_label": "Parma", "predicate_id": "P190"}
+{"uuid": "81849ff6-710e-492b-8ad2-19a3ce938848", "sub_uri": "Q171639", "obj_uri": "Q1479", "sub_label": "Ashdod", "obj_label": "Bordeaux", "predicate_id": "P190"}
+{"uuid": "2a627465-5627-4b8a-995a-f90814e0b5d3", "sub_uri": "Q456", "obj_uri": "Q490", "sub_label": "Lyon", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "df3b3c94-ac14-4c2e-be2a-58a5ea283af8", "sub_uri": "Q36433", "obj_uri": "Q8686", "sub_label": "Porto", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "567166b7-0608-42a6-a185-218d172d3f87", "sub_uri": "Q1858", "obj_uri": "Q956", "sub_label": "Hanoi", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "50024a91-902a-4b8b-ad86-996a17d89159", "sub_uri": "Q365", "obj_uri": "Q34370", "sub_label": "K\u00f6ln", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "71398121-27bb-4491-828b-dd12162e02e1", "sub_uri": "Q1794", "obj_uri": "Q2079", "sub_label": "Frankfurt am Main", "obj_label": "Leipzig", "predicate_id": "P190"}
+{"uuid": "809fe554-83f7-4547-aab2-7a7c94d7d7f9", "sub_uri": "Q6954", "obj_uri": "Q1296", "sub_label": "Melle, Jerman", "obj_label": "Gent", "predicate_id": "P190"}
+{"uuid": "b8e5d088-e5c5-4a7e-bcfd-7e8d5340b5f9", "sub_uri": "Q3761", "obj_uri": "Q1297", "sub_label": "Accra", "obj_label": "Chicago", "predicate_id": "P190"}
+{"uuid": "daad8e6d-e5aa-4b4a-8d45-6a5262a713f1", "sub_uri": "Q1530", "obj_uri": "Q85", "sub_label": "Bagdad", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "afbea60e-5d51-445b-9cd0-f99e22d9f3ad", "sub_uri": "Q8686", "obj_uri": "Q16520", "sub_label": "Shanghai", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "89971110-d19b-4d90-b0a1-391ab2fa52bc", "sub_uri": "Q37100", "obj_uri": "Q26600", "sub_label": "Auckland", "obj_label": "Fukuoka", "predicate_id": "P190"}
+{"uuid": "f7ad9717-1322-4a23-9528-142e98f2097a", "sub_uri": "Q1156", "obj_uri": "Q38283", "sub_label": "Mumbai", "obj_label": "Yokohama", "predicate_id": "P190"}
+{"uuid": "d91730a7-b22b-4607-a2da-2c81052979a8", "sub_uri": "Q13437", "obj_uri": "Q2634", "sub_label": "Benevento", "obj_label": "Napoli", "predicate_id": "P190"}
+{"uuid": "b94c5be8-57e7-4375-ae77-c6a09b150d2f", "sub_uri": "Q4093", "obj_uri": "Q1563", "sub_label": "Glasgow", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "a285b89a-093d-4269-bb5f-7384f017a6b7", "sub_uri": "Q216", "obj_uri": "Q1899", "sub_label": "Vilnius", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "7b676cf2-bac9-409b-b77e-2dd8c5d2dd23", "sub_uri": "Q1963", "obj_uri": "Q85", "sub_label": "Khartoum", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "c5a00076-9383-4de1-b44c-8b833d59cc27", "sub_uri": "Q1194", "obj_uri": "Q1391", "sub_label": "Schleswig-Holstein", "obj_label": "Maryland", "predicate_id": "P190"}
+{"uuid": "5c82ed97-8480-4bbc-9059-03ce724cc7c5", "sub_uri": "Q844130", "obj_uri": "Q2028", "sub_label": "Nagahama, Shiga", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "b3ed35b5-5fe9-4a0f-b39a-2b88719112be", "sub_uri": "Q186349", "obj_uri": "Q1781", "sub_label": "T\u00e2rgu Mure\u015f", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "57462768-1dc6-418f-80bf-2c4d64bf54be", "sub_uri": "Q4970", "obj_uri": "Q2028", "sub_label": "Hangzhou", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "32e79eed-f8a8-4997-9cde-773d0c05b199", "sub_uri": "Q109356", "obj_uri": "Q8686", "sub_label": "Hamhung", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "7c4d5470-15a7-4279-8ce8-26dce9e178cb", "sub_uri": "Q270", "obj_uri": "Q1297", "sub_label": "Warsawa", "obj_label": "Chicago", "predicate_id": "P190"}
+{"uuid": "88ddda92-300c-46ce-8c66-ba17b3e7fb54", "sub_uri": "Q8652", "obj_uri": "Q51103", "sub_label": "Miami", "obj_label": "Cali", "predicate_id": "P190"}
+{"uuid": "6607a79b-bb26-4810-a52f-c3d69ee96bb1", "sub_uri": "Q8684", "obj_uri": "Q1861", "sub_label": "Seoul", "obj_label": "Bangkok", "predicate_id": "P190"}
+{"uuid": "664461b2-7bc7-4887-a95b-0cf1600241ae", "sub_uri": "Q2844", "obj_uri": "Q727", "sub_label": "Bras\u00edlia", "obj_label": "Amsterdam", "predicate_id": "P190"}
+{"uuid": "41e8aa1a-b115-43c2-8df2-6a2c306de1b5", "sub_uri": "Q5540", "obj_uri": "Q16520", "sub_label": "Penza", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "c991e66a-19cd-45a0-be2b-75ba26fae571", "sub_uri": "Q1647", "obj_uri": "Q2656", "sub_label": "Rijeka", "obj_label": "Palermo", "predicate_id": "P190"}
+{"uuid": "e03ee53a-4439-4e96-b066-03da78aa6b6e", "sub_uri": "Q35004", "obj_uri": "Q8717", "sub_label": "Tarija, Bolivia", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "99561e2b-53ab-4453-a5bd-2373caa3e60e", "sub_uri": "Q35493", "obj_uri": "Q374365", "sub_label": "Almaty", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "d446c702-1964-42f9-acdc-6002c70d7d7c", "sub_uri": "Q11725", "obj_uri": "Q2684", "sub_label": "Chongqing", "obj_label": "Vladimir", "predicate_id": "P190"}
+{"uuid": "aa469ae2-680c-4ba3-8b3d-4bd30bca977f", "sub_uri": "Q3805", "obj_uri": "Q8652", "sub_label": "Amman", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "bee887e8-141e-4e1f-a2b8-5713fc3d134a", "sub_uri": "Q1858", "obj_uri": "Q8684", "sub_label": "Hanoi", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "314c90a3-5806-46e4-b44e-db377810a715", "sub_uri": "Q3838", "obj_uri": "Q3616", "sub_label": "Kinshasa", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "6800d488-3f2d-48c4-ba15-9d672aa893c1", "sub_uri": "Q9248", "obj_uri": "Q374365", "sub_label": "Baku", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "28efc97d-a343-44f5-ad17-7ac5f577bd31", "sub_uri": "Q35997", "obj_uri": "Q9248", "sub_label": "\u0130zmir", "obj_label": "Baku", "predicate_id": "P190"}
+{"uuid": "882046f5-3c1f-45df-836b-54adb2082e70", "sub_uri": "Q1757", "obj_uri": "Q472", "sub_label": "Helsinki", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "49538eaa-7c44-419f-8921-1c04f34345a6", "sub_uri": "Q406", "obj_uri": "Q16572", "sub_label": "Istanbul", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "e507965d-4490-46cf-b7de-78538fedbeb3", "sub_uri": "Q168057", "obj_uri": "Q456", "sub_label": "Craiova", "obj_label": "Lyon", "predicate_id": "P190"}
+{"uuid": "96fb5501-ee36-4e2b-8c4e-a78e4f37c914", "sub_uri": "Q3110", "obj_uri": "Q2807", "sub_label": "San Salvador", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "6daf81f9-22db-4370-b78a-6faa7d4eddfe", "sub_uri": "Q81398", "obj_uri": "Q39984", "sub_label": "Acapulco", "obj_label": "Cannes", "predicate_id": "P190"}
+{"uuid": "9edf48e3-85f0-4fc9-a5ba-e349ffd2c6d4", "sub_uri": "Q16555", "obj_uri": "Q1867", "sub_label": "Houston, Texas", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "64df8eb0-b97d-4af7-8849-df25fe06e99b", "sub_uri": "Q152467", "obj_uri": "Q18419", "sub_label": "Bnei Brak", "obj_label": "Brooklyn", "predicate_id": "P190"}
+{"uuid": "9d2e0ebc-057c-4b56-9ea0-2341d2d02987", "sub_uri": "Q130800", "obj_uri": "Q33959", "sub_label": "Papeete", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "40bf5c5f-1a4a-4bb7-9e44-56fa95741797", "sub_uri": "Q1794", "obj_uri": "Q1085", "sub_label": "Frankfurt am Main", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "f034eb2b-5af6-47e0-9d7e-e2be5698e147", "sub_uri": "Q8678", "obj_uri": "Q23556", "sub_label": "Rio de Janeiro", "obj_label": "Atlanta", "predicate_id": "P190"}
+{"uuid": "4b7954a5-d0cc-451c-b5cf-ea2bc81b2f4e", "sub_uri": "Q1563", "obj_uri": "Q1461", "sub_label": "Havana", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "ba33a309-e2df-4eef-b7ee-713cd1d0c34c", "sub_uri": "Q1794", "obj_uri": "Q38283", "sub_label": "Frankfurt am Main", "obj_label": "Yokohama", "predicate_id": "P190"}
+{"uuid": "accc8d46-5282-4cbd-af41-6eb76e99aaf2", "sub_uri": "Q16520", "obj_uri": "Q1461", "sub_label": "Busan", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "8cb43bbc-6dad-4dee-8556-d8caacbfa4f8", "sub_uri": "Q16572", "obj_uri": "Q24639", "sub_label": "Guangzhou", "obj_label": "Vancouver", "predicate_id": "P190"}
+{"uuid": "1019bef5-3523-4a75-8c7f-5c2636dbcffd", "sub_uri": "Q1486", "obj_uri": "Q406", "sub_label": "Buenos Aires", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "4185ef51-a9ab-45e4-a114-ffec10fc68a6", "sub_uri": "Q20934", "obj_uri": "Q804", "sub_label": "Incheon", "obj_label": "Panama", "predicate_id": "P190"}
+{"uuid": "c4333ea2-702b-492a-b5e5-9c0f7f095e13", "sub_uri": "Q9365", "obj_uri": "Q3616", "sub_label": "Dushanbe", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "0a6338cb-6f01-4a24-8e9d-e527b9af53f0", "sub_uri": "Q3572", "obj_uri": "Q1085", "sub_label": "Tunis", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "a4ae0814-bced-4d5a-90b2-ad72c65b2883", "sub_uri": "Q959", "obj_uri": "Q16520", "sub_label": "Vladivostok", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "2e290ade-d8d7-4430-a202-b9da1d683936", "sub_uri": "Q3688", "obj_uri": "Q2807", "sub_label": "Nouakchott", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "a3068a4f-1bc5-42c7-93af-9d18d45e35d0", "sub_uri": "Q233903", "obj_uri": "Q956", "sub_label": "Meguro, Tokyo", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "3bb886e2-d4da-4027-b1a1-95e0dc2e1c1e", "sub_uri": "Q3572", "obj_uri": "Q374365", "sub_label": "Tunis", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "e7b3213c-2a7a-4428-aa24-3ebb7f4d7b95", "sub_uri": "Q1781", "obj_uri": "Q3616", "sub_label": "Budapest", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "390bd821-f627-420f-a969-c7fa52dd0812", "sub_uri": "Q52607", "obj_uri": "Q1563", "sub_label": "Mar del Plata", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "e6218376-090b-48d7-8904-645522610ad1", "sub_uri": "Q1489", "obj_uri": "Q1563", "sub_label": "Kota Meksiko", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "2759361b-0c5e-4e47-88cc-133a77389547", "sub_uri": "Q100188", "obj_uri": "Q2683", "sub_label": "Cluj-Napoca", "obj_label": "Parma", "predicate_id": "P190"}
+{"uuid": "d18af09c-d1c7-45ac-b43d-10e003dc9aee", "sub_uri": "Q597", "obj_uri": "Q1899", "sub_label": "Lisboa", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "99fa6579-a5a3-43a3-ba9a-4ffe16297503", "sub_uri": "Q174", "obj_uri": "Q35765", "sub_label": "S\u00e3o Paulo", "obj_label": "Osaka", "predicate_id": "P190"}
+{"uuid": "5c0e09fc-fdf9-420a-af81-08df317a1204", "sub_uri": "Q2795", "obj_uri": "Q18125", "sub_label": "Chemnitz", "obj_label": "Manchester", "predicate_id": "P190"}
+{"uuid": "672d0bca-9151-4bf4-bd71-da55a1eb99b5", "sub_uri": "Q1555", "obj_uri": "Q1867", "sub_label": "Kota Guatemala", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "90798e65-dc0e-4076-b761-aa1964d1364c", "sub_uri": "Q365", "obj_uri": "Q956", "sub_label": "K\u00f6ln", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "61d32880-2cd8-49b2-a8a9-c4d241e2f160", "sub_uri": "Q15674", "obj_uri": "Q2634", "sub_label": "Kagoshima", "obj_label": "Napoli", "predicate_id": "P190"}
+{"uuid": "6a39ead5-5655-48d8-8f5e-e81d7f94d4cd", "sub_uri": "Q8848", "obj_uri": "Q6122", "sub_label": "Valence, Dr\u00f4me", "obj_label": "Asti", "predicate_id": "P190"}
+{"uuid": "9d2a59c8-347e-4103-b318-0bc4a3386bb9", "sub_uri": "Q156711", "obj_uri": "Q4656", "sub_label": "Uzhhorod", "obj_label": "Pula", "predicate_id": "P190"}
+{"uuid": "eb4a2c2c-2ba8-4d56-ac6e-25efb627ebd9", "sub_uri": "Q3630", "obj_uri": "Q34370", "sub_label": "Daerah Khusus Ibukota Jakarta", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "7cc65ffc-83fb-4b57-aee7-cca9e0f607e8", "sub_uri": "Q1491", "obj_uri": "Q649", "sub_label": "La Paz, Bolivia", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "64379f83-ac7e-49fb-9f69-36d4f1d8733b", "sub_uri": "Q9361", "obj_uri": "Q172", "sub_label": "Bishkek", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "2372e5a5-ff3e-4f8d-98db-0f7ad4e2cf82", "sub_uri": "Q11194", "obj_uri": "Q1781", "sub_label": "Sarajevo", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "f98c17e7-3712-488b-9cb0-f53c2ffe04aa", "sub_uri": "Q1757", "obj_uri": "Q64", "sub_label": "Helsinki", "obj_label": "Berlin", "predicate_id": "P190"}
+{"uuid": "abb9b759-23ce-4d18-bff8-a9047b5fec0c", "sub_uri": "Q1953", "obj_uri": "Q649", "sub_label": "Yerevan", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "7284e4cc-8bcd-4424-b6d0-1f422e25e69c", "sub_uri": "Q42053", "obj_uri": "Q1492", "sub_label": "Isfahan", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "7e9af2aa-901f-416b-a780-0edfcf020d0f", "sub_uri": "Q174", "obj_uri": "Q8684", "sub_label": "S\u00e3o Paulo", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "bc354f49-8d15-448d-9ab1-10d7ac2f54fa", "sub_uri": "Q2656", "obj_uri": "Q8652", "sub_label": "Palermo", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "f2c568d9-1ed3-4d43-ac21-fa0dddcecb2a", "sub_uri": "Q406", "obj_uri": "Q270", "sub_label": "Istanbul", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "6bd73135-9f16-4d15-a162-29932a27ec47", "sub_uri": "Q239", "obj_uri": "Q340", "sub_label": "Brussel (kota)", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "0a5b3b0c-3d63-42f3-93ec-e7a3cd2dcc76", "sub_uri": "Q1524", "obj_uri": "Q100", "sub_label": "Kota Athena", "obj_label": "Boston", "predicate_id": "P190"}
+{"uuid": "a03b40f8-4913-4aa9-8361-5420f262fee9", "sub_uri": "Q65", "obj_uri": "Q64", "sub_label": "Los Angeles", "obj_label": "Berlin", "predicate_id": "P190"}
+{"uuid": "5b668f23-a740-4d1d-9b94-759446137433", "sub_uri": "Q140631", "obj_uri": "Q816", "sub_label": "Kota Tainan", "obj_label": "Arizona", "predicate_id": "P190"}
+{"uuid": "15a7b97c-c3a1-4521-a4fe-0ace8f6154ca", "sub_uri": "Q8678", "obj_uri": "Q612", "sub_label": "Rio de Janeiro", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "6c7e73ef-e575-4166-b23a-301ffe96a272", "sub_uri": "Q1781", "obj_uri": "Q64", "sub_label": "Budapest", "obj_label": "Berlin", "predicate_id": "P190"}
+{"uuid": "23cd80e2-ad12-4321-9a93-d2cb1bed5176", "sub_uri": "Q6602", "obj_uri": "Q100", "sub_label": "Strasbourg", "obj_label": "Boston", "predicate_id": "P190"}
+{"uuid": "f9dbd4c3-95af-4c11-8ccf-38cb1730329d", "sub_uri": "Q1295", "obj_uri": "Q39121", "sub_label": "Dortmund", "obj_label": "Leeds", "predicate_id": "P190"}
+{"uuid": "53f609cd-646f-46f3-87cc-aee11244d577", "sub_uri": "Q101625", "obj_uri": "Q5806", "sub_label": "Marrakesh", "obj_label": "Makkah", "predicate_id": "P190"}
+{"uuid": "5b77ec59-cfeb-4c60-a55e-6f7aa0812011", "sub_uri": "Q2807", "obj_uri": "Q1781", "sub_label": "Madrid", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "bc571348-6a20-47ed-a8c8-4754e62ffd7e", "sub_uri": "Q1524", "obj_uri": "Q1492", "sub_label": "Kota Athena", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "d7984eeb-0267-40c9-8dac-37e5352ec3ea", "sub_uri": "Q3778", "obj_uri": "Q1295", "sub_label": "Zwickau", "obj_label": "Dortmund", "predicate_id": "P190"}
+{"uuid": "1e0e86a3-3610-472b-ac63-7b48a2afd4be", "sub_uri": "Q3616", "obj_uri": "Q956", "sub_label": "Teheran", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "3d29f197-5e86-47b5-9f69-d3fea75b909f", "sub_uri": "Q8660", "obj_uri": "Q612", "sub_label": "Karachi", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "6aabc08e-d665-4b44-a2f6-be3dab892f5b", "sub_uri": "Q1720", "obj_uri": "Q9248", "sub_label": "Mainz", "obj_label": "Baku", "predicate_id": "P190"}
+{"uuid": "83c51aef-b638-4e39-897a-f2263ed9183d", "sub_uri": "Q2290", "obj_uri": "Q180233", "sub_label": "Porsgrunn", "obj_label": "Pori", "predicate_id": "P190"}
+{"uuid": "f6dcf89c-a608-4d87-ab94-6b7438fa53af", "sub_uri": "Q3703", "obj_uri": "Q1479", "sub_label": "Bamako", "obj_label": "Bordeaux", "predicate_id": "P190"}
+{"uuid": "38b15950-db89-49f9-b296-6a48d4e9053d", "sub_uri": "Q41262", "obj_uri": "Q1296", "sub_label": "Nottingham", "obj_label": "Gent", "predicate_id": "P190"}
+{"uuid": "456ca2ce-d86f-4717-b96a-604b51136cda", "sub_uri": "Q193719", "obj_uri": "Q6938", "sub_label": "Cheb", "obj_label": "Hof", "predicate_id": "P190"}
+{"uuid": "38e750c0-c6c4-4708-bfbf-51f7f233751a", "sub_uri": "Q40104", "obj_uri": "Q3150", "sub_label": "Ajaccio", "obj_label": "Jena", "predicate_id": "P190"}
+{"uuid": "1b699b6a-7402-4997-aa2f-0243868c6b5e", "sub_uri": "Q649", "obj_uri": "Q3820", "sub_label": "Moskwa", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "2434cfa8-17b9-4f10-97e5-99b560dcb20d", "sub_uri": "Q34261", "obj_uri": "Q8652", "sub_label": "Port-au-Prince", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "de7c7c96-b01f-4a2a-b1ab-976bd45adf27", "sub_uri": "Q41604", "obj_uri": "Q1295", "sub_label": "Amiens", "obj_label": "Dortmund", "predicate_id": "P190"}
+{"uuid": "d735d1bd-584f-43a4-93a9-566f1f9314a8", "sub_uri": "Q216", "obj_uri": "Q2656", "sub_label": "Vilnius", "obj_label": "Palermo", "predicate_id": "P190"}
+{"uuid": "2deb4abb-b230-4e2b-afc2-3fa01358f663", "sub_uri": "Q3630", "obj_uri": "Q1461", "sub_label": "Daerah Khusus Ibukota Jakarta", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "a3a8c550-e1b4-4591-9269-a01407c3fa67", "sub_uri": "Q120730", "obj_uri": "Q23436", "sub_label": "Prefektur Kyoto", "obj_label": "Edinburgh", "predicate_id": "P190"}
+{"uuid": "c335fef3-165f-4a05-9e3b-417ec5a0fdf6", "sub_uri": "Q6506", "obj_uri": "Q727", "sub_label": "Varna", "obj_label": "Amsterdam", "predicate_id": "P190"}
+{"uuid": "dabb8f63-be47-42b5-bb82-af8c8e3ea83a", "sub_uri": "Q3726", "obj_uri": "Q1867", "sub_label": "Banjul", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "b9aa50c1-0cc6-486e-b8d8-7914028f4bad", "sub_uri": "Q1492", "obj_uri": "Q100", "sub_label": "Barcelona", "obj_label": "Boston", "predicate_id": "P190"}
+{"uuid": "30813f92-cca5-4704-8b15-0d88f4ca891a", "sub_uri": "Q57906", "obj_uri": "Q3114", "sub_label": "Yangzhou", "obj_label": "Canberra", "predicate_id": "P190"}
+{"uuid": "5c0179a5-b1b9-4d20-8cc6-9e630966deef", "sub_uri": "Q1757", "obj_uri": "Q585", "sub_label": "Helsinki", "obj_label": "Oslo", "predicate_id": "P190"}
+{"uuid": "2fbf6a1c-be95-4bc8-acb9-5dbdad0bd92b", "sub_uri": "Q1362", "obj_uri": "Q956", "sub_label": "Islamabad", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "a2dc23ce-9e48-41cb-a407-5dba74dc0afe", "sub_uri": "Q13917", "obj_uri": "Q3820", "sub_label": "\u00cele-de-France (region)", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "24c1b550-d5de-4ce3-b941-7312f211cfbf", "sub_uri": "Q33935", "obj_uri": "Q3711", "sub_label": "Tel Aviv", "obj_label": "Beograd", "predicate_id": "P190"}
+{"uuid": "1f07dae6-f2dd-4bb7-9a53-d3c583406134", "sub_uri": "Q1489", "obj_uri": "Q3820", "sub_label": "Kota Meksiko", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "883c2b0a-c4e2-4f55-9627-2d5f2152a3bc", "sub_uri": "Q206988", "obj_uri": "Q114", "sub_label": "Cheltenham", "obj_label": "Kenya", "predicate_id": "P190"}
+{"uuid": "61f13339-e524-46ab-8a35-bdb7dec7a8a5", "sub_uri": "Q2066", "obj_uri": "Q188304", "sub_label": "Essen, Nordrhein-Westfalen", "obj_label": "Sunderland", "predicate_id": "P190"}
+{"uuid": "068cfdd5-c5f0-43a7-8907-bed58beb1c80", "sub_uri": "Q1486", "obj_uri": "Q956", "sub_label": "Buenos Aires", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "13f0411a-4183-400d-b164-88ff158d043c", "sub_uri": "Q1563", "obj_uri": "Q1492", "sub_label": "Havana", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "67f3b79c-3268-49b1-8914-197cb72dc5bd", "sub_uri": "Q11746", "obj_uri": "Q1899", "sub_label": "Wuhan", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "545c7c09-b3c5-4543-967b-a8f7151706a8", "sub_uri": "Q161884", "obj_uri": "Q495", "sub_label": "Bagneux, Hauts-de-Seine", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "9a05acbb-9e19-435b-9d55-a622f08a657e", "sub_uri": "Q36036", "obj_uri": "Q1781", "sub_label": "Lviv", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "f761a706-6ec9-442c-80aa-a75f7e7a2af6", "sub_uri": "Q1055", "obj_uri": "Q23482", "sub_label": "Hamburg", "obj_label": "Marseille", "predicate_id": "P190"}
+{"uuid": "59129314-452b-4824-9f43-804ca60bc398", "sub_uri": "Q1891", "obj_uri": "Q8818", "sub_label": "Bologna", "obj_label": "Valencia", "predicate_id": "P190"}
+{"uuid": "75d30bf5-629e-4cd7-963e-cdef9846d550", "sub_uri": "Q1854", "obj_uri": "Q172", "sub_label": "Kota H\u1ed3 Ch\u00ed Minh", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "16e3cb42-3bf9-42f1-b673-28a8efdb1a1b", "sub_uri": "Q61", "obj_uri": "Q220", "sub_label": "Washington, D.C.", "obj_label": "Roma", "predicate_id": "P190"}
+{"uuid": "2b720c45-9b29-4caf-a263-f39e248fb226", "sub_uri": "Q20927", "obj_uri": "Q1867", "sub_label": "Daegu", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "5735cf56-d692-4eae-abaa-274ff2c7200b", "sub_uri": "Q1491", "obj_uri": "Q1563", "sub_label": "La Paz, Bolivia", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "f5f0d0f6-0259-4b63-a71d-8b6db3446319", "sub_uri": "Q33986", "obj_uri": "Q15175", "sub_label": "Valpara\u00edso", "obj_label": "Guangdong", "predicate_id": "P190"}
+{"uuid": "c20fceb8-1fe5-408c-8b26-a9f22a741c22", "sub_uri": "Q180083", "obj_uri": "Q8818", "sub_label": "Menton", "obj_label": "Valencia", "predicate_id": "P190"}
+{"uuid": "a53c8dc1-d4be-4dea-8e27-af0153fe91db", "sub_uri": "Q1874", "obj_uri": "Q270", "sub_label": "Odessa", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "287dca8e-31f3-446c-958a-e338b72ee2dd", "sub_uri": "Q1770", "obj_uri": "Q1899", "sub_label": "Tallinn", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "c4f3483f-202d-41fa-96f4-ae80eed1e2b2", "sub_uri": "Q33986", "obj_uri": "Q1492", "sub_label": "Valpara\u00edso", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "d60a8b6a-7744-479d-8690-c8426b3f08ef", "sub_uri": "Q2841", "obj_uri": "Q495", "sub_label": "Bogot\u00e1", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "1f4168fe-0119-4b43-afad-7fc1fecdfe74", "sub_uri": "Q25395", "obj_uri": "Q1867", "sub_label": "Newark, New Jersey", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "8d004a9f-81bc-470d-8339-e8e27bd57a9d", "sub_uri": "Q495", "obj_uri": "Q12439", "sub_label": "Turin", "obj_label": "Detroit", "predicate_id": "P190"}
+{"uuid": "2019a095-7d3c-4372-8d41-303695dd5b79", "sub_uri": "Q2807", "obj_uri": "Q472", "sub_label": "Madrid", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "41949320-b14e-4301-93d9-0a7bcea630f7", "sub_uri": "Q3861", "obj_uri": "Q956", "sub_label": "Doha", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "fdeee715-5384-4ccb-b5db-663ec385eae3", "sub_uri": "Q200030", "obj_uri": "Q131694", "sub_label": "Latakia", "obj_label": "Aden", "predicate_id": "P190"}
+{"uuid": "baf604f1-ff50-4b77-8fe8-3a1266c8fe73", "sub_uri": "Q52101", "obj_uri": "Q38234", "sub_label": "Middelburg", "obj_label": "Nagasaki", "predicate_id": "P190"}
+{"uuid": "4dccac20-ee18-4823-bc6f-83f17a180204", "sub_uri": "Q26418", "obj_uri": "Q42061", "sub_label": "Hakodate, Hokkaido", "obj_label": "Goyang", "predicate_id": "P190"}
+{"uuid": "d64a6bfe-7108-4ed2-8aaf-396868d137e2", "sub_uri": "Q181557", "obj_uri": "Q16520", "sub_label": "Kota Kaohsiung", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "92cb7898-5d0a-444e-a35a-31e1e8713aa7", "sub_uri": "Q2807", "obj_uri": "Q3766", "sub_label": "Madrid", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "b0ffe8d5-d068-424a-9d48-f5aa7cc10e4b", "sub_uri": "Q1475", "obj_uri": "Q1867", "sub_label": "Kota Quezon", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "b7903e63-6d1a-4510-ac43-679c23a099d4", "sub_uri": "Q13680", "obj_uri": "Q8717", "sub_label": "Caltanissetta", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "9bab41a0-5121-4c46-a696-42f35c4ec005", "sub_uri": "Q1858", "obj_uri": "Q270", "sub_label": "Hanoi", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "ee919b41-ed72-4d21-9951-327357d87f5e", "sub_uri": "Q11462", "obj_uri": "Q5083", "sub_label": "Kota Surabaya", "obj_label": "Seattle", "predicate_id": "P190"}
+{"uuid": "a736bae4-5755-42ff-ba3c-d0d7b22c7c6e", "sub_uri": "Q1761", "obj_uri": "Q490", "sub_label": "Dublin", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "bcc17085-e535-4020-9bac-0ff257bdd1f7", "sub_uri": "Q16572", "obj_uri": "Q1085", "sub_label": "Guangzhou", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "52dc7768-ac42-49ea-8b73-16e5febfbb5e", "sub_uri": "Q25409", "obj_uri": "Q456", "sub_label": "Ko\u0161ice", "obj_label": "Lyon", "predicate_id": "P190"}
+{"uuid": "2c831875-91f8-400f-8e82-6f858afaf51f", "sub_uri": "Q1461", "obj_uri": "Q51103", "sub_label": "Manila", "obj_label": "Cali", "predicate_id": "P190"}
+{"uuid": "5993b63c-22c7-4f8f-91b3-b82926d211f5", "sub_uri": "Q1814658", "obj_uri": "Q8652", "sub_label": "Or Akiva", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "4be43216-f593-43e5-8da0-56f52dc85f52", "sub_uri": "Q8686", "obj_uri": "Q1492", "sub_label": "Shanghai", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "a1ced3da-34e0-46c9-805f-b8e21fe37993", "sub_uri": "Q2807", "obj_uri": "Q1461", "sub_label": "Madrid", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "3f3044e6-8841-49ee-b71f-d153a6d8ce7d", "sub_uri": "Q3640", "obj_uri": "Q1899", "sub_label": "Ankara", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "f8070106-f25a-4a39-b5de-55bf77bc0a5a", "sub_uri": "Q37100", "obj_uri": "Q16520", "sub_label": "Auckland", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "6d06c323-88d2-4c7b-aab3-9f2d154daa56", "sub_uri": "Q1963", "obj_uri": "Q3616", "sub_label": "Khartoum", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "795b563f-201b-49b6-967d-9443be420ac4", "sub_uri": "Q3130", "obj_uri": "Q9310", "sub_label": "Sydney", "obj_label": "Dili", "predicate_id": "P190"}
+{"uuid": "78216371-9718-42a9-a4ba-1bb068d188ce", "sub_uri": "Q11725", "obj_uri": "Q5083", "sub_label": "Chongqing", "obj_label": "Seattle", "predicate_id": "P190"}
+{"uuid": "98e68eba-ddd5-4edc-ae58-a3d4b737e5f8", "sub_uri": "Q216", "obj_uri": "Q406", "sub_label": "Vilnius", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "fc8a0b4d-6081-45d3-93a9-6ea043b3f931", "sub_uri": "Q23436", "obj_uri": "Q24639", "sub_label": "Edinburgh", "obj_label": "Vancouver", "predicate_id": "P190"}
+{"uuid": "0c2d71d3-8600-426b-bc3b-e05dfe289252", "sub_uri": "Q2907", "obj_uri": "Q406", "sub_label": "Sucre, Bolivia", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "fc7fede3-8ed7-4b66-b776-c4a37450f1d5", "sub_uri": "Q16572", "obj_uri": "Q3130", "sub_label": "Guangzhou", "obj_label": "Sydney", "predicate_id": "P190"}
+{"uuid": "67134d54-9be9-45b3-b58e-256fb673a77a", "sub_uri": "Q81398", "obj_uri": "Q3692", "sub_label": "Acapulco", "obj_label": "Riyadh", "predicate_id": "P190"}
+{"uuid": "d1676b11-6d4e-4978-8440-e76484441720", "sub_uri": "Q365", "obj_uri": "Q495", "sub_label": "K\u00f6ln", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "756a4144-4d18-4833-8565-a2a0f146347a", "sub_uri": "Q1891", "obj_uri": "Q3519", "sub_label": "Bologna", "obj_label": "Bari", "predicate_id": "P190"}
+{"uuid": "2c56f0d8-1f90-4d23-8417-22c9a685be63", "sub_uri": "Q16635", "obj_uri": "Q1867", "sub_label": "Guam", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "cfe0424d-da44-4e56-82fb-cdd50228df79", "sub_uri": "Q3922", "obj_uri": "Q2028", "sub_label": "Detmold", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "b6cfffe8-f011-4896-bb39-4c3288af0d20", "sub_uri": "Q2471", "obj_uri": "Q3616", "sub_label": "Sana'a", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "c165624e-e37b-4051-9ae1-f03a1ca78baa", "sub_uri": "Q1780", "obj_uri": "Q1741", "sub_label": "Bratislava", "obj_label": "Wina", "predicate_id": "P190"}
+{"uuid": "f168f6dc-97d7-4928-b716-9f3bbf1c22a3", "sub_uri": "Q200267", "obj_uri": "Q33959", "sub_label": "Kamakura", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "074c33b2-45d7-47b8-8e80-f2f08e893dbb", "sub_uri": "Q1489", "obj_uri": "Q64", "sub_label": "Kota Meksiko", "obj_label": "Berlin", "predicate_id": "P190"}
+{"uuid": "92e8c406-b4d8-455e-b778-86e619da0d55", "sub_uri": "Q12225", "obj_uri": "Q8652", "sub_label": "Murcia", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "cb418cdb-e2d2-41c2-940a-9f865db09053", "sub_uri": "Q8660", "obj_uri": "Q8686", "sub_label": "Karachi", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "c7acc7c2-a18b-434a-a936-b72890591a46", "sub_uri": "Q65", "obj_uri": "Q16520", "sub_label": "Los Angeles", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "959393e2-24db-4980-bb85-ec402c0e52c9", "sub_uri": "Q1515", "obj_uri": "Q23482", "sub_label": "Abidjan", "obj_label": "Marseille", "predicate_id": "P190"}
+{"uuid": "7729e7e5-84aa-474a-8532-80b99d726c76", "sub_uri": "Q487704", "obj_uri": "Q9248", "sub_label": "Honolulu County, Hawaii", "obj_label": "Baku", "predicate_id": "P190"}
+{"uuid": "57c0b685-1357-4f5c-8cb0-ec9d29a4a4b2", "sub_uri": "Q5826", "obj_uri": "Q374365", "sub_label": "Xi'an", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "bf76bcd4-536d-48ac-aa17-4495abcd122e", "sub_uri": "Q20921", "obj_uri": "Q5083", "sub_label": "Daejeon", "obj_label": "Seattle", "predicate_id": "P190"}
+{"uuid": "ea4b9365-ade7-477e-965b-4ad78abb1bb6", "sub_uri": "Q4093", "obj_uri": "Q23482", "sub_label": "Glasgow", "obj_label": "Marseille", "predicate_id": "P190"}
+{"uuid": "90905ff2-2220-4bb4-8b4d-2fd04ccc4179", "sub_uri": "Q612", "obj_uri": "Q24639", "sub_label": "Dubai", "obj_label": "Vancouver", "predicate_id": "P190"}
+{"uuid": "92f6444b-b614-47f8-aef8-29c24b3d074e", "sub_uri": "Q1899", "obj_uri": "Q727", "sub_label": "Kiev", "obj_label": "Amsterdam", "predicate_id": "P190"}
+{"uuid": "4f9aed38-4d19-467f-a5c9-a01bd670ff7c", "sub_uri": "Q6441", "obj_uri": "Q1492", "sub_label": "Montpellier", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "2ac46234-b50c-4f84-96e2-7422bacd263b", "sub_uri": "Q613", "obj_uri": "Q3766", "sub_label": "Keamiran Dubai", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "526ee3d4-1043-4916-83e7-12d0feae7671", "sub_uri": "Q1720", "obj_uri": "Q8818", "sub_label": "Mainz", "obj_label": "Valencia", "predicate_id": "P190"}
+{"uuid": "410e6cd0-a6a0-48f0-a3a5-3adf8cce08b1", "sub_uri": "Q1486", "obj_uri": "Q2634", "sub_label": "Buenos Aires", "obj_label": "Napoli", "predicate_id": "P190"}
+{"uuid": "e032c884-a8ff-446e-becc-4b4f6b02c21d", "sub_uri": "Q16572", "obj_uri": "Q612", "sub_label": "Guangzhou", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "96a8aeb3-6164-4d84-a71c-9060224dc813", "sub_uri": "Q3561", "obj_uri": "Q472", "sub_label": "Aljir", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "25d0777a-6128-441a-bc30-df390ed2e3a8", "sub_uri": "Q3711", "obj_uri": "Q585", "sub_label": "Beograd", "obj_label": "Oslo", "predicate_id": "P190"}
+{"uuid": "1b1641d2-2a4a-473c-93fd-415560677e28", "sub_uri": "Q656", "obj_uri": "Q1156", "sub_label": "Sankt-Peterburg", "obj_label": "Mumbai", "predicate_id": "P190"}
+{"uuid": "5285ece0-e97d-4503-97f8-c837550dd64b", "sub_uri": "Q3437", "obj_uri": "Q5083", "sub_label": "Perugia", "obj_label": "Seattle", "predicate_id": "P190"}
+{"uuid": "02fba05f-7a4c-4cae-b00f-cb76158d992c", "sub_uri": "Q40435", "obj_uri": "Q2751", "sub_label": "Buffalo, New York", "obj_label": "Siena", "predicate_id": "P190"}
+{"uuid": "fcccd33c-c0f9-4635-832a-69bf3464e19f", "sub_uri": "Q1530", "obj_uri": "Q3616", "sub_label": "Bagdad", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "cc9e4bbb-5584-4c5b-bf77-22875a688dd5", "sub_uri": "Q188505", "obj_uri": "Q8686", "sub_label": "Provinsi Constan\u0163a", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "20cf95ec-2de0-4a4e-a3cd-6402e4fcddd4", "sub_uri": "Q1867", "obj_uri": "Q100", "sub_label": "Taipei", "obj_label": "Boston", "predicate_id": "P190"}
+{"uuid": "8beb1697-5bf2-4eb6-a028-698ac64cd13d", "sub_uri": "Q613", "obj_uri": "Q406", "sub_label": "Keamiran Dubai", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "9e6e5f28-69e1-43e3-bb36-f9c1d8bfbc0b", "sub_uri": "Q5836", "obj_uri": "Q1563", "sub_label": "Toledo, Spanyol", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "21eac6a7-ad5e-4194-8437-ee1698f528e8", "sub_uri": "Q60", "obj_uri": "Q85", "sub_label": "Kota New York", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "cde887e8-957f-4827-b502-8bb131085c28", "sub_uri": "Q1748", "obj_uri": "Q1085", "sub_label": "Kopenhagen", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "96685973-6004-4eb1-a063-69c7ac62e982", "sub_uri": "Q34820", "obj_uri": "Q64", "sub_label": "Santo Domingo", "obj_label": "Berlin", "predicate_id": "P190"}
+{"uuid": "5fa9d2af-6994-431b-a866-40c4004aca80", "sub_uri": "Q1867", "obj_uri": "Q1085", "sub_label": "Taipei", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "78ac70a4-22e6-44c9-bb31-98f27f4ddf1c", "sub_uri": "Q490", "obj_uri": "Q172", "sub_label": "Milan", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "e631bb77-9f9d-4b3a-82ab-b98e7e8d0e9c", "sub_uri": "Q111409", "obj_uri": "Q2807", "sub_label": "Maui County, Hawaii", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "d20370d6-e0d3-4038-b137-c79f8ee73633", "sub_uri": "Q1297", "obj_uri": "Q2256", "sub_label": "Chicago", "obj_label": "Birmingham", "predicate_id": "P190"}
+{"uuid": "98f503a8-c60e-41ee-83e0-8676d8b2d7be", "sub_uri": "Q7903", "obj_uri": "Q8686", "sub_label": "Casablanca", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "0e72c692-5563-4bc5-af8d-3f5061726657", "sub_uri": "Q459", "obj_uri": "Q5788", "sub_label": "Plovdiv", "obj_label": "Petra", "predicate_id": "P190"}
+{"uuid": "3a853819-6e6c-4ec9-93b1-42609b8733bf", "sub_uri": "Q27356", "obj_uri": "Q5788", "sub_label": "Mada'in Salih", "obj_label": "Petra", "predicate_id": "P190"}
+{"uuid": "41e753f3-e8ae-4df0-b0fb-5572539ca57a", "sub_uri": "Q84", "obj_uri": "Q472", "sub_label": "London", "obj_label": "Sofia", "predicate_id": "P190"}
+{"uuid": "a1ec74dd-1524-4046-9cb7-11d4eb353c92", "sub_uri": "Q1489", "obj_uri": "Q2807", "sub_label": "Kota Meksiko", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "adc35a30-e8b6-41df-aa81-f4dfd3f63832", "sub_uri": "Q13678", "obj_uri": "Q915", "sub_label": "Agrigento", "obj_label": "Perm", "predicate_id": "P190"}
+{"uuid": "a4c00666-b8b0-48d7-bdd9-d8c7e2b193e6", "sub_uri": "Q696777", "obj_uri": "Q902", "sub_label": "Nisshin, Aichi", "obj_label": "Bangladesh", "predicate_id": "P190"}
+{"uuid": "7c8b4cb7-a071-4b38-9023-858265526606", "sub_uri": "Q1007634", "obj_uri": "Q42448", "sub_label": "Estel\u00ed", "obj_label": "Sheffield", "predicate_id": "P190"}
+{"uuid": "a98aa08d-44e9-4df6-addf-80742e942bf0", "sub_uri": "Q1297", "obj_uri": "Q1899", "sub_label": "Chicago", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "c5b5d52e-55ec-44f4-bcc9-132d39fd40a9", "sub_uri": "Q641", "obj_uri": "Q406", "sub_label": "Venesia", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "5734340e-dcb0-4165-907a-9538ba4c7359", "sub_uri": "Q2841", "obj_uri": "Q84", "sub_label": "Bogot\u00e1", "obj_label": "London", "predicate_id": "P190"}
+{"uuid": "fc9f27ee-fdd7-47ae-b969-3bb08133245a", "sub_uri": "Q152385", "obj_uri": "Q6122", "sub_label": "Ma'alot-Tarshiha", "obj_label": "Asti", "predicate_id": "P190"}
+{"uuid": "8b6fd9d1-363b-4b2d-94ee-ae671bb5c77d", "sub_uri": "Q44059", "obj_uri": "Q1891", "sub_label": "La Plata, Buenos Aires", "obj_label": "Bologna", "predicate_id": "P190"}
+{"uuid": "f7699365-5512-4930-b21d-d12ab841bd5f", "sub_uri": "Q649", "obj_uri": "Q727", "sub_label": "Moskwa", "obj_label": "Amsterdam", "predicate_id": "P190"}
+{"uuid": "4e46d313-9219-4b4d-85b5-6c76865ab137", "sub_uri": "Q16520", "obj_uri": "Q340", "sub_label": "Busan", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "be14b581-ae02-4b99-896e-1d65a409888d", "sub_uri": "Q5836", "obj_uri": "Q3766", "sub_label": "Toledo, Spanyol", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "3e33f4c8-cb49-46ef-8694-04d262170fe4", "sub_uri": "Q406", "obj_uri": "Q3820", "sub_label": "Istanbul", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "2994e682-f231-4bae-820e-22085eb663b7", "sub_uri": "Q9022", "obj_uri": "Q8717", "sub_label": "Guadalajara, Meksiko", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "44c35221-2e57-41e6-9e71-ed1119a75680", "sub_uri": "Q132790", "obj_uri": "Q10305", "sub_label": "Biarritz", "obj_label": "Zaragoza", "predicate_id": "P190"}
+{"uuid": "d783334c-80e9-4b70-8bd8-96399da67d44", "sub_uri": "Q5776", "obj_uri": "Q2656", "sub_label": "Betlehem", "obj_label": "Palermo", "predicate_id": "P190"}
+{"uuid": "7f521f74-eeae-4e6b-a9cd-464c185596d5", "sub_uri": "Q1858", "obj_uri": "Q1861", "sub_label": "Hanoi", "obj_label": "Bangkok", "predicate_id": "P190"}
+{"uuid": "9876af3f-c716-4e1b-b670-7c32e2cbe34a", "sub_uri": "Q34370", "obj_uri": "Q220445", "sub_label": "Rotterdam", "obj_label": "Kuching", "predicate_id": "P190"}
+{"uuid": "494acb30-c430-4fd0-8d3f-5c4200449827", "sub_uri": "Q490", "obj_uri": "Q2256", "sub_label": "Milan", "obj_label": "Birmingham", "predicate_id": "P190"}
+{"uuid": "cf62a9b1-78c7-4f50-ab31-f9ad33d2f547", "sub_uri": "Q1953", "obj_uri": "Q1899", "sub_label": "Yerevan", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "c3232e5d-58bc-4255-b018-77eb83593a3b", "sub_uri": "Q9022", "obj_uri": "Q51103", "sub_label": "Guadalajara, Meksiko", "obj_label": "Cali", "predicate_id": "P190"}
+{"uuid": "37ab5be1-f28b-43b7-9982-9f0a7af87f03", "sub_uri": "Q15674", "obj_uri": "Q8652", "sub_label": "Kagoshima", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "700f9161-2f94-4fcf-aefe-d0b63c640f66", "sub_uri": "Q158119", "obj_uri": "Q34647", "sub_label": "Ramallah", "obj_label": "Johannesburg", "predicate_id": "P190"}
+{"uuid": "2ad77702-7018-4adf-8227-4f9be1372ce0", "sub_uri": "Q74881", "obj_uri": "Q4093", "sub_label": "Dalian", "obj_label": "Glasgow", "predicate_id": "P190"}
+{"uuid": "dc8916af-178c-4e5c-9b0c-f262cd8b8721", "sub_uri": "Q1055", "obj_uri": "Q35765", "sub_label": "Hamburg", "obj_label": "Osaka", "predicate_id": "P190"}
+{"uuid": "ca4a1493-85ce-4aed-8c44-915acf162d5b", "sub_uri": "Q994", "obj_uri": "Q1899", "sub_label": "Tbilisi", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "7753867f-c7bf-4003-8f48-0c749b980d01", "sub_uri": "Q200251", "obj_uri": "Q220445", "sub_label": "K\u014dchi, K\u014dchi", "obj_label": "Kuching", "predicate_id": "P190"}
+{"uuid": "ebd9e811-2f79-44ac-8c38-39d209b2e719", "sub_uri": "Q1867", "obj_uri": "Q270", "sub_label": "Taipei", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "909e0266-d600-493f-b03c-a922009ec4c0", "sub_uri": "Q463", "obj_uri": "Q8686", "sub_label": "Rh\u00f4ne-Alpes", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "ef2ae8da-9556-4bd9-a8c8-efcbe8d6d19b", "sub_uri": "Q131127", "obj_uri": "Q3711", "sub_label": "Banja Luka", "obj_label": "Beograd", "predicate_id": "P190"}
+{"uuid": "e0d037d0-11bb-4093-975e-5ec7f30453e5", "sub_uri": "Q406", "obj_uri": "Q172", "sub_label": "Istanbul", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "027fdb6d-44e8-42fe-9335-c70cd49e9cbb", "sub_uri": "Q8686", "obj_uri": "Q340", "sub_label": "Shanghai", "obj_label": "Montreal", "predicate_id": "P190"}
+{"uuid": "19070a28-7ea1-4d23-935a-636ea11d4860", "sub_uri": "Q1953", "obj_uri": "Q456", "sub_label": "Yerevan", "obj_label": "Lyon", "predicate_id": "P190"}
+{"uuid": "6b29f24e-70e9-44f0-9dbb-135245c0a515", "sub_uri": "Q12892", "obj_uri": "Q23482", "sub_label": "Antwerpen", "obj_label": "Marseille", "predicate_id": "P190"}
+{"uuid": "592d8414-42fb-4cb4-a55c-79a67b8813b2", "sub_uri": "Q1354", "obj_uri": "Q16572", "sub_label": "Dhaka", "obj_label": "Guangzhou", "predicate_id": "P190"}
+{"uuid": "ba0eef89-fa97-422a-89a6-0b647e46ff49", "sub_uri": "Q1489", "obj_uri": "Q3130", "sub_label": "Kota Meksiko", "obj_label": "Sydney", "predicate_id": "P190"}
+{"uuid": "41724e2e-032b-4b43-9356-0c796ad94932", "sub_uri": "Q45779", "obj_uri": "Q4656", "sub_label": "P\u00e9cs", "obj_label": "Pula", "predicate_id": "P190"}
+{"uuid": "5cd3c465-6505-459c-8376-26c3f5009030", "sub_uri": "Q125863", "obj_uri": "Q5095", "sub_label": "Prefektur Yamagata", "obj_label": "Papua", "predicate_id": "P190"}
+{"uuid": "5f9a830f-7223-4082-b0a6-f5873684da3a", "sub_uri": "Q3805", "obj_uri": "Q71", "sub_label": "Amman", "obj_label": "Jenewa", "predicate_id": "P190"}
+{"uuid": "58a43df7-e3fb-42ce-9abb-1f312bd1cb79", "sub_uri": "Q90", "obj_uri": "Q220", "sub_label": "Paris", "obj_label": "Roma", "predicate_id": "P190"}
+{"uuid": "0c31421c-c55e-4976-a652-ae7cf6d12e96", "sub_uri": "Q472", "obj_uri": "Q649", "sub_label": "Sofia", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "f751acb1-56b0-4d16-bed5-632bab87fc22", "sub_uri": "Q8684", "obj_uri": "Q270", "sub_label": "Seoul", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "d608d301-fba8-4a20-b73c-e94e1751219a", "sub_uri": "Q956", "obj_uri": "Q3711", "sub_label": "Beijing", "obj_label": "Beograd", "predicate_id": "P190"}
+{"uuid": "42842366-4a20-4ac5-81a5-665164fba794", "sub_uri": "Q900", "obj_uri": "Q2028", "sub_label": "Kazan", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "1d76ef4c-2e4c-4c38-b1cf-2e84c2f15266", "sub_uri": "Q38022", "obj_uri": "Q1022", "sub_label": "St. Louis, Missouri", "obj_label": "Stuttgart", "predicate_id": "P190"}
+{"uuid": "3d09d474-1e38-4fcd-a3c8-50f59aff00a8", "sub_uri": "Q437", "obj_uri": "Q2683", "sub_label": "Ljubljana", "obj_label": "Parma", "predicate_id": "P190"}
+{"uuid": "012bd23e-ef67-4797-92d5-b230edf28aa4", "sub_uri": "Q201117", "obj_uri": "Q11751", "sub_label": "Toyota, Aichi", "obj_label": "Nagoya", "predicate_id": "P190"}
+{"uuid": "478a94f9-9b7b-4ca5-b085-0274a377f789", "sub_uri": "Q1486", "obj_uri": "Q7880", "sub_label": "Buenos Aires", "obj_label": "Toulouse", "predicate_id": "P190"}
+{"uuid": "dd1bbfca-5a96-4b54-a60c-d46f5a2641ce", "sub_uri": "Q131127", "obj_uri": "Q649", "sub_label": "Banja Luka", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "1088cf92-ee11-4465-9d25-ec570f2c83e9", "sub_uri": "Q226", "obj_uri": "Q1757", "sub_label": "Nuuk", "obj_label": "Helsinki", "predicate_id": "P190"}
+{"uuid": "27eb1ac2-1440-4af0-8429-670de9985323", "sub_uri": "Q406", "obj_uri": "Q85", "sub_label": "Istanbul", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "1db00760-5957-477f-8f97-8d49b0cc83eb", "sub_uri": "Q168202", "obj_uri": "Q1085", "sub_label": "Rosh HaAyin", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "b6c7b47f-823f-4667-81e6-0709ae2d93f6", "sub_uri": "Q1741", "obj_uri": "Q1899", "sub_label": "Wina", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "aaaec2d6-e8fd-4336-95d0-01153dd802e1", "sub_uri": "Q1486", "obj_uri": "Q5783", "sub_label": "Buenos Aires", "obj_label": "Andalusia", "predicate_id": "P190"}
+{"uuid": "5a4f591f-372e-4eec-ba82-e5841b95942a", "sub_uri": "Q456", "obj_uri": "Q2256", "sub_label": "Lyon", "obj_label": "Birmingham", "predicate_id": "P190"}
+{"uuid": "476973c0-c814-4d27-bdca-e27f00a83573", "sub_uri": "Q1055", "obj_uri": "Q1085", "sub_label": "Hamburg", "obj_label": "Praha", "predicate_id": "P190"}
+{"uuid": "ce3fd23d-56cf-4f22-86ab-ad963ae46f62", "sub_uri": "Q123258", "obj_uri": "Q1861", "sub_label": "Prefektur Fukuoka", "obj_label": "Bangkok", "predicate_id": "P190"}
+{"uuid": "d43f31d6-8835-45a6-919a-4ec3995acd98", "sub_uri": "Q85", "obj_uri": "Q3820", "sub_label": "Kairo", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "29b20c21-217c-46e1-b9bd-575885ba922f", "sub_uri": "Q8660", "obj_uri": "Q3820", "sub_label": "Karachi", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "2d1a0604-ad05-43b5-b022-5427131831c4", "sub_uri": "Q34713", "obj_uri": "Q23556", "sub_label": "Salzburg", "obj_label": "Atlanta", "predicate_id": "P190"}
+{"uuid": "95fd8b9f-b4a1-4740-9840-2c1c8c74dc57", "sub_uri": "Q3825", "obj_uri": "Q33959", "sub_label": "Libreville", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "e6bc7339-94af-46c4-ad2b-076e8a6510f4", "sub_uri": "Q8745", "obj_uri": "Q36433", "sub_label": "Vigo", "obj_label": "Porto", "predicate_id": "P190"}
+{"uuid": "c849cbad-50a1-4b8d-b532-9d078203569d", "sub_uri": "Q2634", "obj_uri": "Q1781", "sub_label": "Napoli", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "41bba002-6272-4d11-bd92-87b6f30fe96d", "sub_uri": "Q270", "obj_uri": "Q1899", "sub_label": "Warsawa", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "70d65024-96fd-4d5e-9931-9cc9285238a7", "sub_uri": "Q580", "obj_uri": "Q1022", "sub_label": "\u0141\u00f3d\u017a", "obj_label": "Stuttgart", "predicate_id": "P190"}
+{"uuid": "9e0167bb-e330-4919-9dc1-60f21acaf23d", "sub_uri": "Q84", "obj_uri": "Q727", "sub_label": "London", "obj_label": "Amsterdam", "predicate_id": "P190"}
+{"uuid": "4df51aec-8df0-4206-b3ab-8682382305a1", "sub_uri": "Q9248", "obj_uri": "Q2634", "sub_label": "Baku", "obj_label": "Napoli", "predicate_id": "P190"}
+{"uuid": "d29eb325-8266-46e1-88c4-0bdeb81de53e", "sub_uri": "Q1520", "obj_uri": "Q8684", "sub_label": "Nursultan", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "fa016ede-c9e2-4960-986c-03e42010802b", "sub_uri": "Q3718", "obj_uri": "Q9248", "sub_label": "Dakar", "obj_label": "Baku", "predicate_id": "P190"}
+{"uuid": "f5eedbce-2e8c-4643-9104-0ad9f3f66ae9", "sub_uri": "Q43668", "obj_uri": "Q915", "sub_label": "Louisville, Kentucky", "obj_label": "Perm", "predicate_id": "P190"}
+{"uuid": "52825bdb-4041-4957-9376-c3a1ac2d5246", "sub_uri": "Q656", "obj_uri": "Q8686", "sub_label": "Sankt-Peterburg", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "9f2ddb08-3373-417e-b31f-5376e7dc8340", "sub_uri": "Q270", "obj_uri": "Q172", "sub_label": "Warsawa", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "8ffbcda7-b4f2-4953-874f-821d2951e0cc", "sub_uri": "Q10704", "obj_uri": "Q1748", "sub_label": "T\u00f3rshavn", "obj_label": "Kopenhagen", "predicate_id": "P190"}
+{"uuid": "8297fea0-8198-4891-a64d-11f3ac1d733c", "sub_uri": "Q3926", "obj_uri": "Q1899", "sub_label": "Pretoria", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "273789da-53c2-41fb-a4ba-40f9476d728f", "sub_uri": "Q34820", "obj_uri": "Q490", "sub_label": "Santo Domingo", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "90d232b4-1135-458b-a1cc-f478f55db903", "sub_uri": "Q13362", "obj_uri": "Q3766", "sub_label": "Ferrara", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "7725df64-99d8-4000-b22b-81483ca52f18", "sub_uri": "Q585", "obj_uri": "Q84", "sub_label": "Oslo", "obj_label": "London", "predicate_id": "P190"}
+{"uuid": "ced9e679-1ee5-41a5-9f12-320dbd96ae5b", "sub_uri": "Q68744", "obj_uri": "Q10690", "sub_label": "Xiamen", "obj_label": "Cardiff", "predicate_id": "P190"}
+{"uuid": "871a933c-f19d-40aa-a889-8416d954a6ba", "sub_uri": "Q239", "obj_uri": "Q2807", "sub_label": "Brussel (kota)", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "aeac4cf3-d6dd-4066-bbe0-24de664bf6c4", "sub_uri": "Q11462", "obj_uri": "Q23482", "sub_label": "Kota Surabaya", "obj_label": "Marseille", "predicate_id": "P190"}
+{"uuid": "f8ed0c9b-4127-4b24-be9b-a15b742860cc", "sub_uri": "Q51103", "obj_uri": "Q1461", "sub_label": "Cali", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "f5cf399a-2370-41b0-bb34-c36bfda7e53b", "sub_uri": "Q48195", "obj_uri": "Q9248", "sub_label": "Basra", "obj_label": "Baku", "predicate_id": "P190"}
+{"uuid": "ab4bdd16-1961-4ac9-ae47-d6ee5f6da496", "sub_uri": "Q61092", "obj_uri": "Q1867", "sub_label": "George Town (Pulau Pinang)", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "587029f9-485f-4654-a2b0-344022e5c8cc", "sub_uri": "Q6509", "obj_uri": "Q34370", "sub_label": "Burgas", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "e30a019a-1106-4778-beee-b26924763e3e", "sub_uri": "Q2807", "obj_uri": "Q956", "sub_label": "Madrid", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "51ed5e70-bdb9-4305-bfcd-da70cc404ae6", "sub_uri": "Q649", "obj_uri": "Q1899", "sub_label": "Moskwa", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "b37803ca-0a38-4b74-abdb-df64a19bfd4b", "sub_uri": "Q727", "obj_uri": "Q956", "sub_label": "Amsterdam", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "82c616ae-07f7-4f7c-b0ee-1abc5bac4ceb", "sub_uri": "Q14168", "obj_uri": "Q220445", "sub_label": "Kota Pontianak", "obj_label": "Kuching", "predicate_id": "P190"}
+{"uuid": "eaf3c365-573c-41fb-ae19-a85f94d7e3fd", "sub_uri": "Q8673", "obj_uri": "Q7880", "sub_label": "Lagos", "obj_label": "Toulouse", "predicate_id": "P190"}
+{"uuid": "3a8a884e-2187-486c-bfe5-35283e235322", "sub_uri": "Q2028", "obj_uri": "Q34647", "sub_label": "Verona", "obj_label": "Johannesburg", "predicate_id": "P190"}
+{"uuid": "b128fd15-8559-4d58-90e3-cbceaa18bbfd", "sub_uri": "Q5332", "obj_uri": "Q16557", "sub_label": "Saratov", "obj_label": "Dallas", "predicate_id": "P190"}
+{"uuid": "f4e8741c-90cb-4876-97fb-1e89d2cd5c32", "sub_uri": "Q1489", "obj_uri": "Q85", "sub_label": "Kota Meksiko", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "02aa6d4c-3303-4ef3-bb5b-648b6c04dcdd", "sub_uri": "Q185134", "obj_uri": "Q8810", "sub_label": "Tlemcen", "obj_label": "Granada", "predicate_id": "P190"}
+{"uuid": "a2871a19-d0a1-4d1a-982b-f27de8940efd", "sub_uri": "Q2044", "obj_uri": "Q406", "sub_label": "Firenze", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "1489aa2b-0c33-4200-b786-26d94eec1caf", "sub_uri": "Q8678", "obj_uri": "Q14773", "sub_label": "Rio de Janeiro", "obj_label": "Makau", "predicate_id": "P190"}
+{"uuid": "b8f77c30-8f35-4669-acfe-556ee417d424", "sub_uri": "Q4970", "obj_uri": "Q13375", "sub_label": "Hangzhou", "obj_label": "Pisa", "predicate_id": "P190"}
+{"uuid": "0b3cd723-05be-4e98-b715-cafc6a25028e", "sub_uri": "Q11194", "obj_uri": "Q641", "sub_label": "Sarajevo", "obj_label": "Venesia", "predicate_id": "P190"}
+{"uuid": "8e9ea47c-5d40-46ee-9758-f63c60484cf3", "sub_uri": "Q1865", "obj_uri": "Q84", "sub_label": "Kuala Lumpur", "obj_label": "London", "predicate_id": "P190"}
+{"uuid": "9b7bc18c-9c31-4c24-a963-81ee4f48cc49", "sub_uri": "Q956", "obj_uri": "Q84", "sub_label": "Beijing", "obj_label": "London", "predicate_id": "P190"}
+{"uuid": "5fdfa587-8ad1-4fa5-9ae6-ceedd218277f", "sub_uri": "Q656", "obj_uri": "Q34370", "sub_label": "Sankt-Peterburg", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "8f68bad3-f0fd-4fbd-820f-27204b2d41e1", "sub_uri": "Q39984", "obj_uri": "Q649", "sub_label": "Cannes", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "d40296d3-d547-4181-b01e-12633db14607", "sub_uri": "Q43509", "obj_uri": "Q51103", "sub_label": "Guayaquil", "obj_label": "Cali", "predicate_id": "P190"}
+{"uuid": "b378c722-29df-43a4-9954-afe5d9ce3455", "sub_uri": "Q1524", "obj_uri": "Q270", "sub_label": "Kota Athena", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "8fee96c4-6045-4bca-b859-f2bc70416d45", "sub_uri": "Q1792", "obj_uri": "Q1296", "sub_label": "Gda\u0144sk", "obj_label": "Gent", "predicate_id": "P190"}
+{"uuid": "09da86e4-9a8d-4e8f-a1fe-3a0410fc3254", "sub_uri": "Q8678", "obj_uri": "Q3820", "sub_label": "Rio de Janeiro", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "2012b265-80bc-4626-acd1-a227c3f9475d", "sub_uri": "Q8686", "obj_uri": "Q406", "sub_label": "Shanghai", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "a782606f-3465-4096-9dcf-e7b5a8a9f17e", "sub_uri": "Q8660", "obj_uri": "Q84", "sub_label": "Karachi", "obj_label": "London", "predicate_id": "P190"}
+{"uuid": "bfd63d37-1042-49a1-8437-e18ab41719f6", "sub_uri": "Q33986", "obj_uri": "Q8686", "sub_label": "Valpara\u00edso", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "c903cb56-e211-4a58-80f9-4a7010d20ae4", "sub_uri": "Q131818", "obj_uri": "Q1479", "sub_label": "Oran", "obj_label": "Bordeaux", "predicate_id": "P190"}
+{"uuid": "80a7f8e1-abd6-4e4f-98a3-a7f4612941b4", "sub_uri": "Q406", "obj_uri": "Q612", "sub_label": "Istanbul", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "a35739c0-cd00-46e3-b67d-00139c44e059", "sub_uri": "Q37333", "obj_uri": "Q8810", "sub_label": "Lublin", "obj_label": "Granada", "predicate_id": "P190"}
+{"uuid": "0bf2b49d-f478-4229-ade2-641c52534704", "sub_uri": "Q2706", "obj_uri": "Q180233", "sub_label": "Bremerhaven", "obj_label": "Pori", "predicate_id": "P190"}
+{"uuid": "ef7ed80f-dd18-40f0-9eb1-475ee696e8bb", "sub_uri": "Q15684", "obj_uri": "Q23436", "sub_label": "Segovia", "obj_label": "Edinburgh", "predicate_id": "P190"}
+{"uuid": "d5a90163-38ad-401a-9a1b-4e2967356a24", "sub_uri": "Q13580", "obj_uri": "Q8686", "sub_label": "Metro Manila", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "283bbf95-32ea-4378-8624-cdb5fb71d9c9", "sub_uri": "Q109010", "obj_uri": "Q270", "sub_label": "Kotamadya Solna", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "22c0511f-dbce-48e1-9598-7b8b1c7c6761", "sub_uri": "Q220", "obj_uri": "Q90", "sub_label": "Roma", "obj_label": "Paris", "predicate_id": "P190"}
+{"uuid": "9d3fb626-97aa-406e-bf7f-dfbe64bb77ff", "sub_uri": "Q4803", "obj_uri": "Q8692", "sub_label": "Kota Surakarta", "obj_label": "Bilbao", "predicate_id": "P190"}
+{"uuid": "393c0c0e-f53c-4d84-99c0-cba41ceb0fd7", "sub_uri": "Q1486", "obj_uri": "Q85", "sub_label": "Buenos Aires", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "5ca608e8-3753-4e67-bd20-df2562f7d3b7", "sub_uri": "Q35381", "obj_uri": "Q8686", "sub_label": "Kolombo", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "74862622-cccf-477b-9db3-495b4990c9b0", "sub_uri": "Q15174", "obj_uri": "Q495", "sub_label": "Shenzhen", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "8b8463c1-c3d8-40b3-884c-2c198880493e", "sub_uri": "Q170967", "obj_uri": "Q3766", "sub_label": "Denizli", "obj_label": "Damaskus", "predicate_id": "P190"}
+{"uuid": "8b11ce93-cbdd-475e-8176-1d259d5575f0", "sub_uri": "Q495", "obj_uri": "Q648", "sub_label": "Turin", "obj_label": "Lille", "predicate_id": "P190"}
+{"uuid": "97af935b-b065-4a6d-94d1-c48e1eb3ef39", "sub_uri": "Q994", "obj_uri": "Q406", "sub_label": "Tbilisi", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "87319ea8-602d-4cfe-a987-2b44c9cc4a3c", "sub_uri": "Q2256", "obj_uri": "Q456", "sub_label": "Birmingham", "obj_label": "Lyon", "predicate_id": "P190"}
+{"uuid": "aeccdd7d-ffee-480d-90f4-6b8d4b347d7e", "sub_uri": "Q334", "obj_uri": "Q1410", "sub_label": "Singapura", "obj_label": "Gibraltar", "predicate_id": "P190"}
+{"uuid": "db3b719d-a907-451a-a144-b28271d7c82d", "sub_uri": "Q914", "obj_uri": "Q172", "sub_label": "Volgograd", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "bcfccd81-808e-49ad-abab-d20c479bb50a", "sub_uri": "Q3805", "obj_uri": "Q956", "sub_label": "Amman", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "546133cd-5542-4420-8c4f-5fb44db6fcac", "sub_uri": "Q612", "obj_uri": "Q16520", "sub_label": "Dubai", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "96023b24-116b-4ae7-8fbf-b2f85ec60c11", "sub_uri": "Q79875", "obj_uri": "Q1563", "sub_label": "Mobile, Alabama", "obj_label": "Havana", "predicate_id": "P190"}
+{"uuid": "731711ca-3eb6-4420-b866-9a334a669127", "sub_uri": "Q186237", "obj_uri": "Q6938", "sub_label": "Joensuu", "obj_label": "Hof", "predicate_id": "P190"}
+{"uuid": "49bab9b4-0843-4efd-8645-bfb6683202cb", "sub_uri": "Q3274", "obj_uri": "Q2807", "sub_label": "Managua", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "4e8c765f-cf29-4749-9508-fd02ab60c850", "sub_uri": "Q8851", "obj_uri": "Q1461", "sub_label": "M\u00e1laga", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "14c1be02-cbc0-423e-b6fb-a3a84eef236a", "sub_uri": "Q128499", "obj_uri": "Q649", "sub_label": "Yalta", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "8d1e27ca-e976-48cc-89f1-acb29c2d59f1", "sub_uri": "Q617", "obj_uri": "Q100", "sub_label": "Padova", "obj_label": "Boston", "predicate_id": "P190"}
+{"uuid": "0fdf8be4-68d3-4d1a-962f-e56ba40c5ea5", "sub_uri": "Q1297", "obj_uri": "Q8686", "sub_label": "Chicago", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "59874dc8-8be5-4162-841b-d26b94ec4fad", "sub_uri": "Q34647", "obj_uri": "Q2028", "sub_label": "Johannesburg", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "0cad0c5c-bba7-4c30-8c5e-4b7860a154db", "sub_uri": "Q288", "obj_uri": "Q2683", "sub_label": "Tours", "obj_label": "Parma", "predicate_id": "P190"}
+{"uuid": "568825be-0c5d-465c-a786-8f17725b07a9", "sub_uri": "Q3579", "obj_uri": "Q2807", "sub_label": "Tripoli", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "c95d716f-ec36-4875-ad73-2b21bd0a33fd", "sub_uri": "Q766445", "obj_uri": "Q41705", "sub_label": "Prefektur Okinawa", "obj_label": "Fujian", "predicate_id": "P190"}
+{"uuid": "050a5285-788f-4a40-827e-e626209ac2d8", "sub_uri": "Q19660", "obj_uri": "Q406", "sub_label": "Bukares", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "568615c0-ac85-491d-88b8-4c60a912fdab", "sub_uri": "Q914", "obj_uri": "Q495", "sub_label": "Volgograd", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "10c56b68-6e46-4be5-862a-d1f87b30960e", "sub_uri": "Q87", "obj_uri": "Q220445", "sub_label": "Iskandariyah", "obj_label": "Kuching", "predicate_id": "P190"}
+{"uuid": "513dab9f-462f-49a9-9005-a59169386441", "sub_uri": "Q270", "obj_uri": "Q1781", "sub_label": "Warsawa", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "2789b34d-8ee4-4dc0-a68b-b94df4ac99c6", "sub_uri": "Q1486", "obj_uri": "Q1899", "sub_label": "Buenos Aires", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "2d99e117-3141-4e04-9981-adcf7d53ecde", "sub_uri": "Q64", "obj_uri": "Q3616", "sub_label": "Berlin", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "e26d2bc7-a891-4996-bf9b-c66d2c6f3aff", "sub_uri": "Q486472", "obj_uri": "Q8717", "sub_label": "Kota Kansas, Kansas", "obj_label": "Sevilla", "predicate_id": "P190"}
+{"uuid": "d80f69f0-7fb3-45cf-9815-2f33ba5dd03a", "sub_uri": "Q11751", "obj_uri": "Q495", "sub_label": "Nagoya", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "4d26d7ab-9348-4944-825a-aee7ff07022a", "sub_uri": "Q258981", "obj_uri": "Q103011", "sub_label": "Lugoj", "obj_label": "Korintus", "predicate_id": "P190"}
+{"uuid": "12462b9f-1be4-49cf-9fea-8098d1b3e60b", "sub_uri": "Q1867", "obj_uri": "Q8684", "sub_label": "Taipei", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "2b1b504f-26c7-48ab-b53b-faca28afe627", "sub_uri": "Q1726", "obj_uri": "Q2028", "sub_label": "M\u00fcnchen", "obj_label": "Verona", "predicate_id": "P190"}
+{"uuid": "2311aded-8382-4580-8416-4f22b8061441", "sub_uri": "Q39178", "obj_uri": "Q23556", "sub_label": "Port of Spain", "obj_label": "Atlanta", "predicate_id": "P190"}
+{"uuid": "c874f721-7174-4245-a3e8-e0bef3a2a7ee", "sub_uri": "Q1520", "obj_uri": "Q956", "sub_label": "Nursultan", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "9e7549eb-4c04-4c64-b143-fe46e06e4713", "sub_uri": "Q11194", "obj_uri": "Q9248", "sub_label": "Sarajevo", "obj_label": "Baku", "predicate_id": "P190"}
+{"uuid": "d72cd094-58c3-4f2c-9f58-3c3e7bc73777", "sub_uri": "Q38022", "obj_uri": "Q1891", "sub_label": "St. Louis, Missouri", "obj_label": "Bologna", "predicate_id": "P190"}
+{"uuid": "bde8fb58-fa7f-4335-980d-35b32f1bf8b9", "sub_uri": "Q16572", "obj_uri": "Q406", "sub_label": "Guangzhou", "obj_label": "Istanbul", "predicate_id": "P190"}
+{"uuid": "d2fbfa83-3319-4590-9986-f2b1746f62a2", "sub_uri": "Q1721", "obj_uri": "Q1296", "sub_label": "Wiesbaden", "obj_label": "Gent", "predicate_id": "P190"}
+{"uuid": "e1a2c3e1-f549-4c4b-b3f4-aeea370d949c", "sub_uri": "Q16963", "obj_uri": "Q1904", "sub_label": "Jiangsu", "obj_label": "Ontario", "predicate_id": "P190"}
+{"uuid": "fc235a57-e471-4e11-be1f-a5ca2860087b", "sub_uri": "Q84", "obj_uri": "Q649", "sub_label": "London", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "05cf4ad2-7982-41d7-a8ea-e18d43b57673", "sub_uri": "Q19660", "obj_uri": "Q1461", "sub_label": "Bukares", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "4580185b-2274-4e9a-b0d7-aeb13f2261b5", "sub_uri": "Q656", "obj_uri": "Q374365", "sub_label": "Sankt-Peterburg", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "7335104d-a487-4b7e-bdf8-683b787fab80", "sub_uri": "Q3616", "obj_uri": "Q8684", "sub_label": "Teheran", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "ed495268-68e0-48c2-a389-9666992ffbb3", "sub_uri": "Q3616", "obj_uri": "Q1781", "sub_label": "Teheran", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "ea8d2416-bbd8-4b0d-9e20-b07f51b266d0", "sub_uri": "Q128186", "obj_uri": "Q1397", "sub_label": "Prefektur Saitama", "obj_label": "Ohio", "predicate_id": "P190"}
+{"uuid": "42db5ab7-d716-4c89-b74b-05446307ba02", "sub_uri": "Q25475", "obj_uri": "Q3519", "sub_label": "Batumi", "obj_label": "Bari", "predicate_id": "P190"}
+{"uuid": "0a6ecbe6-67ec-4ec7-b931-61ad2761330b", "sub_uri": "Q3926", "obj_uri": "Q3616", "sub_label": "Pretoria", "obj_label": "Teheran", "predicate_id": "P190"}
+{"uuid": "2ed89748-92db-499d-a952-ae677d7a91ef", "sub_uri": "Q613", "obj_uri": "Q374365", "sub_label": "Keamiran Dubai", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "a5b83a4c-f683-48ca-b9a3-dc1f14dcee4f", "sub_uri": "Q16557", "obj_uri": "Q1867", "sub_label": "Dallas", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "a2b58f6a-f686-4cd5-b349-700efb714911", "sub_uri": "Q2887", "obj_uri": "Q2807", "sub_label": "Santiago de Chile", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "e0dd1688-97a3-4790-b2db-f850c585ee7f", "sub_uri": "Q24639", "obj_uri": "Q23436", "sub_label": "Vancouver", "obj_label": "Edinburgh", "predicate_id": "P190"}
+{"uuid": "b7f06570-37cd-4483-8e58-1379118b9ae2", "sub_uri": "Q4178", "obj_uri": "Q2751", "sub_label": "Wetzlar", "obj_label": "Siena", "predicate_id": "P190"}
+{"uuid": "b79bb57c-113b-4732-9930-9c6eb1849fd9", "sub_uri": "Q35765", "obj_uri": "Q1297", "sub_label": "Osaka", "obj_label": "Chicago", "predicate_id": "P190"}
+{"uuid": "82f898b1-35cc-41df-9b2f-99962c14a6a0", "sub_uri": "Q1794", "obj_uri": "Q172", "sub_label": "Frankfurt am Main", "obj_label": "Toronto", "predicate_id": "P190"}
+{"uuid": "08997e1d-c581-4e6a-b87e-912b3188946e", "sub_uri": "Q1489", "obj_uri": "Q1022", "sub_label": "Kota Meksiko", "obj_label": "Stuttgart", "predicate_id": "P190"}
+{"uuid": "452017ee-fd15-4f3d-8c6c-1cfcd2b23935", "sub_uri": "Q38283", "obj_uri": "Q1156", "sub_label": "Yokohama", "obj_label": "Mumbai", "predicate_id": "P190"}
+{"uuid": "0e8bac67-5a1b-4ed8-8102-bcf31aafaf15", "sub_uri": "Q42462", "obj_uri": "Q16666", "sub_label": "York, Inggris", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "43520776-55db-4db6-91b7-19e0c2204686", "sub_uri": "Q62823", "obj_uri": "Q16666", "sub_label": "Barranquilla", "obj_label": "Nanjing", "predicate_id": "P190"}
+{"uuid": "c7486a36-fec1-489a-8c1f-4d292dc9bfb2", "sub_uri": "Q8678", "obj_uri": "Q8652", "sub_label": "Rio de Janeiro", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "db208eec-0dbd-4068-8578-82d5382c3999", "sub_uri": "Q239", "obj_uri": "Q956", "sub_label": "Brussel (kota)", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "e2376737-f7a2-44ad-8156-4f0045b3eba5", "sub_uri": "Q269", "obj_uri": "Q5083", "sub_label": "Tashkent", "obj_label": "Seattle", "predicate_id": "P190"}
+{"uuid": "bd77f1da-758f-4049-a0d2-25d02dff0fd5", "sub_uri": "Q8686", "obj_uri": "Q648", "sub_label": "Shanghai", "obj_label": "Lille", "predicate_id": "P190"}
+{"uuid": "8dd4922d-a716-470b-b36e-37778c5474fb", "sub_uri": "Q34713", "obj_uri": "Q8686", "sub_label": "Salzburg", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "e049bec8-62c2-49fa-b0ae-32526edb7916", "sub_uri": "Q35765", "obj_uri": "Q1781", "sub_label": "Osaka", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "b979dc2c-c90a-4bd5-8854-d4a1c9cbe198", "sub_uri": "Q2280", "obj_uri": "Q956", "sub_label": "Minsk", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "d51cfda1-ddf8-49ca-8730-d6a79b9b2ae1", "sub_uri": "Q126084", "obj_uri": "Q13375", "sub_label": "Akko", "obj_label": "Pisa", "predicate_id": "P190"}
+{"uuid": "075ec09c-f6ff-446f-bbbd-2c225484bcca", "sub_uri": "Q8686", "obj_uri": "Q612", "sub_label": "Shanghai", "obj_label": "Dubai", "predicate_id": "P190"}
+{"uuid": "e484c254-3988-48e8-8ca3-da9df30f7cda", "sub_uri": "Q34217", "obj_uri": "Q915", "sub_label": "Oxford", "obj_label": "Perm", "predicate_id": "P190"}
+{"uuid": "85a7a457-8c82-4128-a44a-8087974fd889", "sub_uri": "Q3718", "obj_uri": "Q23482", "sub_label": "Dakar", "obj_label": "Marseille", "predicate_id": "P190"}
+{"uuid": "feb435f6-707e-464e-9ba3-88ce0bafc31c", "sub_uri": "Q62", "obj_uri": "Q2634", "sub_label": "San Francisco", "obj_label": "Napoli", "predicate_id": "P190"}
+{"uuid": "e950125f-deef-419a-98a3-2024b639dc5e", "sub_uri": "Q3616", "obj_uri": "Q64", "sub_label": "Teheran", "obj_label": "Berlin", "predicate_id": "P190"}
+{"uuid": "c62f3c34-0bcb-42b4-9c91-ebbea1caf37a", "sub_uri": "Q1741", "obj_uri": "Q3711", "sub_label": "Wina", "obj_label": "Beograd", "predicate_id": "P190"}
+{"uuid": "4af98392-46bb-4166-bb6d-6091547767dd", "sub_uri": "Q147402", "obj_uri": "Q1022", "sub_label": "Zapopan", "obj_label": "Stuttgart", "predicate_id": "P190"}
+{"uuid": "07aa851d-6042-4feb-b57f-174af8e19d3a", "sub_uri": "Q173270", "obj_uri": "Q8818", "sub_label": "Veracruz, Veracruz", "obj_label": "Valencia", "predicate_id": "P190"}
+{"uuid": "c6faa7e1-b126-4350-b88d-ef8b6b0597b3", "sub_uri": "Q174", "obj_uri": "Q2079", "sub_label": "S\u00e3o Paulo", "obj_label": "Leipzig", "predicate_id": "P190"}
+{"uuid": "3fe15e53-c929-4eb1-8274-e043da48b753", "sub_uri": "Q68481", "obj_uri": "Q38234", "sub_label": "Fuzhou", "obj_label": "Nagasaki", "predicate_id": "P190"}
+{"uuid": "a51eca2d-0529-4851-b712-0002795b9503", "sub_uri": "Q40832", "obj_uri": "Q10690", "sub_label": "Vigevano", "obj_label": "Cardiff", "predicate_id": "P190"}
+{"uuid": "b2c8572a-d3df-4a57-bf23-e9620cd8351f", "sub_uri": "Q13670", "obj_uri": "Q103011", "sub_label": "Sirakusa", "obj_label": "Korintus", "predicate_id": "P190"}
+{"uuid": "c7a7dce8-62a8-40b8-adbe-500fc2c2a55b", "sub_uri": "Q1520", "obj_uri": "Q1461", "sub_label": "Nursultan", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "f4d22cb9-2548-412c-8eb7-236298cce62f", "sub_uri": "Q43668", "obj_uri": "Q39121", "sub_label": "Louisville, Kentucky", "obj_label": "Leeds", "predicate_id": "P190"}
+{"uuid": "3a527812-79bf-4b16-9241-f272a97dd17e", "sub_uri": "Q25409", "obj_uri": "Q1781", "sub_label": "Ko\u0161ice", "obj_label": "Budapest", "predicate_id": "P190"}
+{"uuid": "c974d715-e2bb-4384-a285-509a9033be19", "sub_uri": "Q74957", "obj_uri": "Q42448", "sub_label": "Anshan", "obj_label": "Sheffield", "predicate_id": "P190"}
+{"uuid": "30e3dff4-ede5-47e5-ac40-8b72b95a528f", "sub_uri": "Q1022", "obj_uri": "Q41139", "sub_label": "Stuttgart", "obj_label": "Melun", "predicate_id": "P190"}
+{"uuid": "d88601da-2d6b-460b-bc2a-ae627c76d7f5", "sub_uri": "Q35997", "obj_uri": "Q495", "sub_label": "\u0130zmir", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "6b98e1b9-a036-4181-858f-d910a128c258", "sub_uri": "Q38545", "obj_uri": "Q374365", "sub_label": "Adana", "obj_label": "Jeddah", "predicate_id": "P190"}
+{"uuid": "0b0f1405-9f68-4061-83c2-14e1e416ab54", "sub_uri": "Q1461", "obj_uri": "Q956", "sub_label": "Manila", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "182f8235-c929-4d98-ab66-db15f1039250", "sub_uri": "Q1861", "obj_uri": "Q649", "sub_label": "Bangkok", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "ea49c596-76a4-4ca6-b7b6-ca03f76f9df4", "sub_uri": "Q81338", "obj_uri": "Q1891", "sub_label": "Pollica", "obj_label": "Bologna", "predicate_id": "P190"}
+{"uuid": "441950ec-9df8-4552-b1aa-3ed804fe0fcb", "sub_uri": "Q34713", "obj_uri": "Q70", "sub_label": "Salzburg", "obj_label": "Bern", "predicate_id": "P190"}
+{"uuid": "f1042e90-5c50-470e-960d-36ff79a027fc", "sub_uri": "Q169376", "obj_uri": "Q16520", "sub_label": "Prefektur Nagasaki", "obj_label": "Busan", "predicate_id": "P190"}
+{"uuid": "5118c3f3-39b9-4b7b-b0c4-904d34e66362", "sub_uri": "Q3130", "obj_uri": "Q1461", "sub_label": "Sydney", "obj_label": "Manila", "predicate_id": "P190"}
+{"uuid": "1731a2f2-ef70-4b96-b7b1-17a455b70847", "sub_uri": "Q1718", "obj_uri": "Q649", "sub_label": "D\u00fcsseldorf", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "55b36814-f9ff-436e-9b5b-5146ca08f5f4", "sub_uri": "Q45412", "obj_uri": "Q81882", "sub_label": "Coimbra", "obj_label": "Santos", "predicate_id": "P190"}
+{"uuid": "d3baaecd-0fbe-4b70-aedf-bfa5ed996519", "sub_uri": "Q727", "obj_uri": "Q18125", "sub_label": "Amsterdam", "obj_label": "Manchester", "predicate_id": "P190"}
+{"uuid": "19002641-0bec-41d6-8b85-df5102919a21", "sub_uri": "Q84", "obj_uri": "Q8686", "sub_label": "London", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "c252e6e7-5127-4f74-b227-dbeb680eff5c", "sub_uri": "Q1486", "obj_uri": "Q1397", "sub_label": "Buenos Aires", "obj_label": "Ohio", "predicate_id": "P190"}
+{"uuid": "d9218055-b704-44ce-b6d9-2a23c34ce7b0", "sub_uri": "Q1792", "obj_uri": "Q33959", "sub_label": "Gda\u0144sk", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "04e71738-5900-4ecf-85d8-355973a32827", "sub_uri": "Q81033", "obj_uri": "Q51103", "sub_label": "Monterrey", "obj_label": "Cali", "predicate_id": "P190"}
+{"uuid": "9a6da13a-7105-45b8-b7c2-b44e2cb62081", "sub_uri": "Q3630", "obj_uri": "Q8684", "sub_label": "Daerah Khusus Ibukota Jakarta", "obj_label": "Seoul", "predicate_id": "P190"}
+{"uuid": "14ee4560-7154-49d1-b857-421cd38f9aff", "sub_uri": "Q44210", "obj_uri": "Q495", "sub_label": "C\u00f3rdoba, Argentina", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "755e429d-e6c1-42c3-a08b-766fbeb4d83c", "sub_uri": "Q3761", "obj_uri": "Q34647", "sub_label": "Accra", "obj_label": "Johannesburg", "predicate_id": "P190"}
+{"uuid": "5162a562-a1a3-4002-baca-391459791693", "sub_uri": "Q1748", "obj_uri": "Q1757", "sub_label": "Kopenhagen", "obj_label": "Helsinki", "predicate_id": "P190"}
+{"uuid": "727c1139-bcec-4470-a2c0-91e81605dcfb", "sub_uri": "Q1741", "obj_uri": "Q270", "sub_label": "Wina", "obj_label": "Warsawa", "predicate_id": "P190"}
+{"uuid": "7c3148ee-64bf-467d-877c-a48f6b26758b", "sub_uri": "Q365", "obj_uri": "Q1492", "sub_label": "K\u00f6ln", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "9c63be5d-fc53-4962-825b-ae9eda2e7477", "sub_uri": "Q1563", "obj_uri": "Q4093", "sub_label": "Havana", "obj_label": "Glasgow", "predicate_id": "P190"}
+{"uuid": "210f3a11-20e5-45bd-b6c8-76a8edb7346a", "sub_uri": "Q214178", "obj_uri": "Q2634", "sub_label": "Nablus", "obj_label": "Napoli", "predicate_id": "P190"}
+{"uuid": "2c156e97-3c49-4c76-939b-905b101b3e4b", "sub_uri": "Q1361", "obj_uri": "Q1867", "sub_label": "Hyderabad", "obj_label": "Taipei", "predicate_id": "P190"}
+{"uuid": "d40b7743-7190-4e0f-9828-43dcb1b25d0a", "sub_uri": "Q13160", "obj_uri": "Q8686", "sub_label": "Jalisco", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "25c6ba5e-7ddc-44aa-84eb-02024aac3fe0", "sub_uri": "Q121378", "obj_uri": "Q3519", "sub_label": "Kerkira", "obj_label": "Bari", "predicate_id": "P190"}
+{"uuid": "8166d7cf-5ac5-4be7-b81b-a0cad27cd261", "sub_uri": "Q334", "obj_uri": "Q18808", "sub_label": "Singapura", "obj_label": "Pyongyang", "predicate_id": "P190"}
+{"uuid": "e22bb4c8-2e53-4694-907a-5e9f41ff2dd2", "sub_uri": "Q3718", "obj_uri": "Q490", "sub_label": "Dakar", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "b94ea425-76ef-439d-a4cf-93d2fcc251ff", "sub_uri": "Q1874", "obj_uri": "Q24639", "sub_label": "Odessa", "obj_label": "Vancouver", "predicate_id": "P190"}
+{"uuid": "d35fbafe-0362-4989-bd83-9f6cd2e775c7", "sub_uri": "Q42800", "obj_uri": "Q8810", "sub_label": "Belo Horizonte", "obj_label": "Granada", "predicate_id": "P190"}
+{"uuid": "86a894b1-045b-4d48-be0e-107955b58857", "sub_uri": "Q613", "obj_uri": "Q3820", "sub_label": "Keamiran Dubai", "obj_label": "Beirut", "predicate_id": "P190"}
+{"uuid": "a6b05081-9264-4ba2-b696-074119114e54", "sub_uri": "Q128499", "obj_uri": "Q33959", "sub_label": "Yalta", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "d71f49a2-a5ee-4fda-861d-e00552577708", "sub_uri": "Q2868", "obj_uri": "Q8652", "sub_label": "Lima, Peru", "obj_label": "Miami", "predicate_id": "P190"}
+{"uuid": "089814df-6a1d-4482-8f2d-2e3d95849c46", "sub_uri": "Q220966", "obj_uri": "Q5083", "sub_label": "Sihanoukville", "obj_label": "Seattle", "predicate_id": "P190"}
+{"uuid": "7a9867d3-e1c3-47ff-b903-1310318df982", "sub_uri": "Q365", "obj_uri": "Q648", "sub_label": "K\u00f6ln", "obj_label": "Lille", "predicate_id": "P190"}
+{"uuid": "82bb222e-6c48-4cb3-977c-8d7179f8761e", "sub_uri": "Q160734", "obj_uri": "Q15175", "sub_label": "Prefektur Tokushima", "obj_label": "Guangdong", "predicate_id": "P190"}
+{"uuid": "550dd85a-f905-4065-9565-2d0b5e37dcdb", "sub_uri": "Q1874", "obj_uri": "Q8818", "sub_label": "Odessa", "obj_label": "Valencia", "predicate_id": "P190"}
+{"uuid": "d376f10c-1f0b-4252-bacd-e855f8c132f7", "sub_uri": "Q9326", "obj_uri": "Q956", "sub_label": "Vientiane", "obj_label": "Beijing", "predicate_id": "P190"}
+{"uuid": "8e6812e3-0d9a-47f3-8e84-ef7bd16d6392", "sub_uri": "Q1899", "obj_uri": "Q23436", "sub_label": "Kiev", "obj_label": "Edinburgh", "predicate_id": "P190"}
+{"uuid": "362e62c8-6594-46e1-8c0f-0d1f007567fc", "sub_uri": "Q47045", "obj_uri": "Q33959", "sub_label": "Saint-Denis, R\u00e9union", "obj_label": "Nice", "predicate_id": "P190"}
+{"uuid": "83b3fbf4-af87-4aa5-ab96-3357128b4e54", "sub_uri": "Q33935", "obj_uri": "Q47492", "sub_label": "Tel Aviv", "obj_label": "Gaza", "predicate_id": "P190"}
+{"uuid": "c9ca99a6-5d59-461a-9791-3b6195f1f333", "sub_uri": "Q340", "obj_uri": "Q490", "sub_label": "Montreal", "obj_label": "Milan", "predicate_id": "P190"}
+{"uuid": "b0f536cd-cc62-48e5-9e0c-b73cb3a6e25c", "sub_uri": "Q19660", "obj_uri": "Q649", "sub_label": "Bukares", "obj_label": "Moskwa", "predicate_id": "P190"}
+{"uuid": "42234e8a-0fc5-4957-8112-052abc354e17", "sub_uri": "Q850031", "obj_uri": "Q41139", "sub_label": "Ouidah", "obj_label": "Melun", "predicate_id": "P190"}
+{"uuid": "e13ecddb-3fde-458b-8dee-e8b3675cd1fa", "sub_uri": "Q101625", "obj_uri": "Q2807", "sub_label": "Marrakesh", "obj_label": "Madrid", "predicate_id": "P190"}
+{"uuid": "439cfac8-91df-4103-a631-3ac7158d040c", "sub_uri": "Q1794", "obj_uri": "Q456", "sub_label": "Frankfurt am Main", "obj_label": "Lyon", "predicate_id": "P190"}
+{"uuid": "966b62a0-5771-4e6c-a98a-f1f72b18b52d", "sub_uri": "Q11720", "obj_uri": "Q495", "sub_label": "Shenyang", "obj_label": "Turin", "predicate_id": "P190"}
+{"uuid": "2fd071f9-98b3-4eaa-b3d4-d818b631e09c", "sub_uri": "Q16520", "obj_uri": "Q1492", "sub_label": "Busan", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "8993a36f-eb9c-43bb-aef9-bf97af03915d", "sub_uri": "Q3551", "obj_uri": "Q85", "sub_label": "Rabat", "obj_label": "Kairo", "predicate_id": "P190"}
+{"uuid": "83b709b1-2798-45df-9927-edfadf1042bf", "sub_uri": "Q340", "obj_uri": "Q1492", "sub_label": "Montreal", "obj_label": "Barcelona", "predicate_id": "P190"}
+{"uuid": "c926ff2d-dd5f-4a4f-9acf-a3aa7fccc800", "sub_uri": "Q1490", "obj_uri": "Q64", "sub_label": "Tokyo", "obj_label": "Berlin", "predicate_id": "P190"}
+{"uuid": "54955b9e-2fee-4139-8f56-a5bfe02a6af2", "sub_uri": "Q81581", "obj_uri": "Q34370", "sub_label": "Szeged", "obj_label": "Rotterdam", "predicate_id": "P190"}
+{"uuid": "04c53e33-bf4b-4d79-9090-65a7f7319c4d", "sub_uri": "Q51103", "obj_uri": "Q727", "sub_label": "Cali", "obj_label": "Amsterdam", "predicate_id": "P190"}
+{"uuid": "d9a51140-462b-41b2-a4f1-b76ec697d552", "sub_uri": "Q47282", "obj_uri": "Q1899", "sub_label": "Osh", "obj_label": "Kiev", "predicate_id": "P190"}
+{"uuid": "09c22523-b201-403b-8dab-4c43e45ca8ed", "sub_uri": "Q1342", "obj_uri": "Q42448", "sub_label": "Pittsburgh", "obj_label": "Sheffield", "predicate_id": "P190"}
+{"uuid": "815c8fd6-a308-43e3-b278-7a7178f35e80", "sub_uri": "Q656", "obj_uri": "Q18125", "sub_label": "Sankt-Peterburg", "obj_label": "Manchester", "predicate_id": "P190"}
+{"uuid": "105e25a1-92be-4b21-b90f-c12dfbe370c5", "sub_uri": "Q5420", "obj_uri": "Q4656", "sub_label": "Vara\u017edin", "obj_label": "Pula", "predicate_id": "P190"}
+{"uuid": "3316a48a-0e73-42e7-9b00-8b79adbff544", "sub_uri": "Q612", "obj_uri": "Q8686", "sub_label": "Dubai", "obj_label": "Shanghai", "predicate_id": "P190"}
+{"uuid": "b23f8915-6f8f-40b9-b5c6-30d12d19d0d4", "sub_uri": "Q15678", "obj_uri": "Q47492", "sub_label": "C\u00e1ceres, Spanyol", "obj_label": "Gaza", "predicate_id": "P190"}
