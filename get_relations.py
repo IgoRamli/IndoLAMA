@@ -9,6 +9,7 @@ from pathlib import Path
 parser = argparse.ArgumentParser()
 parser.add_argument('--title-path')
 parser.add_argument('--triplet-path')
+parser.add_argument('--vocab-path')
 parser.add_argument('--out-dir', default='IndoLAMA')
 
 random.seed(42)
@@ -28,6 +29,12 @@ LAMA_RELATIONS = [
 if __name__ == '__main__':
   args = parser.parse_args()
 
+  print('| Fetching common vocabulary')
+  vocab = set()
+  with open(args.vocab_path, 'r') as f:
+    for line in f.readlines():
+      vocab.add(line.strip('\n'))
+
   titles = {}
   single_tokens = set()
   with open(args.title_path, 'r') as f:
@@ -36,7 +43,7 @@ if __name__ == '__main__':
       k = terms[0]
       v = terms[1:]
       titles[k] = ' '.join(v)
-      if len(v) == 1:
+      if titles[k].lower() in vocab:
         single_tokens.add(k)
   print('| Number of single token entities: {}'.format(len(single_tokens)))
 
