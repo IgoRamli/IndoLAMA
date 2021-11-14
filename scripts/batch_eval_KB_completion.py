@@ -400,22 +400,29 @@ def main(args, shuffle_data=True, model=None):
     print(len(all_samples))
 
     # if template is active (1) use a single example for (sub,obj) and (2) ...
+    answers = {}
     if args.template and args.template != "":
         facts = []
         for sample in all_samples:
             sub = sample["sub_label"]
             obj = sample["obj_label"]
-            if (sub, obj) not in facts:
-                facts.append((sub, obj))
+            sub_uri = sample["sub_uri"]
+            if (sub, obj, sub_uri) not in facts:
+                facts.append((sub, obj, sub_uri))
+            # Store all valid answers to a subject
+            if sub_uri not in answers:
+                answers[sub_uri] = set()
+            answers[sub_uri].add(obj)
         local_msg = "distinct template facts: {}".format(len(facts))
         logger.info("\n" + local_msg + "\n")
         print(local_msg)
         all_samples = []
         for fact in facts:
-            (sub, obj) = fact
+            (sub, obj, sub_uri) = fact
             sample = {}
             sample["sub_label"] = sub
             sample["obj_label"] = obj
+            sample["sub_uri"] = sub_uri
             # sobstitute all sentences with a standard template
             sample["masked_sentences"] = parse_template(
                 args.template.strip(), sample["sub_label"].strip(), base.MASK
@@ -467,16 +474,10 @@ def main(args, shuffle_data=True, model=None):
             masked_indices_list,
         ) = model.get_batch_generation(sentences_b, logger=logger)
 
-        if vocab_subset is not None:
-            # filter log_probs
-            filtered_log_probs_list = model.filter_logprobs(
-                original_log_probs_list, filter_logprob_indices
-            )
-        else:
-            filtered_log_probs_list = original_log_probs_list
-
+        filtered_log_probs_list = []
         label_index_list = []
-        for sample in samples_b:
+        index_list_list = []
+        for sample, original_log_probs in zip(samples_b, original_log_probs_list):
             obj_label_id = model.get_id(sample["obj_label"])
 
             # MAKE SURE THAT obj_label IS IN VOCABULARIES
@@ -497,7 +498,23 @@ def main(args, shuffle_data=True, model=None):
                     "object label {} not in vocab subset".format(sample["obj_label"])
                 )
 
+            # Do not consider alternative valid answer
+            # print(sample)
+            vocab_used = vocab_subset if vocab_subset is not None else model.vocab
+            vocab_without_alternative_answers = [
+                vocab
+                for vocab in vocab_used
+                if vocab == sample["obj_label"] or vocab not in answers[sample["sub_uri"]]
+            ]
+
+            filter_logprob_indices, index_list = model.init_indices_for_filter_logprobs(
+                vocab_without_alternative_answers, logger
+            )
+            filtered_log_probs = original_log_probs.index_select(dim=1, index=filter_logprob_indices)
+
             label_index_list.append(obj_label_id)
+            index_list_list.append(index_list)
+            filtered_log_probs_list.append(filtered_log_probs)
 
         arguments = [
             {
@@ -511,12 +528,13 @@ def main(args, shuffle_data=True, model=None):
                 "index_list": index_list,
                 "sample": sample,
             }
-            for original_log_probs, filtered_log_probs, token_ids, masked_indices, label_index, sample in zip(
+            for original_log_probs, filtered_log_probs, token_ids, masked_indices, label_index, index_list, sample in zip(
                 original_log_probs_list,
                 filtered_log_probs_list,
                 token_ids_list,
                 masked_indices_list,
                 label_index_list,
+                index_list_list,
                 samples_b,
             )
         ]
