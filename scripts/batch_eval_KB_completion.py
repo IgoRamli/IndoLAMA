@@ -597,6 +597,15 @@ def main(args, shuffle_data=True, model=None):
 
             sample = samples_b[idx]
 
+            # Check that the ranking system is correct
+            all_valid_answers = answers[sample['sub_uri']]
+            result_vocab = { i['token_word_form'] for i in result_masked_topk['topk'] }
+            for i in result_masked_topk['topk']:
+                assert(model.vocab[i['token_idx']] == i['token_word_form'])
+                # Check that no other valid answers are included in the rankings
+                for j in all_valid_answers:
+                    assert(j not in result_vocab or j == sample['obj_label'])
+
             element = {}
             element["sample"] = sample
             element["uuid"] = sample["uuid"]
@@ -633,29 +642,6 @@ def main(args, shuffle_data=True, model=None):
             MRR += sample_MRR
             Precision += sample_P
             Precision1 += element["sample_Precision1"]
-
-            # the judgment of the annotators recording whether they are
-            # evidence in the sentence that indicates a relation between two entities.
-            num_yes = 0
-            num_no = 0
-
-            if "judgments" in sample:
-                # only for Google-RE
-                for x in sample["judgments"]:
-                    if x["judgment"] == "yes":
-                        num_yes += 1
-                    else:
-                        num_no += 1
-                if num_no >= num_yes:
-                    samples_with_negative_judgement += 1
-                    element["judgement"] = "negative"
-                    MRR_negative += sample_MRR
-                    Precision_negative += sample_P
-                else:
-                    samples_with_positive_judgement += 1
-                    element["judgement"] = "positive"
-                    MRR_positive += sample_MRR
-                    Precision_positivie += sample_P
 
             list_of_results.append(element)
 
@@ -707,7 +693,10 @@ def main(args, shuffle_data=True, model=None):
 
     # dump pickle with the result of the experiment
     all_results = dict(
-        list_of_results=list_of_results, global_MRR=MRR, global_P_at_10=Precision
+        list_of_results=list_of_results,
+        global_MRR=MRR,
+        global_P_at_10=Precision,
+        global_P_at_1=Precision1
     )
     with open("{}/result.pkl".format(log_directory), "wb") as f:
         pickle.dump(all_results, f)

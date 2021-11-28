@@ -48,6 +48,7 @@ def get_general_parser():
     __add_gpt_args(parser)
     __add_transformerxl_args(parser)
     __add_roberta_args(parser)
+    __add_distilbert_args(parser)
     return parser
 
 
@@ -218,6 +219,30 @@ def __add_elmo_args(parser):
         type=int,
         default=5,
         help="ELMo warm up cycles",
+    )
+    return group
+
+def __add_distilbert_args(parser):
+    group = parser.add_argument_group("BERT")
+    group.add_argument(
+        "--distilbert-model-dir",
+        "--dbmd",
+        dest="distilbert_model_dir",
+        help="directory that contains the DistilBERT pre-trained model and the vocabulary",
+    )
+    group.add_argument(
+        "--distilbert-model-name",
+        "--dbmn",
+        dest="distilbert_model_name",
+        default="distilbert-base-uncased",
+        help="name of the DistilBERT pre-trained model (default = 'distilbert-base-uncased')",
+    )
+    group.add_argument(
+        "--distilbert-vocab-name",
+        "--dbvn",
+        dest="distilbert_vocab_name",
+        default="vocab.txt",
+        help="name of vocabulary used to pre-train the BERT model (default = 'vocab.txt')",
     )
     return group
 

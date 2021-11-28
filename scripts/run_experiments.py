@@ -28,8 +28,9 @@ LMs = [
         "lm": "distilbert",
         "label": "distilbert_base",
         "models_names": ["distilbert"],
-        "bert_model_name": "cahya/distilbert-base-indonesian",
-        "bert_model_dir": None,
+        "distilbert_model_name": "cahya/distilbert-base-indonesian",
+        "distilbert_model_dir": None,
+        "distilbert_vocab_name": "cahya/distilbert-base-indonesian"
     },
     {
         "lm": "bert",

@@ -11,6 +11,10 @@ import numpy as np
 from lama.modules.base_connector import *
 import torch.nn.functional as F
 
+UNCASED_MODELS = [
+    'cahya/distilbert-base-indonesian'
+]
+
 
 class CustomBaseTokenizer(BasicTokenizer):
 
@@ -51,22 +55,22 @@ class DistilBert(Base_Connector):
     def __init__(self, args, vocab_subset = None):
         super().__init__()
 
-        bert_model_name = args.bert_model_name
-        dict_file = bert_model_name
+        distilbert_model_name = args.distilbert_model_name
+        dict_file = distilbert_model_name
 
-        if args.bert_model_dir is not None:
+        if args.distilbert_model_dir is not None:
             # load bert model from file
-            bert_model_name = str(args.bert_model_dir) + "/"
-            dict_file = bert_model_name+args.bert_vocab_name
+            bert_model_name = str(args.distilbert_model_dir) + "/"
+            dict_file = args.distilbert_vocab_name
             self.dict_file = dict_file
-            print("loading DistilBERT model from {}".format(bert_model_name))
+            print("loading DistilBERT model from {}".format(distilbert_model_name))
         else:
             # load bert model from huggingface cache
             pass
 
         # When using a cased model, make sure to pass do_lower_case=False directly to BaseTokenizer
         do_lower_case = False
-        if 'uncased' in bert_model_name:
+        if distilbert_model_name in UNCASED_MODELS or 'uncased' in distilbert_model_name:
             do_lower_case=True
 
         # Load pre-trained model tokenizer (vocabulary)
@@ -83,7 +87,7 @@ class DistilBert(Base_Connector):
 
         # Load pre-trained model (weights)
         # ... to get prediction/generation
-        self.masked_distilbert_model = DistilBertForMaskedLM.from_pretrained(bert_model_name)
+        self.masked_distilbert_model = DistilBertForMaskedLM.from_pretrained(distilbert_model_name)
 
         self.masked_distilbert_model.eval()
 
