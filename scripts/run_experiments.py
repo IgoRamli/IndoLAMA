@@ -17,13 +17,22 @@ from shutil import copyfile
 from collections import defaultdict
 
 LMs = [
-    # {
-    #     "lm": "albert",
-    #     "label": "indobert_lite_base",
-    #     "models_names": ["bert"],
-    #     "bert_model_name": "indobenchmark/indobert-lite-base-p2",
-    #     "bert_model_dir": None,
-    # },
+    {
+        "lm": "distilbert",
+        "label": "indokepler_30k_e5",
+        "models_names": ["distilbert"],
+        "distilbert_model_name": "../IndoKEPLER/out/test-2/checkpoint-30000",
+        "distilbert_model_dir": "../IndoKEPLER/out/test-2/checkpoint-30000",
+        "distilbert_vocab_name": "cahya/distilbert-base-indonesian"
+    },
+    {
+        "lm": "distilbert",
+        "label": "indokepler_200k_e5",
+        "models_names": ["distilbert"],
+        "distilbert_model_name": "../IndoKEPLER/out/200k-b12/checkpoint-41670",
+        "distilbert_model_dir": "../IndoKEPLER/out/200k-b12/checkpoint-41670",
+        "distilbert_vocab_name": "cahya/distilbert-base-indonesian"
+    },
     {
         "lm": "distilbert",
         "label": "distilbert_base",
